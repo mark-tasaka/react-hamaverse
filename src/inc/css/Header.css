@@ -233,9 +233,16 @@
 @media (max-width: 768px) {
   .header-container {
     padding: 12px 20px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
   }
   .header-logo img {
     height: 44px;
+  }
+
+  .header-nav--desktop {
+    display: none;
   }
 
   .hamburger {
