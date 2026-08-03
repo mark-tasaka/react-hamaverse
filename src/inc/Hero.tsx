@@ -1,15 +1,16 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import './css/Hero.css';
 
-import slide1 from './img/hero/hero_1.jpg';
-import slide2 from './img/hero/hero_2.jpg';
-import slide3 from './img/hero/hero_3.jpg';
-import slide4 from './img/hero/hero_4.jpg';
-import slide5 from './img/hero/hero_5.jpg';
-import slide6 from './img/hero/hero_6.jpg';
-import slide7 from './img/hero/hero_7.jpg';
-import slide8 from './img/hero/hero_8.jpg';
-import slide9 from './img/hero/hero_9.jpg';
+import slide1 from './img/hero/image_1.png';
+import slide2 from './img/hero/image_2.png';
+import slide3 from './img/hero/image_3.png';
+import slide4 from './img/hero/image_4.png';
+import slide5 from './img/hero/image_5.png';
+import slide6 from './img/hero/image_6.png';
+// import slide6 from './img/hero/hero_6.jpg';
+// import slide7 from './img/hero/hero_7.jpg';
+// import slide8 from './img/hero/hero_8.jpg';
+// import slide9 from './img/hero/hero_9.jpg';
 
 interface Slide {
   src: string;
@@ -23,9 +24,9 @@ const SLIDES: Slide[] = [
   { src: slide4, alt: 'G.I. Joe: A Real American Hero – Featured Comic 4' },
   { src: slide5, alt: 'G.I. Joe: A Real American Hero – Featured Comic 5' },
   { src: slide6, alt: 'G.I. Joe: A Real American Hero – Featured Comic 6' },
-  { src: slide7, alt: 'G.I. Joe: A Real American Hero – Featured Comic 7' },
-  { src: slide8, alt: 'G.I. Joe: A Real American Hero – Featured Comic 8' },
-  { src: slide9, alt: 'G.I. Joe: A Real American Hero – Featured Comic 9' },
+  // { src: slide7, alt: 'G.I. Joe: A Real American Hero – Featured Comic 7' },
+  // { src: slide8, alt: 'G.I. Joe: A Real American Hero – Featured Comic 8' },
+  // { src: slide9, alt: 'G.I. Joe: A Real American Hero – Featured Comic 9' },
 ];
 
 const SLIDE_INTERVAL_MS = 6000;
