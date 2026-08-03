@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import Header from './inc/Header'
+import Footer from './inc/Footer'
 import Home from './pages/Home'
 import CharacterBios from './pages/CharacterBios'
 import ComicIssues from './pages/ComicIssues'
@@ -22,6 +23,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/updates" element={<Updates />} />
       </Routes>
+      <Footer />
     </>
   )
 }
