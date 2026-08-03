@@ -12,19 +12,21 @@ import './App.css'
 
 function App() {
   return (
-    <>
+    <div className="app-shell">
       <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/character-bios" element={<CharacterBios />} />
-        <Route path="/comic-issues" element={<ComicIssues />} />
-        <Route path="/resources" element={<Resources />} />
-        <Route path="/tribute" element={<Tribute />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/updates" element={<Updates />} />
-      </Routes>
+      <main className="app-main">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/character-bios" element={<CharacterBios />} />
+          <Route path="/comic-issues" element={<ComicIssues />} />
+          <Route path="/resources" element={<Resources />} />
+          <Route path="/tribute" element={<Tribute />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/updates" element={<Updates />} />
+        </Routes>
+      </main>
       <Footer />
-    </>
+    </div>
   )
 }
 
