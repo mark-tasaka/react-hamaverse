@@ -1,0 +1,366 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+import '../css/Common.css';
+import './css/CharacterProfile.css';
+
+import snakeEyes1 from './img/snakeEyes/snakeEyes_1.png';
+import snakeEyes2 from './img/snakeEyes/snakeEyes_2.png';
+import snakeEyes3 from './img/snakeEyes/snakeEyes_3.png';
+import snakeEyes4 from './img/snakeEyes/snakeEyes_4.png';
+import snakeEyes5 from './img/snakeEyes/snakeEyes_5.png';
+import snakeEyes6 from './img/snakeEyes/snakeEyes_6.png';
+import snakeEyes7 from './img/snakeEyes/snakeEyes_7.png';
+import snakeEyes8 from './img/snakeEyes/snakeEyes_8.png';
+import snakeEyes9 from './img/snakeEyes/snakeEyes_9.png';
+import snakeEyes10 from './img/snakeEyes/snakeEyes_10.png';
+import snakeEyes11 from './img/snakeEyes/snakeEyes_11.png';
+import snakeEyes12 from './img/snakeEyes/snakeEyes_12.png';
+import snakeEyes13 from './img/snakeEyes/snakeEyes_13.png';
+import snakeEyes14 from './img/snakeEyes/snakeEyes_14.png';
+import snakeEyes15 from './img/snakeEyes/snakeEyes_15.png';
+import snakeEyes16 from './img/snakeEyes/snakeEyes_16.png';
+import snakeEyes17 from './img/snakeEyes/snakeEyes_17.png';
+import snakeEyes18 from './img/snakeEyes/snakeEyes_18.png';
+import snakeEyes19 from './img/snakeEyes/snakeEyes_19.png';
+import snakeEyes20 from './img/snakeEyes/snakeEyes_20.png';
+
+const SnakeEyes: React.FC = () => {
+  return (
+    <main className="character-profile-page">
+      <div className="container">
+        <h1 className="character-profile-title">Snake Eyes</h1>
+
+        <p className="profile-intro">
+          Snake Eyes is one of the original G.I. Joe members and a man of mystery. His real name and place of birth remain classified. As the series progresses, more of his story comes into focus: his service in the Vietnam War, the tragic car accident that claims the lives of his family, and his training with the Arashikage ninja clan in Japan. Along the way, we discover Snake Eyes' past is woven into the backstories of many other characters in the series, both Joes and Cobras alike.
+        </p>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Vietnam War: The Tet Offensive</h2>
+          <img src={snakeEyes1} alt="Snake Eyes during the Tet Offensive" className="profile-block-img" />
+          <p>
+            At the start of the Tet Offensive (January 31, 1968), Snake Eyes, Thomas Arashikage (Storm Shadow), and Lonzo Wilkinson (Stalker) are enroute to report to MACV-SOG in Saigon when a pair of Viet Cong on a scooter open fire on their jeep. Lonzo and Thomas are both wounded, and their driver, Cory Barnett, is killed. Snake Eyes pursues the attackers in the jeep, but the Viet Cong fire several rounds into the vehicle, causing it to crash. Snake Eyes continues the pursuit on foot, eventually tracking the two men to a warehouse.
+          </p>
+          <p>
+            Inside, the Viet Cong find Baron Eugene DeCobray and his fifteen-year-old sister, Anastasia (the future Baroness), waiting for them. The Baron has traveled to Saigon on a humanitarian mission to check on medical supplies his organization provided. He asks Anastasia to wait in the office while he settles a business matter with the two men, then confronts them about the missing supplies.
+          </p>
+          <p>
+            One of the Viet Cong, Mr. Tran, admits they sold the supplies on the black market in exchange for weapons and explosives. Tran then raises his AK-47 and opens fire on the Baron. At that moment, Snake Eyes is just outside on the ledge. Right after the Baron is shot, Snake Eyes bursts through the window and kills both attackers with his Colt .45.
+          </p>
+          <p>
+            Anastasia opens the office door to find Snake Eyes standing over the bodies of her brother and the two Viet Cong. Believing he is responsible for killing the three men, she blames Snake Eyes for her brother's death (Issue #94).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Vietnam War: Friendship with Tommy and the Picture of his sister</h2>
+          <img src={snakeEyes2} alt="Snake Eyes' friendship with Tommy Arashikage" className="profile-block-img" />
+          <p>
+            In Vietnam, Snake Eyes forms a close bond with fellow LRRP member Tommy Arashikage. The two serve an entire tour together. Tommy speaks often about his uncle's business in Japan and expresses hope that Snake Eyes will join the firm after the war. Throughout his service, Snake Eyes carries a battered photo of his twin sister, Terri, as a good luck charm — he believes that as long as he keeps it with him, nothing bad will happen (Issue #26).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Vietnam War: LRRP Patrol</h2>
+          <img src={snakeEyes3} alt="Snake Eyes on an LRRP patrol" className="profile-block-img" />
+          <p>
+            During Snake Eyes' second tour, he is part of a six-man Long Range Reconnaissance Patrol (LRRP) led by Stalker (Lonzo Wilkinson) and including Storm Shadow (Thomas Arashikage), Wade Collins, Ramon Escobedo, and Dickie Saperstein. Collins is on point when the patrol walks into an encampment of NVA regulars. Collins is shot and believed killed. Outnumbered, the patrol retreats, but Escobedo is shot dead and Saperstein is killed instantly after stepping on a landmine. Only Snake Eyes, Stalker, and Storm Shadow escape (Issue #155).
+          </p>
+          <p>
+            At the LZ, the three come under heavy enemy fire as when the Huey arrives. Snake Eyes is hit, dropping the photo of his twin sister, Terri, as he falls. Storm Shadow leaps from the Huey and runs through a hail of gunfire to retrieve his wounded friend. Once aboard, he uses his own wrist wraps to bandage Snake Eyes' injuries (Issue #26) and employs the Arashikage Mindset to aid the healing process (Issue #108).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Returning Home from the War</h2>
+          <img src={snakeEyes4} alt="Snake Eyes returning home from Vietnam" className="profile-block-img" />
+          <p>
+            When Snake Eyes returns to the States, no one is there to greet him at the airport. He waits for hours. Clayton Abernathy (Hawk), then a junior officer, arrives. Hawk informs him that his parents and twin sister have been killed in a car accident on their way to the airport — a stoned veteran driving erratically at high speed struck the family car. With nothing left for him in America, Snake Eyes travels to Japan to take Tommy Arashikage up on his offer (Issue #26).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Japan: Arashikage Clan</h2>
+          <img src={snakeEyes5} alt="Snake Eyes training with the Arashikage clan" className="profile-block-img" />
+          <p>
+            Snake Eyes travels to Japan to take Tommy up on his offer to join the family business — which turns out to be the Arashikage ninja clan. Over the next three years, Snake Eyes trains with the clan and attains a level of skill that earns him the Arashikage tattoo on his forearm. He also gains favored status in the eyes of the Hard Master, the clan's leader, who intends to name Snake Eyes his heir over his own nephew, Thomas Arashikage (Storm Shadow).
+          </p>
+          <p>
+            One night, the Hard Master is teaching Snake Eyes the "Blind Sword" form when Snake Eyes hears someone outside in the courtyard. The Hard Master dismisses the presence as no threat and, to illustrate the "Chameleon's Mantle" technique, steps behind a screen and mimics Snake Eyes' breathing and heartbeat. At that moment, an arrow fired into the building kills the Hard Master — an arrow that belongs to Tommy. Hearing the commotion, the Soft Master leaves his room and makes his way toward the building where the Hard Master and Snake Eyes have been training. Along the way, he sees Tommy fleeing the courtyard. Tommy never returns (Issue #26).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Recruitment to G.I. Joe</h2>
+          <img src={snakeEyes6} alt="Snake Eyes recruited to G.I. Joe" className="profile-block-img" />
+          <p>
+            Colonel Clayton Abernathy (Hawk) is putting together the G.I. Joe team, and Stalker (Lonzo Wilkinson) recommends Snake Eyes for it. Hawk and Stalker learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (Issue #27).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Meeting Scarlett</h2>
+          <img src={snakeEyes7} alt="Snake Eyes meeting Scarlett" className="profile-block-img" />
+          <p>
+            Snake Eyes first meets Scarlett (Shana O'Hara) when she is putting the G.I. Joe candidates through hand-to-hand combat training. Scarlett easily defeats the other candidates, but when it comes to Snake Eyes' turn, he intentionally lets her win. Scarlett recognizes this and is impressed by his self-control and the fact that he has nothing to prove — she finds herself fascinated by him.
+          </p>
+          <p>
+            After practice, Scarlett catches up with Snake Eyes as he is heading off post, and the two talk. She learns about his two tours in Vietnam, the photo of his twin sister that he carries with him, and the tragic loss of his family. The two end up riding the Staten Island Ferry together, growing close (Issue #27).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Helicopter Crash</h2>
+          <img src={snakeEyes8} alt="The helicopter crash" className="profile-block-img" />
+          <p>
+            A few months after Snake Eyes and Scarlett's first encounter, Snake Eyes, Scarlett, Grunt, and Rock 'n Roll are on a hostage rescue mission in the Middle East. Lacking proper dust filters, the helicopter's engine stalls, and the pilot gives the order to jump. Grunt and Rock 'n Roll jump clear, but one of the helicopter's doors slams shut, trapping Scarlett's web gear inside. Snake Eyes refuses to jump and instead stays behind to save her.
+          </p>
+          <p>
+            The helicopter crashes into a second helicopter, and the impact sends burning aviation fuel spewing through the plexiglass door window, burning Snake Eyes' face and severing his vocal cords. Scarlett is knocked unconscious in the crash. Rock 'n Roll and Grunt run to the burning wreckage and find a horribly burned Snake Eyes carrying an unconscious Scarlett to safety.
+          </p>
+          <p>
+            Snake Eyes spends the next six months in the hospital. He could have left the service with full disability benefits; instead, he chooses to remain on the team (Issue #27).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Dr. Venom's Brainwave Scanner</h2>
+          <img src={snakeEyes9} alt="Snake Eyes hooked to Dr. Venom's Brainwave Scanner" className="profile-block-img" />
+          <p>
+            Snake Eyes, Scarlett, and Zap are captured while investigating a suspected Cobra stronghold in Manhattan. Knocked unconscious with sleeping gas, they awaken in the Cobra town of Springfield. Scarlett and Zap wake up in a prison cell, while Snake Eyes wakes up in Dr. Venom's laboratory, hooked up to the Brainwave Scanner.
+          </p>
+          <p>
+            Dr. Venom uses the scanner to learn the location of the G.I. Joe secret base, and in the process, it collects and stores Snake Eyes' memories (memories that Dr. Mindbender will later use to create his Snake Eyes clone). Snake Eyes draws on his ninja training to slow his heartbeat and breathing to the semblance of death. Believing him dead, Dr. Venom and his assistant unhook Snake Eyes from the scanner — at which point Snake Eyes attacks, knocking both out.
+          </p>
+          <p>
+            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into Scarlett and Zap, who have made their own escape with the help of a youth named Billy. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Encountering Storm Shadow as a Cobra Agent</h2>
+          <img src={snakeEyes10} alt="Snake Eyes encountering Storm Shadow as a Cobra agent" className="profile-block-img" />
+          <p>
+            Snake Eyes' first encounter with his sword brother, Thomas Arashikage (Storm Shadow), takes place at the Silent Castle, a Cobra stronghold in the Trans-Carpathian Mountains. Storm Shadow is in the service of Cobra, and shortly after he arrives at the Silent Castle with a captured Scarlett, Snake Eyes parachutes from a C-130 to infiltrate the castle. Meanwhile, Scarlett manages to break free and commandeers a Cobra C.L.A.W. (Covert Light Aerial Weapon, a Cobra winged jet pack).
+          </p>
+          <p>
+            Snake Eyes is confronted by Storm Shadow and his three Red Ninja underlings. He defeats the Red Ninja and battles Storm Shadow. When Scarlett arrives mounted on the C.L.A.W., Storm Shadow hurls his sword at her, but Snake Eyes catches it with his bare hands. The two then fly off together (Issue #21).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Learning the Truth from Storm Shadow</h2>
+          <img src={snakeEyes11} alt="Snake Eyes learning the truth from Storm Shadow" className="profile-block-img" />
+          <p>
+            During Snake Eyes' visit with the Soft Master at the Comidas Chinas café in New York City (which the Soft Master owns), Storm Shadow steals the arrow that had killed the Hard Master — an arrow the Soft Master had kept over the years. Snake Eyes pursues Storm Shadow to the top of a moving train, and the two battle. With his back turned away from the direction the train is traveling, Storm Shadow fails to notice an upcoming tunnel. Snake Eyes drops his weapon and leaps down between the train cars, prompting Storm Shadow to follow — an action that ends up saving Storm Shadow's life.
+          </p>
+          <p>
+            Between the cars, Storm Shadow drops his weapon and tells Snake Eyes he did not kill his uncle, the Hard Master. Earlier that day, he explains, he shot a squirrel with his bow, but when he went to retrieve the arrow, both the squirrel and the arrow were gone. Storm Shadow says he saw the real assassin — the one who shot the Hard Master with that same arrow — escape aboard a Cobra helicopter, and that he joined Cobra's ranks to track down his uncle's killer. Storm Shadow then departs (Issue #27).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Wade Collins Survived Vietnam</h2>
+          <img src={snakeEyes12} alt="Snake Eyes discovering Wade Collins survived Vietnam" className="profile-block-img" />
+          <p>
+            Snake Eyes and Stalker are at the Vietnam Memorial in Washington, using the directory of names to find the location of Wade Collins' name on the wall, when they discover his name is not listed. Just then, the pair are confronted by a man with a pistol raised, who claims that Wade Collins is not dead — that Cobra has given him a new face, a new name, and a new life (Issue #42).
+          </p>
+          <p>
+            The man claims he is Wade Collins, and that Cobra plastic surgeons gave him a new face. Wade says he never died in Vietnam; instead, he was wounded and captured by the NVA (North Vietnamese Army). Wade spends the next two years rotting away in a POW camp under horrible conditions.
+          </p>
+          <p>
+            When the war ends, he returns to the States, where he is spat on at the airport and called a baby killer. His wife doesn't even have the decency to tell him about the divorce herself — she sends her lawyer instead. Unable to find employment, as employers are reluctant to hire Vietnam War veterans, Wade begins wandering the country.
+          </p>
+          <p>
+            One day, he comes across a Cobra recruitment poster in a small town. Wade joins the organization and works his way up through the ranks. When the Crimson Guard is formed, he is one of the first to join. He undergoes plastic surgery to match the others in his series (the Fred series).
+          </p>
+          <p>
+            Stalker and Snake Eyes convince Wade that Cobra is using him. The three drive back to Staten Island, where Wade meets his adoptive family and convinces them to flee Cobra with him to start a new life (Issue #43).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Rescue Mission in Borovia</h2>
+          <img src={snakeEyes13} alt="Snake Eyes' rescue mission in Borovia" className="profile-block-img" />
+          <p>
+            Stalker, Quick Kick, Snow Job, and Outback are sent on an undercover mission to the People's Democratic Republic of Borovia (a Communist state), disguised as trade emissaries. The mission goes south: Stalker, Quick Kick, and Snow Job are captured, while Outback escapes (Outback wants to stay and fight, but Stalker orders him to escape). The U.S. State Department denies any connection to the three captive Joes, and as a result, the G.I. Joes are denied a rescue mission (Issue #61).
+          </p>
+          <p>
+            Snake Eyes, Scarlett, Flint, and Lady Jay are vacationing in Grenada when they encounter a blind man walking down the road. The blind man asks for help reaching the airfield in time to meet his daughter, and Snake Eyes and Scarlett agree to guide him through a shortcut across a field of tall grass, while Lady Jay and Flint remain on the road.
+          </p>
+          <p>
+            Flint finds himself wondering where he has seen that field before — then realizes he has seen news articles identifying it as a minefield. Just after uncovering a "Danger: Mines" sign buried in the grass, an explosion goes off. It appears that Snake Eyes, Scarlett, and the blind man have been killed in the blast. The blind man, however, turns out to be the Blind Master, who has helped Snake Eyes and Scarlett fake their deaths so they can travel to Borovia to rescue Stalker, Quick Kick, and Snow Job (Issue #63).
+          </p>
+          <p>
+            Snake Eyes, Scarlett, and the Blind Master first travel to France (Issue #64), then on to Borovia, where they join a circus troupe (Issue #65). The troupe is led by the White Clown, whose lover, Magda, is locked away in a Borovian gulag for criticizing the government. Assisting the White Clown is the dwarf Orlovsky.
+          </p>
+          <p>
+            Storm Shadow, Jinx, and Billy later arrive and join up with Snake Eyes, Scarlett, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Reconstructive Surgery and the Baroness' Revenge</h2>
+          <img src={snakeEyes14} alt="Snake Eyes and the Baroness' revenge plot" className="profile-block-img" />
+          <p>
+            Snake Eyes and Scarlett travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. Dr. Hundtkinder, who had reconstructed the Baroness' face years earlier, contacts her about the situation. The Baroness, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (Issue #93).
+          </p>
+          <p>
+            At the hospital, Scarlett receives a call from Hawk, who has just learned of the plot between the Baroness and Dr. Hundtkinder. Scarlett breaks into the operating room, ties up Dr. Hundtkinder and his assistants, places the unconscious Snake Eyes in a wheelchair, and makes her way out of the surgery room. Just then, the Baroness arrives with a group of Vipers.
+          </p>
+          <p>
+            One of the Vipers shoots Scarlett in the arm. The Baroness then stands over the wounded Scarlett and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (Issue #94).
+          </p>
+          <p>
+            Snake Eyes is taken to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The Baroness tells the now conscious Snake Eyes she has killed his beloved Scarlett and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
+          </p>
+          <p>
+            Using his ability to slow his heartrate and breathing, Snake Eyes feigns death. One of the Paine Brothers, carrying a hot fire poker, approaches him, believing he has died. Snake Eyes kicks the Paine Brother, seizes the poker, and uses it to break his chains free from the wall. Now free, he battles and kills both Paine Brothers, taking their weapons and uniforms — which become his new outfit.
+          </p>
+          <p>
+            Snake Eyes then makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the Baroness herself. Snake Eyes then proceeds upward to confront them (Issue #95).
+          </p>
+          <p>
+            Outside the Consulate, at a newsstand, Stalker, Storm Shadow, and Wade Collins keep watch. Storm Shadow uses his ninja abilities to scale the Consulate's walls to reach Snake Eyes. Meanwhile, the Baroness and the surviving Vipers barricade themselves in the penthouse. Snake Eyes, disguised as one of the Vipers, waits inside as Storm Shadow approaches from the other side of the penthouse door. A Heat Viper fires a missile that blows the barricade open; Storm Shadow dodges the blast and enters, searching for Snake Eyes. Snake Eyes then reveals himself, and the sword brothers square off as the penthouse begins to collapse around them.
+          </p>
+          <p>
+            The Vipers are thrown to their deaths as the floor gives way. The Baroness is about to fall as well, when Snake Eyes catches her hand. Shocked that he would save her, she draws her pistol with her free hand and points it at him, vowing she will still have her revenge. At that moment, Destro arrives in the crew compartment of a Cobra helicopter.
+          </p>
+          <p>
+            Destro tells the Baroness that Snake Eyes did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugene DeCobray was wearing a bulletproof vest — it was the AK-47 rounds themselves that killed him.
+          </p>
+          <p>
+            Overcome with guilt, the Baroness strikes Snake Eyes' hand, breaking his grip on her. Storm Shadow catches her before she can fall to her death, and together, he and Snake Eyes help her toward Destro's helicopter. But as Destro reaches out for Snake Eyes, the floor beneath Snake Eyes and Storm Shadow gives way.
+          </p>
+          <p>
+            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and Storm Shadow as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose Scarlett — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (Issue #96).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Scarlett in a Coma</h2>
+          <img src={snakeEyes15} alt="Scarlett in a coma" className="profile-block-img" />
+          <p>
+            Scarlett is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma — or whether she will be able to live a normal life again if she does (Issue #97).
+          </p>
+          <p>
+            Time passes. Snake Eyes stays by her side, while Storm Shadow remains at the hospital to support his friend. One day, Scarlett's sister, Siobhan O'Hara, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101). Siobhan tries to prevent Snake Eyes from entering Scarlett's room, but he pushes her aside, enters the room, kneels beside Scarlett, and says her name (Issue #102).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">The Mission to Rescue George Strawhacker</h2>
+          <img src={snakeEyes16} alt="The mission to rescue George Strawhacker" className="profile-block-img" />
+          <p>
+            Storm Shadow wants to give his friend a mission to take his mind off the upcoming termination of Scarlett's life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of Snake Eyes' late twin sister and is being held prisoner in a Borovian gulag. Storm Shadow believes that a mission to rescue someone so dear to Snake Eyes will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission.
+          </p>
+          <p>
+            Snake Eyes, Storm Shadow, and Stalker board a B-2 stealth bomber that flies over Borovian airspace. Just before Snake Eyes makes his HALO jump, Storm Shadow uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As Snake Eyes descends toward the ground, Scarlett awakes from her coma, asking for him (Issue #103).
+          </p>
+          <p>
+            Borovia is in a state of political turmoil: the Marxist-Leninist government is being overthrown, and an ethnic cleansing of the Lower Borovians is underway. Snake Eyes lands on the roof of a government building occupied by Lower Borovian soldiers who are firing on the crowds below. He breaks through a window, kills the soldiers, and throws their bodies out into the street; this rallies the masses outside, who storm the building in search of the masked stranger.
+          </p>
+          <p>
+            Snake Eyes then makes his way to the headquarters of the Security Police, a building surrounded by crowds of Upper Borovians seeking to overthrow the government — among them the White Clown and Orlovsky the dwarf. Snake Eyes rushes the building, leaping through a hail of gunfire. The White Clown recognizes Snake Eyes by his acrobatic style, and he and Orlovsky follow him inside. Shortly after, the crowd surges forward and storms the building.
+          </p>
+          <p>
+            Inside, Snake Eyes searches the records room until he finds Strawhacker's file. Looking over his shoulder, the White Clown sees that Strawhacker is being held in a secret security block beneath Gulag 23 — the same place where his beloved Magda is imprisoned.
+          </p>
+          <p>
+            As Snake Eyes leaves the building, a young girl named Marina runs up to him, pleading that the mob is about to execute her father for being an Upper Borovian. Snake Eyes ignores her pleas, and the mob shoots her father in the street. The White Clown notices how much Snake Eyes has changed. He and Orlovsky then drive Snake Eyes to Gulag 23 (Issue #104).
+          </p>
+          <p>
+            Outside Gulag 23, a mob has gathered, made up of people whose family members are imprisoned inside. Snake Eyes storms the gulag, killing the guards on the surface before descending into the sewers. The White Clown and Orlovsky soon follow.
+          </p>
+          <p>
+            In the sewers, Snake Eyes comes across a group of guards fleeing with Strawhacker and Magda. He dispatches the guards and frees the two prisoners. Strawhacker recognizes Snake Eyes despite his mask, and the White Clown embraces Magda.
+          </p>
+          <p>
+            When they return to the surface and rejoin the mob surrounding the gulag, Magda is horrified to see that the revolution has given rise to ethnic cleansing. Marina and several other Upper Borovians are being led into the crowd to be killed. Marina spots Snake Eyes and tells the crowd he is no hero — he let her father be executed. The mob's leader, Mertz, pistol-whips Marina and points his gun at her, calling her subhuman.
+          </p>
+          <p>
+            Strawhacker strikes Mertz, knocking him to the ground, and tells him he is no different from the regime they just overthrew. Mertz shoots and kills Strawhacker — and the shock of it breaks the Arashikage Mindset's hold over Snake Eyes. Snake Eyes raises his gun toward Mertz. The mob sides with Snake Eyes and beats Mertz.
+          </p>
+          <p>
+            As the mob prepares to hang Mertz, Marina begs Snake Eyes to save him, insisting that even if Mertz is a bad man, they can't let him be hanged. Just as the noose tightens, Snake Eyes shoots the rope, saving Mertz's life. Snake Eyes then departs Borovia together with Marina (Issue #106). In America, Marina is adopted by the Collins family, becoming Sean and Heather's sister (Issue #108).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Letter to Sean Collins</h2>
+          <img src={snakeEyes17} alt="Snake Eyes' letter to Sean Collins" className="profile-block-img" />
+          <p>
+            On the day the Pit is being deactivated and the G.I. Joe team disbanded, Snake Eyes receives a letter from Sean Collins, Wade Collins' adopted son. Sean is turning seventeen in a month and wants his adoptive father to sign his enlistment papers so he can join the Army. Wade tells Sean he wants him to write to Snake Eyes first, before making his decision.
+          </p>
+          <p>
+            Snake Eyes gives Sean a heartfelt and honest reply. He says there is no honor or glory in the occupation of a soldier and tells Sean about the other LRRP members he and Wade had served with. Ramon Escobedo had re-upped for a second tour to keep his younger brother from being sent to 'Nam. Dickie Saperstein had re-upped for a second tour to pay for his father's heart surgery. Dickie's dad died on the operating table. Both Ramon and Dickie died the same day Wade was taken captive.
+          </p>
+          <p>
+            Snake Eyes explains that Stalker had joined the Army to escape the mean streets of Detroit, which had already claimed the lives of his two older brothers. Stalker never told his mother he was serving in Vietnam; instead, he had a cousin stationed in Germany reroute his letters, so that his mother believed he was stationed there instead.
+          </p>
+          <p>
+            Snake Eyes then speaks of returning home from the war — there were no welcome parties or parades; he was spat on and called a baby killer. In the end, he tells Sean he has no regrets about being a soldier, as he'd had the privilege of serving alongside men and women he could depend on utterly. He closes by writing that bearing arms for the Constitution "is not a profession per se, it is a trust" (Issue #155).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">G.I. Joe Reactivate: Attack in the High Sierras</h2>
+          <img src={snakeEyes18} alt="Attack in the High Sierras" className="profile-block-img" />
+          <p>
+            Following the disbandment of G.I. Joe, Snake Eyes and Scarlett retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes. Duke travels to the High Sierras to find them.
+          </p>
+          <p>
+            While Scarlett is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, Scarlett and Duke arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
+          </p>
+          <p>
+            On their way to the cabin, Duke tells Scarlett, "Anabasis is a go" — indicating that G.I. Joe is reactivated (Issue #156).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Snake Eyes' Sacrifice</h2>
+          <img src={snakeEyes19} alt="Snake Eyes' sacrifice at the Pit" className="profile-block-img" />
+          <p>
+            In the secret sublevels below the Pit, Joseph and Jane Colton create a clone of Serpentor. Serpentor breaks free and battles the G.I. Joes, who prove no match for him. Duke throws a grenade at Serpentor, but Serpentor catches it and hurls it back at Duke. Snake Eyes catches the grenade and rushes toward Serpentor, using his body to push Serpentor and the grenade over the ledge. The two fall off the ledge as the grenade explodes, killing them both. Snake Eyes' sacrifice saves the G.I. Joe team (Issue #213).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Snake Eyes' Rebirth</h2>
+          <img src={snakeEyes20} alt="Snake Eyes' rebirth" className="profile-block-img" />
+          <p>
+            As Cobra Island comes under attack and faces an existential threat, Dr. Mindbender initiates one of his backup plans. He and a Techno-Viper travel to the morgue where a cloned body of Snake Eyes is kept. Years earlier, using Snake Eyes' memories and DNA obtained by Dr. Venom from the Brainwave Scanner, Dr. Mindbender had created a duplicate of Snake Eyes free of the injuries the original sustained, including those to his vocal cords. Dr. Mindbender's goal is to create a clone of Snake Eyes fully loyal to Cobra.
+          </p>
+          <p>
+            Dr. Mindbender and the Techno-Viper bring Snake Eyes' body to the lab, where they place it in a chamber to transfer the memories and activate it. Dr. Mindbender notices that the memory of the Staten Island ferry ride with Scarlett registers as unusually intense; the Techno-Viper reports that this memory spikes every metric. When the process ends, the clone of Snake Eyes breaks free (Issue #299).
+          </p>
+          <p>
+            At first, Snake Eyes appears loyal to Cobra. However, the memories of Scarlett overpower the Cobra programming. Snake Eyes turns on the Vipers in the lab, cutting a path of death and destruction. The G.I. Joe team intercepts a transmission that the real Snake Eyes is back and rushes toward the lab.
+          </p>
+          <p>
+            In the lab's back loading bay, they find Snake Eyes battling a force of Vipers and join the fight. Snake Eyes spots Scarlett and removes his mask. Scarlett sees that his wounds to his face and vocal cords have been reversed. Snake Eyes says "Scarlett," with undamaged voice cords. The two embrace, and the original Snake Eyes rejoins the G.I. Joe team, resuming his relationship with Scarlett (Issue #300).
+          </p>
+        </section>
+
+        <section className="profile-notes">
+          <h2 className="profile-notes-title">Notes from the Field</h2>
+          <p>
+            Larry Hama based the physical appearance of the unmasked Snake Eyes on Sgt. Bob Light, a Huey door gunner of the 1st Air Cavalry whom he knew during the Vietnam War. Sgt. Light had slicked-back blond hair and a tall, lean physique. He served on Bart Wulf's Huey. Wulf is another one of Mr. Hama's friends he met in Vietnam, who became the basis for Wild Bill.
+          </p>
+          <p>
+            During the Marvel run (1982–1994), six versions of Snake Eyes action figures were produced: the 1982 version 1 (with a 1983 swivel-arm version 1.5), the 1985 version 2, the 1989 version 3, the 1991 version 4, the 1993 version 5, and the 1994 Shadow Ninja variant (identical to version 5, but with color-changing plastic). Numerous further versions of Snake Eyes were produced following the Marvel run. Snake Eyes obtains his version 3 uniform by assembling an amalgamation of the Paine Brothers' uniforms from the sub-basement of the Cobra Consulate (Issue #95). Following the reactivation of the G.I. Joe team, Snake Eyes wears either his version 1 or version 2 uniform.
+          </p>
+          <p>
+            The first two versions of Snake Eyes' file card list his rank as E-5. When Snake Eyes first meets Hawk at the airport, he is shown wearing sergeant's stripes (E-5) on his uniform (Issue #26). Snake Eyes' file cards for the remainder of the Marvel run list his rank as E-7 (Sergeant First Class).
+          </p>
+        </section>
+
+        <div className="profile-back-row">
+          <Link to="/character-bios" className="btn">Back to Character Bios</Link>
+        </div>
+
+      </div>
+    </main>
+  );
+};
+
+export default SnakeEyes;

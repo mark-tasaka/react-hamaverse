@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../css/Common.css';
 import './css/CharacterProfile.css';
 
@@ -195,10 +196,14 @@ const Scarlett: React.FC = () => {
           <p>
             Both Scarlett's original file card and her Ninja Force file card list her rank as E-5 (Sergeant or Specialist 5*). In Issue #33, General Austin promotes Scarlett — along with Rock 'n Roll, Breaker, Zap, Grunt, Short-Fuze, Stalker, and Flash — to the next pay grade, assigning them administrative duties as the team grows. This puts Scarlett's current rank at E-6 (Staff Sergeant).
           </p>
-          <p>
+          <p className="profile-notes-footnote">
             *The ranks of Specialist 5 and Specialist 6 were phased out in 1985. Personnel holding these ranks were laterally promoted to the corresponding "hard stripe" rank — Specialist 5s became Sergeants, and Specialist 6s became Staff Sergeants.
           </p>
         </section>
+                
+        <div className="profile-back-row">
+          <Link to="/character-bios" className="btn">Back to Character Bios</Link>
+        </div>
 
       </div>
     </main>

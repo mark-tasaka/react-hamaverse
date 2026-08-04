@@ -122,10 +122,19 @@
 /* =====================================================
    Footnote (last paragraph in Notes from the Field)
    ===================================================== */
-.profile-notes p:last-child {
+.profile-notes-footnote {
   margin-top: 20px;
   font-size: 13px;
   color: #6a6a6a;
+}
+
+/* =====================================================
+   Back Button (centered)
+   ===================================================== */
+.profile-back-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
 }
 
 /* =====================================================
