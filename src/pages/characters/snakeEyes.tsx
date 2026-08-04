@@ -101,10 +101,10 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Meeting Scarlett</h2>
           <img src={snakeEyes7} alt="Snake Eyes meeting Scarlett" className="profile-block-img" />
           <p>
-            Snake Eyes first meets Scarlett (Shana O'Hara) when she is putting the G.I. Joe candidates through hand-to-hand combat training. Scarlett easily defeats the other candidates, but when it comes to Snake Eyes' turn, he intentionally lets her win. Scarlett recognizes this and is impressed by his self-control and the fact that he has nothing to prove — she finds herself fascinated by him.
+            Snake Eyes first meets <Link to="/character-bios/Scarlett">Scarlett</Link> (Shana O'Hara) when she is putting the G.I. Joe candidates through hand-to-hand combat training. <Link to="/character-bios/Scarlett">Scarlett</Link> easily defeats the other candidates, but when it comes to Snake Eyes' turn, he intentionally lets her win. <Link to="/character-bios/Scarlett">Scarlett</Link> recognizes this and is impressed by his self-control and the fact that he has nothing to prove — she finds herself fascinated by him.
           </p>
           <p>
-            After practice, Scarlett catches up with Snake Eyes as he is heading off post, and the two talk. She learns about his two tours in Vietnam, the photo of his twin sister that he carries with him, and the tragic loss of his family. The two end up riding the Staten Island Ferry together, growing close (Issue #27).
+            After practice, <Link to="/character-bios/Scarlett">Scarlett</Link> catches up with Snake Eyes as he is heading off post, and the two talk. She learns about his two tours in Vietnam, the photo of his twin sister that he carries with him, and the tragic loss of his family. The two end up riding the Staten Island Ferry together, growing close (Issue #27).
           </p>
         </section>
 
@@ -112,10 +112,10 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Helicopter Crash</h2>
           <img src={snakeEyes8} alt="The helicopter crash" className="profile-block-img" />
           <p>
-            A few months after Snake Eyes and Scarlett's first encounter, Snake Eyes, Scarlett, Grunt, and Rock 'n Roll are on a hostage rescue mission in the Middle East. Lacking proper dust filters, the helicopter's engine stalls, and the pilot gives the order to jump. Grunt and Rock 'n Roll jump clear, but one of the helicopter's doors slams shut, trapping Scarlett's web gear inside. Snake Eyes refuses to jump and instead stays behind to save her.
+            A few months after Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link>'s first encounter, Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, Grunt, and Rock 'n Roll are on a hostage rescue mission in the Middle East. Lacking proper dust filters, the helicopter's engine stalls, and the pilot gives the order to jump. Grunt and Rock 'n Roll jump clear, but one of the helicopter's doors slams shut, trapping <Link to="/character-bios/Scarlett">Scarlett</Link>'s web gear inside. Snake Eyes refuses to jump and instead stays behind to save her.
           </p>
           <p>
-            The helicopter crashes into a second helicopter, and the impact sends burning aviation fuel spewing through the plexiglass door window, burning Snake Eyes' face and severing his vocal cords. Scarlett is knocked unconscious in the crash. Rock 'n Roll and Grunt run to the burning wreckage and find a horribly burned Snake Eyes carrying an unconscious Scarlett to safety.
+            The helicopter crashes into a second helicopter, and the impact sends burning aviation fuel spewing through the plexiglass door window, burning Snake Eyes' face and severing his vocal cords. <Link to="/character-bios/Scarlett">Scarlett</Link> is knocked unconscious in the crash. Rock 'n Roll and Grunt run to the burning wreckage and find a horribly burned Snake Eyes carrying an unconscious <Link to="/character-bios/Scarlett">Scarlett</Link> to safety.
           </p>
           <p>
             Snake Eyes spends the next six months in the hospital. He could have left the service with full disability benefits; instead, he chooses to remain on the team (Issue #27).
@@ -126,13 +126,13 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Dr. Venom's Brainwave Scanner</h2>
           <img src={snakeEyes9} alt="Snake Eyes hooked to Dr. Venom's Brainwave Scanner" className="profile-block-img" />
           <p>
-            Snake Eyes, Scarlett, and Zap are captured while investigating a suspected Cobra stronghold in Manhattan. Knocked unconscious with sleeping gas, they awaken in the Cobra town of Springfield. Scarlett and Zap wake up in a prison cell, while Snake Eyes wakes up in Dr. Venom's laboratory, hooked up to the Brainwave Scanner.
+            Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and Zap are captured while investigating a suspected Cobra stronghold in Manhattan. Knocked unconscious with sleeping gas, they awaken in the Cobra town of Springfield. <Link to="/character-bios/Scarlett">Scarlett</Link> and Zap wake up in a prison cell, while Snake Eyes wakes up in Dr. Venom's laboratory, hooked up to the Brainwave Scanner.
           </p>
           <p>
             Dr. Venom uses the scanner to learn the location of the G.I. Joe secret base, and in the process, it collects and stores Snake Eyes' memories (memories that Dr. Mindbender will later use to create his Snake Eyes clone). Snake Eyes draws on his ninja training to slow his heartbeat and breathing to the semblance of death. Believing him dead, Dr. Venom and his assistant unhook Snake Eyes from the scanner — at which point Snake Eyes attacks, knocking both out.
           </p>
           <p>
-            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into Scarlett and Zap, who have made their own escape with the help of a youth named Billy. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
+            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into <Link to="/character-bios/Scarlett">Scarlett</Link> and Zap, who have made their own escape with the help of a youth named Billy. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
           </p>
         </section>
 
@@ -140,10 +140,10 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Encountering Storm Shadow as a Cobra Agent</h2>
           <img src={snakeEyes10} alt="Snake Eyes encountering Storm Shadow as a Cobra agent" className="profile-block-img" />
           <p>
-            Snake Eyes' first encounter with his sword brother, Thomas Arashikage (Storm Shadow), takes place at the Silent Castle, a Cobra stronghold in the Trans-Carpathian Mountains. Storm Shadow is in the service of Cobra, and shortly after he arrives at the Silent Castle with a captured Scarlett, Snake Eyes parachutes from a C-130 to infiltrate the castle. Meanwhile, Scarlett manages to break free and commandeers a Cobra C.L.A.W. (Covert Light Aerial Weapon, a Cobra winged jet pack).
+            Snake Eyes' first encounter with his sword brother, Thomas Arashikage (Storm Shadow), takes place at the Silent Castle, a Cobra stronghold in the Trans-Carpathian Mountains. Storm Shadow is in the service of Cobra, and shortly after he arrives at the Silent Castle with a captured <Link to="/character-bios/Scarlett">Scarlett</Link>, Snake Eyes parachutes from a C-130 to infiltrate the castle. Meanwhile, <Link to="/character-bios/Scarlett">Scarlett</Link> manages to break free and commandeers a Cobra C.L.A.W. (Covert Light Aerial Weapon, a Cobra winged jet pack).
           </p>
           <p>
-            Snake Eyes is confronted by Storm Shadow and his three Red Ninja underlings. He defeats the Red Ninja and battles Storm Shadow. When Scarlett arrives mounted on the C.L.A.W., Storm Shadow hurls his sword at her, but Snake Eyes catches it with his bare hands. The two then fly off together (Issue #21).
+            Snake Eyes is confronted by Storm Shadow and his three Red Ninja underlings. He defeats the Red Ninja and battles Storm Shadow. When <Link to="/character-bios/Scarlett">Scarlett</Link> arrives mounted on the C.L.A.W., Storm Shadow hurls his sword at her, but Snake Eyes catches it with his bare hands. The two then fly off together (Issue #21).
           </p>
         </section>
 
@@ -185,16 +185,16 @@ const SnakeEyes: React.FC = () => {
             Stalker, Quick Kick, Snow Job, and Outback are sent on an undercover mission to the People's Democratic Republic of Borovia (a Communist state), disguised as trade emissaries. The mission goes south: Stalker, Quick Kick, and Snow Job are captured, while Outback escapes (Outback wants to stay and fight, but Stalker orders him to escape). The U.S. State Department denies any connection to the three captive Joes, and as a result, the G.I. Joes are denied a rescue mission (Issue #61).
           </p>
           <p>
-            Snake Eyes, Scarlett, Flint, and Lady Jay are vacationing in Grenada when they encounter a blind man walking down the road. The blind man asks for help reaching the airfield in time to meet his daughter, and Snake Eyes and Scarlett agree to guide him through a shortcut across a field of tall grass, while Lady Jay and Flint remain on the road.
+            Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, Flint, and Lady Jay are vacationing in Grenada when they encounter a blind man walking down the road. The blind man asks for help reaching the airfield in time to meet his daughter, and Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> agree to guide him through a shortcut across a field of tall grass, while Lady Jay and Flint remain on the road.
           </p>
           <p>
-            Flint finds himself wondering where he has seen that field before — then realizes he has seen news articles identifying it as a minefield. Just after uncovering a "Danger: Mines" sign buried in the grass, an explosion goes off. It appears that Snake Eyes, Scarlett, and the blind man have been killed in the blast. The blind man, however, turns out to be the Blind Master, who has helped Snake Eyes and Scarlett fake their deaths so they can travel to Borovia to rescue Stalker, Quick Kick, and Snow Job (Issue #63).
+            Flint finds himself wondering where he has seen that field before — then realizes he has seen news articles identifying it as a minefield. Just after uncovering a "Danger: Mines" sign buried in the grass, an explosion goes off. It appears that Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the blind man have been killed in the blast. The blind man, however, turns out to be the Blind Master, who has helped Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> fake their deaths so they can travel to Borovia to rescue Stalker, Quick Kick, and Snow Job (Issue #63).
           </p>
           <p>
-            Snake Eyes, Scarlett, and the Blind Master first travel to France (Issue #64), then on to Borovia, where they join a circus troupe (Issue #65). The troupe is led by the White Clown, whose lover, Magda, is locked away in a Borovian gulag for criticizing the government. Assisting the White Clown is the dwarf Orlovsky.
+            Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master first travel to France (Issue #64), then on to Borovia, where they join a circus troupe (Issue #65). The troupe is led by the White Clown, whose lover, Magda, is locked away in a Borovian gulag for criticizing the government. Assisting the White Clown is the dwarf Orlovsky.
           </p>
           <p>
-            Storm Shadow, Jinx, and Billy later arrive and join up with Snake Eyes, Scarlett, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
+            Storm Shadow, Jinx, and Billy later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
           </p>
         </section>
 
@@ -202,16 +202,16 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Reconstructive Surgery and the Baroness' Revenge</h2>
           <img src={snakeEyes14} alt="Snake Eyes and the Baroness' revenge plot" className="profile-block-img" />
           <p>
-            Snake Eyes and Scarlett travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. Dr. Hundtkinder, who had reconstructed the Baroness' face years earlier, contacts her about the situation. The Baroness, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (Issue #93).
+            Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. Dr. Hundtkinder, who had reconstructed the Baroness' face years earlier, contacts her about the situation. The Baroness, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (Issue #93).
           </p>
           <p>
-            At the hospital, Scarlett receives a call from Hawk, who has just learned of the plot between the Baroness and Dr. Hundtkinder. Scarlett breaks into the operating room, ties up Dr. Hundtkinder and his assistants, places the unconscious Snake Eyes in a wheelchair, and makes her way out of the surgery room. Just then, the Baroness arrives with a group of Vipers.
+            At the hospital, <Link to="/character-bios/Scarlett">Scarlett</Link> receives a call from Hawk, who has just learned of the plot between the Baroness and Dr. Hundtkinder. <Link to="/character-bios/Scarlett">Scarlett</Link> breaks into the operating room, ties up Dr. Hundtkinder and his assistants, places the unconscious Snake Eyes in a wheelchair, and makes her way out of the surgery room. Just then, the Baroness arrives with a group of Vipers.
           </p>
           <p>
-            One of the Vipers shoots Scarlett in the arm. The Baroness then stands over the wounded Scarlett and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (Issue #94).
+            One of the Vipers shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the arm. The Baroness then stands over the wounded <Link to="/character-bios/Scarlett">Scarlett</Link> and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (Issue #94).
           </p>
           <p>
-            Snake Eyes is taken to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The Baroness tells the now conscious Snake Eyes she has killed his beloved Scarlett and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
+            Snake Eyes is taken to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The Baroness tells the now conscious Snake Eyes she has killed his beloved <Link to="/character-bios/Scarlett">Scarlett</Link> and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
           </p>
           <p>
             Using his ability to slow his heartrate and breathing, Snake Eyes feigns death. One of the Paine Brothers, carrying a hot fire poker, approaches him, believing he has died. Snake Eyes kicks the Paine Brother, seizes the poker, and uses it to break his chains free from the wall. Now free, he battles and kills both Paine Brothers, taking their weapons and uniforms — which become his new outfit.
@@ -232,7 +232,7 @@ const SnakeEyes: React.FC = () => {
             Overcome with guilt, the Baroness strikes Snake Eyes' hand, breaking his grip on her. Storm Shadow catches her before she can fall to her death, and together, he and Snake Eyes help her toward Destro's helicopter. But as Destro reaches out for Snake Eyes, the floor beneath Snake Eyes and Storm Shadow gives way.
           </p>
           <p>
-            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and Storm Shadow as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose Scarlett — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (Issue #96).
+            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and Storm Shadow as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link> — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (Issue #96).
           </p>
         </section>
 
@@ -240,10 +240,10 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Scarlett in a Coma</h2>
           <img src={snakeEyes15} alt="Scarlett in a coma" className="profile-block-img" />
           <p>
-            Scarlett is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma — or whether she will be able to live a normal life again if she does (Issue #97).
+            <Link to="/character-bios/Scarlett">Scarlett</Link> is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma — or whether she will be able to live a normal life again if she does (Issue #97).
           </p>
           <p>
-            Time passes. Snake Eyes stays by her side, while Storm Shadow remains at the hospital to support his friend. One day, Scarlett's sister, Siobhan O'Hara, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101). Siobhan tries to prevent Snake Eyes from entering Scarlett's room, but he pushes her aside, enters the room, kneels beside Scarlett, and says her name (Issue #102).
+            Time passes. Snake Eyes stays by her side, while Storm Shadow remains at the hospital to support his friend. One day, <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, Siobhan O'Hara, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101). Siobhan tries to prevent Snake Eyes from entering <Link to="/character-bios/Scarlett">Scarlett</Link>'s room, but he pushes her aside, enters the room, kneels beside <Link to="/character-bios/Scarlett">Scarlett</Link>, and says her name (Issue #102).
           </p>
         </section>
 
@@ -251,10 +251,10 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">The Mission to Rescue George Strawhacker</h2>
           <img src={snakeEyes16} alt="The mission to rescue George Strawhacker" className="profile-block-img" />
           <p>
-            Storm Shadow wants to give his friend a mission to take his mind off the upcoming termination of Scarlett's life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of Snake Eyes' late twin sister and is being held prisoner in a Borovian gulag. Storm Shadow believes that a mission to rescue someone so dear to Snake Eyes will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission.
+            Storm Shadow wants to give his friend a mission to take his mind off the upcoming termination of <Link to="/character-bios/Scarlett">Scarlett</Link>'s life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of Snake Eyes' late twin sister and is being held prisoner in a Borovian gulag. Storm Shadow believes that a mission to rescue someone so dear to Snake Eyes will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission.
           </p>
           <p>
-            Snake Eyes, Storm Shadow, and Stalker board a B-2 stealth bomber that flies over Borovian airspace. Just before Snake Eyes makes his HALO jump, Storm Shadow uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As Snake Eyes descends toward the ground, Scarlett awakes from her coma, asking for him (Issue #103).
+            Snake Eyes, Storm Shadow, and Stalker board a B-2 stealth bomber that flies over Borovian airspace. Just before Snake Eyes makes his HALO jump, Storm Shadow uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As Snake Eyes descends toward the ground, <Link to="/character-bios/Scarlett">Scarlett</Link> awakes from her coma, asking for him (Issue #103).
           </p>
           <p>
             Borovia is in a state of political turmoil: the Marxist-Leninist government is being overthrown, and an ethnic cleansing of the Lower Borovians is underway. Snake Eyes lands on the roof of a government building occupied by Lower Borovian soldiers who are firing on the crowds below. He breaks through a window, kills the soldiers, and throws their bodies out into the street; this rallies the masses outside, who storm the building in search of the masked stranger.
@@ -306,13 +306,13 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">G.I. Joe Reactivate: Attack in the High Sierras</h2>
           <img src={snakeEyes18} alt="Attack in the High Sierras" className="profile-block-img" />
           <p>
-            Following the disbandment of G.I. Joe, Snake Eyes and Scarlett retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes. Duke travels to the High Sierras to find them.
+            Following the disbandment of G.I. Joe, Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes. Duke travels to the High Sierras to find them.
           </p>
           <p>
-            While Scarlett is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, Scarlett and Duke arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
+            While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and Duke arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
           </p>
           <p>
-            On their way to the cabin, Duke tells Scarlett, "Anabasis is a go" — indicating that G.I. Joe is reactivated (Issue #156).
+            On their way to the cabin, Duke tells <Link to="/character-bios/Scarlett">Scarlett</Link>, "Anabasis is a go" — indicating that G.I. Joe is reactivated (Issue #156).
           </p>
         </section>
 
@@ -331,13 +331,13 @@ const SnakeEyes: React.FC = () => {
             As Cobra Island comes under attack and faces an existential threat, Dr. Mindbender initiates one of his backup plans. He and a Techno-Viper travel to the morgue where a cloned body of Snake Eyes is kept. Years earlier, using Snake Eyes' memories and DNA obtained by Dr. Venom from the Brainwave Scanner, Dr. Mindbender had created a duplicate of Snake Eyes free of the injuries the original sustained, including those to his vocal cords. Dr. Mindbender's goal is to create a clone of Snake Eyes fully loyal to Cobra.
           </p>
           <p>
-            Dr. Mindbender and the Techno-Viper bring Snake Eyes' body to the lab, where they place it in a chamber to transfer the memories and activate it. Dr. Mindbender notices that the memory of the Staten Island ferry ride with Scarlett registers as unusually intense; the Techno-Viper reports that this memory spikes every metric. When the process ends, the clone of Snake Eyes breaks free (Issue #299).
+            Dr. Mindbender and the Techno-Viper bring Snake Eyes' body to the lab, where they place it in a chamber to transfer the memories and activate it. Dr. Mindbender notices that the memory of the Staten Island ferry ride with <Link to="/character-bios/Scarlett">Scarlett</Link> registers as unusually intense; the Techno-Viper reports that this memory spikes every metric. When the process ends, the clone of Snake Eyes breaks free (Issue #299).
           </p>
           <p>
-            At first, Snake Eyes appears loyal to Cobra. However, the memories of Scarlett overpower the Cobra programming. Snake Eyes turns on the Vipers in the lab, cutting a path of death and destruction. The G.I. Joe team intercepts a transmission that the real Snake Eyes is back and rushes toward the lab.
+            At first, Snake Eyes appears loyal to Cobra. However, the memories of <Link to="/character-bios/Scarlett">Scarlett</Link> overpower the Cobra programming. Snake Eyes turns on the Vipers in the lab, cutting a path of death and destruction. The G.I. Joe team intercepts a transmission that the real Snake Eyes is back and rushes toward the lab.
           </p>
           <p>
-            In the lab's back loading bay, they find Snake Eyes battling a force of Vipers and join the fight. Snake Eyes spots Scarlett and removes his mask. Scarlett sees that his wounds to his face and vocal cords have been reversed. Snake Eyes says "Scarlett," with undamaged voice cords. The two embrace, and the original Snake Eyes rejoins the G.I. Joe team, resuming his relationship with Scarlett (Issue #300).
+            In the lab's back loading bay, they find Snake Eyes battling a force of Vipers and join the fight. Snake Eyes spots <Link to="/character-bios/Scarlett">Scarlett</Link> and removes his mask. <Link to="/character-bios/Scarlett">Scarlett</Link> sees that his wounds to his face and vocal cords have been reversed. Snake Eyes says "Scarlett," with undamaged voice cords. The two embrace, and the original Snake Eyes rejoins the G.I. Joe team, resuming his relationship with <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #300).
           </p>
         </section>
 
