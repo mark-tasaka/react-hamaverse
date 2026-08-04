@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* =====================================================
+   Page Shell
+   ===================================================== */
+.character-bios-page {
+  padding: 40px 0;
+}
+
+.character-bios-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 0 0 32px;
+}
+
+/* =====================================================
+   Three-column grid
+   ===================================================== */
+.character-bios-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* =====================================================
+   Character Card
+   ===================================================== */
+.character-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* =====================================================
+   Character Image
+   ===================================================== */
+.character-img-link {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 6px;
+  background-color: #1a1210;
+}
+
+.character-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+
+.character-img-link:hover .character-img {
+  opacity: 0.88;
+}
+
+/* =====================================================
+   Card Body
+   ===================================================== */
+.character-card-body {
+  padding-top: 12px;
+}
+
+.character-name-link {
+  text-decoration: none;
+}
+
+.character-name-link:hover .character-name {
+  color: #B8322A;
+}
+
+.character-name {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 4px;
+  transition: color 0.2s ease;
+}
+
+.character-faction {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  margin: 0 0 4px;
+}
+
+.character-first-appearance {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  margin: 0;
+}
+
+/* =====================================================
+   Responsive
+   ===================================================== */
+@media (max-width: 1024px) {
+  .character-bios-grid {
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 768px) {
+  .character-bios-page {
+    padding: 28px 0;
+  }
+
+  .character-bios-title {
+    font-size: 24px;
+    margin-bottom: 24px;
+  }
+
+  .character-bios-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 560px;
+    gap: 24px;
+    padding: 0 20px;
+  }
+
+  .character-name {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .character-bios-grid {
+    grid-template-columns: 1fr;
+    max-width: 320px;
+  }
+}
