@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* =====================================================
+   Profile Page Shell
+   ===================================================== */
+.character-profile-page {
+  padding: 40px 0;
+}
+
+.character-profile-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 0 0 32px;
+}
+
+/* =====================================================
+   Intro Text (full width, no image)
+   ===================================================== */
+.profile-intro {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2a2a2a;
+  line-height: 1.7;
+  margin: 0 0 40px;
+}
+
+/* =====================================================
+   Text + Image Block (wraps once text clears image)
+   ===================================================== */
+.profile-block {
+  margin: 0 0 40px;
+  overflow: hidden; /* contains the float so margins/borders behave */
+}
+
+.profile-block-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 16px;
+}
+
+.profile-block-img {
+  float: right;
+  width: 48%;
+  height: auto;
+  border-radius: 6px;
+  margin: 0 0 12px 24px;
+  display: block;
+}
+
+.profile-block p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2a2a2a;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+
+.profile-block p:last-child {
+  margin-bottom: 0;
+}
+
+/* =====================================================
+   Full-width Text Block (no image, e.g. Snake Eyes' Death)
+   ===================================================== */
+.profile-block--full .profile-block-img {
+  display: none;
+}
+
+/* =====================================================
+   Notes from the Field (full width, no image)
+   ===================================================== */
+.profile-notes {
+  margin-top: 40px;
+  padding-top: 32px;
+  border-top: 1px solid #d8d8d8;
+}
+
+.profile-notes-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 16px;
+}
+
+.profile-notes p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2a2a2a;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+
+.profile-notes p:last-child {
+  margin-bottom: 0;
+}
+
+/* =====================================================
+   Responsive — stack image above text on smaller screens
+   ===================================================== */
+@media (max-width: 768px) {
+  .profile-block-img {
+    float: none;
+    width: 100%;
+    margin: 0 0 16px;
+  }
+}

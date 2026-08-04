@@ -29,7 +29,7 @@ const CHARACTERS: Character[] = [
   {
     name: 'Snake Eyes',
     img: snakeEyesImg,
-    link: '/character-bios/snake-eyes',
+    link: '/character-bios/SnakeEyes',
     rank: 100,
     faction: 'G.I. Joe',
     introduced: {
@@ -43,7 +43,7 @@ const CHARACTERS: Character[] = [
   {
     name: 'Scarlett',
     img: scarlettImg,
-    link: '/character-bios/scarlett',
+    link: '/character-bios/Scarlett',
     rank: 98,
     faction: 'G.I. Joe',
     introduced: {
@@ -57,7 +57,7 @@ const CHARACTERS: Character[] = [
   {
     name: 'Soft Master',
     img: softMasterImg,
-    link: '/character-bios/soft-master',
+    link: '/character-bios/SoftMaster',
     rank: 50,
     faction: 'Arashikage',
     introduced: {
@@ -71,7 +71,7 @@ const CHARACTERS: Character[] = [
   {
     name: 'Blind Master',
     img: blindMasterImg,
-    link: '/character-bios/blind-master',
+    link: '/character-bios/BlindMaster',
     rank: 49,
     faction: 'Arashikage',
     introduced: {
