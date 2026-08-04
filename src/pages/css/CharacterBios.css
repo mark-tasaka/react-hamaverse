@@ -87,7 +87,27 @@
   transition: color 0.2s ease;
 }
 
+.character-meta {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  margin: 0;
+}
+
 .character-faction {
+  font-weight: 400;
+}
+
+.character-meta-sep {
+  margin: 0 4px;
+}
+
+.character-first-appearance {
+  font-weight: 400;
+}
+
+/* .character-faction {
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   font-weight: 400;
@@ -101,7 +121,7 @@
   font-weight: 400;
   color: #6a6a6a;
   margin: 0;
-}
+} */
 
 /* =====================================================
    Responsive

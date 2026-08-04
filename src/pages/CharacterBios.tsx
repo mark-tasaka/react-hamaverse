@@ -101,9 +101,10 @@ const CharacterBios: React.FC = () => {
               <Link to={link} className="character-name-link">
                 <h2 className="character-name">{name}</h2>
               </Link>
-              <p className="character-faction">{faction}</p>
-              <p className="character-first-appearance">
-                First Appearance: {introduced.issueLabel}
+              <p className="character-meta">
+                <span className="character-faction">{faction}</span>
+                <span className="character-meta-sep"> · </span>
+                <span className="character-first-appearance">{introduced.issueLabel}</span>
               </p>
             </div>
           </article>
