@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './css/Common.css';
 import './css/CharacterBios.css';
@@ -84,12 +84,60 @@ const CHARACTERS: Character[] = [
   },
 ];
 
+type SortField = 'rank' | 'issueNumber' | 'name';
+type SortDir   = 'desc' | 'asc';
+
 const CharacterBios: React.FC = () => {
-  const sortedCharacters = [...CHARACTERS].sort((a, b) => b.rank - a.rank);
+  const [sortField, setSortField] = useState<SortField>('rank');
+  const [sortDir,   setSortDir]   = useState<SortDir>('desc');
+
+  const getSortValue = (c: Character, field: SortField): number | string => {
+    switch (field) {
+      case 'rank':        return c.rank;
+      case 'issueNumber': return c.introduced.issueNumber;
+      case 'name':        return c.name;
+      default:            return '';
+    }
+  };
+
+  const sortedCharacters = [...CHARACTERS].sort((a, b) => {
+    const valA = getSortValue(a, sortField);
+    const valB = getSortValue(b, sortField);
+
+    if (typeof valA === 'number' && typeof valB === 'number') {
+      return sortDir === 'desc' ? valB - valA : valA - valB;
+    }
+
+    const cmp = String(valA).localeCompare(String(valB));
+    return sortDir === 'desc' ? -cmp : cmp;
+  });
 
   return (
     <main className="character-bios-page">
       <h1 className="character-bios-title">Character Biographies</h1>
+
+      {/* ── Sort controls ── */}
+      <div className="character-sort-wrapper">
+        <label htmlFor="character-sort" className="character-sort-label">Sort by</label>
+        <select
+          id="character-sort"
+          className="character-sort-select"
+          value={sortField}
+          onChange={e => setSortField(e.target.value as SortField)}
+        >
+          <option value="rank">Prominence</option>
+          <option value="issueNumber">First Appearance</option>
+          <option value="name">Name</option>
+        </select>
+        <button
+          className="character-sort-dir"
+          onClick={() => setSortDir(d => d === 'desc' ? 'asc' : 'desc')}
+          aria-label={sortDir === 'desc' ? 'Sort descending' : 'Sort ascending'}
+          title={sortDir === 'desc' ? 'Sort descending' : 'Sort ascending'}
+        >
+          {sortDir === 'desc' ? '↓ Desc' : '↑ Asc'}
+        </button>
+      </div>
 
       <div className="character-bios-grid">
         {sortedCharacters.map(({ name, img, link, faction, introduced }) => (
