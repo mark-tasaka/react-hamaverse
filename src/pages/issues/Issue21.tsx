@@ -58,15 +58,15 @@ const Issue21: React.FC = () => {
                 <p className="issue-credit-name">{credits.editorInChief}</p>
               </div>
             </div>
+
+            <section className="issue-section">
+              <h2 className="issue-section-title">Summary</h2>
+              <p>
+                Mr. Hama's classic issue with no dialogue. The story is told through the illustrations and layout. Scarlett is captured and delivered to the Silent Castle by Storm Shadow. Scarlett escapes her cell and commandeers a Cobra C.L.A.W. (Covert Light Aerial Weapon). Snake Eyes and Storm Shadow battle. Scarlett finds Snake Eyes, and the two depart. The issue ends by revealing Snake Eyes and Storm Shadow share the same tattoo.
+              </p>
+            </section>
           </div>
         </div>
-
-        <section className="issue-section">
-          <h2 className="issue-section-title">Summary</h2>
-          <p>
-            Mr. Hama's classic issue with no dialogue. The story is told through the illustrations and layout. Scarlett is captured and delivered to the Silent Castle by Storm Shadow. Scarlett escapes her cell and commandeers a Cobra C.L.A.W. (Covert Light Aerial Weapon). Snake Eyes and Storm Shadow battle. Scarlett finds Snake Eyes, and the two depart. The issue ends by revealing Snake Eyes and Storm Shadow share the same tattoo.
-          </p>
-        </section>
 
         <section className="issue-section">
           <h2 className="issue-section-title">Detailed Summary</h2>
