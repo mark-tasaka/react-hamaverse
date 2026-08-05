@@ -58,7 +58,7 @@ const ISSUES: Issue[] = [
   },
   {
     issue: 94,
-    title: 'The Snake-Eyes Trilogy part 1: Warrior Reborn! Exterminating Circumstances (or Bern This)',
+    title: 'Snake-Eyes Trilogy Part 1',
     img: issue94Img,
     link: '/comic-issues/Issue94',
     date: 'December 1989',

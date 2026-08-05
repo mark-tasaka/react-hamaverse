@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* =====================================================
+   Issue Page Shell
+   ===================================================== */
+.issue-profile-page {
+  padding: 40px 0;
+}
+
+/* =====================================================
+   Header — cover image + credits side by side
+   ===================================================== */
+.issue-header {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.issue-cover {
+  width: 240px;
+  height: auto;
+  border-radius: 6px;
+  flex-shrink: 0;
+  display: block;
+}
+
+.issue-header-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.issue-date {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #6a6a6a;
+  margin: 0 0 4px;
+}
+
+.issue-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 24px;
+}
+
+.issue-credits {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.issue-credit-label {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  margin: 0 0 2px;
+}
+
+.issue-credit-name {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0;
+}
+
+/* =====================================================
+   Summary Sections
+   ===================================================== */
+.issue-section {
+  margin: 0 0 32px;
+}
+
+.issue-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 16px;
+}
+
+.issue-section p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2a2a2a;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+
+.issue-section p:last-child {
+  margin-bottom: 0;
+}
+
+/* =====================================================
+   Back Button (centered)
+   ===================================================== */
+.issue-back-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+/* =====================================================
+   Responsive — stack header on smaller screens
+   ===================================================== */
+@media (max-width: 768px) {
+  .issue-header {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .issue-cover {
+    width: 100%;
+    max-width: 280px;
+    margin: 0 auto;
+  }
+}
