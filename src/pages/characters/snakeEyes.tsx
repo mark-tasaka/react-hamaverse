@@ -47,7 +47,7 @@ const SnakeEyes: React.FC = () => {
             One of the Viet Cong, Mr. Tran, admits they sold the supplies on the black market in exchange for weapons and explosives. Tran then raises his AK-47 and opens fire on the Baron. At that moment, Snake Eyes is just outside on the ledge. Right after the Baron is shot, Snake Eyes bursts through the window and kills both attackers with his Colt .45.
           </p>
           <p>
-            Anastasia opens the office door to find Snake Eyes standing over the bodies of her brother and the two Viet Cong. Believing he is responsible for killing the three men, she blames Snake Eyes for her brother's death (Issue #94).
+            Anastasia opens the office door to find Snake Eyes standing over the bodies of her brother and the two Viet Cong. Believing he is responsible for killing the three men, she blames Snake Eyes for her brother's death (<Link to="/comic-issues/Issue94">Issue #94</Link>).
           </p>
         </section>
 
@@ -55,7 +55,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Vietnam War: Friendship with Tommy and the Picture of his sister</h2>
           <img src={snakeEyes2} alt="Snake Eyes' friendship with Tommy Arashikage" className="profile-block-img" />
           <p>
-            In Vietnam, Snake Eyes forms a close bond with fellow LRRP member Tommy Arashikage. The two serve an entire tour together. Tommy speaks often about his uncle's business in Japan and expresses hope that Snake Eyes will join the firm after the war. Throughout his service, Snake Eyes carries a battered photo of his twin sister, Terri, as a good luck charm — he believes that as long as he keeps it with him, nothing bad will happen (Issue #26).
+            In Vietnam, Snake Eyes forms a close bond with fellow LRRP member Tommy Arashikage. The two serve an entire tour together. Tommy speaks often about his uncle's business in Japan and expresses hope that Snake Eyes will join the firm after the war. Throughout his service, Snake Eyes carries a battered photo of his twin sister, Terri, as a good luck charm — he believes that as long as he keeps it with him, nothing bad will happen (<Link to="/comic-issues/Issue26">Issue #26</Link>).
           </p>
         </section>
 
@@ -66,7 +66,7 @@ const SnakeEyes: React.FC = () => {
             During Snake Eyes' second tour, he is part of a six-man Long Range Reconnaissance Patrol (LRRP) led by Stalker (Lonzo Wilkinson) and including Storm Shadow (Thomas Arashikage), Wade Collins, Ramon Escobedo, and Dickie Saperstein. Collins is on point when the patrol walks into an encampment of NVA regulars. Collins is shot and believed killed. Outnumbered, the patrol retreats, but Escobedo is shot dead and Saperstein is killed instantly after stepping on a landmine. Only Snake Eyes, Stalker, and Storm Shadow escape (Issue #155).
           </p>
           <p>
-            At the LZ, the three come under heavy enemy fire as when the Huey arrives. Snake Eyes is hit, dropping the photo of his twin sister, Terri, as he falls. Storm Shadow leaps from the Huey and runs through a hail of gunfire to retrieve his wounded friend. Once aboard, he uses his own wrist wraps to bandage Snake Eyes' injuries (Issue #26) and employs the Arashikage Mindset to aid the healing process (Issue #108).
+            At the LZ, the three come under heavy enemy fire as when the Huey arrives. Snake Eyes is hit, dropping the photo of his twin sister, Terri, as he falls. Storm Shadow leaps from the Huey and runs through a hail of gunfire to retrieve his wounded friend. Once aboard, he uses his own wrist wraps to bandage Snake Eyes' injuries (<Link to="/comic-issues/Issue26">Issue #26</Link>) and employs the Arashikage Mindset to aid the healing process (Issue #108).
           </p>
         </section>
 
@@ -74,7 +74,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Returning Home from the War</h2>
           <img src={snakeEyes4} alt="Snake Eyes returning home from Vietnam" className="profile-block-img" />
           <p>
-            When Snake Eyes returns to the States, no one is there to greet him at the airport. He waits for hours. Clayton Abernathy (Hawk), then a junior officer, arrives. Hawk informs him that his parents and twin sister have been killed in a car accident on their way to the airport — a stoned veteran driving erratically at high speed struck the family car. With nothing left for him in America, Snake Eyes travels to Japan to take Tommy Arashikage up on his offer (Issue #26).
+            When Snake Eyes returns to the States, no one is there to greet him at the airport. He waits for hours. Clayton Abernathy (Hawk), then a junior officer, arrives. Hawk informs him that his parents and twin sister have been killed in a car accident on their way to the airport — a stoned veteran driving erratically at high speed struck the family car. With nothing left for him in America, Snake Eyes travels to Japan to take Tommy Arashikage up on his offer (<Link to="/comic-issues/Issue26">Issue #26</Link>).
           </p>
         </section>
 
@@ -85,7 +85,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes travels to Japan to take Tommy up on his offer to join the family business — which turns out to be the Arashikage ninja clan. Over the next three years, Snake Eyes trains with the clan and attains a level of skill that earns him the Arashikage tattoo on his forearm. He also gains favored status in the eyes of the Hard Master, the clan's leader, who intends to name Snake Eyes his heir over his own nephew, Thomas Arashikage (Storm Shadow).
           </p>
           <p>
-            One night, the Hard Master is teaching Snake Eyes the "Blind Sword" form when Snake Eyes hears someone outside in the courtyard. The Hard Master dismisses the presence as no threat and, to illustrate the "Chameleon's Mantle" technique, steps behind a screen and mimics Snake Eyes' breathing and heartbeat. At that moment, an arrow fired into the building kills the Hard Master — an arrow that belongs to Tommy. Hearing the commotion, the Soft Master leaves his room and makes his way toward the building where the Hard Master and Snake Eyes have been training. Along the way, he sees Tommy fleeing the courtyard. Tommy never returns (Issue #26).
+            One night, the Hard Master is teaching Snake Eyes the "Blind Sword" form when Snake Eyes hears someone outside in the courtyard. The Hard Master dismisses the presence as no threat and, to illustrate the "Chameleon's Mantle" technique, steps behind a screen and mimics Snake Eyes' breathing and heartbeat. At that moment, an arrow fired into the building kills the Hard Master — an arrow that belongs to Tommy. Hearing the commotion, the Soft Master leaves his room and makes his way toward the building where the Hard Master and Snake Eyes have been training. Along the way, he sees Tommy fleeing the courtyard. Tommy never returns (<Link to="/comic-issues/Issue26">Issue #26</Link>).
           </p>
         </section>
 
@@ -93,7 +93,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Recruitment to G.I. Joe</h2>
           <img src={snakeEyes6} alt="Snake Eyes recruited to G.I. Joe" className="profile-block-img" />
           <p>
-            Colonel Clayton Abernathy (Hawk) is putting together the G.I. Joe team, and Stalker (Lonzo Wilkinson) recommends Snake Eyes for it. Hawk and Stalker learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (Issue #27).
+            Colonel Clayton Abernathy (Hawk) is putting together the G.I. Joe team, and Stalker (Lonzo Wilkinson) recommends Snake Eyes for it. Hawk and Stalker learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -104,7 +104,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes first meets <Link to="/character-bios/Scarlett">Scarlett</Link> (Shana O'Hara) when she is putting the G.I. Joe candidates through hand-to-hand combat training. <Link to="/character-bios/Scarlett">Scarlett</Link> easily defeats the other candidates, but when it comes to Snake Eyes' turn, he intentionally lets her win. <Link to="/character-bios/Scarlett">Scarlett</Link> recognizes this and is impressed by his self-control and the fact that he has nothing to prove — she finds herself fascinated by him.
           </p>
           <p>
-            After practice, <Link to="/character-bios/Scarlett">Scarlett</Link> catches up with Snake Eyes as he is heading off post, and the two talk. She learns about his two tours in Vietnam, the photo of his twin sister that he carries with him, and the tragic loss of his family. The two end up riding the Staten Island Ferry together, growing close (Issue #27).
+            After practice, <Link to="/character-bios/Scarlett">Scarlett</Link> catches up with Snake Eyes as he is heading off post, and the two talk. She learns about his two tours in Vietnam, the photo of his twin sister that he carries with him, and the tragic loss of his family. The two end up riding the Staten Island Ferry together, growing close (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -118,7 +118,7 @@ const SnakeEyes: React.FC = () => {
             The helicopter crashes into a second helicopter, and the impact sends burning aviation fuel spewing through the plexiglass door window, burning Snake Eyes' face and severing his vocal cords. <Link to="/character-bios/Scarlett">Scarlett</Link> is knocked unconscious in the crash. Rock 'n Roll and Grunt run to the burning wreckage and find a horribly burned Snake Eyes carrying an unconscious <Link to="/character-bios/Scarlett">Scarlett</Link> to safety.
           </p>
           <p>
-            Snake Eyes spends the next six months in the hospital. He could have left the service with full disability benefits; instead, he chooses to remain on the team (Issue #27).
+            Snake Eyes spends the next six months in the hospital. He could have left the service with full disability benefits; instead, he chooses to remain on the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -143,7 +143,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes' first encounter with his sword brother, Thomas Arashikage (Storm Shadow), takes place at the Silent Castle, a Cobra stronghold in the Trans-Carpathian Mountains. Storm Shadow is in the service of Cobra, and shortly after he arrives at the Silent Castle with a captured <Link to="/character-bios/Scarlett">Scarlett</Link>, Snake Eyes parachutes from a C-130 to infiltrate the castle. Meanwhile, <Link to="/character-bios/Scarlett">Scarlett</Link> manages to break free and commandeers a Cobra C.L.A.W. (Covert Light Aerial Weapon, a Cobra winged jet pack).
           </p>
           <p>
-            Snake Eyes is confronted by Storm Shadow and his three Red Ninja underlings. He defeats the Red Ninja and battles Storm Shadow. When <Link to="/character-bios/Scarlett">Scarlett</Link> arrives mounted on the C.L.A.W., Storm Shadow hurls his sword at her, but Snake Eyes catches it with his bare hands. The two then fly off together (Issue #21).
+            Snake Eyes is confronted by Storm Shadow and his three Red Ninja underlings. He defeats the Red Ninja and battles Storm Shadow. When <Link to="/character-bios/Scarlett">Scarlett</Link> arrives mounted on the C.L.A.W., Storm Shadow hurls his sword at her, but Snake Eyes catches it with his bare hands. The two then fly off together (<Link to="/comic-issues/Issue21">Issue #21</Link>).
           </p>
         </section>
 
@@ -154,7 +154,7 @@ const SnakeEyes: React.FC = () => {
             During Snake Eyes' visit with the Soft Master at the Comidas Chinas café in New York City (which the Soft Master owns), Storm Shadow steals the arrow that had killed the Hard Master — an arrow the Soft Master had kept over the years. Snake Eyes pursues Storm Shadow to the top of a moving train, and the two battle. With his back turned away from the direction the train is traveling, Storm Shadow fails to notice an upcoming tunnel. Snake Eyes drops his weapon and leaps down between the train cars, prompting Storm Shadow to follow — an action that ends up saving Storm Shadow's life.
           </p>
           <p>
-            Between the cars, Storm Shadow drops his weapon and tells Snake Eyes he did not kill his uncle, the Hard Master. Earlier that day, he explains, he shot a squirrel with his bow, but when he went to retrieve the arrow, both the squirrel and the arrow were gone. Storm Shadow says he saw the real assassin — the one who shot the Hard Master with that same arrow — escape aboard a Cobra helicopter, and that he joined Cobra's ranks to track down his uncle's killer. Storm Shadow then departs (Issue #27).
+            Between the cars, Storm Shadow drops his weapon and tells Snake Eyes he did not kill his uncle, the Hard Master. Earlier that day, he explains, he shot a squirrel with his bow, but when he went to retrieve the arrow, both the squirrel and the arrow were gone. Storm Shadow says he saw the real assassin — the one who shot the Hard Master with that same arrow — escape aboard a Cobra helicopter, and that he joined Cobra's ranks to track down his uncle's killer. Storm Shadow then departs (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -202,13 +202,13 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Reconstructive Surgery and the Baroness' Revenge</h2>
           <img src={snakeEyes14} alt="Snake Eyes and the Baroness' revenge plot" className="profile-block-img" />
           <p>
-            Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. Dr. Hundtkinder, who had reconstructed the Baroness' face years earlier, contacts her about the situation. The Baroness, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (Issue #93).
+            Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. Dr. Hundtkinder, who had reconstructed the Baroness' face years earlier, contacts her about the situation. The Baroness, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (<Link to="/comic-issues/Issue93">Issue #93</Link>).
           </p>
           <p>
             At the hospital, <Link to="/character-bios/Scarlett">Scarlett</Link> receives a call from Hawk, who has just learned of the plot between the Baroness and Dr. Hundtkinder. <Link to="/character-bios/Scarlett">Scarlett</Link> breaks into the operating room, ties up Dr. Hundtkinder and his assistants, places the unconscious Snake Eyes in a wheelchair, and makes her way out of the surgery room. Just then, the Baroness arrives with a group of Vipers.
           </p>
           <p>
-            One of the Vipers shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the arm. The Baroness then stands over the wounded <Link to="/character-bios/Scarlett">Scarlett</Link> and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (Issue #94).
+            One of the Vipers shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the arm. The Baroness then stands over the wounded <Link to="/character-bios/Scarlett">Scarlett</Link> and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (<Link to="/comic-issues/Issue94">Issue #94</Link>).
           </p>
           <p>
             Snake Eyes is taken to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The Baroness tells the now conscious Snake Eyes she has killed his beloved <Link to="/character-bios/Scarlett">Scarlett</Link> and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
@@ -350,7 +350,7 @@ const SnakeEyes: React.FC = () => {
             During the Marvel run (1982–1994), six versions of Snake Eyes action figures were produced: the <a href="https://www.yojoe.com/action/82/snakeeyes.shtml" target="_blank" rel="noopener noreferrer">1982 version 1</a> (with a <a href="https://www.yojoe.com/action/83/snakeeyes1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm version 1.5</a>), the <a href="https://www.yojoe.com/action/85/snakeeyes2.shtml" target="_blank" rel="noopener noreferrer">1985 version 2</a>, the <a href="https://www.yojoe.com/action/89/snakeeyes3.shtml" target="_blank" rel="noopener noreferrer">1989 version 3</a>, the <a href="https://www.yojoe.com/action/91/snakeeyes4.shtml" target="_blank" rel="noopener noreferrer">1991 version 4</a>, the <a href="https://www.yojoe.com/action/93/snakeeyes5.shtml" target="_blank" rel="noopener noreferrer">1993 version 5</a>, and the <a href="https://www.yojoe.com/action/94/snakeeyes6.shtml" target="_blank" rel="noopener noreferrer">1994 Shadow Ninja variant</a> (identical to version 5, but with color-changing plastic). Numerous further versions of Snake Eyes were produced following the Marvel run. Snake Eyes obtains his version 3 uniform by assembling an amalgamation of the Paine Brothers' uniforms from the sub-basement of the Cobra Consulate (Issue #95). Following the reactivation of the G.I. Joe team, Snake Eyes wears either his version 1 or version 2 uniform.
           </p>
           <p>
-            The first two versions of Snake Eyes' file card list his rank as E-5. When Snake Eyes first meets Hawk at the airport, he is shown wearing sergeant's stripes (E-5) on his uniform (Issue #26). Snake Eyes' file cards for the remainder of the Marvel run list his rank as E-7 (Sergeant First Class).
+            The first two versions of Snake Eyes' file card list his rank as E-5. When Snake Eyes first meets Hawk at the airport, he is shown wearing sergeant's stripes (E-5) on his uniform (<Link to="/comic-issues/Issue26">Issue #26</Link>). Snake Eyes' file cards for the remainder of the Marvel run list his rank as E-7 (Sergeant First Class).
           </p>
         </section>
 
