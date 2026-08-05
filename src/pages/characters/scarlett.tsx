@@ -31,7 +31,7 @@ const Scarlett: React.FC = () => {
             When the G.I. Joe team was forming, Scarlett ran a hand-to-hand combat session to teach the Joes how to fight. She first spars with Steeler, easily throwing him to the ground, but knows she still needs to prove to the guys that this was no fluke. Her next opponent is <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, who allows Scarlett to throw him to spare her pride in front of the others. Scarlett recognizes he is a highly skilled martial artist, who allowed her to win. Scarlett is intrigued with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and wants to know more about him.
           </p>
           <p>
-            After practice, Scarlett catches up to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> off base, and the two talk. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> admits he studied martial arts in Japan, and the two catch a ferry to Manhattan for dinner. On the ferry, Scarlett learns about his twin sister and the tragic accident that claimed the lives of his family (Issue #27).
+            After practice, Scarlett catches up to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> off base, and the two talk. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> admits he studied martial arts in Japan, and the two catch a ferry to Manhattan for dinner. On the ferry, Scarlett learns about his twin sister and the tragic accident that claimed the lives of his family (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -42,7 +42,7 @@ const Scarlett: React.FC = () => {
             Months later, Scarlett, Rock 'n Roll, and Grunt are on a mission in the Middle East, traveling in one of two helicopters. Neither aircraft has proper dust filters, and the helicopter carrying the four of them stalls and spins out of control after sand is sucked into the engine. The pilot orders the crew to jump. Rock 'n Roll and Grunt jump clear, but the door next to Scarlett slams shut, trapping her web gear. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> stays aboard, trying to save her. The helicopter crashes into the second one, knocking Scarlett unconscious.
           </p>
           <p>
-            When Scarlett wakes up, she learns that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, badly injured, has carried her out of the burning wreckage. Aviation fuel from the second helicopter had sprayed through the plexiglass during the crash, burning his face and severing his vocal cords (Issue #27).
+            When Scarlett wakes up, she learns that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, badly injured, has carried her out of the burning wreckage. Aviation fuel from the second helicopter had sprayed through the plexiglass during the crash, burning his face and severing his vocal cords (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -50,7 +50,7 @@ const Scarlett: React.FC = () => {
           <h2 className="profile-block-title">Snake Eyes' Return from the Hospital</h2>
           <img src={scarlett3} alt="Snake Eyes returning from the hospital" className="profile-block-img" />
           <p>
-            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returns to the G.I. Joe team after six months in the hospital. He could have retired on disability but chooses to stay. Scarlett wants to resume her relationship with him, but he gently pushes her away (Issue #27).
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returns to the G.I. Joe team after six months in the hospital. He could have retired on disability but chooses to stay. Scarlett wants to resume her relationship with him, but he gently pushes her away (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -67,7 +67,7 @@ const Scarlett: React.FC = () => {
             Scarlett comes across two Cobra troopers carrying a C.L.A.W. (likely the one Storm Shadow had used) and knocks them unconscious using the chain as a weapon. She straps on the C.L.A.W. and flies off. From one of the castle's balconies, she spots <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. Storm Shadow then reappears, and the two engage in combat. During the fight, the wrapping on one of Storm Shadow's forearms unravels, revealing the same tattoo <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> bears on his own forearm.
           </p>
           <p>
-            Scarlett lands the C.L.A.W. in front of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. Storm Shadow hurls his sword toward her, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, appearing from behind, catches the blade in midair. The two then fly off together, escaping the Silent Castle (Issue #21).
+            Scarlett lands the C.L.A.W. in front of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. Storm Shadow hurls his sword toward her, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, appearing from behind, catches the blade in midair. The two then fly off together, escaping the Silent Castle (<Link to="/comic-issues/Issue21">Issue #21</Link>).
           </p>
         </section>
 
@@ -101,7 +101,7 @@ const Scarlett: React.FC = () => {
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> takes her hand, looks up at the sun and touches his rubber facial mask with the other hand. He then glances toward another couple walking by with their arms around each other. Scarlett understands then that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> wants to be able to walk down the street holding her hand, feeling the sun on his own skin.
           </p>
           <p>
-            Scarlett accompanies <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> as Dr. Hundtkinder examines his face. When Dr. Hundtkinder explains that the first procedure will take place the next morning, she hugs <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (Issue #93).
+            Scarlett accompanies <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> as Dr. Hundtkinder examines his face. When Dr. Hundtkinder explains that the first procedure will take place the next morning, she hugs <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/comic-issues/Issue93">Issue #93</Link>).
           </p>
           <p>
             During the sixth and final procedure, Scarlett receives a call from Hawk at the hospital. Hawk tells her that Zarana, who works for Cobra, has just awoken from a coma and has been rambling about a plot between the Baroness and Dr. Hundtkinder. Scarlett drops the phone as a Cobra transport helicopter lands on the hospital's roof.
@@ -197,7 +197,7 @@ const Scarlett: React.FC = () => {
             Both Scarlett's original file card and her Ninja Force file card list her rank as E-5 (Sergeant or Specialist 5*). When Scarlett is wearing her dress uniform in the early issues, no rank insignia appears on her uniform. Thus, it is unclear whether she is a Sgt. or Spec. 5. In Issue #33, General Austin promotes Scarlett — along with Rock 'n Roll, Breaker, Zap, Grunt, Short-Fuze, Stalker, and Flash — to the next pay grade, assigning them administrative duties as the team grows. This puts Scarlett's current rank at E-6 (Staff Sergeant).
           </p>
           <p className="profile-notes-footnote">
-            *The ranks of Specialist 5 and Specialist 6 were phased out in 1985. Personnel holding these ranks were laterally promoted to the corresponding "hard stripe" rank — Specialist 5s became Sergeants, and Specialist 6s became Staff Sergeants.  Specialist ranks were originally created to allow enlisted personnel to advance in pay grade without taking on the responsibilities of a non-commissioned officer (NCO).  Thus, Specialist 5s and Specialist 6s were not considered NCOs and took orders from Corporals (E-4) and higher ranks.  
+            *The ranks of Specialist 5 and Specialist 6 were phased out in 1985. Personnel holding these ranks were laterally promoted to the corresponding "hard stripe" rank — Specialist 5s became Sergeants, and Specialist 6s became Staff Sergeants. Specialist ranks were originally created to allow enlisted personnel to advance in pay grade without taking on the responsibilities of a non-commissioned officer (NCO). Thus, Specialist 5s and Specialist 6s were not considered NCOs and took orders from Corporals (E-4) and higher ranks.
           </p>
         </section>
                 
