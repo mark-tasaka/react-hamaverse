@@ -78,6 +78,7 @@ const Issue26: React.FC = () => {
 
         <section className="issue-section">
           <h2 className="issue-section-title">Detailed Summary</h2>
+          <h3 className="issue-section-title">Snake Eyes Origins</h3>
           <p>
             A youth tries to rob a restaurant, Comidas Chinas, in Spanish Harlem. He pulls a gun on the owner, an older Japanese man working behind the counter. The man easily disarms the youth by ejecting the round from the chamber and releasing the pistol's clip. He then gives the youth $50 for the gun and places the unloaded weapon in a box filled with other guns. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, wearing a hat and trench coat, sits behind the counter as all this happens. There is a connection between the man and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
           </p>
@@ -105,7 +106,7 @@ const Issue26: React.FC = () => {
         </section>
 
         <section className="issue-section">
-          <h2 className="issue-section-title">Florida Everglades</h2>
+          <h3 className="issue-section-title">Florida Everglades</h3>
           <p>
             Zartan, Destro, Cobra Commander, and the Baroness are inside Zartan's cabin with Junkyard (Mutt's dog). Junkyard takes a liking to the Cobras. In the distance, Torpedo, Mutt, and Tripwire are watching the cabin. Mutt is upset that Junkyard has taken a liking to the Cobras. The Cobras and Junkyard leave the cabin. The Joes fall back so as not to be spotted. While falling back, the Joes spot Firefly and Wild Weasel, who were previously their prisoners, in the distance. Firefly and Wild Weasel spot the Joes. Junkyard leads Zartan, Destro, Cobra Commander, and the Baroness to a pit of quicksand. Junkyard then departs to rejoin his handler, Mutt.
           </p>
