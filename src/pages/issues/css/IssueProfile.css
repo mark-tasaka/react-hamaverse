@@ -119,6 +119,19 @@
   margin-top: 40px;
 }
 
+.issue-section a {
+  color: #2a2a2a;
+  text-decoration: none;
+  font-weight: 700;
+  text-decoration-color: #C4131B;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease;
+}
+
+.issue-section a:hover {
+  color: #B8322A;
+}
+
 /* =====================================================
    Responsive — stack header on smaller screens
    ===================================================== */
