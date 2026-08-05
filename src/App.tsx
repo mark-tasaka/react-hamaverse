@@ -12,7 +12,7 @@ import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
 import Issue26 from './pages/issues/Issue26'
 import Issue27 from './pages/issues/Issue27'
-// import Issue93 from './pages/issues/Issue93'
+import Issue93 from './pages/issues/Issue93'
 // import Issue94 from './pages/issues/Issue94'
 import Resources from './pages/Resources'
 import Tribute from './pages/Tribute'
@@ -37,8 +37,8 @@ function App() {
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
           <Route path="/comic-issues/Issue27" element={<Issue27 />} />
-          {/* <Route path="/comic-issues/Issue93" element={<Issue93 />} />
-          <Route path="/comic-issues/Issue94" element={<Issue94 />} />  */}
+          <Route path="/comic-issues/Issue93" element={<Issue93 />} />
+          {/* <Route path="/comic-issues/Issue94" element={<Issue94 />} />  */}
           <Route path="/resources" element={<Resources />} />
           <Route path="/tribute" element={<Tribute />} />
           <Route path="/contact" element={<Contact />} />
