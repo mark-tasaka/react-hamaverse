@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* =====================================================
+   Page Shell
+   ===================================================== */
+.comic-issues-page {
+  padding: 40px 0;
+}
+
+.comic-issues-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 0 0 32px;
+}
+
+/* =====================================================
+   Four-column grid
+   ===================================================== */
+.comic-issues-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* =====================================================
+   Issue Card
+   ===================================================== */
+.comic-issue-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* =====================================================
+   Issue Cover Image
+   ===================================================== */
+.comic-issue-img-link {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  border-radius: 6px;
+  background-color: #1a1210;
+}
+
+.comic-issue-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+
+.comic-issue-img-link:hover .comic-issue-img {
+  opacity: 0.88;
+}
+
+/* =====================================================
+   Card Body
+   ===================================================== */
+.comic-issue-card-body {
+  padding-top: 12px;
+}
+
+.comic-issue-title-link {
+  text-decoration: none;
+}
+
+.comic-issue-title-link:hover .comic-issue-number {
+  color: #B8322A;
+}
+
+.comic-issue-number {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 4px;
+  transition: color 0.2s ease;
+}
+
+.comic-issue-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  margin: 0 0 2px;
+}
+
+.comic-issue-date {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  margin: 0;
+}
+
+/* =====================================================
+   Sort controls
+   ===================================================== */
+.comic-issues-sort-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 auto 24px;
+  padding: 0 24px;
+}
+
+.comic-issues-sort-label {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.comic-issues-sort-dir {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #C4131B;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.20);
+  transition: opacity 0.2s ease;
+  white-space: nowrap;
+  width: 80px;
+  text-align: center;
+}
+
+.comic-issues-sort-dir:hover {
+  opacity: 0.88;
+}
+
+/* =====================================================
+   Responsive
+   ===================================================== */
+@media (max-width: 1024px) {
+  .comic-issues-grid {
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 768px) {
+  .comic-issues-page {
+    padding: 28px 0;
+  }
+
+  .comic-issues-title {
+    font-size: 24px;
+    margin-bottom: 24px;
+  }
+
+  .comic-issues-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 560px;
+    gap: 24px;
+    padding: 0 20px;
+  }
+
+  .comic-issue-number {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .comic-issues-grid {
+    grid-template-columns: 1fr;
+    max-width: 320px;
+  }
+}
