@@ -34,6 +34,11 @@
   min-width: 0;
 }
 
+.issue-heading-row {
+  display: flex;
+  flex-direction: column;
+}
+
 .issue-header-info .issue-section {
   margin-top: 24px;
   margin-bottom: 0;
@@ -127,5 +132,28 @@
     width: 100%;
     max-width: 280px;
     margin: 0 auto;
+  }
+
+  .issue-heading-row {
+    flex-direction: row-reverse;
+    align-items: baseline;
+    justify-content: center;
+    gap: 12px;
+    text-align: center;
+  }
+
+  .issue-date {
+    margin: 0;
+  }
+
+  .issue-title {
+    margin: 0;
+  }
+
+  .issue-credits {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    text-align: center;
   }
 }

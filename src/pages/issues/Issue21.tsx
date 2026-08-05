@@ -33,8 +33,10 @@ const Issue21: React.FC = () => {
         <div className="issue-header">
           <img src={cover21} alt="Issue 21 cover — Silent Interlude" className="issue-cover" />
           <div className="issue-header-info">
-            <p className="issue-date">Issue 21 (March 1984)</p>
-            <h1 className="issue-title">Silent Interlude</h1>
+            <div className="issue-heading-row">
+              <p className="issue-date">Issue 21 (March 1984)</p>
+              <h1 className="issue-title">Silent Interlude</h1>
+            </div>
 
             <div className="issue-credits">
               <div>
