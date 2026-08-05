@@ -23,6 +23,8 @@ interface Character {
   rank: number;
   faction: string;
   introduced: Introduced;
+  secondaryFaction: string;
+  status: string;
 }
 
 const CHARACTERS: Character[] = [
@@ -32,6 +34,8 @@ const CHARACTERS: Character[] = [
     link: '/character-bios/SnakeEyes',
     rank: 100,
     faction: 'G.I. Joe',
+    secondaryFaction: 'Arashikage',
+    status: 'Alive',
     introduced: {
       issueNumber: 1,
       publisher: 'Marvel',
@@ -46,6 +50,8 @@ const CHARACTERS: Character[] = [
     link: '/character-bios/Scarlett',
     rank: 98,
     faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
     introduced: {
       issueNumber: 1,
       publisher: 'Marvel',
@@ -60,6 +66,8 @@ const CHARACTERS: Character[] = [
     link: '/character-bios/SoftMaster',
     rank: 50,
     faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Dead',
     introduced: {
       issueNumber: 26,
       publisher: 'Marvel',
@@ -74,6 +82,8 @@ const CHARACTERS: Character[] = [
     link: '/character-bios/BlindMaster',
     rank: 49,
     faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Dead',
     introduced: {
       issueNumber: 56,
       publisher: 'Marvel',
