@@ -154,6 +154,19 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 16px;
+    margin-top: 24px;
     text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .issue-heading-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .issue-credits {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
