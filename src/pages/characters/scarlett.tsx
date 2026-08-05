@@ -139,7 +139,7 @@ const Scarlett: React.FC = () => {
             Storm Shadow pulls them both to safety between the train cars. In the chaos, Scarlett accidentally stabs him in the back. Shocked, she cries out, "What have I done?" (Issue #107).
           </p>
           <p>
-            Scarlett brings the wounded Storm Shadow to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' secret hideout behind the isolation tank at Columbia University. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Stalker arrive shortly after. Wracked with guilt over stabbing Storm Shadow, Scarlett watches as <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> uses the Arashikage Mindset to stabilize him, then calls for an ambulance (Issue #108).
+            Scarlett brings the wounded Storm Shadow to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' secret hideout behind the isolation tank at Columbia University. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Stalker arrive shortly after. Scarlett watches as <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> uses the Arashikage Mindset to stabilize him, then calls for an ambulance (Issue #108).
           </p>
         </section>
 

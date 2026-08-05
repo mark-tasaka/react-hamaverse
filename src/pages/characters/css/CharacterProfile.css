@@ -121,7 +121,8 @@
 /* =====================================================
    Links within Profile Blocks
    ===================================================== */
-.profile-block a {
+.profile-block a,
+.profile-intro a {
   color: #2a2a2a;
   text-decoration: none;
   font-weight: 700;
@@ -130,7 +131,8 @@
   transition: color 0.2s ease;
 }
 
-.profile-block a:hover {
+.profile-block a:hover,
+.profile-intro a:hover {
   color: #B8322A;
 }
 /* =====================================================
