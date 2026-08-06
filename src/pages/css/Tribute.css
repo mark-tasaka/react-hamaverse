@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* =====================================================
+   Tribute Page Shell
+   ===================================================== */
+.tribute-page {
+  padding: 40px 0;
+}
+
+.tribute-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 0 0 32px;
+}
+
+/* =====================================================
+   Text + Media Block (wraps once text clears image)
+   ===================================================== */
+.tribute-block {
+  margin: 0 0 40px;
+  overflow: hidden; /* contains the float so margins/borders behave */
+}
+
+.tribute-block-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 16px;
+}
+
+.tribute-block-media {
+  float: right;
+  width: 48%;
+  margin: 0 0 12px 24px;
+}
+
+.tribute-block-media img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.tribute-block-caption {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #6a6a6a;
+  text-align: center;
+  margin: 8px 0 0;
+}
+
+.tribute-block p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2a2a2a;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+
+.tribute-block p:last-child {
+  margin-bottom: 0;
+}
+
+/* =====================================================
+   Links within Blocks
+   ===================================================== */
+.tribute-block a {
+  color: #2a2a2a;
+  text-decoration: none;
+  font-weight: 700;
+  text-decoration-color: #C4131B;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease;
+}
+
+.tribute-block a:hover {
+  color: #B8322A;
+}
+
+/* =====================================================
+   Footnotes
+   ===================================================== */
+.tribute-notes {
+  margin-top: 40px;
+  padding-top: 32px;
+  border-top: 1px solid #d8d8d8;
+}
+
+.tribute-notes p.tribute-notes-footnote {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  color: #6a6a6a;
+  margin: 0 0 12px;
+}
+
+.tribute-notes p.tribute-notes-footnote:last-child {
+  margin-bottom: 0;
+}
+
+/* =====================================================
+   Back Button (centered)
+   ===================================================== */
+.tribute-back-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+/* =====================================================
+   Responsive — stack image above text on smaller screens
+   ===================================================== */
+@media (max-width: 768px) {
+  .tribute-block-media {
+    float: none;
+    width: 100%;
+    margin: 0 0 16px;
+  }
+}
