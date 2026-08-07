@@ -82,7 +82,7 @@ const BlindMaster: React.FC = () => {
             The Blind Master comes to his senses, drops the knife, and turns to leave. Zartan picks up the blade and stabs him in the back. As the Blind Master lies dying on the ground, he tells Zartan that he was wrong — that it took a kid to show him how blind he truly was. Zartan scoffs, "Sure! All was forgiven! I'll just bet!"
           </p>
           <p>
-            With his dying breath, the Blind Master reveals that he had been present when Professor Onihashi died, and that Onihashi had forgiven Zartan with his last breath — Zartan had been carrying his guilt for nothing all these years. The Blind Master dies. Stunned, Zartan asks how Onihashi could have forgiven him for what he'd done — how there could be so much compassion in a person's heart.
+            With his dying breath, the Blind Master reveals that Onihashi had forgiven Zartan with his last breath — Zartan had been carrying his guilt for nothing all these years. The Blind Master dies. Stunned, Zartan asks how Onihashi could have forgiven him for what he'd done — how there could be so much compassion in a person's heart.
           </p>
           <p>
             To set things right, Zartan takes on the form of the dead Blind Master, resolving to carry on his work of mentoring Tyrone. He runs out of the alley and calls out to Tyrone, telling him he was wrong and asking for his forgiveness. The two walk off down the street together (Issue #91).
