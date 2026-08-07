@@ -8,6 +8,8 @@ import issue26Img from './img/covers/issue_26.jpg';
 import issue27Img from './img/covers/issue_27.jpg';
 import issue93Img from './img/covers/issue_93.jpg';
 import issue94Img from './img/covers/issue_94.jpg';
+import issue95Img from './img/covers/issue_95.jpg';
+import issue96Img from './img/covers/issue_96.jpg';
 
 interface Issue {
   issue: number;
@@ -63,6 +65,15 @@ const ISSUES: Issue[] = [
     link: '/comic-issues/Issue94',
     date: 'December 1989',
     dateOrder: 198912,
+    publisher: 'Marvel',
+  },
+  {
+    issue: 96,
+    title: 'Snake-Eyes Trilogy Part 3',
+    img: issue96Img,
+    link: '/comic-issues/Issue96',
+    date: 'January 1990',
+    dateOrder: 199001,
     publisher: 'Marvel',
   },
 ];

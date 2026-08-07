@@ -54,7 +54,7 @@ const Tribute: React.FC = () => {
 
           <h2 className="tribute-block-title">Tunnel Rat: Hasbro's Tribute to Mr. Hama</h2>
           <p>
-            In 1987, to honor Mr. Hama, Hasbro produced the Tunnel Rat action figure, sculpted in his likeness. Mr. Hama served in the 18th Engineer Brigade of the U.S. Army Corps of Engineers as a firearms and explosive ordnance expert. He also served as a Tunnel Rat — an unofficial role held by specialists who entered, cleared, and destroyed enemy tunnel complexes in Vietnam. Serving as a Tunnel Rat was purely voluntary, given the extreme danger involved. Tunnel Rat's file card lists him as an Explosive Ordnance Disposal (EOD) specialist (89D)***, holding the rank of E-5 (Sgt. or Spec. 5). I believe Tunnel Rat's file card reflects Mr. Hama's own MOS and rank.
+            In 1987, to honor Mr. Hama, Hasbro produced the <a href="https://www.yojoe.com/action/87/tunnelrat.shtml" target="_blank" rel="noopener noreferrer">Tunnel Rat action figure</a>, sculpted in his likeness. Mr. Hama served in the 18th Engineer Brigade of the U.S. Army Corps of Engineers as a firearms and explosive ordnance expert. He also served as a Tunnel Rat — an unofficial role held by specialists who entered, cleared, and destroyed enemy tunnel complexes in Vietnam. Serving as a Tunnel Rat was purely voluntary, given the extreme danger involved. Tunnel Rat's file card lists him as an Explosive Ordnance Disposal (EOD) specialist (89D)***, holding the rank of E-5 (Sgt. or Spec. 5). I believe Tunnel Rat's file card reflects Mr. Hama's own MOS and rank.
           </p>
         </section>
 
