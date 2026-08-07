@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* =====================================================
+   Page Shell
+   ===================================================== */
+.resources-page {
+  padding: 40px 0;
+}
+
+.resources-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 0 0 32px;
+}
+
+/* =====================================================
+   Three-column grid
+   ===================================================== */
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* =====================================================
+   Resource Card
+   ===================================================== */
+.resource-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* =====================================================
+   Resource Image
+   ===================================================== */
+.resource-img-link {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 6px;
+  background-color: #1a1210;
+}
+
+.resource-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+
+.resource-img-link:hover .resource-img {
+  opacity: 0.88;
+}
+
+/* =====================================================
+   Card Body
+   ===================================================== */
+.resource-card-body {
+  padding-top: 12px;
+}
+
+.resource-title-link {
+  text-decoration: none;
+}
+
+.resource-title-link:hover .resource-title {
+  color: #B8322A;
+}
+
+.resource-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 4px;
+  transition: color 0.2s ease;
+}
+
+.resource-type {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #C4131B;
+  margin: 0 0 8px;
+}
+
+.resource-desc {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #2a2a2a;
+  line-height: 1.5;
+  text-align: left;
+  margin: 0;
+}
+
+/* =====================================================
+   Sort controls
+   ===================================================== */
+.resources-sort-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 auto 24px;
+  padding: 0 24px;
+}
+
+.resources-sort-label {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.resources-sort-dir {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #C4131B;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.20);
+  transition: opacity 0.2s ease;
+  white-space: nowrap;
+  width: 80px;
+  text-align: center;
+}
+
+.resources-sort-dir:hover {
+  opacity: 0.88;
+}
+
+/* =====================================================
+   Responsive
+   ===================================================== */
+@media (max-width: 1024px) {
+  .resources-grid {
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 768px) {
+  .resources-page {
+    padding: 28px 0;
+  }
+
+  .resources-title {
+    font-size: 24px;
+    margin-bottom: 24px;
+  }
+
+  .resources-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 560px;
+    gap: 24px;
+    padding: 0 20px;
+  }
+
+  .resource-title {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .resources-grid {
+    grid-template-columns: 1fr;
+    max-width: 320px;
+  }
+}
