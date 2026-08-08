@@ -34,7 +34,7 @@ const RESOURCES: Resource[] = [
   },
   {
     title: 'dshay7 gaming & comics',
-    link: '#',
+    link: 'https://www.youtube.com/@dshay7gamingandcomics',
     img: motionComicImg,
     type: 'YouTube',
     desc: 'A YouTube channel featuring motion comics of the early Marvel G.I. Joe issues, brought to life by a host of different voice actors.',
