@@ -25,7 +25,7 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 3, 2026</p>
+          <p className="update-log-date">August 8, 2026</p>
           <p className="update-log-entry">
             Welcome to the launch of Hamaverse: Unofficial ARAH Comic Fan Site, a fan site dedicated to Mr. Hama's <em>G.I. Joe: A Real American Hero</em> (ARAH) series. This website is designed to be an ongoing work-in-progress, where new materials will be added to the site.
           </p>

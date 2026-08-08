@@ -337,7 +337,7 @@ const SnakeEyes: React.FC = () => {
             At first, Snake Eyes appears loyal to Cobra. However, the memories of <Link to="/character-bios/Scarlett">Scarlett</Link> overpower the Cobra programming. Snake Eyes turns on the Vipers in the lab, cutting a path of death and destruction. The G.I. Joe team intercepts a transmission that the real Snake Eyes is back and rushes toward the lab.
           </p>
           <p>
-            In the lab's back loading bay, they find Snake Eyes battling a force of Vipers and join the fight. Snake Eyes spots <Link to="/character-bios/Scarlett">Scarlett</Link> and removes his mask. <Link to="/character-bios/Scarlett">Scarlett</Link> sees that his wounds to his face and vocal cords have been reversed. Snake Eyes says "Scarlett," with undamaged voice cords. The two embrace, and the original Snake Eyes rejoins the G.I. Joe team, resuming his relationship with <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #300).
+            In the lab's back loading bay, they find Snake Eyes battling a force of Vipers and join the fight. After the battle, Snake Eyes approaches <Link to="/character-bios/Scarlett">Scarlett</Link> on the W.H.A.L.E. and removes his mask. <Link to="/character-bios/Scarlett">Scarlett</Link> sees that his wounds to his face and vocal cords have been reversed. Snake Eyes says "Scarlett," with undamaged voice cords. The two embrace, and the original Snake Eyes rejoins the G.I. Joe team, resuming his relationship with <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #300).
           </p>
         </section>
 
