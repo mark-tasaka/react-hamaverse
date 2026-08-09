@@ -132,7 +132,7 @@ const SnakeEyes: React.FC = () => {
             Dr. Venom uses the scanner to learn the location of the G.I. Joe secret base, and in the process, it collects and stores Snake Eyes' memories (memories that Dr. Mindbender will later use to create his Snake Eyes clone). Snake Eyes draws on his ninja training to slow his heartbeat and breathing to the semblance of death. Believing him dead, Dr. Venom and his assistant unhook Snake Eyes from the scanner — at which point Snake Eyes attacks, knocking both out.
           </p>
           <p>
-            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into <Link to="/character-bios/Scarlett">Scarlett</Link> and Zap, who have made their own escape with the help of a youth named Billy. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
+            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into <Link to="/character-bios/Scarlett">Scarlett</Link> and Zap, who have made their own escape with the help of a youth named <Link to="/character-bios/Billy">Billy</Link>. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
           </p>
         </section>
 
@@ -194,7 +194,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master first travel to France (Issue #64), then on to Borovia, where they join a circus troupe (Issue #65). The troupe is led by the White Clown, whose lover, Magda, is locked away in a Borovian gulag for criticizing the government. Assisting the White Clown is the dwarf Orlovsky.
           </p>
           <p>
-            Storm Shadow, Jinx, and Billy later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
+            Storm Shadow, Jinx, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
           </p>
         </section>
 

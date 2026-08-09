@@ -22,16 +22,16 @@ const BlindMaster: React.FC = () => {
           <h2 className="profile-block-title">Denver Dojo Encounter with Billy</h2>
           <img src={blindMaster1} alt="The Blind Master's Denver dojo encounter with Billy" className="profile-block-img" />
           <p>
-            The Blind Master is first introduced in the series when an amnesiac Billy comes across his dojo in Denver. Billy watches him teach students through a window. As Billy watches, he begins to regain his memories of training with Storm Shadow.
+            The Blind Master is first introduced in the series when an amnesiac <Link to="/character-bios/Billy">Billy</Link> comes across his dojo in Denver. <Link to="/character-bios/Billy">Billy</Link> watches him teach students through a window. As <Link to="/character-bios/Billy">Billy</Link> watches, he begins to regain his memories of training with Storm Shadow.
           </p>
           <p>
-            After class, Billy sneaks into the dojo. The Blind Master "sees" Billy and invites him inside, telling him he must pass a test. Jinx enters and reveals that they know about Fred and the Battle Armor. She swings her sword at Billy, who catches it in his bare hands. Billy then grabs her right arm and exposes the Arashikage tattoo underneath (Issue #59).
+            After class, <Link to="/character-bios/Billy">Billy</Link> sneaks into the dojo. The Blind Master "sees" <Link to="/character-bios/Billy">Billy</Link> and invites him inside, telling him he must pass a test. Jinx enters and reveals that they know about Fred and the Battle Armor. She swings her sword at <Link to="/character-bios/Billy">Billy</Link>, who catches it in his bare hands. <Link to="/character-bios/Billy">Billy</Link> then grabs her right arm and exposes the Arashikage tattoo underneath (Issue #59).
           </p>
           <p>
-            Billy begins training with Jinx at the Denver dojo. Time passes. One day, while sparring with Jinx, the Blind Master shows him a photo taken fifteen years earlier. Jinx explains who's in it: the Blind Master, Professor Onihashi (a mystic swordsmith), an unnamed Koga ninja (his image blurred), Jinx herself (at age eight), Storm Shadow, the Hard Master, the <Link to="/character-bios/SoftMaster">Soft Master</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. The Blind Master then reveals that Jinx is Storm Shadow's second cousin on his mother's side.
+            <Link to="/character-bios/Billy">Billy</Link> begins training with Jinx at the Denver dojo. Time passes. One day, while sparring with Jinx, the Blind Master shows him a photo taken fifteen years earlier. Jinx explains who's in it: the Blind Master, Professor Onihashi (a mystic swordsmith), an unnamed Koga ninja (his image blurred), Jinx herself (at age eight), Storm Shadow, the Hard Master, the <Link to="/character-bios/SoftMaster">Soft Master</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. The Blind Master then reveals that Jinx is Storm Shadow's second cousin on his mother's side.
           </p>
           <p>
-            The Blind Master tells Billy that Jinx will guide him through the next stage of his training. He hands Jinx the keys to his car and tells Billy he is heading somewhere warm (Issue #62). Billy and Jinx travel to the Defense Language Institute to meet up with the Joes, while the Blind Master travels to Grenada to reunite with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #63).
+            The Blind Master tells <Link to="/character-bios/Billy">Billy</Link> that Jinx will guide him through the next stage of his training. He hands Jinx the keys to his car and tells <Link to="/character-bios/Billy">Billy</Link> he is heading somewhere warm (Issue #62). <Link to="/character-bios/Billy">Billy</Link> and Jinx travel to the Defense Language Institute to meet up with the Joes, while the Blind Master travels to Grenada to reunite with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #63).
           </p>
         </section>
 
@@ -51,7 +51,7 @@ const BlindMaster: React.FC = () => {
             The Blind Master, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> first travel to France (Issue #64). From there, they make their way to Borovia, finding work in the White Clown's circus troupe (Issue #65). The White Clown is assisted by Orlovsky the dwarf. The trio learns that the White Clown's lover, Magda, is imprisoned in a gulag for criticizing the government — a different gulag from the one holding the three captured Joes.
           </p>
           <p>
-            Storm Shadow, Jinx, and Billy arrive at the circus, and the six mount a rescue mission together. They kill the guards and free the prisoners, including the three Joes. As they head for the border, the White Clown and Orlovsky appear in a car hauling their circus cannon. The Joes are loaded into the cannon and fired into the river bordering Borovia, allowing them to safely bypass the electric fence, barbed wire, and guard towers along the border (Issue #66).
+            Storm Shadow, Jinx, and <Link to="/character-bios/Billy">Billy</Link> arrive at the circus, and the six mount a rescue mission together. They kill the guards and free the prisoners, including the three Joes. As they head for the border, the White Clown and Orlovsky appear in a car hauling their circus cannon. The Joes are loaded into the cannon and fired into the river bordering Borovia, allowing them to safely bypass the electric fence, barbed wire, and guard towers along the border (Issue #66).
           </p>
         </section>
 
@@ -59,7 +59,7 @@ const BlindMaster: React.FC = () => {
           <h2 className="profile-block-title">Meeting Tyrone</h2>
           <img src={blindMaster3} alt="The Blind Master meeting Tyrone in San Francisco" className="profile-block-img" />
           <p>
-            The Blind Master, Storm Shadow, Jinx, and Billy are standing on a street in San Francisco watching TV through a shop window when a youth runs by and snatches Jinx's purse. The Blind Master throws his cane, tripping the youth and causing him to drop the purse. A nearby police officer sees this and moves to take the youth into custody. The Blind Master tells the officer he's mistaken — the youth had tripped over the cane and grabbed the purse only to catch himself. The officer lets the youth go.
+            The Blind Master, Storm Shadow, Jinx, and <Link to="/character-bios/Billy">Billy</Link> are standing on a street in San Francisco watching TV through a shop window when a youth runs by and snatches Jinx's purse. The Blind Master throws his cane, tripping the youth and causing him to drop the purse. A nearby police officer sees this and moves to take the youth into custody. The Blind Master tells the officer he's mistaken — the youth had tripped over the cane and grabbed the purse only to catch himself. The officer lets the youth go.
           </p>
           <p>
             The youth's name is Tyrone. The Blind Master asks him why he tried to steal the purse. Tyrone explains that his mother is an alcoholic and he doesn't know where his father is — he needed the money. The Blind Master offers to pay Tyrone a fair wage to guide him across San Francisco (Issue #67).

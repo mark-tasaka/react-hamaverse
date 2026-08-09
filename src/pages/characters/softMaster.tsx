@@ -55,7 +55,7 @@ const SoftMaster: React.FC = () => {
             Firefly, Scrap-Iron, and Buzzer, riding a Ferret ATV, spot the Soft Master in the stolen car and give chase, opening fire. The Soft Master dodges a missile by ducking under a moving semi-truck, which shears off the top of his car in the process. He then drives across a set of train tracks, narrowly avoiding an oncoming train — which conveniently blocks the pursuing Ferret's path behind him.
           </p>
           <p>
-            On the other side of the tracks, the drunk driver who had dropped the Soft Master off is now driving toward Springfield to return his forgotten suitcase. His passengers are Candy Apel and Billy. Intoxicated, the driver crashes into a pole, knocking all three unconscious.
+            On the other side of the tracks, the drunk driver who had dropped the Soft Master off is now driving toward Springfield to return his forgotten suitcase. His passengers are Candy Apel and <Link to="/character-bios/Billy">Billy</Link>. Intoxicated, the driver crashes into a pole, knocking all three unconscious.
           </p>
           <p>
             The Soft Master stops his car, gets out, and checks on the crash victims. At that moment, Scrap-Iron climbs the pole on the opposite side of the tracks and aims his dual missile launcher at the wrecked car. The Soft Master rushes forward, using his own body as a shield. The Soft Master dies. Scrap-Iron fires his second missile, destroying the car (Issue #43). The driver and Candy die. Billy survives but loses an eye and leg and is in a coma.
