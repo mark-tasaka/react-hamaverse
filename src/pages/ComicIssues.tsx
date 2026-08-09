@@ -8,7 +8,6 @@ import issue26Img from './img/covers/issue_26.jpg';
 import issue27Img from './img/covers/issue_27.jpg';
 import issue93Img from './img/covers/issue_93.jpg';
 import issue94Img from './img/covers/issue_94.jpg';
-import issue95Img from './img/covers/issue_95.jpg';
 import issue96Img from './img/covers/issue_96.jpg';
 
 interface Issue {
