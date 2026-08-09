@@ -7,6 +7,7 @@ import snakeEyesImg from './img/portraits/snakeEyes.jpg';
 import scarlettImg from './img/portraits/scarlett.jpg';
 import softMasterImg from './img/portraits/softMaster.jpg';
 import blindMasterImg from './img/portraits/blindMaster.jpg';
+import billyImg from './img/portraits/billy.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -80,7 +81,7 @@ const CHARACTERS: Character[] = [
     name: 'Blind Master',
     img: blindMasterImg,
     link: '/character-bios/BlindMaster',
-    rank: 49,
+    rank: 51,
     faction: 'Arashikage',
     secondaryFaction: '',
     status: 'Dead',
@@ -92,6 +93,22 @@ const CHARACTERS: Character[] = [
       month: 'February',
     },
   },
+  {
+    name: 'Billy',
+    img: billyImg,
+    link: '/character-bios/Billy',
+    rank: 80,
+    faction: 'G.I. Joe',
+    secondaryFaction: 'Arashikage',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 10,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 10',
+      year: '1982',
+      month: 'December',
+    },
+  }
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';
