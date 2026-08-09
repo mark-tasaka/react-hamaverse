@@ -15,7 +15,7 @@ const BlindMaster: React.FC = () => {
         <h1 className="character-profile-title">Blind Master</h1>
 
         <p className="profile-intro">
-          The man who would become the Blind Master was once a destitute, crippled ex-G.I. stranded in postwar Japan. The Hard Master took him in, becoming a father figure to him (Issue #91). The Blind Master was present at the Arashikage Dojo when <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> trained in Japan and when the Hard Master was murdered.
+          The man who would become the Blind Master was once a destitute, crippled ex-G.I. stranded in postwar Japan. The <Link to="/character-bios/HardMaster">Hard Master</Link> took him in, becoming a father figure to him (Issue #91). The Blind Master was present at the Arashikage Dojo when <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> trained in Japan and when the <Link to="/character-bios/HardMaster">Hard Master</Link> was murdered.
         </p>
 
         <section className="profile-block">
@@ -28,7 +28,7 @@ const BlindMaster: React.FC = () => {
             After class, <Link to="/character-bios/Billy">Billy</Link> sneaks into the dojo. The Blind Master "sees" <Link to="/character-bios/Billy">Billy</Link> and invites him inside, telling him he must pass a test. Jinx enters and reveals that they know about Fred and the Battle Armor. She swings her sword at <Link to="/character-bios/Billy">Billy</Link>, who catches it in his bare hands. <Link to="/character-bios/Billy">Billy</Link> then grabs her right arm and exposes the Arashikage tattoo underneath (Issue #59).
           </p>
           <p>
-            <Link to="/character-bios/Billy">Billy</Link> begins training with Jinx at the Denver dojo. Time passes. One day, while sparring with Jinx, the Blind Master shows him a photo taken fifteen years earlier. Jinx explains who's in it: the Blind Master, Professor Onihashi (a mystic swordsmith), an unnamed Koga ninja (his image blurred), Jinx herself (at age eight), Storm Shadow, the Hard Master, the <Link to="/character-bios/SoftMaster">Soft Master</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. The Blind Master then reveals that Jinx is Storm Shadow's second cousin on his mother's side.
+            <Link to="/character-bios/Billy">Billy</Link> begins training with Jinx at the Denver dojo. Time passes. One day, while sparring with Jinx, the Blind Master shows him a photo taken fifteen years earlier. Jinx explains who's in it: the Blind Master, Professor Onihashi (a mystic swordsmith), an unnamed Koga ninja (his image blurred), Jinx herself (at age eight), Storm Shadow, the <Link to="/character-bios/HardMaster">Hard Master</Link>, the <Link to="/character-bios/SoftMaster">Soft Master</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. The Blind Master then reveals that Jinx is Storm Shadow's second cousin on his mother's side.
           </p>
           <p>
             The Blind Master tells <Link to="/character-bios/Billy">Billy</Link> that Jinx will guide him through the next stage of his training. He hands Jinx the keys to his car and tells <Link to="/character-bios/Billy">Billy</Link> he is heading somewhere warm (Issue #62). <Link to="/character-bios/Billy">Billy</Link> and Jinx travel to the Defense Language Institute to meet up with the Joes, while the Blind Master travels to Grenada to reunite with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #63).
@@ -70,13 +70,13 @@ const BlindMaster: React.FC = () => {
           <h2 className="profile-block-title">The Blind Master's Death</h2>
           <img src={blindMaster4} alt="The Blind Master's final confrontation with Zartan" className="profile-block-img" />
           <p>
-            In San Francisco, Zartan evades the Joes using his holographic disguises. As he reaches an alley, he's confronted by the Blind Master, who sees past the disguise. The Blind Master confronts Zartan over the murder of the Hard Master, his mentor and friend, and gestures toward the nearby alley, where the two can settle their differences (Issue #90).
+            In San Francisco, Zartan evades the Joes using his holographic disguises. As he reaches an alley, he's confronted by the Blind Master, who sees past the disguise. The Blind Master confronts Zartan over the murder of the <Link to="/character-bios/HardMaster">Hard Master</Link>, his mentor and friend, and gestures toward the nearby alley, where the two can settle their differences (Issue #90).
           </p>
           <p>
             In the alley, the two fight. The Blind Master gains the upper hand when Zartan mistakenly grabs his shoulder. The Blind Master laughs and says, "I know where you are." He slams the bloodied Zartan against the wall, holding him by the neck with one hand while producing a switchblade with the other.
           </p>
           <p>
-            Zartan goads the Blind Master to kill him, claiming he's been plagued with guilt over Professor Onihashi's death (Onihashi had died by ritual suicide over Zartan's betrayal and murder of the Hard Master). Just then, Tyrone arrives and grabs the Blind Master's arm, begging his mentor not to kill Zartan, a now-helpless man. "Doing so would go against everything you taught me," Tyrone pleads. The Blind Master tries to justify his actions. Heartbroken, Tyrone walks away.
+            Zartan goads the Blind Master to kill him, claiming he's been plagued with guilt over Professor Onihashi's death (Onihashi had died by ritual suicide over Zartan's betrayal and murder of the <Link to="/character-bios/HardMaster">Hard Master</Link>). Just then, Tyrone arrives and grabs the Blind Master's arm, begging his mentor not to kill Zartan, a now-helpless man. "Doing so would go against everything you taught me," Tyrone pleads. The Blind Master tries to justify his actions. Heartbroken, Tyrone walks away.
           </p>
           <p>
             The Blind Master comes to his senses, drops the knife, and turns to leave. Zartan picks up the blade and stabs him in the back. As the Blind Master lies dying on the ground, he tells Zartan that he was wrong — that it took a kid to show him how blind he truly was. Zartan scoffs, "Sure! All was forgiven! I'll just bet!"

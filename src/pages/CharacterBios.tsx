@@ -114,7 +114,7 @@ const CHARACTERS: Character[] = [
     name: 'Hard Master',
     img: hardMasterImg,
     link: '/character-bios/HardMaster',
-    rank: 40,
+    rank: 30,
     faction: 'Arashikage',
     secondaryFaction: '',
     status: 'Dead',
