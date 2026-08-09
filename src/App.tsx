@@ -9,6 +9,7 @@ import Scarlett from './pages/characters/Scarlett'
 import SoftMaster from './pages/characters/SoftMaster'
 import BlindMaster from './pages/characters/BlindMaster'
 import Billy from './pages/characters/Billy'
+import HardMaster from './pages/characters/HardMaster'
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
 import Issue26 from './pages/issues/Issue26'
@@ -36,6 +37,7 @@ function App() {
           <Route path="/character-bios/SoftMaster" element={<SoftMaster />} />
           <Route path="/character-bios/BlindMaster" element={<BlindMaster />} />
           <Route path="/character-bios/Billy" element={<Billy />} />
+          <Route path="/character-bios/HardMaster" element={<HardMaster />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

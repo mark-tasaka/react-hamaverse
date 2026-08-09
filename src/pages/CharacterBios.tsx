@@ -8,6 +8,7 @@ import scarlettImg from './img/portraits/scarlett.jpg';
 import softMasterImg from './img/portraits/softMaster.jpg';
 import blindMasterImg from './img/portraits/blindMaster.jpg';
 import billyImg from './img/portraits/billy.jpg';
+import hardMasterImg from './img/portraits/hardMaster.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -107,6 +108,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 10',
       year: '1982',
       month: 'December',
+    },
+  },
+  {
+    name: 'Hard Master',
+    img: hardMasterImg,
+    link: '/character-bios/HardMaster',
+    rank: 40,
+    faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 26,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 26',
+      year: '1984',
+      month: 'August',
     },
   }
 ];
