@@ -9,6 +9,7 @@ import softMasterImg from './img/portraits/softMaster.jpg';
 import blindMasterImg from './img/portraits/blindMaster.jpg';
 import billyImg from './img/portraits/billy.jpg';
 import hardMasterImg from './img/portraits/hardMaster.jpg';
+import stalkerImg from './img/portraits/stalker.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -99,8 +100,8 @@ const CHARACTERS: Character[] = [
     img: billyImg,
     link: '/character-bios/Billy',
     rank: 80,
-    faction: 'G.I. Joe',
-    secondaryFaction: 'Arashikage',
+    faction: 'Arashikage',
+    secondaryFaction: '',
     status: 'Dead',
     introduced: {
       issueNumber: 10,
@@ -124,6 +125,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 26',
       year: '1984',
       month: 'August',
+    },
+  },
+  {
+    name: 'Stalker',
+    img: stalkerImg,
+    link: '/character-bios/Stalker',
+    rank: 95,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   }
 ];

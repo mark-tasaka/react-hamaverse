@@ -60,7 +60,7 @@ const Tribute: React.FC = () => {
 
         <section className="tribute-notes">
           <p className="tribute-notes-footnote">
-            *Mr. Hama did not write ARAH Issues #8, #9, #20, #119, #153, and #154.
+            *Mr. Hama did not write ARAH Issues #8, #9, #20, #119, #153, #154 and Special Missions Issues #24 and #27.
           </p>
           <p className="tribute-notes-footnote">
             **IDW's G.I. Joe license ended at the close of 2022. It was picked up by Skybound Entertainment in 2023.
