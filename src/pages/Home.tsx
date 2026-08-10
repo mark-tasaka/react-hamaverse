@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 9, 2026</p>
+          <p className="update-log-date">August 10, 2026</p>
           <p className="update-log-entry">
-            Welcome to the launch of Hamaverse: Unofficial ARAH Comic Fan Site, a fan site dedicated to Mr. Hama's <em>G.I. Joe: A Real American Hero</em> (ARAH) series. This website is designed to be an ongoing work-in-progress, where new materials will be added to the site.
+            The character bios for <Link to="/character-bios/Stalker">Stalker</Link> and the <Link to="/character-bios/HardMaster">Hard Master</Link> have been added to the site. The bios include information about the characters' backgrounds, personalities, and roles within the G.I. Joe universe.
           </p>
 
           <div className="btn-row">

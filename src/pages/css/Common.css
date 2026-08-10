@@ -30,6 +30,30 @@
   margin-bottom: 0;
 }
 
+.updates-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 0 0 32px;
+}
+
+.about-text a,
+.update-log-entry a {
+  color: #2a2a2a;
+  text-decoration: none;
+  font-weight: 700;
+  text-decoration-color: #C4131B;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease;
+}
+
+.about-text a:hover,
+.update-log-entry a:hover {
+  color: #B8322A;
+}
+
 /* =====================================================
    Update Log
    ===================================================== */
@@ -90,6 +114,11 @@
 .btn-row {
   display: flex;
   justify-content: flex-end;
+}
+
+.btn-row-center {
+  display: flex;
+  justify-content: center;
 }
 
 /* =====================================================
