@@ -85,7 +85,7 @@ const Issue94: React.FC = () => {
         <section className="issue-section">
           <h2 className="issue-section-title">Detailed Summary</h2>
           <p>
-            There are two plots in this issue. The main story deals with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Baroness at the Bern Institute in Switzerland. The secondary takes place in Oakland, California, and involves Raptor divulging that he knows where Billy's father (the original Cobra Commander) is buried, and who killed him.
+            There are two plots in this issue. The main story deals with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Baroness at the Bern Institute in Switzerland. The secondary takes place in Oakland, California, and involves Raptor divulging that he knows where <Link to="/character-bios/Billy">Billy</Link>'s father (the original Cobra Commander) is buried, and who killed him.
           </p>
         </section>
 
@@ -95,7 +95,7 @@ const Issue94: React.FC = () => {
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is undergoing reconstructive surgery at the Bern Institute of Reconstructive Surgery in Switzerland. He has already gone through six surgeries, and Dr. Hundtkinder considers this one his masterpiece. <Link to="/character-bios/Scarlett">Scarlett</Link> waits in an adjoining room.
           </p>
           <p>
-            As the surgery continues, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' mind drifts back to the start of the Tet Offensive in Vietnam (January 31, 1968). He, Storm Shadow, and Stalker are meeting for the first time, en route to report to MACV-SOG in Saigon. They are about to board a jeep when a scooter carrying two Viet Cong opens fire, killing the driver and wounding Storm Shadow and Stalker. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> pursues the attackers in the jeep, but the Viet Cong open fire on the vehicle, causing it to crash and explode. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> escapes the wreckage unharmed.
+            As the surgery continues, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' mind drifts back to the start of the Tet Offensive in Vietnam (January 31, 1968). He, Storm Shadow, and Stalker are meeting for the first time, en route to report to MACV-SOG in Saigon. They are about to board a jeep when a scooter carrying two Viet Cong opens fire, killing the driver and wounding Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> pursues the attackers in the jeep, but the Viet Cong open fire on the vehicle, causing it to crash and explode. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> escapes the wreckage unharmed.
           </p>
           <p>
             Back at the Bern Institute, <Link to="/character-bios/Scarlett">Scarlett</Link> receives a call from Hawk, who fills her in on the recovery of Clutch and Rock 'n Roll, the capture of the Dreadnoks, and the explosion that knocked Zarana and Road Pig unconscious. Hawk tells her that when Zarana came to, she was raving about the Baroness and a plot involving Dr. Hundtkinder. Just then, <Link to="/character-bios/Scarlett">Scarlett</Link> drops the phone as the Baroness' helicopters land on the roof. She breaks into the operating room, ties up the doctor and nurses, and flees with an unconscious <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> in a wheelchair.
@@ -120,7 +120,7 @@ const Issue94: React.FC = () => {
         <section className="issue-section">
           <h2 className="issue-section-title">Oakland, California</h2>
           <p>
-            The issue shifts to Oakland. Billy says goodbye to his mother and leaves for the University of Berkeley on his scooter. A car nearly crashes into him, causing Billy to wipe out and crash his scooter against some garbage cans. Raptor emerges from the car, and Billy jump-kicks him, knocking him back against the vehicle. Billy grabs Raptor's head and is about to deliver a blow when Raptor tells him he knows where his father is buried and knows who killed him. The issue ends with Billy saying, "Start talking."
+            The issue shifts to Oakland. <Link to="/character-bios/Billy">Billy</Link> says goodbye to his mother and leaves for the University of Berkeley on his scooter. A car nearly crashes into him, causing <Link to="/character-bios/Billy">Billy</Link> to wipe out and crash his scooter against some garbage cans. Raptor emerges from the car, and <Link to="/character-bios/Billy">Billy</Link> jump-kicks him, knocking him back against the vehicle. <Link to="/character-bios/Billy">Billy</Link> grabs Raptor's head and is about to deliver a blow when Raptor tells him he knows where his father is buried and knows who killed him. The issue ends with <Link to="/character-bios/Billy">Billy</Link> saying, "Start talking."
           </p>
         </section>
 
