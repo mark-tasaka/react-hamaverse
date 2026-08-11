@@ -6,6 +6,12 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
 
+      
+      <p className="update-log-date">August 10, 2026</p>
+      <p className="update-log-entry">
+        The character bios for <Link to="/character-bios/Jinx">Jinx</Link> has been added.  An addition section (Retirement to the High Sierras) has been added to <Link to="/character-bios/Scarlett">Scarlett</Link>'s bio. 
+      </p>
+
       <p className="update-log-date">August 10, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/Stalker">Stalker</Link> and the <Link to="/character-bios/HardMaster">Hard Master</Link> have been added to the site. The bios include information about the characters' backgrounds, personalities, and roles within the G.I. Joe universe.
