@@ -182,7 +182,7 @@ const Scarlett: React.FC = () => {
             In a battle at the Pit, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> sacrifices himself, catching a live grenade and throwing himself and the recently resurrected Serpentor off a ledge, killing them both (Issue #213). To keep Cobra from gaining an advantage from knowledge of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death, Sean Collins takes on his mantle, appearing publicly alongside Scarlett in his place.
         </p>
         <p>
-            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death deeply affects Scarlett. Spending her days with Sean stirs up memories of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and even riding the Staten Island Ferry brings back memories of the trips she once took with him. One day, as Sean stands by the rail, Scarlett looks up with tears in her eyes, overcome by memories of her lost love. She asks him to stay there a moment longer, so she can remember him (Issue #217).
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death deeply affects Scarlett. Spending her days with Sean stirs up memories of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.  Riding the Staten Island Ferry with Sean brings back memories of the trips she once took with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. One day, as Sean stands by the rail, Scarlett looks up with tears in her eyes, overcome by memories of her lost love. She asks him to stay there a moment longer, so she can remember him (Issue #217).
         </p>
         </section>
 
