@@ -16,6 +16,7 @@ import billy10 from './img/billy/Billy_10.png';
 import billy11 from './img/billy/Billy_11.png';
 import billy12 from './img/billy/Billy_12.png';
 import billy13 from './img/billy/Billy_13.png';
+import billy14 from './img/billy/Billy_14.png';
 
 const Billy: React.FC = () => {
   return (
@@ -212,6 +213,14 @@ const Billy: React.FC = () => {
           </p>
           <p>
             Some time later, at the Brooklyn dojo, Billy, Storm Shadow, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and the Russian sensei are attacked by the Blue Ninjas. Billy is killed (Issue #172). Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> return his body to Cobra Commander at Broca Beach. Cobra Commander holds a funeral for his son but does not deliver a eulogy, since Billy had not returned to him willingly. He is buried at the Broca Beach cemetery (Issue #174).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Arashikage Shrine of Remembrance</h2>
+          <img src={billy14} alt="The Arashikage shrine of remembrance for Billy" className="profile-block-img" />
+          <p>
+            Storm Shadow travels to Japan carrying Billy's sword and photo, bringing them to his aunt, Obake Obasan ("Demon Granny") — the late wife of the <Link to="/character-bios/HardMaster">Hard Master</Link> and head of the Arashikage clan. Obake Obasan takes Storm Shadow to the room where the photos and swords of the fallen are kept. Storm Shadow places Billy's sword among the blades of the fallen; Obake Obasan places Billy's photo on the altar, beside the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s. Together, they kneel before the photos of the fallen, light incense, and pay their respects (Issue #183).
           </p>
         </section>
 
