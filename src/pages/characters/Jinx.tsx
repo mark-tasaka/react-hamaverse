@@ -19,7 +19,7 @@ const Jinx: React.FC = () => {
         <h1 className="character-profile-title">Jinx</h1>
 
         <p className="profile-intro">
-          Jinx is an Arashikage ninja and Storm Shadow's second cousin on her mother's side. She is introduced a third of the way into the Marvel run (Issue #59), her introduction is closely tied to <Link to="/character-bios/Billy">Billy's</Link> journey. Jinx is introduced alongside the <Link to="/character-bios/BlindMaster">Blind Master</Link>, expanding the members of the Arashikage clan members.
+          Jinx is an Arashikage ninja and Storm Shadow's second cousin on her mother's side. She is introduced a third of the way into the Marvel run (Issue #59), her introduction is closely tied to <Link to="/character-bios/Billy">Billy's</Link> journey. Jinx is introduced alongside the <Link to="/character-bios/BlindMaster">Blind Master</Link>, introducing the reader to more named members of the Arashikage clan.
         </p>
 
         <section className="profile-block">
