@@ -220,7 +220,7 @@ const Billy: React.FC = () => {
           <h2 className="profile-block-title">Arashikage Shrine of Remembrance</h2>
           <img src={billy14} alt="The Arashikage shrine of remembrance for Billy" className="profile-block-img" />
           <p>
-            Storm Shadow travels to Japan carrying Billy's sword and photo, bringing them to his aunt, Obake Obasan ("Demon Granny") — the late wife of the <Link to="/character-bios/HardMaster">Hard Master</Link> and head of the Arashikage clan. Obake Obasan takes Storm Shadow to the room where the photos and swords of the fallen are kept. Storm Shadow places Billy's sword among the blades of the fallen; Obake Obasan places Billy's photo on the altar, beside the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s. Together, they kneel before the photos of the fallen, light incense, and pay their respects (Issue #183).
+            Storm Shadow travels to Japan carrying Billy's sword and photo, bringing them to his aunt, Obake Obassan ("Demon Granny") — the late wife of the <Link to="/character-bios/HardMaster">Hard Master</Link> and head of the Arashikage clan. Obake Obassan takes Storm Shadow to the room where the photos and swords of the fallen are kept. Storm Shadow places Billy's sword among the blades of the fallen; Obake Obassan places Billy's photo on the altar, beside the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s. Together, they kneel before the photos of the fallen, light incense, and pay their respects (Issue #183).
           </p>
         </section>
 

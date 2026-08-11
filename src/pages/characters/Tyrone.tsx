@@ -14,7 +14,7 @@ const Tyrone: React.FC = () => {
         <h1 className="character-profile-title">Tyrone</h1>
 
         <p className="profile-intro">
-          Tyrone starts out as a troubled youth with an alcoholic mother and a father who abandoned them. He meets the <Link to="/character-bios/BlindMaster">Blind Master</Link> after a failed attempt at stealing <Link to="/character-bios/Jinx">Jinx</Link>'s purse. The <Link to="/character-bios/BlindMaster">Blind Master</Link>'s mentorship and friendship put Tyrone's life on a new path. After the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s death, Zartan — disguised as the <Link to="/character-bios/BlindMaster">Blind Master</Link> — resumes the mentorship of Tyrone. Tyrone's life is cut short when he succumbs to botulism aboard the buried freighter.
+          Tyrone starts out as a troubled youth with an alcoholic mother and a father who abandoned them. He meets the <Link to="/character-bios/BlindMaster">Blind Master</Link> after a failed attempt at stealing <Link to="/character-bios/Jinx">Jinx</Link>'s purse. The <Link to="/character-bios/BlindMaster">Blind Master</Link>'s mentorship and friendship put Tyrone's life on a new path. After the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s death, Zartan — disguised as the <Link to="/character-bios/BlindMaster">Blind Master</Link> — resumes the mentorship of Tyrone. Tyrone's life is cut short when he succumbs to botulism on the buried freighter.
         </p>
 
         <section className="profile-block">
