@@ -232,7 +232,7 @@ const SnakeEyes: React.FC = () => {
             Overcome with guilt, the Baroness strikes Snake Eyes' hand, breaking his grip on her. Storm Shadow catches her before she can fall to her death, and together, he and Snake Eyes help her toward Destro's helicopter. But as Destro reaches out for Snake Eyes, the floor beneath Snake Eyes and Storm Shadow gives way.
           </p>
           <p>
-            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and Storm Shadow as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link> — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (Issue #96).
+            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and Storm Shadow as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link> — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (<Link to="/comic-issues/Issue96">Issue #96</Link>).
           </p>
         </section>
 

@@ -11,6 +11,7 @@ import billyImg from './img/portraits/billy.jpg';
 import hardMasterImg from './img/portraits/hardMaster.jpg';
 import stalkerImg from './img/portraits/stalker.jpg';
 import jinxImg from './img/portraits/jinx.jpg';
+import tyroneImg from './img/portraits/tyrone.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -159,7 +160,23 @@ const CHARACTERS: Character[] = [
       year: '1987',
       month: 'February',
     },
-  }
+  },
+  {
+    name: 'Tyrone',
+    img: tyroneImg,
+    link: '/character-bios/Tyrone',
+    rank: 8,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 67,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 67',
+      year: '1988',
+      month: 'January',
+    },
+  },
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';
