@@ -62,7 +62,7 @@ const BlindMaster: React.FC = () => {
             The Blind Master, Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> are standing on a street in San Francisco watching TV through a shop window when a youth runs by and snatches <Link to="/character-bios/Jinx">Jinx</Link>'s purse. The Blind Master throws his cane, tripping the youth and causing him to drop the purse. A nearby police officer sees this and moves to take the youth into custody. The Blind Master tells the officer he's mistaken — the youth had tripped over the cane and grabbed the purse only to catch himself. The officer lets the youth go.
           </p>
           <p>
-            The youth's name is Tyrone. The Blind Master asks him why he tried to steal the purse. Tyrone explains that his mother is an alcoholic and he doesn't know where his father is — he needed the money. The Blind Master offers to pay Tyrone a fair wage to guide him across San Francisco (Issue #67).
+            The youth's name is <Link to="/character-bios/Tyrone">Tyrone</Link>. The Blind Master asks him why he tried to steal the purse. <Link to="/character-bios/Tyrone">Tyrone</Link> explains that his mother is an alcoholic and he doesn't know where his father is — he needed the money. The Blind Master offers to pay <Link to="/character-bios/Tyrone">Tyrone</Link> a fair wage to guide him across San Francisco (Issue #67).
           </p>
         </section>
 
@@ -76,7 +76,7 @@ const BlindMaster: React.FC = () => {
             In the alley, the two fight. The Blind Master gains the upper hand when Zartan mistakenly grabs his shoulder. The Blind Master laughs and says, "I know where you are." He slams the bloodied Zartan against the wall, holding him by the neck with one hand while producing a switchblade with the other.
           </p>
           <p>
-            Zartan goads the Blind Master to kill him, claiming he's been plagued with guilt over Professor Onihashi's death (Onihashi had died by ritual suicide over Zartan's betrayal and murder of the <Link to="/character-bios/HardMaster">Hard Master</Link>). Just then, Tyrone arrives and grabs the Blind Master's arm, begging his mentor not to kill Zartan, a now-helpless man. "Doing so would go against everything you taught me," Tyrone pleads. The Blind Master tries to justify his actions. Heartbroken, Tyrone walks away.
+            Zartan goads the Blind Master to kill him, claiming he's been plagued with guilt over Professor Onihashi's death (Onihashi had died by ritual suicide over Zartan's betrayal and murder of the <Link to="/character-bios/HardMaster">Hard Master</Link>). Just then, <Link to="/character-bios/Tyrone">Tyrone</Link> arrives and grabs the Blind Master's arm, begging his mentor not to kill Zartan, a now-helpless man. "Doing so would go against everything you taught me," <Link to="/character-bios/Tyrone">Tyrone</Link> pleads. The Blind Master tries to justify his actions. Heartbroken, <Link to="/character-bios/Tyrone">Tyrone</Link> walks away.
           </p>
           <p>
             The Blind Master comes to his senses, drops the knife, and turns to leave. Zartan picks up the blade and stabs him in the back. As the Blind Master lies dying on the ground, he tells Zartan that he was wrong — that it took a kid to show him how blind he truly was. Zartan scoffs, "Sure! All was forgiven! I'll just bet!"
@@ -85,7 +85,7 @@ const BlindMaster: React.FC = () => {
             With his dying breath, the Blind Master reveals that Onihashi had forgiven Zartan with his last breath — Zartan had been carrying his guilt for nothing all these years. The Blind Master dies. Stunned, Zartan asks how Onihashi could have forgiven him for what he'd done — how there could be so much compassion in a person's heart.
           </p>
           <p>
-            To set things right, Zartan takes on the form of the dead Blind Master, resolving to carry on his work of mentoring Tyrone. He runs out of the alley and calls out to Tyrone, telling him he was wrong and asking for his forgiveness. The two walk off down the street together (Issue #91).
+            To set things right, Zartan takes on the form of the dead Blind Master, resolving to carry on his work of mentoring <Link to="/character-bios/Tyrone">Tyrone</Link>. He runs out of the alley and calls out to <Link to="/character-bios/Tyrone">Tyrone</Link>, telling him he was wrong and asking for his forgiveness. The two walk off down the street together (Issue #91).
           </p>
         </section>
 

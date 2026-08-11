@@ -163,7 +163,7 @@ const Billy: React.FC = () => {
             While riding his scooter to the University of California, Berkeley, Billy is nearly struck by a car and crashes. Raptor emerges from the vehicle and tells him he knows where his father is buried — and who killed him (Issue #94). Raptor and Billy travel to the mountains outside Denver, where the body lies.
           </p>
           <p>
-            As they prepare to exhume the grave, Tyrone and the <Link to="/character-bios/BlindMaster">Blind Master</Link> (secretly Zartan in disguise) arrive. The <Link to="/character-bios/BlindMaster">Blind Master</Link> strikes Raptor for desecrating the grave, warning against the cycle of vengeance. Billy counters that the target of their revenge is the current Cobra Commander (Issue #94). Rather than exhuming the body, the four travel to the Gulf of Mexico and hire Captain Minh to take them to Cobra Island.
+            As they prepare to exhume the grave, <Link to="/character-bios/Tyrone">Tyrone</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> (secretly Zartan in disguise) arrive. The <Link to="/character-bios/BlindMaster">Blind Master</Link> strikes Raptor for desecrating the grave, warning against the cycle of vengeance. Billy counters that the target of their revenge is the current Cobra Commander (Issue #94). Rather than exhuming the body, the four travel to the Gulf of Mexico and hire Captain Minh to take them to Cobra Island.
           </p>
           <p>
             On the island's beach, Billy watches Cobra Commander through binoculars and notices his body language doesn't match his father's. Raptor reveals that the man posing as Cobra Commander is actually Fred VII, who killed the real Cobra Commander and took his place. The <Link to="/character-bios/BlindMaster">Blind Master</Link> (Zartan) is the first to leave the group, asking the others to stay put while he scouts ahead. Later, Raptor departs on a mission of his own.
@@ -180,7 +180,7 @@ const Billy: React.FC = () => {
             Shortly after, Raptor confronts Dr. Mindbender privately, describing his difficulty controlling the imposter Cobra Commander, and reveals he knows where the real Cobra Commander is buried — remains Dr. Mindbender could use to clone a more controllable "competitor." Raptor, Dr. Mindbender, and a team of Vipers depart to exhume the body.
           </p>
           <p>
-            That night, Billy, Tyrone, and Captain Minh come under attack by Night Vipers on the beach. They flee into a drain tunnel beneath the island, where Croc Master captures them (Issue #97).
+            That night, Billy, <Link to="/character-bios/Tyrone">Tyrone</Link>, and Captain Minh come under attack by Night Vipers on the beach. They flee into a drain tunnel beneath the island, where Croc Master captures them (Issue #97).
           </p>
           <p>
             Croc Master brings the trio to the landlocked freighter. The next day, inside, Fred VII, Voltar, Zartan, and Firefly are arguing when the lights go out and the hatch opens, revealing the original Cobra Commander and his loyal Crimson Guard standing above, alongside Dr. Mindbender, Raptor, and the Viper excavation team.
