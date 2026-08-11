@@ -151,7 +151,7 @@ const Scarlett: React.FC = () => {
             A month after G.I. Joe is disbanded, Scarlett, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Hawk, and a select team of Joes go on one last mission (Frontline Issue #1). Afterward, Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> retire to their cabin in the High Sierras.
           </p>
           <p>
-            A month later, <Link to="/character-bios/Stalker">Stalker</Link> — now a recruiting sergeant in Detroit — receives a heartfelt letter from Scarlett. She tells him they're in the process of expanding the cabin to make room for guests, hinting that she hopes to have children. She asks how he's doing now that he's stuck behind a desk, mentions that Gung-Ho is stationed at Guantánamo (Gitmo) and Duke at Fort Benning, and closes with the news that Timber has passed — but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
+            A month later, <Link to="/character-bios/Stalker">Stalker</Link> — now a recruiting sergeant in Detroit — receives a heartfelt letter from Scarlett. She tells him they're in the process of expanding the cabin to make room for guests, hinting that she hopes to have children soon. She asks how he's doing now that he's stuck behind a desk, mentions that Gung-Ho is stationed at Guantánamo (Gitmo) and Duke at Fort Benning, and closes with the news that Timber has passed — but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
           </p>
           <p>
             The final page shows Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> standing over Timber's freshly dug grave, as one of his pups runs to them and leaps into <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' arms. The mother wolf and her remaining offspring move off into the distance, leaving the one pup behind with Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
@@ -171,7 +171,7 @@ const Scarlett: React.FC = () => {
             Duke attacks. Scarlett, who had been hiding nearby and observing the Red Ninja, jumps out of cover to support him, and together they defeat the attackers. Duke tells Scarlett, "Anabasis is a go," signaling that the G.I. Joe team has been reactivated.
           </p>
           <p>
-            Duke and Scarlett drive on to the cabin, where they find it burning and the bodies of Red Ninja scattered outside. They arrive in time to see <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> finishing off the last of them. Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rejoin the reactivated G.I. Joe team (Issue #160).
+            Duke and Scarlett drive on to the cabin, where they find it burning and the bodies of Red Ninja scattered outside. They arrive in time to see <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> finishing off the last of them. Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rejoin the reactivated G.I. Joe team (Issue #156).
           </p>
         </section>
 

@@ -89,9 +89,9 @@ const CHARACTERS: Character[] = [
     secondaryFaction: '',
     status: 'Dead',
     introduced: {
-      issueNumber: 56,
+      issueNumber: 59,
       publisher: 'Marvel',
-      issueLabel: 'Issue 56',
+      issueLabel: 'Issue 59',
       year: '1987',
       month: 'February',
     },

@@ -39,13 +39,13 @@ const BlindMaster: React.FC = () => {
           <h2 className="profile-block-title">Rescue in the Borovian Gulag</h2>
           <img src={blindMaster2} alt="The Blind Master's rescue mission in the Borovian gulag" className="profile-block-img" />
           <p>
-            Stalker, Snow Job, and Quick Kick are captured in Borovia (a Communist state) on a mission. The State Department denies any connection to them, so the Joes cannot launch a rescue mission (Issue #61). The Blind Master travels to Grenada to meet up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>, who are there on vacation with Flint and Lady Jay.
+            <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are captured in Borovia (a Communist state) on a mission. The State Department denies any connection to them, so the Joes cannot launch a rescue mission (Issue #61). The Blind Master travels to Grenada to meet up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>, who are there on vacation with Flint and Lady Jay.
           </p>
           <p>
             The Blind Master meets up with the four on a dirt road in Grenada. He pretends to be a blind man trying to reach the airport to meet his daughter. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> offer to guide him there, taking a shortcut through a field of tall grass, while Flint and Lady Jay continue walking down the road.
           </p>
           <p>
-            Flint recalls having seen that field before — in newspaper articles about mine-clearing efforts underway there. Just as he calls out to warn the others, a powerful explosion goes off. The Blind Master uses the blast to fake their deaths, allowing the three of them to slip away on a mission to rescue Stalker, Snow Job, and Quick Kick from the Borovian gulag (Issue #66).
+            Flint recalls having seen that field before — in newspaper articles about mine-clearing efforts underway there. Just as he calls out to warn the others, a powerful explosion goes off. The Blind Master uses the blast to fake their deaths, allowing the three of them to slip away on a mission to rescue <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick from the Borovian gulag (Issue #66).
           </p>
           <p>
             The Blind Master, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> first travel to France (Issue #64). From there, they make their way to Borovia, finding work in the White Clown's circus troupe (Issue #65). The White Clown is assisted by Orlovsky the dwarf. The trio learns that the White Clown's lover, Magda, is imprisoned in a gulag for criticizing the government — a different gulag from the one holding the three captured Joes.

@@ -63,7 +63,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Vietnam War: LRRP Patrol</h2>
           <img src={snakeEyes3} alt="Snake Eyes on an LRRP patrol" className="profile-block-img" />
           <p>
-            During Snake Eyes' second tour, he is part of a six-man Long Range Reconnaissance Patrol (LRRP) led by Stalker (Lonzo Wilkinson) and including Storm Shadow (Thomas Arashikage), Wade Collins, Ramon Escobedo, and Dickie Saperstein. Collins is on point when the patrol walks into an encampment of NVA regulars. Collins is shot and believed killed. Outnumbered, the patrol retreats, but Escobedo is shot dead and Saperstein is killed instantly after stepping on a landmine. Only Snake Eyes, Stalker, and Storm Shadow escape (Issue #155).
+            During Snake Eyes' second tour, he is part of a six-man Long Range Reconnaissance Patrol (LRRP) led by <Link to="/character-bios/Stalker">Stalker</Link> (Lonzo Wilkinson) and including Storm Shadow (Thomas Arashikage), Wade Collins, Ramon Escobedo, and Dickie Saperstein. Collins is on point when the patrol walks into an encampment of NVA regulars. Collins is shot and believed killed. Outnumbered, the patrol retreats, but Escobedo is shot dead and Saperstein is killed instantly after stepping on a landmine. Only Snake Eyes, <Link to="/character-bios/Stalker">Stalker</Link>, and Storm Shadow escape (Issue #155).
           </p>
           <p>
             At the LZ, the three come under heavy enemy fire as when the Huey arrives. Snake Eyes is hit, dropping the photo of his twin sister, Terri, as he falls. Storm Shadow leaps from the Huey and runs through a hail of gunfire to retrieve his wounded friend. Once aboard, he uses his own wrist wraps to bandage Snake Eyes' injuries (<Link to="/comic-issues/Issue26">Issue #26</Link>) and employs the Arashikage Mindset to aid the healing process (Issue #108).
@@ -93,7 +93,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Recruitment to G.I. Joe</h2>
           <img src={snakeEyes6} alt="Snake Eyes recruited to G.I. Joe" className="profile-block-img" />
           <p>
-            Colonel Clayton Abernathy (Hawk) is putting together the G.I. Joe team, and Stalker (Lonzo Wilkinson) recommends Snake Eyes for it. Hawk and Stalker learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
+            Colonel Clayton Abernathy (Hawk) is putting together the G.I. Joe team, and <Link to="/character-bios/Stalker">Stalker</Link> (Lonzo Wilkinson) recommends Snake Eyes for it. Hawk and <Link to="/character-bios/Stalker">Stalker</Link> learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -162,7 +162,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Wade Collins Survived Vietnam</h2>
           <img src={snakeEyes12} alt="Snake Eyes discovering Wade Collins survived Vietnam" className="profile-block-img" />
           <p>
-            Snake Eyes and Stalker are at the Vietnam Memorial in Washington, using the directory of names to find the location of Wade Collins' name on the wall, when they discover his name is not listed. Just then, the pair are confronted by a man with a pistol raised, who claims that Wade Collins is not dead — that Cobra has given him a new face, a new name, and a new life (Issue #42).
+            Snake Eyes and <Link to="/character-bios/Stalker">Stalker</Link> are at the Vietnam Memorial in Washington, using the directory of names to find the location of Wade Collins' name on the wall, when they discover his name is not listed. Just then, the pair are confronted by a man with a pistol raised, who claims that Wade Collins is not dead — that Cobra has given him a new face, a new name, and a new life (Issue #42).
           </p>
           <p>
             The man claims he is Wade Collins, and that Cobra plastic surgeons gave him a new face. Wade says he never died in Vietnam; instead, he was wounded and captured by the NVA (North Vietnamese Army). Wade spends the next two years rotting away in a POW camp under horrible conditions.
@@ -174,7 +174,7 @@ const SnakeEyes: React.FC = () => {
             One day, he comes across a Cobra recruitment poster in a small town. Wade joins the organization and works his way up through the ranks. When the Crimson Guard is formed, he is one of the first to join. He undergoes plastic surgery to match the others in his series (the Fred series).
           </p>
           <p>
-            Stalker and Snake Eyes convince Wade that Cobra is using him. The three drive back to Staten Island, where Wade meets his adoptive family and convinces them to flee Cobra with him to start a new life (Issue #43).
+            <Link to="/character-bios/Stalker">Stalker</Link> and Snake Eyes convince Wade that Cobra is using him. The three drive back to Staten Island, where Wade meets his adoptive family and convinces them to flee Cobra with him to start a new life (Issue #43).
           </p>
         </section>
 
@@ -182,19 +182,19 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Rescue Mission in Borovia</h2>
           <img src={snakeEyes13} alt="Snake Eyes' rescue mission in Borovia" className="profile-block-img" />
           <p>
-            Stalker, Quick Kick, Snow Job, and Outback are sent on an undercover mission to the People's Democratic Republic of Borovia (a Communist state), disguised as trade emissaries. The mission goes south: Stalker, Quick Kick, and Snow Job are captured, while Outback escapes (Outback wants to stay and fight, but Stalker orders him to escape). The U.S. State Department denies any connection to the three captive Joes, and as a result, the G.I. Joes are denied a rescue mission (Issue #61).
+            <Link to="/character-bios/Stalker">Stalker</Link>, Quick Kick, Snow Job, and Outback are sent on an undercover mission to the People's Democratic Republic of Borovia (a Communist state), disguised as trade emissaries. The mission goes south: <Link to="/character-bios/Stalker">Stalker</Link>, Quick Kick, and Snow Job are captured, while Outback escapes (Outback wants to stay and fight, but <Link to="/character-bios/Stalker">Stalker</Link> orders him to escape). The U.S. State Department denies any connection to the three captive Joes, and as a result, the G.I. Joes are denied a rescue mission (Issue #61).
           </p>
           <p>
             Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, Flint, and Lady Jay are vacationing in Grenada when they encounter a blind man walking down the road. The blind man asks for help reaching the airfield in time to meet his daughter, and Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> agree to guide him through a shortcut across a field of tall grass, while Lady Jay and Flint remain on the road.
           </p>
           <p>
-            Flint finds himself wondering where he has seen that field before — then realizes he has seen news articles identifying it as a minefield. Just after uncovering a "Danger: Mines" sign buried in the grass, an explosion goes off. It appears that Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the blind man have been killed in the blast. The blind man, however, turns out to be the Blind Master, who has helped Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> fake their deaths so they can travel to Borovia to rescue Stalker, Quick Kick, and Snow Job (Issue #63).
+            Flint finds himself wondering where he has seen that field before — then realizes he has seen news articles identifying it as a minefield. Just after uncovering a "Danger: Mines" sign buried in the grass, an explosion goes off. It appears that Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the blind man have been killed in the blast. The blind man, however, turns out to be the Blind Master, who has helped Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> fake their deaths so they can travel to Borovia to rescue <Link to="/character-bios/Stalker">Stalker</Link>, Quick Kick, and Snow Job (Issue #63).
           </p>
           <p>
             Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master first travel to France (Issue #64), then on to Borovia, where they join a circus troupe (Issue #65). The troupe is led by the White Clown, whose lover, Magda, is locked away in a Borovian gulag for criticizing the government. Assisting the White Clown is the dwarf Orlovsky.
           </p>
           <p>
-            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
+            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including <Link to="/character-bios/Stalker">Stalker</Link>, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
           </p>
         </section>
 
@@ -220,7 +220,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes then makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the Baroness herself. Snake Eyes then proceeds upward to confront them (Issue #95).
           </p>
           <p>
-            Outside the Consulate, at a newsstand, Stalker, Storm Shadow, and Wade Collins keep watch. Storm Shadow uses his ninja abilities to scale the Consulate's walls to reach Snake Eyes. Meanwhile, the Baroness and the surviving Vipers barricade themselves in the penthouse. Snake Eyes, disguised as one of the Vipers, waits inside as Storm Shadow approaches from the other side of the penthouse door. A Heat Viper fires a missile that blows the barricade open; Storm Shadow dodges the blast and enters, searching for Snake Eyes. Snake Eyes then reveals himself, and the sword brothers square off as the penthouse begins to collapse around them.
+            Outside the Consulate, at a newsstand, <Link to="/character-bios/Stalker">Stalker</Link>, Storm Shadow, and Wade Collins keep watch. Storm Shadow uses his ninja abilities to scale the Consulate's walls to reach Snake Eyes. Meanwhile, the Baroness and the surviving Vipers barricade themselves in the penthouse. Snake Eyes, disguised as one of the Vipers, waits inside as Storm Shadow approaches from the other side of the penthouse door. A Heat Viper fires a missile that blows the barricade open; Storm Shadow dodges the blast and enters, searching for Snake Eyes. Snake Eyes then reveals himself, and the sword brothers square off as the penthouse begins to collapse around them.
           </p>
           <p>
             The Vipers are thrown to their deaths as the floor gives way. The Baroness is about to fall as well, when Snake Eyes catches her hand. Shocked that he would save her, she draws her pistol with her free hand and points it at him, vowing she will still have her revenge. At that moment, Destro arrives in the crew compartment of a Cobra helicopter.
@@ -254,7 +254,7 @@ const SnakeEyes: React.FC = () => {
             Storm Shadow wants to give his friend a mission to take his mind off the upcoming termination of <Link to="/character-bios/Scarlett">Scarlett</Link>'s life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of Snake Eyes' late twin sister and is being held prisoner in a Borovian gulag. Storm Shadow believes that a mission to rescue someone so dear to Snake Eyes will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission.
           </p>
           <p>
-            Snake Eyes, Storm Shadow, and Stalker board a B-2 stealth bomber that flies over Borovian airspace. Just before Snake Eyes makes his HALO jump, Storm Shadow uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As Snake Eyes descends toward the ground, <Link to="/character-bios/Scarlett">Scarlett</Link> awakes from her coma, asking for him (Issue #103).
+            Snake Eyes, Storm Shadow, and <Link to="/character-bios/Stalker">Stalker</Link> board a B-2 stealth bomber that flies over Borovian airspace. Just before Snake Eyes makes his HALO jump, Storm Shadow uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As Snake Eyes descends toward the ground, <Link to="/character-bios/Scarlett">Scarlett</Link> awakes from her coma, asking for him (Issue #103).
           </p>
           <p>
             Borovia is in a state of political turmoil: the Marxist-Leninist government is being overthrown, and an ethnic cleansing of the Lower Borovians is underway. Snake Eyes lands on the roof of a government building occupied by Lower Borovian soldiers who are firing on the crowds below. He breaks through a window, kills the soldiers, and throws their bodies out into the street; this rallies the masses outside, who storm the building in search of the masked stranger.
@@ -295,7 +295,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes gives Sean a heartfelt and honest reply. He says there is no honor or glory in the occupation of a soldier and tells Sean about the other LRRP members he and Wade had served with. Ramon Escobedo had re-upped for a second tour to keep his younger brother from being sent to 'Nam. Dickie Saperstein had re-upped for a second tour to pay for his father's heart surgery. Dickie's dad died on the operating table. Both Ramon and Dickie died the same day Wade was taken captive.
           </p>
           <p>
-            Snake Eyes explains that Stalker had joined the Army to escape the mean streets of Detroit, which had already claimed the lives of his two older brothers. Stalker never told his mother he was serving in Vietnam; instead, he had a cousin stationed in Germany reroute his letters, so that his mother believed he was stationed there instead.
+            Snake Eyes explains that <Link to="/character-bios/Stalker">Stalker</Link> had joined the Army to escape the mean streets of Detroit, which had already claimed the lives of his two older brothers. <Link to="/character-bios/Stalker">Stalker</Link> never told his mother he was serving in Vietnam; instead, he had a cousin stationed in Germany reroute his letters, so that his mother believed he was stationed there instead.
           </p>
           <p>
             Snake Eyes then speaks of returning home from the war — there were no welcome parties or parades; he was spat on and called a baby killer. In the end, he tells Sean he has no regrets about being a soldier, as he'd had the privilege of serving alongside men and women he could depend on utterly. He closes by writing that bearing arms for the Constitution "is not a profession per se, it is a trust" (Issue #155).
