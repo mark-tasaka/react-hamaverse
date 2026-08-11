@@ -19,7 +19,7 @@ const Jinx: React.FC = () => {
         <h1 className="character-profile-title">Jinx</h1>
 
         <p className="profile-intro">
-          Jinx is an Arashikage ninja and Storm Shadow's second cousin on her mother's side.
+          Jinx is an Arashikage ninja and Storm Shadow's second cousin on her mother's side. She is introduced a third of the way into the Marvel run (Issue #59), her introduction is closely tied to <Link to="/character-bios/Billy">Billy's</Link> journey. Jinx is introduced alongside the <Link to="/character-bios/BlindMaster">Blind Master</Link>, expanding the members of the Arashikage clan members.
         </p>
 
         <section className="profile-block">
@@ -122,7 +122,7 @@ const Jinx: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            A figure for Jinx was produced in 1987 — her only figure during the Marvel run (1982–1994). In the 2000s, multiple versions of Jinx's action figure were produced. Jinx's original file card lists her rank as E-5 (Sergeant) and her file name as classified. The second (2003) and third (2004) versions of her action figure refer to her as "Agent Jinx," while the versions released in 2012 and 2013 refer to her as "Kim Arashikage." All versions of the file card, however, still list her name as classified.
+            A figure for Jinx was produced in <a href="https://www.yojoe.com/action/87/jinx.shtml" target="_blank" rel="noopener noreferrer">1987</a> — her only figure during the Marvel run (1982–1994). In the 2000s, multiple versions of Jinx's action figure were produced. Jinx's original file card lists her rank as E-5 (Sergeant) and her file name as classified. The <a href="https://www.yojoe.com/action/03/agentjinx.shtml" target="_blank" rel="noopener noreferrer">second (2003)</a> and <a href="https://www.yojoe.com/action/04/agentjinx2.shtml" target="_blank" rel="noopener noreferrer">third (2004)</a> versions of her action figure refer to her as "Agent Jinx," while the versions released in <a href="https://www.yojoe.com/action/12/kimarashikagea.shtml" target="_blank" rel="noopener noreferrer">2012</a> and <a href="https://www.yojoe.com/action/13/kimarashikage2.shtml" target="_blank" rel="noopener noreferrer">2013</a> refer to her as "Kim Arashikage." 
           </p>
           <p>
             I suspect "Kim Arashikage" was used for copyright reasons and serves as the character's code name rather than her real one — I don't believe Jinx's actual name was ever used in the Marvel series. That said, it's reasonable to believe Jinx's surname is Arashikage, even though she is related to Storm Shadow through her mother's side. In Japanese culture, it is not uncommon for a husband and children to adopt the wife's (mother's) surname.
