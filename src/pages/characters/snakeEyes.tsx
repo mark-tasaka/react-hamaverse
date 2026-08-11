@@ -194,7 +194,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master first travel to France (Issue #64), then on to Borovia, where they join a circus troupe (Issue #65). The troupe is led by the White Clown, whose lover, Magda, is locked away in a Borovian gulag for criticizing the government. Assisting the White Clown is the dwarf Orlovsky.
           </p>
           <p>
-            Storm Shadow, Jinx, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
+            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the Blind Master. Together, the six raid the gulag, kill the guards, and free all the prisoners, including Stalker, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the White Clown and Orlovsky, who have the circus cannon hauled behind his car. The White Clown fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
           </p>
         </section>
 

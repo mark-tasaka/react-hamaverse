@@ -87,7 +87,7 @@ const Scarlett: React.FC = () => {
             Scarlett, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link> first travel to France (Issue #64). From there, they make their way to Borovia, where they find work in the White Clown's circus troupe (Issue #65). The White Clown is assisted by Orlovsky the dwarf. The trio learns that the White Clown's lover, Magda, is imprisoned in a gulag for criticizing the government — a different gulag from the one holding the three captured Joes.
           </p>
           <p>
-            Storm Shadow, Jinx, and <Link to="/character-bios/Billy">Billy</Link> arrive at the circus, and the six mount a rescue mission together. They kill the guards and free the prisoners, including the three Joes. As they head for the border, the White Clown and Orlovsky appear in a car hauling their circus cannon. The Joes are loaded into the cannon and fired into the river bordering Borovia, allowing them to safely bypass the electric fence, barbed wire, and guard towers along the border (Issue #66).
+            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> arrive at the circus, and the six mount a rescue mission together. They kill the guards and free the prisoners, including the three Joes. As they head for the border, the White Clown and Orlovsky appear in a car hauling their circus cannon. The Joes are loaded into the cannon and fired into the river bordering Borovia, allowing them to safely bypass the electric fence, barbed wire, and guard towers along the border (Issue #66).
           </p>
         </section>
 
