@@ -23,6 +23,7 @@ import Contact from './pages/Contact'
 import Updates from './pages/Updates'
 import './App.css'
 import Stalker from './pages/characters/Stalker'
+import Jinx from './pages/characters/Jinx'
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
           <Route path="/character-bios/Billy" element={<Billy />} />
           <Route path="/character-bios/HardMaster" element={<HardMaster />} />
           <Route path="/character-bios/Stalker" element={<Stalker />} />
+          <Route path="/character-bios/Jinx" element={<Jinx />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
