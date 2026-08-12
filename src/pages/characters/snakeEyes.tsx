@@ -289,7 +289,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Letter to Sean Collins</h2>
           <img src={snakeEyes17} alt="Snake Eyes' letter to Sean Collins" className="profile-block-img" />
           <p>
-            On the day the Pit is being deactivated and the G.I. Joe team disbanded, Snake Eyes receives a letter from Sean Collins, Wade Collins' adopted son. Sean is turning seventeen in a month and wants his adoptive father to sign his enlistment papers so he can join the Army. Wade tells Sean he wants him to write to Snake Eyes first, before making his decision.
+            On the day the Pit is being deactivated and the G.I. Joe team disbanded, Snake Eyes receives a letter from <Link to="/character-bios/SeanCollins">Sean Collins</Link>, Wade Collins' adopted son. Sean is turning seventeen in a month and wants his adoptive father to sign his enlistment papers so he can join the Army. Wade tells Sean he wants him to write to Snake Eyes first, before making his decision.
           </p>
           <p>
             Snake Eyes gives Sean a heartfelt and honest reply. He says there is no honor or glory in the occupation of a soldier and tells Sean about the other LRRP members he and Wade had served with. Ramon Escobedo had re-upped for a second tour to keep his younger brother from being sent to 'Nam. Dickie Saperstein had re-upped for a second tour to pay for his father's heart surgery. Dickie's dad died on the operating table. Both Ramon and Dickie died the same day Wade was taken captive.
