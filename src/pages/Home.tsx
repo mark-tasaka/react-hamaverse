@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 11, 2026</p>
+          <p className="update-log-date">August 12, 2026</p>
           <p className="update-log-entry">
-            The character bios for <Link to="/character-bios/Tyrone">Tyrone</Link> has been added.
+            The character bios for <Link to="/character-bios/SeanCollins">Sean Collins</Link> has been added.  A new section (Tyrone's Younger Brother, Raymond) has been added to <Link to="/character-bios/Tyrone">Tyrone</Link>'s bio.  
           </p>
 
           <div className="btn-row">

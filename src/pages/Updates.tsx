@@ -5,6 +5,11 @@ function Updates() {
   return (
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
+      
+      <p className="update-log-date">August 11, 2026</p>
+      <p className="update-log-entry">
+        The character bios for <Link to="/character-bios/Tyrone">Tyrone</Link> has been added.
+      </p>
 
       
       <p className="update-log-date">August 10, 2026</p>
