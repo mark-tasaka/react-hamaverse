@@ -13,6 +13,7 @@ import stalkerImg from './img/portraits/stalker.jpg';
 import jinxImg from './img/portraits/jinx.jpg';
 import tyroneImg from './img/portraits/tyrone.jpg';
 import seanImg from './img/portraits/sean.jpg';
+import siobanImg from './img/portraits/sioban.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -193,7 +194,23 @@ const CHARACTERS: Character[] = [
       year: '1984',
       month: 'December',
     },
-  }
+  },
+  {
+    name: 'Sioban O\'Hara',
+    img: siobanImg,
+    link: '/character-bios/Sioban',
+    rank: 2,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 101,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 101',
+      year: '1990',
+      month: 'June',
+    },
+  },
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';

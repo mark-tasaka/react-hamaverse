@@ -15,6 +15,7 @@ import Stalker from './pages/characters/Stalker'
 import Jinx from './pages/characters/Jinx'
 import Tyrone from './pages/characters/Tyrone'
 import SeanCollins from './pages/characters/SeanCollins'
+import Sioban from './pages/characters/Sioban'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -48,6 +49,7 @@ function App() {
           <Route path="/character-bios/Jinx" element={<Jinx />} />
           <Route path="/character-bios/Tyrone" element={<Tyrone />} />
           <Route path="/character-bios/SeanCollins" element={<SeanCollins />} />
+          <Route path="/character-bios/Sioban" element={<Sioban />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
