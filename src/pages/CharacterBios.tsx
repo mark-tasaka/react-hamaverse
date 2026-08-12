@@ -12,6 +12,7 @@ import hardMasterImg from './img/portraits/hardMaster.jpg';
 import stalkerImg from './img/portraits/stalker.jpg';
 import jinxImg from './img/portraits/jinx.jpg';
 import tyroneImg from './img/portraits/tyrone.jpg';
+import seanImg from './img/portraits/sean.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -177,6 +178,22 @@ const CHARACTERS: Character[] = [
       month: 'January',
     },
   },
+  {
+    name: 'Sean Collins',
+    img: seanImg,
+    link: '/character-bios/SeanCollins',
+    rank: 68,
+    faction: 'G.I. Joe',
+    secondaryFaction: 'Arashikage',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 30,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 30',
+      year: '1984',
+      month: 'December',
+    },
+  }
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';
