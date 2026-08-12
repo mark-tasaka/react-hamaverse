@@ -12,7 +12,7 @@ const Sioban: React.FC = () => {
         <h1 className="character-profile-title">Sioban O'Hara</h1>
 
         <p className="profile-intro">
-          Sioban O'Hara is <Link to="/character-bios/Scarlett">Scarlett</Link>'s (Shana O'Hara) sister and an attorney-at-law practicing in Atlanta, Dallas, and Miami Beach. Sioban makes a brief appearance in the series while <Link to="/character-bios/Scarlett">Scarlett</Link> lies in a coma at a New York City hospital.
+          Sioban O'Hara is <Link to="/character-bios/Scarlett">Scarlett</Link>'s (Shana O'Hara) sister and an attorney-at-law practicing in Atlanta, Dallas, and Miami Beach. Sioban makes a brief appearance in the series when <Link to="/character-bios/Scarlett">Scarlett</Link> is in a coma at a New York City hospital.
         </p>
 
         <section className="profile-block">

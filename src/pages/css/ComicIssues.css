@@ -17,11 +17,11 @@
 }
 
 /* =====================================================
-   Four-column grid
+   Five-column grid
    ===================================================== */
 .comic-issues-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 32px;
   max-width: 1200px;
   margin: 0 auto;
@@ -146,6 +146,13 @@
 /* =====================================================
    Responsive
    ===================================================== */
+@media (max-width: 1280px) {
+  .comic-issues-grid {
+    grid-template-columns: repeat(4, 1fr);
+    max-width: 1200px;
+  }
+}
+
 @media (max-width: 1024px) {
   .comic-issues-grid {
     grid-template-columns: repeat(3, 1fr);
