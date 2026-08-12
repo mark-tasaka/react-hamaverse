@@ -8,6 +8,7 @@ import stormShadow2 from './img/stormShadow/stormShadow_2.png';
 import stormShadow3 from './img/stormShadow/stormShadow_3.png';
 import stormShadow4 from './img/stormShadow/stormShadow_4.png';
 import stormShadow5 from './img/stormShadow/stormShadow_5.png';
+import stormShadow6 from './img/stormShadow/stormShadow_6.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -86,6 +87,17 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             Storm Shadow begins training <Link to="/character-bios/Billy">Billy</Link> in the way of the ninja. Time passes, and <Link to="/character-bios/Billy">Billy</Link>'s skill and technique steadily improve. Storm Shadow tells him about the assassination of his uncle, the <Link to="/character-bios/HardMaster">Hard Master</Link>, and <Link to="/character-bios/Billy">Billy</Link> vows that one day he'll confront his father and learn who was truly responsible. Eventually, Storm Shadow returns to the dojo to find a note from <Link to="/character-bios/Billy">Billy</Link>, thanking him and explaining that he's going home to confront his past — and part of Storm Shadow's — and asking forgiveness for leaving this way. Setting the letter down, Storm Shadow says, "There is nothing to forgive, Billy" (Issue #42).
+          </p>
+        </section>
+        
+        <section className="profile-block">
+          <h2 className="profile-block-title">Uncovering the Identity of His Uncle's Murderer</h2>
+          <img src={stormShadow6} alt="Uncovering the identity of his uncle's murderer" className="profile-block-img" />
+          <p>
+            Before his death, the <Link to="/character-bios/SoftMaster">Soft Master</Link> discovered the identity of the <Link to="/character-bios/HardMaster">Hard Master</Link>'s killer in the Cobra police database in Springfield (Issue #43) and passed the information on to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
+          </p>
+          <p>
+            One night, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> enters Storm Shadow's secret water tower lair and hands him the <Link to="/character-bios/SoftMaster">Soft Master</Link>'s communiqué, identifying the killer as Zartan. Zartan had retrieved the arrow Storm Shadow fired at the squirrel on the other side of the wall, then used a compound bow fitted with sound-amplification and directional-ranging equipment to detect the target's heartbeat and breathing through the wall — mistaking the <Link to="/character-bios/HardMaster">Hard Master</Link> for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, since the <Link to="/character-bios/HardMaster">Hard Master</Link> was demonstrating the "Donning the Chameleon's Mantle" technique at the time. The compound bow's mechanical draw also let Zartan match Storm Shadow's own bow pull strength, allowing the arrow to penetrate the wall, the screen, and the <Link to="/character-bios/HardMaster">Hard Master</Link> himself (Issue #46).
           </p>
         </section>
 

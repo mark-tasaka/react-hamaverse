@@ -27,7 +27,7 @@ function Home() {
           <h2 className="update-log-title">Update Log</h2>
           <p className="update-log-date">August 12, 2026</p>
           <p className="update-log-entry">
-            The character bios for <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Sioban">Sioban O'Hara</Link> have been added. I have only completed the early history of Storm Shadow's bio, but I will be adding more information to it in the future.  
+            The character bios for <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Sioban">Sioban O'Hara</Link> have been added. I have only completed the early history of Storm Shadow's bio and will be adding more information to it in the future.  
           </p>
 
           <div className="btn-row">
