@@ -151,7 +151,7 @@ const Scarlett: React.FC = () => {
             A month after G.I. Joe is disbanded, Scarlett, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Hawk, and a select team of Joes go on one last mission (Frontline Issue #1). Afterward, Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> retire to their cabin in the High Sierras.
           </p>
           <p>
-            A month later, <Link to="/character-bios/Stalker">Stalker</Link> — now a recruiting sergeant in Detroit — receives a heartfelt letter from Scarlett. She tells him they're in the process of expanding the cabin to make room for guests, hinting that she hopes to have children soon. She asks how he's doing now that he's stuck behind a desk, mentions that Gung-Ho is stationed at Guantánamo (Gitmo) and Duke at Fort Benning, and closes with the news that Timber has passed — but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
+            A month later, <Link to="/character-bios/Stalker">Stalker</Link> — now a recruiting sergeant in Detroit — receives a heartfelt letter from Scarlett. She tells him they're in the process of expanding the cabin to make room for guests, hinting that she hopes to have children soon. She asks how he's doing now that he's stuck behind a desk, mentions that Gung-Ho is stationed at Guantánamo (Gitmo) and Duke at Fort Benning, and closes with the sad news that Timber has passed — but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
           </p>
           <p>
             The final page shows Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> standing over Timber's freshly dug grave, as one of his pups runs to them and leaps into <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' arms. The mother wolf and her remaining offspring move off into the distance, leaving the one pup behind with Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
@@ -193,10 +193,10 @@ const Scarlett: React.FC = () => {
             During a battle on Cobra Island, aboard a C-130, Scarlett intercepts a transmission from the Cobra lab: Dr. Mindbender has brought back the real <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and he is fighting his way through the facility. Scarlett and <Link to="/character-bios/Stalker">Stalker</Link> parachute out of the C-130 to find him.
         </p>
         <p>
-            On the ground, Scarlett and <Link to="/character-bios/Stalker">Stalker</Link> meet up with Storm Shadow and Wade Collins, who are locked in a firefight with Vipers, and join the battle. The W.H.A.L.E. hovercraft arrives, forcing the Vipers to retreat, and Scarlett, <Link to="/character-bios/Stalker">Stalker</Link>, Storm Shadow, and Wade board it to head for the Cobra lab.
+            On the ground, Scarlett and <Link to="/character-bios/Stalker">Stalker</Link> meet up with Storm Shadow and Wade Collins, who are locked in a firefight with Vipers. The W.H.A.L.E. hovercraft arrives, forcing the Vipers to retreat, and Scarlett, <Link to="/character-bios/Stalker">Stalker</Link>, Storm Shadow, and Wade board it. The W.H.A.L.E. heads for the Cobra lab.
         </p>
         <p>
-            The W.H.A.L.E. breaches the lab, where the Joes find <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> still battling Vipers. It opens fire, clearing them out, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> boards the craft and removes his mask. He says "Scarlett" — his vocal cords now undamaged — and the two embrace. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rejoins G.I. Joe and resumes his relationship with Scarlett (Issue #300).
+            The W.H.A.L.E. breaches the lab, where the Joes find <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> battling Vipers. The W.H.A.L.E. opens fire with its heavy machine guns, laying waste to the Vipers. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> boards the hovercraft and removes his mask. He says "Scarlett" — his vocal cords now undamaged — and the two embrace. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rejoins G.I. Joe and resumes his relationship with Scarlett (Issue #300).
         </p>
         </section>
 
