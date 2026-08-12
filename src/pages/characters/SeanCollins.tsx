@@ -18,7 +18,7 @@ const SeanCollins: React.FC = () => {
         <h1 className="character-profile-title">Sean Collins</h1>
 
         <p className="profile-intro">
-          Sean Collins is the adopted son of Wade Collins, who served in Vietnam alongside <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and Storm Shadow. A month before his seventeenth birthday, Sean writes to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> about his decision to enlist, and receives an honest, heartfelt reply telling him the truth about being a soldier. Sean decides to enlist and serves two tours as a Special Forces operator in Afghanistan. Years later, he joins G.I. Joe.
+          Sean Collins is the adopted son of Wade Collins, who served in Vietnam alongside <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. A month before his seventeenth birthday, Sean writes to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> about his decision to enlist, and receives an honest, heartfelt reply telling him the truth about being a soldier. Sean decides to enlist and serves two tours as a Special Forces operator in Afghanistan. Years later, he joins G.I. Joe.
         </p>
 
         <section className="profile-block">
@@ -48,7 +48,7 @@ const SeanCollins: React.FC = () => {
             Fred II falls ill with pneumonia. His wife calls a doctor, but Fred II insists on returning to duty despite the doctor's advice. After the doctor leaves, Sean's parents argue. Fred II tells his wife, "Why should you care? I'm not your real husband. Your real husband is dead." Mrs. Broca cries, saying she'd thought he might have cared. With tears in their eyes, Sean and Heather watch the scene play out from the next room. Fred II then departs, taking the car on a mission (Issue #42).
           </p>
           <p>
-            Days later, Fred II returns home with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Storm Shadow. He tells his adopted family that he was wrong, and that it took real friends to show him he'd been used by Cobra. Looking at his family, he says, "I am not your husband and father — I am a burnt-out Wade Collins wearing Fred's face." Wade tells them that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Storm Shadow will help them start new lives away from Cobra, and that they don't need to stay with him.
+            Days later, Fred II returns home with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. He tells his adopted family that he was wrong, and that it took real friends to show him he'd been used by Cobra. Looking at his family, he says, "I am not your husband and father — I am a burnt-out Wade Collins wearing Fred's face." Wade tells them that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> will help them start new lives away from Cobra, and that they don't need to stay with him.
           </p>
           <p>
             As Wade walks out of the house, Heather and Sean call out "Dad" — truly accepting Wade as their father for the first time. Tears fill his eyes. Wade turns to see his wife holding a suitcase. "Wade," she says, "we have a long drive ahead of us to start our new life together" (Issue #43).
@@ -59,7 +59,7 @@ const SeanCollins: React.FC = () => {
           <h2 className="profile-block-title">Meeting Their Stepsister Marina</h2>
           <img src={sean3} alt="Sean and Heather meeting their stepsister Marina" className="profile-block-img" />
           <p>
-            Years pass. The Collins family moves to another part of America, away from Cobra. One day, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Storm Shadow, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> arrive with a new addition to the family: their stepsister, Marina, whose family was killed in Borovia as a reult of ethnic cleansing. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> had brought Marina back to America.  Sean, Heather and their parents welcome Marina to her new family (Issue #108).
+            Years pass. The Collins family moves to another part of America, away from Cobra. One day, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> arrive with a new addition to the family: their stepsister, Marina, whose family was killed in Borovia as a reult of ethnic cleansing. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> had brought Marina back to America.  Sean, Heather and their parents welcome Marina to her new family (Issue #108).
           </p>
         </section>
 
