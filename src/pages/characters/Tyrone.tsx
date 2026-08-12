@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import tyrone1 from './img/tyrone/tyrone_1.png';
 import tyrone2 from './img/tyrone/tyrone_2.png';
 import tyrone3 from './img/tyrone/tyrone_3.png';
+import tyrone4 from './img/tyrone/tyrone_4.png';
 
 const Tyrone: React.FC = () => {
   return (
@@ -71,6 +72,14 @@ const Tyrone: React.FC = () => {
           </p>
           <p>
             Soon after, a series of explosions diverts a water channel, carrying the freighter into an inactive volcano. Further explosions bury the freighter deep within, trapping everyone inside (Issue #99). With nothing to eat but poor-quality surplus rations (Issue #100), Tyrone succumbs to botulism and dies. It is unclear whether Tyrone ever discovers that Zartan had been the Blind Master in disguise.
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Tyrone's Younger Brother, Raymond</h2>
+          <img src={tyrone4} alt="Tyrone's younger brother Raymond at the Arashikage dojo" className="profile-block-img" />
+          <p>
+            Years after Tyrone's passing, his younger brother, Raymond, comes across the newly reopened Arashikage Martial Arts dojo in San Francisco. Excited, he runs inside looking for the <Link to="/character-bios/BlindMaster">Blind Master</Link>, but finds Budo instead. Raymond explains that Tyrone had first brought him to the dojo when he was fourteen, and that he studied under the <Link to="/character-bios/BlindMaster">Blind Master</Link> until Tyrone and the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s sudden disappearance. Removing his shoes, Raymond bows before the Arashikage shrine and resumes his studies at the dojo, continuing the path his older brother once set him on (Issue #203).
           </p>
         </section>
 
