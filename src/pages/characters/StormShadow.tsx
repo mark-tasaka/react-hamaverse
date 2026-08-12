@@ -1,0 +1,114 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+import '../css/Common.css';
+import './css/CharacterProfile.css';
+
+import stormShadow1 from './img/stormShadow/stormShadow_1.png';
+import stormShadow2 from './img/stormShadow/stormShadow_2.png';
+import stormShadow3 from './img/stormShadow/stormShadow_3.png';
+import stormShadow4 from './img/stormShadow/stormShadow_4.png';
+import stormShadow5 from './img/stormShadow/stormShadow_5.png';
+
+const StormShadow: React.FC = () => {
+  return (
+    <main className="character-profile-page">
+      <div className="container">
+        <h1 className="character-profile-title">Storm Shadow</h1>
+
+        <p className="profile-intro">
+          Thomas "Tommy" Arashikage (Storm Shadow) is the American-born son of Japanese immigrants. Born in California, Tommy joins the U.S. Army during the Vietnam War and serves two tours with a Long Range Reconnaissance Patrol (LRRP). In Vietnam, he forms a deep friendship with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, promising him a place in the family business back in Japan.
+        </p>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Vietnam War</h2>
+          <img src={stormShadow1} alt="Storm Shadow during the Vietnam War" className="profile-block-img" />
+          <p>
+            Storm Shadow joins the U.S. Army during the Vietnam War to gain practical experience for his ninja training (Issue #155). Serving with a Long Range Reconnaissance Patrol (LRRP), he forms a close bond with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, the two having served an entire tour together. Storm Shadow promises <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> a place in the family business in Japan once he returns home from the war.
+          </p>
+          <p>
+            On <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' final LRRP mission, <Link to="/character-bios/Stalker">Stalker</Link> (the LRRP leader), Storm Shadow, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> are returning from an operation when they come under heavy enemy fire just as the team is about to board the Huey. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is hit. <Link to="/character-bios/Stalker">Stalker</Link> gives the order to leave him behind and retreat, but Storm Shadow disobeys, jumping from the Huey and running to his wounded friend through a hail of gunfire to carry him back. Along the way, he also recovers the photo of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' twin sister that his friend had carried with him for good luck — a photo the <Link to="/character-bios/SoftMaster">Soft Master</Link> would return to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> years later.
+          </p>
+          <p>
+            Aboard the Huey, Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> patch <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> up. Storm Shadow removes his wrist wrap to help bandage his friend's wounds (Issue #26) and employs the Arashikage Mindset to help stabilize his condition.
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Arashikage Dojo, Japan</h2>
+          <img src={stormShadow2} alt="Storm Shadow and Snake Eyes training at the Arashikage dojo" className="profile-block-img" />
+          <p>
+            After the tragic death of his family, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> takes Storm Shadow up on his offer and travels to Japan to join the family business — where he discovers it's a ninja clan. When <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrives, leadership of the clan rests with the <Link to="/character-bios/HardMaster">Hard Master</Link>, followed by the <Link to="/character-bios/SoftMaster">Soft Master</Link> — both of them Storm Shadow's uncles. Storm Shadow himself is known within the clan as the Young Master.
+          </p>
+          <p>
+            Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> train together for years. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> eventually earns the privilege of wearing the Arashikage tattoo on his right forearm. One day, Storm Shadow demonstrates the "Ear that Sees" technique — the ability to sense living creatures behind solid walls — by firing an arrow over the courtyard wall and killing a squirrel on the other side (Issue #26). Later that day, when he goes to retrieve the arrow, he finds both it and the squirrel gone (Issue #27).
+          </p>
+          <p>
+            That night, a masked assassin hiding in the courtyard fires Storm Shadow's arrow into the dojo where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and the <Link to="/character-bios/HardMaster">Hard Master</Link> are training, killing the <Link to="/character-bios/HardMaster">Hard Master</Link> (Issue #26). Storm Shadow spots the assassin and chases him to a waiting Cobra helicopter, but the assassin escapes aboard it. Storm Shadow leaves the clan, determined to uncover the killer's identity, and eventually joins Cobra's ranks, working his way up through the organization in search of the truth (Issue #27).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Encountering His Sword Brother at the Silent Castle</h2>
+          <img src={stormShadow3} alt="Storm Shadow confronting Snake Eyes at the Silent Castle" className="profile-block-img" />
+          <p>
+            Storm Shadow's next encounter with his sword brother takes place years later at the Silent Castle. Operating a Cobra C.L.A.W., Storm Shadow captures <Link to="/character-bios/Scarlett">Scarlett</Link> during her jump qualifications, flying her to the Silent Castle and presenting her to a pleased Cobra Commander. He then takes her to a dungeon — a water-filled chamber with an elevated platform — where she's chained to an anchor.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> tracks Storm Shadow to the Silent Castle and parachutes in from a C-130, landing on the castle grounds and engaging the sentries. Alerted to his arrival, Storm Shadow discovers <Link to="/character-bios/Scarlett">Scarlett</Link> has already escaped and summons his three Red Ninja underlings. The first two attack <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> one at a time and are defeated, while Storm Shadow and the remaining Red Ninja lie in wait on the other side of a doorway as he approaches.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> catches the counterweight at the end of the Red Ninja's chain, wraps it around him, and uses the ninja as a shield to absorb Storm Shadow's blade. He then somersaults and kicks Storm Shadow in the head, knocking him to the ground, before fleeing to the castle's landing pad, where he finds <Link to="/character-bios/Scarlett">Scarlett</Link> strapped into a C.L.A.W. Storm Shadow recovers and rushes to the landing, hurling his sword at <Link to="/character-bios/Scarlett">Scarlett</Link>, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> catches the blade between his bare hands and tosses it aside. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> fly off together on the C.L.A.W. (Issue #21).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Spanish Harlem</h2>
+          <img src={stormShadow4} alt="Storm Shadow confronting Snake Eyes in Spanish Harlem" className="profile-block-img" />
+          <p>
+            Storm Shadow spots <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and the <Link to="/character-bios/SoftMaster">Soft Master</Link> inside Comidas Chinas, the restaurant the <Link to="/character-bios/SoftMaster">Soft Master</Link> owns, where the <Link to="/character-bios/SoftMaster">Soft Master</Link> is holding the arrow that killed the <Link to="/character-bios/HardMaster">Hard Master</Link>. Sensing Storm Shadow's presence, the <Link to="/character-bios/SoftMaster">Soft Master</Link> alerts <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, who opens fire. While <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> reloads, Storm Shadow bursts through the broken window, steals the arrow, and descends to the cellar before slipping out into the back alley. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives chase.
+          </p>
+          <p>
+            The pursuit leads across the rooftops and onto the top of a moving train. With his back to the direction of travel, Storm Shadow fails to notice an approaching tunnel. To save his sword brother, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> drops his weapon and leaps backward between two train cars — Storm Shadow follows, and the move ends up saving his life.
+          </p>
+          <p>
+            Realizing what <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> has done for him, Storm Shadow drops his own weapon and finally tells him the truth about the night his uncle was killed. He says that once his search for vengeance is complete, perhaps the two of them can be brothers again — then departs (Issue #27).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Training Billy</h2>
+          <img src={stormShadow5} alt="Storm Shadow training Billy" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Billy">Billy</Link> is captured after a failed assassination attempt on his father, Cobra Commander (Issue #33). At the inquest, he refuses to identify his accomplices, so Cobra Commander hooks him up to the Brainwave Scanner to force the truth out of him. <Link to="/character-bios/Billy">Billy</Link> resists, projecting images of his father's role in Cobra's early formation instead. Not wanting the others to learn of his own past, Cobra Commander halts the session and has <Link to="/character-bios/Billy">Billy</Link> moved to a prison cell.
+          </p>
+          <p>
+            Impressed by <Link to="/character-bios/Billy">Billy</Link>'s fortitude and integrity in protecting his accomplices and resisting the Brainwave Scanner, Storm Shadow decides to rescue him and train him as his apprentice. He breaks <Link to="/character-bios/Billy">Billy</Link> out of his holding cell, and together they escape to Storm Shadow's secret dojo, hidden inside a false water tower above a hotel in New York City (Issue #39).
+          </p>
+          <p>
+            Storm Shadow begins training <Link to="/character-bios/Billy">Billy</Link> in the way of the ninja. Time passes, and <Link to="/character-bios/Billy">Billy</Link>'s skill and technique steadily improve. Storm Shadow tells him about the assassination of his uncle, the <Link to="/character-bios/HardMaster">Hard Master</Link>, and <Link to="/character-bios/Billy">Billy</Link> vows that one day he'll confront his father and learn who was truly responsible. Eventually, Storm Shadow returns to the dojo to find a note from <Link to="/character-bios/Billy">Billy</Link>, thanking him and explaining that he's going home to confront his past — and part of Storm Shadow's — and asking forgiveness for leaving this way. Setting the letter down, Storm Shadow says, "There is nothing to forgive, Billy" (Issue #42).
+          </p>
+        </section>
+
+        <section className="profile-notes">
+          <h2 className="profile-notes-title">Notes from the Field</h2>
+          <p>
+            In an interview, Larry Hama said he felt unsettled that the series' sole Asian action figure was a villain. So, without telling Hasbro, he crafted a long-term storyline giving Storm Shadow a clear motive for joining Cobra (avenging his uncle's murder), a deep friendship with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and, eventually, a path toward joining G.I. Joe.
+          </p>
+          <p>
+            Four versions of the Storm Shadow action figure were produced during the Marvel run (1982–1994): the 1984 Cobra Storm Shadow, a 1988 version, a 1992 Ninja Force version, and a 1994 Shadow Ninja version. The original 1984 file card lists him as a Cobra agent with his file name classified. His 1988 file card lists him as a member of G.I. Joe, though it provides no pay grade — suggesting Storm Shadow isn't formally part of the team, but rather an ally of it. As with the 1984 card, his file name remains classified. The 1992 and 1994 file cards list his name as Thomas S. Arashikage, with the rank of E-8, reflecting his leadership of G.I. Joe's Ninja Force.
+          </p>
+          <p>
+            Those same 1992 and 1994 file cards list his birthplace as St. Louis, Missouri. I believe this was a clerical error on Hasbro's part, possibly carried over from another figure's file card — the comics consistently describe Storm Shadow's birthplace as California.
+          </p>
+        </section>
+
+        <div className="profile-back-row">
+          <Link to="/character-bios" className="btn">Back to Character Bios</Link>
+        </div>
+
+      </div>
+    </main>
+  );
+};
+
+export default StormShadow;

@@ -14,6 +14,7 @@ import jinxImg from './img/portraits/jinx.jpg';
 import tyroneImg from './img/portraits/tyrone.jpg';
 import seanImg from './img/portraits/sean.jpg';
 import siobanImg from './img/portraits/sioban.jpg';
+import stormShadowImg from './img/portraits/stormShadow.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -55,7 +56,7 @@ const CHARACTERS: Character[] = [
     name: 'Scarlett',
     img: scarlettImg,
     link: '/character-bios/Scarlett',
-    rank: 98,
+    rank: 99,
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Alive',
@@ -135,7 +136,7 @@ const CHARACTERS: Character[] = [
     name: 'Stalker',
     img: stalkerImg,
     link: '/character-bios/Stalker',
-    rank: 95,
+    rank: 97,
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Alive',
@@ -209,6 +210,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 101',
       year: '1990',
       month: 'June',
+    },
+  },
+  {
+    name: 'Storm Shadow',
+    img: stormShadowImg,
+    link: '/character-bios/StormShadow',
+    rank: 98,
+    faction: 'Arashikage',
+    secondaryFaction: 'G.I. Joe',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 21,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 21',
+      year: '1984',
+      month: 'August',
     },
   },
 ];

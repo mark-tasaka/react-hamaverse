@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
       
+      <p className="update-log-date">August 12, 2026</p>
+      <p className="update-log-entry">
+        The character bios for <Link to="/character-bios/SeanCollins">Sean Collins</Link> has been added.  A new section (Tyrone's Younger Brother, Raymond) has been added to <Link to="/character-bios/Tyrone">Tyrone</Link>'s bio.  
+      </p>
+      
       <p className="update-log-date">August 11, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/Tyrone">Tyrone</Link> has been added.
