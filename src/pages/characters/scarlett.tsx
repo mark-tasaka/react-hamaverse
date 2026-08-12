@@ -22,7 +22,7 @@ const Scarlett: React.FC = () => {
         <h1 className="character-profile-title">Scarlett</h1>
 
         <p className="profile-intro">
-          Shana M. O'Hara (Scarlett) was born in Atlanta, Georgia. She has at least four siblings — three unnamed brothers and a sister named Sioban. Scarlett's father and three brothers are martial arts instructors, while her sister is an attorney. Scarlett started her martial arts training at nine and earned her first black belt at fifteen. She is one of the original members of G.I. Joe and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' lover.
+          Shana M. O'Hara (Scarlett) was born in Atlanta, Georgia. She has at least four siblings — three unnamed brothers and a sister named <Link to="/character-bios/Sioban">Sioban</Link>. Scarlett's father and three brothers are martial arts instructors, while her sister is an attorney. Scarlett started her martial arts training at nine and earned her first black belt at fifteen. She is one of the original members of G.I. Joe and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' lover.
         </p>
 
         <section className="profile-block">
@@ -119,10 +119,10 @@ const Scarlett: React.FC = () => {
           <h2 className="profile-block-title">Waking Up from the Coma</h2>
           <img src={scarlett7} alt="Scarlett waking up from her coma" className="profile-block-img" />
           <p>
-            Scarlett wakes from her coma in a New York City hospital, asking where she is and where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is. She soon discovers that her sister, Sioban, an attorney, is at the hospital with a court order to end her life support (Issue #103).
+            Scarlett wakes from her coma in a New York City hospital, asking where she is and where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is. She soon discovers that her sister, <Link to="/character-bios/Sioban">Sioban</Link>, an attorney, is at the hospital with a court order to end her life support (Issue #103).
           </p>
           <p>
-            Sioban and Scarlett talk, and Scarlett realizes the push to end her life support has much to do with the family house in Atlanta. She tells Sioban that if the house means that much to her, she'll sign it over to her. In tears, Sioban leaves the room just as Hawk arrives (Issue #104).
+            <Link to="/character-bios/Sioban">Sioban</Link> and Scarlett talk, and Scarlett realizes the push to end her life support has much to do with the family house in Atlanta. She tells <Link to="/character-bios/Sioban">Sioban</Link> that if the house means that much to her, she'll sign it over to her. In tears, <Link to="/character-bios/Sioban">Sioban</Link> leaves the room just as Hawk arrives (Issue #104).
           </p>
           <p>
             Hawk tells Scarlett that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is in Borovia. Scarlett is shocked, pointing out that the Borovian government is in the midst of collapse, the country is in anarchy, and there are rumors of wholesale slaughter of ethnic minorities. General Thurston Crowther enters and reveals that Storm Shadow had blackmailed him into sending <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> on the mission (Issue #105).
@@ -131,7 +131,7 @@ const Scarlett: React.FC = () => {
             An undisclosed amount of time passes. General Crowther visits Scarlett in her room, telling her that Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> have escaped capture. He believes they are hiding at Storm Shadow's secret hideout in New York and that Scarlett knows where it is. She refuses to answer, insisting it's up to her to find Storm Shadow herself.
           </p>
           <p>
-            Hawk enters and tells Scarlett she isn't going anywhere — he has already notified the hospital to keep her detained. He leaves the room with General Crowther just as Sioban enters. Outside, Hawk confronts the General, demanding to know why he's badgering Scarlett, why he ordered the arrest of Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link>, where they are now, and what <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' real mission in Borovia was. While the two argue, Scarlett slips past them disguised as Sioban, having tied her sister up and taken her clothes.
+            Hawk enters and tells Scarlett she isn't going anywhere — he has already notified the hospital to keep her detained. He leaves the room with General Crowther just as <Link to="/character-bios/Sioban">Sioban</Link> enters. Outside, Hawk confronts the General, demanding to know why he's badgering Scarlett, why he ordered the arrest of Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link>, where they are now, and what <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' real mission in Borovia was. While the two argue, Scarlett slips past them disguised as <Link to="/character-bios/Sioban">Sioban</Link>, having tied her sister up and taken her clothes.
           </p>
           <p>
             Scarlett gets off at a subway stop, where a would-be mugger confronts her with a knife. She disarms him, breaks his elbow, and walks off with his knife. Later, she runs into Storm Shadow fleeing from Night Creepers. She confronts him just as the Night Creepers open fire with arrows, and Storm Shadow pushes the two of them onto the tracks in front of an oncoming subway train to escape.
