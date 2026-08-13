@@ -10,6 +10,7 @@ import stormShadow4 from './img/stormShadow/stormShadow_4.png';
 import stormShadow5 from './img/stormShadow/stormShadow_5.png';
 import stormShadow6 from './img/stormShadow/stormShadow_6.png';
 import stormShadow7 from './img/stormShadow/stormShadow_7.png';
+import stormShadow8 from './img/stormShadow/stormShadow_8.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -115,7 +116,24 @@ const StormShadow: React.FC = () => {
             G.I. Joe launches a raid on the island to recover Ripcord. Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> battle their way to the beach, dispatching Cobra troopers along the way, and commandeer a Cobra Moray hydrofoil. The Moray is struck by a torpedo, sending it out of control, and a pair of Cobra Eels boards the ship. When the Moray crashes against the rocks, everyone is thrown overboard — and a school of sharks attacks. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> kills one with his knife just as a speedboat carrying Hawk, Beach Head, and Wet-Suit arrives; Hawk and Beach Head pull him aboard.
           </p>
           <p>
-            A wounded Storm Shadow staggers onto the beach, where the Baroness confronts him from atop a H.I.S.S. tank and fires several rounds into him (Issue #47). Believing him dead, the Baroness and Destro have his body placed in a body bag and taken to the labs, where it's stored in stasis for use in the creation of Serpentor (Issue #48). In truth, Storm Shadow — near death at the time — had used the technique of the "Sleeping Phoenix" to feign death (Issue #52).
+            A wounded Storm Shadow staggers onto the beach, where the Baroness confronts him from a H.I.S.S. tank and fires several rounds into him (Issue #47). Believing him dead, the Baroness and Destro have his body placed in a body bag and taken to the labs, where it's stored in stasis for use in the creation of Serpentor (Issue #48). In truth, Storm Shadow — near death at the time — had used the technique of the "Sleeping Phoenix" to feign death (Issue #52).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Storm Shadow's Revival</h2>
+          <img src={stormShadow8} alt="Storm Shadow's revival" className="profile-block-img" />
+          <p>
+            Storm Shadow's body is transported to the Springfield Museum of Antiquities, where Dr. Mindbender's laboratory is located. Using the genetic material of history's greatest warriors, Dr. Mindbender is in the process of creating Serpentor, and wants to add Storm Shadow's genetic material to the mix. Storm Shadow's body is placed in a chamber of fluid, the same kind that will give birth to Serpentor (Issue #49).
+          </p>
+          <p>
+            During the Battle of Springfield, the Dreadnoks are stationed at the museum when Storm Shadow's body suddenly comes to life, rising from the fluid. He helps the Dreadnoks escape as a G.I. Joe assault force enters the building, and together they flee to the Dreadnoks' secret base in New Jersey (Issue #50). From there, Storm Shadow departs for Staten Island to find his sword brother.
+          </p>
+          <p>
+            Storm Shadow infiltrates the Pit and finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. He tells his sword brother that while his body has healed, his spirit has not, and asks him for a safe place to restore his health and his soul — scarred, as it is, by revenge. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives Storm Shadow the keys to his cabin in the High Sierras, and Storm Shadow departs.
+          </p>
+          <p>
+            A week later, Storm Shadow reaches the cabin, much of it destroyed from an earlier conflict involving Fred Broca, Destro, and Firefly. He finds the trap door leading to the underground bunker, where Timber appears. The two bond, and Storm Shadow begins his process of healing (Issue #52).
           </p>
         </section>
 
