@@ -9,6 +9,7 @@ import stormShadow3 from './img/stormShadow/stormShadow_3.png';
 import stormShadow4 from './img/stormShadow/stormShadow_4.png';
 import stormShadow5 from './img/stormShadow/stormShadow_5.png';
 import stormShadow6 from './img/stormShadow/stormShadow_6.png';
+import stormShadow7 from './img/stormShadow/stormShadow_7.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -97,7 +98,24 @@ const StormShadow: React.FC = () => {
             Before his death, the <Link to="/character-bios/SoftMaster">Soft Master</Link> discovered the identity of the <Link to="/character-bios/HardMaster">Hard Master</Link>'s killer in the Cobra police database in Springfield (Issue #43) and passed the information on to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
           </p>
           <p>
-            One night, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> enters Storm Shadow's secret water tower lair and hands him the <Link to="/character-bios/SoftMaster">Soft Master</Link>'s communiqué, identifying the killer as Zartan. Zartan had retrieved the arrow Storm Shadow fired at the squirrel on the other side of the wall, then used a compound bow fitted with sound-amplification and directional-ranging equipment to detect the target's heartbeat and breathing through the wall — mistaking the <Link to="/character-bios/HardMaster">Hard Master</Link> for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, since the <Link to="/character-bios/HardMaster">Hard Master</Link> was demonstrating the "Donning the Chameleon's Mantle" technique at the time. The compound bow's mechanical draw also let Zartan match Storm Shadow's own bow pull strength, allowing the arrow to penetrate the wall, the screen, and the <Link to="/character-bios/HardMaster">Hard Master</Link> himself (Issue #46).
+            One night, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> enters Storm Shadow's secret water tower lair and hands him the <Link to="/character-bios/SoftMaster">Soft Master</Link>'s communiqué, identifying the killer as Zartan. Zartan had retrieved the arrow Storm Shadow fired at the squirrel on the other side of the wall, then used a compound bow fitted with sound-amplification and directional-ranging equipment to detect the target's heartbeat and breathing through the wall — mistaking the <Link to="/character-bios/HardMaster">Hard Master</Link> for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, since the <Link to="/character-bios/HardMaster">Hard Master</Link> was demonstrating the "Donning the Chameleon's Mantle" technique at the time. The compound bow's mechanical draw also let Zartan match Storm Shadow's own bow pull strength, allowing the arrow to penetrate the wall, the screen, and the <Link to="/character-bios/HardMaster">Hard Master</Link> himself (Issue #4).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Joining Forces with Snake Eyes</h2>
+          <img src={stormShadow7} alt="Storm Shadow and Snake Eyes on Cobra Island" className="profile-block-img" />
+          <p>
+            Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> steal one of the Baroness' Rattlers from her New York safehouse and fly to Cobra Island to confront the <Link to="/character-bios/HardMaster">Hard Master</Link>'s killer (Issue #45). The Rattler lands on Cobra Island, and the two dispatch the ground crew before making their way to the Terror Drome. Inside, they cut a path through Cobra troopers until they reach the launch chamber, where they find Zartan in the Firebat (a vertical-launch vehicle), with an unmasked Crimson Guardsman — Professor Apel — preparing the launch.
+          </p>
+          <p>
+            Storm Shadow slashes Professor Apel, wounding him. As he moves to strike the Firebat's cockpit, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> pulls him back, saving him from the blast of the Firebat's rockets as it takes off. Professor Apel dies in the explosion. Neither Storm Shadow nor <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> realizes the Firebat's true occupant isn't Zartan — it's Ripcord. Zartan had confronted Ripcord on the island earlier, and both were wounded in the encounter; Zartan then disguised Ripcord in his own cloth and used his holographic powers to assume Ripcord's identity (Issue #46).
+          </p>
+          <p>
+            G.I. Joe launches a raid on the island to recover Ripcord. Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> battle their way to the beach, dispatching Cobra troopers along the way, and commandeer a Cobra Moray hydrofoil. The Moray is struck by a torpedo, sending it out of control, and a pair of Cobra Eels boards the ship. When the Moray crashes against the rocks, everyone is thrown overboard — and a school of sharks attacks. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> kills one with his knife just as a speedboat carrying Hawk, Beach Head, and Wet-Suit arrives; Hawk and Beach Head pull him aboard.
+          </p>
+          <p>
+            A wounded Storm Shadow staggers onto the beach, where the Baroness confronts him from atop a H.I.S.S. tank and fires several rounds into him (Issue #47). Believing him dead, the Baroness and Destro have his body placed in a body bag and taken to the labs, where it's stored in stasis for use in the creation of Serpentor (Issue #48). In truth, Storm Shadow — near death at the time — had used the technique of the "Sleeping Phoenix" to feign death (Issue #52).
           </p>
         </section>
 
