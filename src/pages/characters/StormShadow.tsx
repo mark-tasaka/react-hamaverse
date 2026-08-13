@@ -11,6 +11,7 @@ import stormShadow5 from './img/stormShadow/stormShadow_5.png';
 import stormShadow6 from './img/stormShadow/stormShadow_6.png';
 import stormShadow7 from './img/stormShadow/stormShadow_7.png';
 import stormShadow8 from './img/stormShadow/stormShadow_8.png';
+import stormShadow9 from './img/stormShadow/stormShadow_9.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -134,6 +135,20 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             A week later, Storm Shadow reaches the cabin, much of it destroyed from an earlier conflict involving Fred Broca, Destro, and Firefly. He finds the trap door leading to the underground bunker, where Timber appears. The two bond, and Storm Shadow begins his process of healing (Issue #52).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Reuniting with Billy</h2>
+          <img src={stormShadow9} alt="Storm Shadow reuniting with Billy" className="profile-block-img" />
+          <p>
+            In a secret base beneath the Defense Language Institute in San Francisco, Storm Shadow and Ripcord wait for <Link to="/character-bios/Billy">Billy</Link> inside the recreation room. The door opens, and Hawk appears with <Link to="/character-bios/Billy">Billy</Link>. Storm Shadow sees that <Link to="/character-bios/Billy">Billy</Link> now has a prosthetic leg and a patch over one eye, and starts to apologize — but <Link to="/character-bios/Billy">Billy</Link> waves him off, joking that he still has one of each to spare. <Link to="/character-bios/Billy">Billy</Link> sits down and tells Storm Shadow and Ripcord the unfortunate fate of the <Link to="/character-bios/SoftMaster">Soft Master</Link> and Candy Apel, both of whom died in the car explosion.
+          </p>
+          <p>
+            Hawk receives a phone call from Flint in Grenada, reporting an explosion from a land mine that claimed the lives of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and a third person. Their bodies have disappeared, as if vaporized, leaving no trace. Overhearing the conversation, Storm Shadow asks to speak with Flint himself and asks about the third man. Flint tells him it was an old blind man, and Storm Shadow describes him in detail, to Flint's surprise. Storm Shadow says he'd believed the man was dead for years, but  faking his own death seems to be something that he is good at. With this, Storm Shadow realizes that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> are in the company of the <Link to="/character-bios/BlindMaster">Blind Master</Link>, and are on their way to Borovia to rescue <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick (Issue #63).
+          </p>
+          <p>
+            Storm Shadow continues training <Link to="/character-bios/Billy">Billy</Link> in the secret base beneath the Defense Language Institute. His second cousin, <Link to="/character-bios/Jinx">Jinx</Link>, works upstairs as an NCO for the school. One day she interrupts their training with important news. She brings Storm Shadow and <Link to="/character-bios/Billy">Billy</Link> upstairs and shows them satellite images of the gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick have been taken, along with a Borovian newspaper article featuring a circus troupe. In the background of the photo is <Link to="/character-bios/Scarlett">Scarlett</Link>, who is part of the troupe. Storm Shadow knows that if <Link to="/character-bios/Scarlett">Scarlett</Link> is there, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> must be as well. The three depart for Borovia (Issue #66).
           </p>
         </section>
 
