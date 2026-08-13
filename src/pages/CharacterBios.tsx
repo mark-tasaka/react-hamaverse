@@ -15,6 +15,7 @@ import tyroneImg from './img/portraits/tyrone.jpg';
 import seanImg from './img/portraits/sean.jpg';
 import siobanImg from './img/portraits/sioban.jpg';
 import stormShadowImg from './img/portraits/stormShadow.jpg';
+import marinaImg from './img/portraits/marina.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -226,6 +227,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 21',
       year: '1984',
       month: 'August',
+    },
+  },
+  {
+    name: 'Marina',
+    img: marinaImg,
+    link: '/character-bios/Marina',
+    rank: 5,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 104,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 104',
+      year: '1990',
+      month: 'September',
     },
   },
 ];

@@ -243,7 +243,7 @@ const SnakeEyes: React.FC = () => {
             <Link to="/character-bios/Scarlett">Scarlett</Link> is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma — or whether she will be able to live a normal life again if she does (Issue #97).
           </p>
           <p>
-            Time passes. Snake Eyes stays by her side, while <Link to="/character-bios/StormShadow">Storm Shadow</Link> remains at the hospital to support his friend. One day, <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, Siobhan O'Hara, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101). Siobhan tries to prevent Snake Eyes from entering <Link to="/character-bios/Scarlett">Scarlett</Link>'s room, but he pushes her aside, enters the room, kneels beside <Link to="/character-bios/Scarlett">Scarlett</Link>, and says her name (Issue #102).
+            Time passes. Snake Eyes stays by her side, while <Link to="/character-bios/StormShadow">Storm Shadow</Link> remains at the hospital to support his friend. One day, <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, <Link to="/character-bios/Sioban">Sioban</Link> O'Hara, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101). <Link to="/character-bios/Sioban">Sioban</Link> tries to prevent Snake Eyes from entering <Link to="/character-bios/Scarlett">Scarlett</Link>'s room, but he pushes her aside, enters the room, kneels beside <Link to="/character-bios/Scarlett">Scarlett</Link>, and says her name (Issue #102).
           </p>
         </section>
 
@@ -266,7 +266,7 @@ const SnakeEyes: React.FC = () => {
             Inside, Snake Eyes searches the records room until he finds Strawhacker's file. Looking over his shoulder, the White Clown sees that Strawhacker is being held in a secret security block beneath Gulag 23 — the same place where his beloved Magda is imprisoned.
           </p>
           <p>
-            As Snake Eyes leaves the building, a young girl named Marina runs up to him, pleading that the mob is about to execute her father for being an Upper Borovian. Snake Eyes ignores her pleas, and the mob shoots her father in the street. The White Clown notices how much Snake Eyes has changed. He and Orlovsky then drive Snake Eyes to Gulag 23 (Issue #104).
+            As Snake Eyes leaves the building, a young girl named <Link to="/character-bios/Marina">Marina</Link> runs up to him, pleading that the mob is about to execute her father for being an Upper Borovian. Snake Eyes ignores her pleas, and the mob shoots her father in the street. The White Clown notices how much Snake Eyes has changed. He and Orlovsky then drive Snake Eyes to Gulag 23 (Issue #104).
           </p>
           <p>
             Outside Gulag 23, a mob has gathered, made up of people whose family members are imprisoned inside. Snake Eyes storms the gulag, killing the guards on the surface before descending into the sewers. The White Clown and Orlovsky soon follow.
@@ -275,13 +275,13 @@ const SnakeEyes: React.FC = () => {
             In the sewers, Snake Eyes comes across a group of guards fleeing with Strawhacker and Magda. He dispatches the guards and frees the two prisoners. Strawhacker recognizes Snake Eyes despite his mask, and the White Clown embraces Magda.
           </p>
           <p>
-            When they return to the surface and rejoin the mob surrounding the gulag, Magda is horrified to see that the revolution has given rise to ethnic cleansing. Marina and several other Upper Borovians are being led into the crowd to be killed. Marina spots Snake Eyes and tells the crowd he is no hero — he let her father be executed. The mob's leader, Mertz, pistol-whips Marina and points his gun at her, calling her subhuman.
+            When they return to the surface and rejoin the mob surrounding the gulag, Magda is horrified to see that the revolution has given rise to ethnic cleansing. <Link to="/character-bios/Marina">Marina</Link> and several other Upper Borovians are being led into the crowd to be killed. <Link to="/character-bios/Marina">Marina</Link> spots Snake Eyes and tells the crowd he is no hero — he let her father be executed. The mob's leader, Mertz, pistol-whips <Link to="/character-bios/Marina">Marina</Link> and points his gun at her, calling her subhuman.
           </p>
           <p>
             Strawhacker strikes Mertz, knocking him to the ground, and tells him he is no different from the regime they just overthrew. Mertz shoots and kills Strawhacker — and the shock of it breaks the Arashikage Mindset's hold over Snake Eyes. Snake Eyes raises his gun toward Mertz. The mob sides with Snake Eyes and beats Mertz.
           </p>
           <p>
-            As the mob prepares to hang Mertz, Marina begs Snake Eyes to save him, insisting that even if Mertz is a bad man, they can't let him be hanged. Just as the noose tightens, Snake Eyes shoots the rope, saving Mertz's life. Snake Eyes then departs Borovia together with Marina (Issue #106). In America, Marina is adopted by the Collins family, becoming Sean and Heather's sister (Issue #108).
+            As the mob prepares to hang Mertz, <Link to="/character-bios/Marina">Marina</Link> begs Snake Eyes to save him, insisting that even if Mertz is a bad man, they can't let him be hanged. Just as the noose tightens, Snake Eyes shoots the rope, saving Mertz's life. Snake Eyes then departs Borovia together with <Link to="/character-bios/Marina">Marina</Link> (Issue #106). In America, <Link to="/character-bios/Marina">Marina</Link> is adopted by the Collins family, becoming Sean and Heather's sister (Issue #108).
           </p>
         </section>
 
