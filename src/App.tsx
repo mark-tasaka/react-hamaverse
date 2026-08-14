@@ -19,6 +19,7 @@ import Sioban from './pages/characters/Sioban'
 import StormShadow from './pages/characters/StormShadow'
 import Marina from './pages/characters/Marina'
 import Hawk from './pages/characters/Hawk'
+import Wade from './pages/characters/Wade'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -56,6 +57,7 @@ function App() {
           <Route path="/character-bios/StormShadow" element={<StormShadow />} />
           <Route path="/character-bios/Marina" element={<Marina />} />
           <Route path="/character-bios/Hawk" element={<Hawk />} />
+          <Route path="/character-bios/Wade" element={<Wade />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

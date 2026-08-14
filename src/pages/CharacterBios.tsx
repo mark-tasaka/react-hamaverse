@@ -17,6 +17,7 @@ import siobanImg from './img/portraits/sioban.jpg';
 import stormShadowImg from './img/portraits/stormShadow.jpg';
 import marinaImg from './img/portraits/marina.jpg';
 import HawkImg from './img/portraits/hawk.jpg';
+import WadeImg from './img/portraits/wade.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -261,7 +262,23 @@ const CHARACTERS: Character[] = [
       year: '1982',
       month: 'March',
     },
-  }
+  },
+  {
+    name: 'Wade Collins',
+    img: WadeImg,
+    link: '/character-bios/Wade',
+    rank: 60,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 31,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 31',
+      year: '1985',
+      month: 'January',
+    },
+  },
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';
