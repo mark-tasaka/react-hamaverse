@@ -49,7 +49,7 @@ const Marina: React.FC = () => {
           <h2 className="profile-block-title">A New Family in America</h2>
           <img src={marina3} alt="Marina's adoption into the Collins family" className="profile-block-img" />
           <p>
-            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and his friends find Marina a new home with Wade Collins and his family. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> travel with Marina to the Collins family home, where Wade Collins, his wife, <Link to="/character-bios/SeanCollins">Sean</Link>, and Heather greet her at the front door, welcoming her into the family. Marina asks, "You don't mind me being adopted?" Heather replies, "We're all adopted in this family" (Issue #108).
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and his friends find Marina a new home with <Link to="/character-bios/Wade">Wade Collins</Link> and his family. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> travel with Marina to the Collins family home, where <Link to="/character-bios/Wade">Wade Collins</Link>, his wife, <Link to="/character-bios/SeanCollins">Sean</Link>, and Heather greet her at the front door, welcoming her into the family. Marina asks, "You don't mind me being adopted?" Heather replies, "We're all adopted in this family" (Issue #108).
           </p>
         </section>
 

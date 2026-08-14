@@ -18,7 +18,7 @@ const SeanCollins: React.FC = () => {
         <h1 className="character-profile-title">Sean Collins</h1>
 
         <p className="profile-intro">
-          Sean Collins is the adopted son of Wade Collins, who served in Vietnam alongside <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. A month before his seventeenth birthday, Sean writes to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> about his decision to enlist, and receives an honest, heartfelt reply telling him the truth about being a soldier. Sean decides to enlist and serves two tours as a Special Forces operator in Afghanistan. Years later, he joins G.I. Joe.
+          Sean Collins is the adopted son of <Link to="/character-bios/Wade">Wade Collins</Link>, who served in Vietnam alongside <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. A month before his seventeenth birthday, Sean writes to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> about his decision to enlist, and receives an honest, heartfelt reply telling him the truth about being a soldier. Sean decides to enlist and serves two tours as a Special Forces operator in Afghanistan. Years later, he joins G.I. Joe.
         </p>
 
         <section className="profile-block">
@@ -48,7 +48,7 @@ const SeanCollins: React.FC = () => {
             Fred II falls ill with pneumonia. His wife calls a doctor, but Fred II insists on returning to duty despite the doctor's advice. After the doctor leaves, Sean's parents argue. Fred II tells his wife, "Why should you care? I'm not your real husband. Your real husband is dead." Mrs. Broca cries, saying she'd thought he might have cared. With tears in their eyes, Sean and Heather watch the scene play out from the next room. Fred II then departs, taking the car on a mission (Issue #42).
           </p>
           <p>
-            Days later, Fred II returns home with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. He tells his adopted family that he was wrong, and that it took real friends to show him he'd been used by Cobra. Looking at his family, he says, "I am not your husband and father — I am a burnt-out Wade Collins wearing Fred's face." Wade tells them that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> will help them start new lives away from Cobra, and that they don't need to stay with him.
+            Days later, Fred II returns home with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. He tells his adopted family that he was wrong, and that it took real friends to show him he'd been used by Cobra. Looking at his family, he says, "I am not your husband and father — I am a burnt-out <Link to="/character-bios/Wade">Wade Collins</Link> wearing Fred's face." Wade tells them that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> will help them start new lives away from Cobra, and that they don't need to stay with him.
           </p>
           <p>
             As Wade walks out of the house, Heather and Sean call out "Dad" — truly accepting Wade as their father for the first time. Tears fill his eyes. Wade turns to see his wife holding a suitcase. "Wade," she says, "we have a long drive ahead of us to start our new life together" (Issue #43).
@@ -67,7 +67,7 @@ const SeanCollins: React.FC = () => {
           <h2 className="profile-block-title">Letter to Snake Eyes</h2>
           <img src={sean4} alt="Sean's letter to Snake Eyes" className="profile-block-img" />
           <p>
-            A month shy of his seventeenth birthday, Sean asks his adoptive father, Wade Collins, to sign his enlistment papers so he can join the Army. Wade tells him to write to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — a real warrior — before making that decision.
+            A month shy of his seventeenth birthday, Sean asks his adoptive father, <Link to="/character-bios/Wade">Wade Collins</Link>, to sign his enlistment papers so he can join the Army. Wade tells him to write to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — a real warrior — before making that decision.
           </p>
           <p>
             In his letter, Sean writes about how honor and glory feel lost in modern society, where people seem interested only in themselves and material wealth. He asks <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> what's wrong with wanting to be a soldier — with wanting to find something greater through military service.

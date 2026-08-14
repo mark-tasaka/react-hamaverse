@@ -16,7 +16,7 @@ const Stalker: React.FC = () => {
         <h1 className="character-profile-title">Stalker</h1>
 
         <p className="profile-intro">
-          One of the original members of G.I. Joe, Lonzo R. Wilkinson (Stalker) was born in Detroit, Michigan. His two older brothers were killed by gangs. Lonzo himself became a gang leader before enlisting in the U.S. Army to escape the streets of Detroit. He served in the Vietnam War but kept this a secret from his mother, having a cousin stationed in Germany reroute his letters so she would believe he was stationed there instead (Issue #155). Stalker served as the team leader of a six-man LRRP (Long Range Reconnaissance Patrol) that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and Wade Collins served on.
+          One of the original members of G.I. Joe, Lonzo R. Wilkinson (Stalker) was born in Detroit, Michigan. His two older brothers were killed by gangs. Lonzo himself became a gang leader before enlisting in the U.S. Army to escape the streets of Detroit. He served in the Vietnam War but kept this a secret from his mother, having a cousin stationed in Germany reroute his letters so she would believe he was stationed there instead (Issue #155). Stalker served as the team leader of a six-man LRRP (Long Range Reconnaissance Patrol) that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Wade">Wade Collins</Link> served on.
         </p>
 
         <section className="profile-block">
@@ -65,7 +65,7 @@ const Stalker: React.FC = () => {
             Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> drive <Link to="/character-bios/Hawk">Hawk</Link> from Fort Wadsworth (Staten Island) to Washington, D.C. Unbeknownst to them, Crimson Guardsman Fred II follows them from Staten Island.
           </p>
           <p>
-            While <Link to="/character-bios/Hawk">Hawk</Link> visits General Austin at the U.S. Army Medical Center, Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> visit the Vietnam Memorial. As they look up the names of their fallen friends, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> points to where Wade Collins' name should be in the directory — it's missing. Just then, Fred II appears, pointing a silenced pistol at them, and says Wade Collins is not dead: he is Wade Collins. Cobra gave him a new face and a new life (Issue #42).
+            While <Link to="/character-bios/Hawk">Hawk</Link> visits General Austin at the U.S. Army Medical Center, Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> visit the Vietnam Memorial. As they look up the names of their fallen friends, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> points to where <Link to="/character-bios/Wade">Wade Collins</Link>' name should be in the directory — it's missing. Just then, Fred II appears, pointing a silenced pistol at them, and says <Link to="/character-bios/Wade">Wade Collins</Link> is not dead: he is <Link to="/character-bios/Wade">Wade Collins</Link>. Cobra gave him a new face and a new life (Issue #42).
           </p>
           <p>
             Collins takes the two to his vehicle, and they drive as he explains what happened. He did not die in Vietnam — rather, he was wounded and captured. The North Vietnamese Army tended his wounds, and Collins spent the next two years rotting in a POW camp.
