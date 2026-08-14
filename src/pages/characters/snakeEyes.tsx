@@ -74,7 +74,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Returning Home from the War</h2>
           <img src={snakeEyes4} alt="Snake Eyes returning home from Vietnam" className="profile-block-img" />
           <p>
-            When Snake Eyes returns to the States, no one is there to greet him at the airport. He waits for hours. Clayton Abernathy (Hawk), then a junior officer, arrives. Hawk informs him that his parents and twin sister have been killed in a car accident on their way to the airport — a stoned veteran driving erratically at high speed struck the family car. With nothing left for him in America, Snake Eyes travels to Japan to take Tommy Arashikage up on his offer (<Link to="/comic-issues/Issue26">Issue #26</Link>).
+            When Snake Eyes returns to the States, no one is there to greet him at the airport. He waits for hours. Clayton Abernathy (<Link to="/character-bios/Hawk">Hawk</Link>), then a junior officer, arrives. <Link to="/character-bios/Hawk">Hawk</Link> informs him that his parents and twin sister have been killed in a car accident on their way to the airport — a stoned veteran driving erratically at high speed struck the family car. With nothing left for him in America, Snake Eyes travels to Japan to take Tommy Arashikage up on his offer (<Link to="/comic-issues/Issue26">Issue #26</Link>).
           </p>
         </section>
 
@@ -93,7 +93,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Recruitment to G.I. Joe</h2>
           <img src={snakeEyes6} alt="Snake Eyes recruited to G.I. Joe" className="profile-block-img" />
           <p>
-            Colonel Clayton Abernathy (Hawk) is putting together the G.I. Joe team, and <Link to="/character-bios/Stalker">Stalker</Link> (Lonzo Wilkinson) recommends Snake Eyes for it. Hawk and <Link to="/character-bios/Stalker">Stalker</Link> learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
+            Colonel Clayton Abernathy (<Link to="/character-bios/Hawk">Hawk</Link>) is putting together the G.I. Joe team, and <Link to="/character-bios/Stalker">Stalker</Link> (Lonzo Wilkinson) recommends Snake Eyes for it. <Link to="/character-bios/Hawk">Hawk</Link> and <Link to="/character-bios/Stalker">Stalker</Link> learn that Snake Eyes is living in seclusion in the High Sierras and track him down to a remote cabin there, convincing him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 
@@ -205,7 +205,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. Dr. Hundtkinder, who had reconstructed the Baroness' face years earlier, contacts her about the situation. The Baroness, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (<Link to="/comic-issues/Issue93">Issue #93</Link>).
           </p>
           <p>
-            At the hospital, <Link to="/character-bios/Scarlett">Scarlett</Link> receives a call from Hawk, who has just learned of the plot between the Baroness and Dr. Hundtkinder. <Link to="/character-bios/Scarlett">Scarlett</Link> breaks into the operating room, ties up Dr. Hundtkinder and his assistants, places the unconscious Snake Eyes in a wheelchair, and makes her way out of the surgery room. Just then, the Baroness arrives with a group of Vipers.
+            At the hospital, <Link to="/character-bios/Scarlett">Scarlett</Link> receives a call from <Link to="/character-bios/Hawk">Hawk</Link>, who has just learned of the plot between the Baroness and Dr. Hundtkinder. <Link to="/character-bios/Scarlett">Scarlett</Link> breaks into the operating room, ties up Dr. Hundtkinder and his assistants, places the unconscious Snake Eyes in a wheelchair, and makes her way out of the surgery room. Just then, the Baroness arrives with a group of Vipers.
           </p>
           <p>
             One of the Vipers shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the arm. The Baroness then stands over the wounded <Link to="/character-bios/Scarlett">Scarlett</Link> and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (<Link to="/comic-issues/Issue94">Issue #94</Link>).
@@ -232,7 +232,7 @@ const SnakeEyes: React.FC = () => {
             Overcome with guilt, the Baroness strikes Snake Eyes' hand, breaking his grip on her. <Link to="/character-bios/StormShadow">Storm Shadow</Link> catches her before she can fall to her death, and together, he and Snake Eyes help her toward Destro's helicopter. But as Destro reaches out for Snake Eyes, the floor beneath Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives way.
           </p>
           <p>
-            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link> — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (<Link to="/comic-issues/Issue96">Issue #96</Link>).
+            Fortunately, a Toma<Link to="/character-bios/Hawk">Hawk</Link> helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall. Aboard the Toma<Link to="/character-bios/Hawk">Hawk</Link>, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link> — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (<Link to="/comic-issues/Issue96">Issue #96</Link>).
           </p>
         </section>
 
@@ -350,7 +350,7 @@ const SnakeEyes: React.FC = () => {
             During the Marvel run (1982–1994), six versions of Snake Eyes action figures were produced: the <a href="https://www.yojoe.com/action/82/snakeeyes.shtml" target="_blank" rel="noopener noreferrer">1982 version 1</a> (with a <a href="https://www.yojoe.com/action/83/snakeeyes1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm version 1.5</a>), the <a href="https://www.yojoe.com/action/85/snakeeyes2.shtml" target="_blank" rel="noopener noreferrer">1985 version 2</a>, the <a href="https://www.yojoe.com/action/89/snakeeyes3.shtml" target="_blank" rel="noopener noreferrer">1989 version 3</a>, the <a href="https://www.yojoe.com/action/91/snakeeyes4.shtml" target="_blank" rel="noopener noreferrer">1991 version 4</a>, the <a href="https://www.yojoe.com/action/93/snakeeyes5.shtml" target="_blank" rel="noopener noreferrer">1993 version 5</a>, and the <a href="https://www.yojoe.com/action/94/snakeeyes6.shtml" target="_blank" rel="noopener noreferrer">1994 Shadow Ninja variant</a> (identical to version 5, but with color-changing plastic). Numerous further versions of Snake Eyes were produced following the Marvel run. Snake Eyes obtains his version 3 uniform by assembling an amalgamation of the Paine Brothers' uniforms from the sub-basement of the Cobra Consulate (Issue #95). Following the reactivation of the G.I. Joe team, Snake Eyes wears either his version 1 or version 2 uniform.
           </p>
           <p>
-            The first two versions of Snake Eyes' file card list his rank as E-5. When Snake Eyes first meets Hawk at the airport, he is shown wearing sergeant's stripes (E-5) on his uniform (<Link to="/comic-issues/Issue26">Issue #26</Link>). Snake Eyes' file cards for the remainder of the Marvel run list his rank as E-7 (Sergeant First Class).
+            The first two versions of Snake Eyes' file card list his rank as E-5. When Snake Eyes first meets <Link to="/character-bios/Hawk">Hawk</Link> at the airport, he is shown wearing sergeant's stripes (E-5) on his uniform (<Link to="/comic-issues/Issue26">Issue #26</Link>). Snake Eyes' file cards for the remainder of the Marvel run list his rank as E-7 (Sergeant First Class).
           </p>
         </section>
 

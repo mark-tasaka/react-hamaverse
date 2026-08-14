@@ -43,7 +43,7 @@ const Stalker: React.FC = () => {
             Another soldier reports finding an empty gym bag nearby, capable of carrying fifty pounds of Semtex. The local refuses to divulge the location of the explosives, willing to die in the blast. Stalker beats the local until he gives up the location, saving the refugees — the local is left beaten near death (G.I. Joe Declassified #3).
           </p>
           <p>
-            Lt. Col.* Clayton Abernathy (Hawk) arrives on site as the deactivated explosives are being collected. Soldiers drag in the beaten body of the bomber. Abernathy yells at one of the soldiers carrying the body, "Are you responsible for this?" The soldier replies, "I wish we had."
+            Lt. Col.* Clayton Abernathy (<Link to="/character-bios/Hawk">Hawk</Link>) arrives on site as the deactivated explosives are being collected. Soldiers drag in the beaten body of the bomber. Abernathy yells at one of the soldiers carrying the body, "Are you responsible for this?" The soldier replies, "I wish we had."
           </p>
           <p>
             Abernathy takes responsibility for the torture of the local. Later, a Major General chews him out, telling him to put the blame on the sergeant. Abernathy refuses. A closed-door court-martial is held, where Abernathy argues the sergeant answers to him, and that he would have done the same in the sergeant's place — an argument that places every officer above him in the position of being morally inferior if they don't fall on the sword with him.** Abernathy is acquitted (G.I. Joe Declassified #1).
@@ -54,7 +54,7 @@ const Stalker: React.FC = () => {
           <h2 className="profile-block-title">Recruiting Snake Eyes</h2>
           <img src={stalker3} alt="Stalker recruiting Snake Eyes for G.I. Joe" className="profile-block-img" />
           <p>
-            Stalker is the first member Colonel Clayton Abernathy (Hawk) recruits for G.I. Joe. Stalker recommends <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and the two track him down to a rural route in the High Sierras. Locals direct them to a cabin up on Iron Knife Ridge, where they find <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returning with rabbits he caught with his bare hands. Stalker convinces him to join G.I. Joe (Issue #27).
+            Stalker is the first member Colonel Clayton Abernathy (<Link to="/character-bios/Hawk">Hawk</Link>) recruits for G.I. Joe. Stalker recommends <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and the two track him down to a rural route in the High Sierras. Locals direct them to a cabin up on Iron Knife Ridge, where they find <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returning with rabbits he caught with his bare hands. Stalker convinces him to join G.I. Joe (Issue #27).
           </p>
         </section>
 
@@ -62,10 +62,10 @@ const Stalker: React.FC = () => {
           <h2 className="profile-block-title">Wade Collins Survived</h2>
           <img src={stalker4} alt="Stalker discovering Wade Collins survived Vietnam" className="profile-block-img" />
           <p>
-            Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> drive Hawk from Fort Wadsworth (Staten Island) to Washington, D.C. Unbeknownst to them, Crimson Guardsman Fred II follows them from Staten Island.
+            Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> drive <Link to="/character-bios/Hawk">Hawk</Link> from Fort Wadsworth (Staten Island) to Washington, D.C. Unbeknownst to them, Crimson Guardsman Fred II follows them from Staten Island.
           </p>
           <p>
-            While Hawk visits General Austin at the U.S. Army Medical Center, Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> visit the Vietnam Memorial. As they look up the names of their fallen friends, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> points to where Wade Collins' name should be in the directory — it's missing. Just then, Fred II appears, pointing a silenced pistol at them, and says Wade Collins is not dead: he is Wade Collins. Cobra gave him a new face and a new life (Issue #42).
+            While <Link to="/character-bios/Hawk">Hawk</Link> visits General Austin at the U.S. Army Medical Center, Stalker and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> visit the Vietnam Memorial. As they look up the names of their fallen friends, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> points to where Wade Collins' name should be in the directory — it's missing. Just then, Fred II appears, pointing a silenced pistol at them, and says Wade Collins is not dead: he is Wade Collins. Cobra gave him a new face and a new life (Issue #42).
           </p>
           <p>
             Collins takes the two to his vehicle, and they drive as he explains what happened. He did not die in Vietnam — rather, he was wounded and captured. The North Vietnamese Army tended his wounds, and Collins spent the next two years rotting in a POW camp.
@@ -88,7 +88,7 @@ const Stalker: React.FC = () => {
             Snow Job and Quick Kick are wounded. The Joes flee the prison, jump into their getaway vehicle, and drive off, but Spigou is hit. He has the Joes escape into an alley while he drives the vehicle toward the pursuers, hoping to buy them time. Stalker orders Outback to flee, since he needs to stay with the wounded. The vehicle is struck by a tank round, and Spigou dies in the explosion. Stalker, Snow Job, and Quick Kick are captured.
           </p>
           <p>
-            On U.S. TVs, the three Joes' photos are broadcast on the news, identifying them as Western mercenaries. The State Department denies any connection to them, and Hawk informs the team that they've been written off — there will be no rescue mission (Issue #61).
+            On U.S. TVs, the three Joes' photos are broadcast on the news, identifying them as Western mercenaries. The State Department denies any connection to them, and <Link to="/character-bios/Hawk">Hawk</Link> informs the team that they've been written off — there will be no rescue mission (Issue #61).
           </p>
           <p>
             A quick trial is held for Stalker, Snow Job, and Quick Kick, and they're sent by train to a gulag. On the train, Stalker tends to the wounded Snow Job and Quick Kick and ensures all the prisoners in his freight car share the meager food and water provided (Issue #62).
@@ -122,7 +122,7 @@ const Stalker: React.FC = () => {
             Five versions of the Stalker action figure were produced during the Marvel run (1982–1994): the original <a href="https://www.yojoe.com/action/82/stalker.shtml" target="_blank" rel="noopener noreferrer">1982 Ranger</a> (and its <a href="https://www.yojoe.com/action/83/stalker1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> version), the <a href="https://www.yojoe.com/action/89/stalker2.shtml" target="_blank" rel="noopener noreferrer">1989 Arctic Ranger</a>, the <a href="https://www.yojoe.com/action/92/stalker3.shtml" target="_blank" rel="noopener noreferrer">1992 Talking Battle Commands</a>, the <a href="https://www.yojoe.com/action/93/stalker4.shtml" target="_blank" rel="noopener noreferrer">1993 Arctic Ranger repaint</a>, and the <a href="https://www.yojoe.com/action/94/stalker5.shtml" target="_blank" rel="noopener noreferrer">1994 Ranger</a>. Stalker's original file card lists him as an E-5, and his Order of Battle profile lists him as an SP-5 (Specialist 5th Class). In Issue #33, Stalker — along with seven other of the original thirteen Joes — receives a pay-grade promotion and is assigned administrative duties to accommodate the growing team. Sometime between this promotion and the release of Stalker's 1989 figure, he received another promotion to E-7 (Sergeant First Class). Stalker's remaining file cards for the Marvel run show his rank as E-7.
           </p>
           <p className="profile-notes-footnote">
-            *Hawk was an O-5 (Lieutenant Colonel) when he oversaw the refugee camp. Between this time and the formation of G.I. Joe, he was promoted to O-6 (Colonel).
+            *<Link to="/character-bios/Hawk">Hawk</Link> was an O-5 (Lieutenant Colonel) when he oversaw the refugee camp. Between this time and the formation of G.I. Joe, he was promoted to O-6 (Colonel).
           </p>
           <p className="profile-notes-footnote">
             **A direct quote from Sparks to General Flagg, while observing the court-martial.
