@@ -16,6 +16,7 @@ import seanImg from './img/portraits/sean.jpg';
 import siobanImg from './img/portraits/sioban.jpg';
 import stormShadowImg from './img/portraits/stormShadow.jpg';
 import marinaImg from './img/portraits/marina.jpg';
+import HawkImg from './img/portraits/hawk.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -245,6 +246,22 @@ const CHARACTERS: Character[] = [
       month: 'September',
     },
   },
+  {
+    name: 'Hawk',
+    img: HawkImg,
+    link: '/character-bios/Hawk',
+    rank: 95,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
+    },
+  }
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';
