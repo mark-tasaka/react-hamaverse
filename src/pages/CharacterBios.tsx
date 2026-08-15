@@ -300,10 +300,44 @@ const CHARACTERS: Character[] = [
 
 type SortField = 'rank' | 'issueNumber' | 'name';
 type SortDir   = 'desc' | 'asc';
+type FactionFilter = 'all' | 'G.I. Joe' | 'Arashikage' | 'Civilian';
+type StatusFilter = 'all' | 'Alive' | 'Dead';
+
+const SearchIcon: React.FC = () => (
+  <svg
+    className="character-search-icon"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    fill="none"
+    aria-hidden="true"
+  >
+    <circle
+      cx="10.5"
+      cy="10.5"
+      r="6.5"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <line
+      x1="15.5"
+      y1="15.5"
+      x2="21"
+      y2="21"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+    />
+  </svg>
+);
 
 const CharacterBios: React.FC = () => {
   const [sortField, setSortField] = useState<SortField>('rank');
   const [sortDir,   setSortDir]   = useState<SortDir>('desc');
+  const [filter,    setFilter]    = useState<FactionFilter>('all');
+  const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
+  const [query,     setQuery]     = useState('');
 
   const getSortValue = (c: Character, field: SortField): number | string => {
     switch (field) {
@@ -314,7 +348,15 @@ const CharacterBios: React.FC = () => {
     }
   };
 
-  const sortedCharacters = [...CHARACTERS].sort((a, b) => {
+  const filteredCharacters = CHARACTERS.filter(c => {
+    const matchesFilter =
+      filter === 'all' || c.faction === filter || c.secondaryFaction === filter;
+    const matchesStatus = statusFilter === 'all' || c.status === statusFilter;
+    const matchesSearch = c.name.toLowerCase().includes(query.toLowerCase());
+    return matchesFilter && matchesStatus && matchesSearch;
+  });
+
+  const sortedCharacters = [...filteredCharacters].sort((a, b) => {
     const valA = getSortValue(a, sortField);
     const valB = getSortValue(b, sortField);
 
@@ -329,6 +371,21 @@ const CharacterBios: React.FC = () => {
   return (
     <main className="character-bios-page">
       <h1 className="character-bios-title">Character Biographies</h1>
+
+      {/* ── Filter buttons ── */}
+      <div className="character-filter-wrapper">
+        {(['all', 'G.I. Joe', 'Arashikage', 'Civilian'] as const).map(f => (
+          <button
+            key={f}
+            className={`character-filter-btn${
+              filter === f ? ' character-filter-btn--active' : ''
+            }`}
+            onClick={() => setFilter(f)}
+          >
+            {f === 'all' ? 'All' : f}
+          </button>
+        ))}
+      </div>
 
       {/* ── Sort controls ── */}
       <div className="character-sort-wrapper">
@@ -351,26 +408,72 @@ const CharacterBios: React.FC = () => {
         >
           {sortDir === 'desc' ? '↓ Desc' : '↑ Asc'}
         </button>
+
+        <label htmlFor="character-status" className="character-sort-label">Status</label>
+        <select
+          id="character-status"
+          className="character-sort-select"
+          value={statusFilter}
+          onChange={e => setStatusFilter(e.target.value as StatusFilter)}
+        >
+          <option value="all">All</option>
+          <option value="Alive">Alive</option>
+          <option value="Dead">Fallen</option>
+        </select>
+      </div>
+
+      {/* ── Search bar ── */}
+      <div className="character-search-wrapper">
+        <label htmlFor="character-search" className="sr-only">Search characters</label>
+        <div className="character-search-box">
+          <SearchIcon />
+          <input
+            id="character-search"
+            type="search"
+            className="character-search-input"
+            placeholder="Search by name…"
+            value={query}
+            onChange={e => setQuery(e.target.value)}
+          />
+          {query && (
+            <button
+              className="character-search-clear"
+              onClick={() => setQuery('')}
+              aria-label="Clear search"
+            >
+              &#x2715;
+            </button>
+          )}
+        </div>
+        {query && (
+          <p className="character-search-count">
+            {sortedCharacters.length} result{sortedCharacters.length !== 1 ? 's' : ''} for &ldquo;{query}&rdquo;
+          </p>
+        )}
       </div>
 
       <div className="character-bios-grid">
-        {sortedCharacters.map(({ name, img, link, faction, introduced }) => (
-          <article key={name} className="character-card">
-            <Link to={link} className="character-img-link">
-              <img src={img} alt={name} className="character-img" />
-            </Link>
-            <div className="character-card-body">
-              <Link to={link} className="character-name-link">
-                <h2 className="character-name">{name}</h2>
+        {sortedCharacters.length > 0 ? (
+          sortedCharacters.map(({ name, img, link, faction, introduced }) => (
+            <article key={name} className="character-card">
+              <Link to={link} className="character-img-link">
+                <img src={img} alt={name} className="character-img" />
               </Link>
-              <p className="character-meta">
-                <span className="character-faction">{faction}</span>
-                <span className="character-meta-sep"> · </span>
-                <span className="character-first-appearance">{introduced.issueLabel}</span>
-              </p>
-            </div>
-          </article>
-        ))}
+              <div className="character-card-body">
+                <Link to={link} className="character-name-link">
+                  <h2 className="character-name">{name}</h2>
+                </Link>
+                <p className="character-meta">
+                  <span className="character-faction">{faction}</span>
+                  <span className="character-meta-sep"> · </span>
+                  <span className="character-first-appearance">{introduced.issueLabel}</span>
+                </p>
+              </div>
+            </article>
+          ))
+        ) : (
+          <p className="character-no-results">No characters match your search.</p>
+        )}
       </div>
     </main>
   );
