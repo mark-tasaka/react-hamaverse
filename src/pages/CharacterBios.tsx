@@ -284,7 +284,7 @@ const CHARACTERS: Character[] = [
     name: 'Professor Onihashi',
     img: OnihashiImg,
     link: '/character-bios/Onihashi',
-    rank: 2,
+    rank: 3,
     faction: 'Arashikage',
     secondaryFaction: '',
     status: 'Dead',
