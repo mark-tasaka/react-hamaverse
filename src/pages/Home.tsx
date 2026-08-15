@@ -25,7 +25,7 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 12, 2026</p>
+          <p className="update-log-date">August 14, 2026</p>
           <p className="update-log-entry">
             The character bio for <Link to="/character-bios/Onihashi">Professor Onihashi</Link> and expanded bios for <Link to="/character-bios/Wade">Wade Collins</Link> by adding more sections.  Added filter buttons to the character bios page to allow users to filter characters by faction and status.  Added a search bar to the character bios page to allow users to search for characters by name.
           </p>

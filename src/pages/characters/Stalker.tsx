@@ -13,7 +13,7 @@ const Stalker: React.FC = () => {
   return (
     <main className="character-profile-page">
       <div className="container">
-        <h1 className="character-profile-title">Stalker</h1>
+        <h1 className="character-profile-title">Stalker (Lonzo Wilkinson)</h1>
 
         <p className="profile-intro">
           One of the original members of G.I. Joe, Lonzo R. Wilkinson (Stalker) was born in Detroit, Michigan. His two older brothers were killed by gangs. Lonzo himself became a gang leader before enlisting in the U.S. Army to escape the streets of Detroit. He served in the Vietnam War but kept this a secret from his mother, having a cousin stationed in Germany reroute his letters so she would believe he was stationed there instead (Issue #155). Stalker served as the team leader of a six-man LRRP (Long Range Reconnaissance Patrol) that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Wade">Wade Collins</Link> served on.

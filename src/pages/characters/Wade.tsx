@@ -43,7 +43,7 @@ const Wade: React.FC = () => {
             Unable to find employment, Wade wanders from town to town until he comes across a Cobra recruitment poster in a small town, in the organization's early days. Wade joins Cobra and finally finds a place and purpose, working his way up the ranks. When the Crimson Guard is first formed, he volunteers, undergoing plastic surgery to match the others in the series — no longer Wade Collins, but Fred II (Issue #42).
           </p>
           <p>
-            When the original Fred Broca dies, Wade is sent to Staten Island as his replacement. He drives to Fred's home, where Fred's children, Sean and Heather, run out to greet him — not realizing that, despite his identical face, the man before them isn't their father. Wade takes on both Fred Broca's role as husband and father, and Fred's duties as a Cobra agent (Issue #31).
+            When the original Fred Broca dies, Wade is sent to Staten Island as his replacement. He drives to Fred's home, where Fred's children, <Link to="/character-bios/SeanCollins">Sean</Link> and Heather, run out to greet him — not realizing that, despite his identical face, the man before them isn't their father. Wade takes on both Fred Broca's role as husband and father, and Fred's duties as a Cobra agent (Issue #31).
           </p>
         </section>
 
@@ -54,7 +54,7 @@ const Wade: React.FC = () => {
             Wade Collins and three other undercover Siegies (Crimson Guards) are aboard the Staten Island Ferry en route to a training mission when they spot <Link to="/character-bios/Scarlett">Scarlett</Link> and an unknown soldier — <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, wearing his rubber mask — on the vehicle deck. Wade radios the discovery to his superiors, and the Siegies move to take <Link to="/character-bios/Scarlett">Scarlett</Link> prisoner. When her companion steps away to buy food, the three Siegies surround <Link to="/character-bios/Scarlett">Scarlett</Link> and discreetly draw their guns, ordering her to walk slowly back to their car.
           </p>
           <p>
-            <Link to="/character-bios/Scarlett">Scarlett</Link>'s companion returns and throws hot coffee in one of the Siegies' faces. Wade gets out of the car and fires his silenced pistol at the attacker — <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — who dodges the shot. The rounds instead strike the coffee-burned Siegie, killing him. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> grabs the fallen Siegie's gun and opens fire on Wade, hitting the car but missing him.
+            <Link to="/character-bios/Scarlett">Scarlett</Link>'s companion returns and throws hot coffee in one of the Siegies' faces. Wade gets out of the car and fires his silenced pistol at the attacker — <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — who dodges the shot. The rounds instead hit the coffee-burned Siegie, killing him. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> grabs the fallen Siegie's gun and opens fire on Wade, hitting the car but missing him.
           </p>
           <p>
             The other two Siegies drag <Link to="/character-bios/Scarlett">Scarlett</Link> through a door deeper into the ferry. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> attacks the first, giving <Link to="/character-bios/Scarlett">Scarlett</Link> the chance to turn on the one holding her — both Siegies are thrown down the stairs. Wade follows through the doorway, closes it behind him, and cuts the lights, using his weapon's image intensifier to track <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> in the dark.
@@ -85,7 +85,7 @@ const Wade: React.FC = () => {
             Wade Collins returns home to his adopted family with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Stalker">Stalker</Link>. Wade tells his adopted family that he was wrong, and that it took real friends to show him he'd been used by Cobra. Looking at his family, he says, "I am not your husband and father — I am a burnt-out Wade Collins wearing Fred's face." Wade tells them that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> will help them start new lives away from Cobra, and that they don't need to stay with him.
           </p>
           <p>
-            As Wade walks out of the house, Heather and Sean call out "Dad" — truly accepting Wade as their father for the first time. Tears fill his eyes. Wade turns to see his adopted wife holding a suitcase. "Wade," she says, "we have a long drive ahead of us to start our new life together" (Issue #43).
+            As Wade walks out of the house, Heather and <Link to="/character-bios/SeanCollins">Sean</Link> call out "Dad" — truly accepting Wade as their father for the first time. Tears fill his eyes. Wade turns to see his adopted wife holding a suitcase. "Wade," she says, "we have a long drive ahead of us to start our new life together" (Issue #43).
           </p>
         </section>
 

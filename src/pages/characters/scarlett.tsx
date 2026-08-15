@@ -19,7 +19,7 @@ const Scarlett: React.FC = () => {
   return (
     <main className="character-profile-page">
       <div className="container">
-        <h1 className="character-profile-title">Scarlett</h1>
+        <h1 className="character-profile-title">Scarlett (Shana O'Hara)</h1>
 
         <p className="profile-intro">
           Shana M. O'Hara (Scarlett) was born in Atlanta, Georgia. She has at least four siblings — three unnamed brothers and a sister named <Link to="/character-bios/Sioban">Sioban</Link>. Scarlett's father and three brothers are martial arts instructors, while her sister is an attorney. Scarlett started her martial arts training at nine and earned her first black belt at fifteen. She is one of the original members of G.I. Joe and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' lover.

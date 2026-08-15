@@ -17,7 +17,7 @@ const StormShadow: React.FC = () => {
   return (
     <main className="character-profile-page">
       <div className="container">
-        <h1 className="character-profile-title">Storm Shadow</h1>
+        <h1 className="character-profile-title">Storm Shadow (Thomas Arashikage)</h1>
 
         <p className="profile-intro">
           Thomas "Tommy" Arashikage (Storm Shadow) is the American-born son of Japanese immigrants. Born in California, Tommy joins the U.S. Army during the Vietnam War and serves two tours with a Long Range Reconnaissance Patrol (LRRP). In Vietnam, he forms a deep friendship with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, promising him a place in the family business back in Japan.

@@ -12,7 +12,7 @@ const Hawk: React.FC = () => {
   return (
     <main className="character-profile-page">
       <div className="container">
-        <h1 className="character-profile-title">Hawk</h1>
+        <h1 className="character-profile-title">Hawk (Clayton Abernathy)</h1>
 
         <p className="profile-intro">
           Clayton Abernathy (Hawk) is one of the original members of G.I. Joe, serving as the team's field commander at the start of the series under Generals Flagg and Austin. According to his file card, Hawk comes from a well-established and wealthy family (described as "real loaded" in the file card) and graduated from West Point at the top of his class. Later in the series, General Austin promotes Hawk to Brigadier General, giving him overall command of G.I. Joe.

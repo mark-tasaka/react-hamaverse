@@ -6,11 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
       
-      <p className="update-log-date">August 12, 2026</p>
+      <p className="update-log-date">August 13, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/Hawk">Hawk</Link>, <Link to="/character-bios/Wade">Wade Collins</Link> and <Link to="/character-bios/Marina">Marina</Link> have been added. More sections added to <Link to="/character-bios/StormShadow">Storm Shadows</Link>'s bio. As with Storm Shadow's bio, I will be adding more sections to Hawk and Wade Collins' bios.
       </p>
-      
+
       <p className="update-log-date">August 12, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Sioban">Sioban O'Hara</Link> have been added. I have only completed the early history of Storm Shadow's bio and will be adding more information to it in the future.  
