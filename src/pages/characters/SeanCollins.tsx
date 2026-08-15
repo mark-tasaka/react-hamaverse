@@ -56,10 +56,10 @@ const SeanCollins: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Meeting Their Stepsister Marina</h2>
+          <h2 className="profile-block-title">Welcoming Marina to the Family</h2>
           <img src={sean3} alt="Sean and Heather meeting their stepsister Marina" className="profile-block-img" />
           <p>
-            Years pass. The Collins family moves to another part of America, away from Cobra. One day, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> arrive with a new addition to the family: their stepsister, <Link to="/character-bios/Marina">Marina</Link>, whose family was killed in Borovia as a reult of ethnic cleansing. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> had brought <Link to="/character-bios/Marina">Marina</Link> back to America.  Sean, Heather and their parents welcome <Link to="/character-bios/Marina">Marina</Link> to her new family (Issue #108).
+            Years pass. The Collins family moves to another part of America, away from Cobra. One day, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> arrive with a new addition to the family: their adopted sister, <Link to="/character-bios/Marina">Marina</Link>, whose family was killed in Borovia as a reult of ethnic cleansing. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> had brought <Link to="/character-bios/Marina">Marina</Link> back to America.  Sean, Heather and their parents welcome <Link to="/character-bios/Marina">Marina</Link> to her new family (Issue #108).
           </p>
         </section>
 
@@ -107,7 +107,7 @@ const SeanCollins: React.FC = () => {
           <h2 className="profile-block-title">Joining G.I. Joe</h2>
           <img src={sean6} alt="Sean joining G.I. Joe" className="profile-block-img" />
           <p>
-            Sean Collins arrives at the Motor Pool with his new orders. Disappointed, he tells the Joes he's been assigned to an instructor cadre at a new training facility in Texas. They tell him Wild Bill is headed to that same base, and that Clutch will drive him to the C-130. Before Sean departs, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives him one of his personal Sykes-Fairbairn commando daggers — a gift that visibly moves him. Clutch jokes, "You must rate, Sean — I never got one of those." <Link to="/character-bios/Scarlett">Scarlett</Link> and Cover Girl  kiss Sean's cheeks, prompting Clutch to add, in mock disbelief, "I never got one of these either!"
+            Sean Collins arrives at the Motor Pool with his new orders. Disappointed, he tells the Joes he's been assigned to an instructor cadre at a new training facility in Texas. They tell him Wild Bill is headed to that same base, and that Clutch will drive him to the C-130. Before Sean departs, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives him one of his personal Sykes-Fairbairn commando daggers — a gift that visibly moves him. Clutch jokes, "You must rate, Sean — I never got one of those." <Link to="/character-bios/Scarlett">Scarlett</Link> and Cover Girl  kiss Sean's cheeks, prompting Clutch to add, in surprise, "I never got one of these either!"
           </p>
           <p>
             The C-130 lands at Fort Greer, in Utah — Sean's orders were only a cover for his true assignment: joining G.I. Joe. Roadblock gives him the code name "Throwdown" (Issue #209).
