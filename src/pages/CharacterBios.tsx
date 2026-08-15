@@ -18,6 +18,7 @@ import stormShadowImg from './img/portraits/stormShadow.jpg';
 import marinaImg from './img/portraits/marina.jpg';
 import HawkImg from './img/portraits/hawk.jpg';
 import WadeImg from './img/portraits/wade.jpg';
+import OnihashiImg from './img/portraits/onihashi.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -277,6 +278,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 31',
       year: '1985',
       month: 'January',
+    },
+  },
+  {
+    name: 'Professor Onihashi',
+    img: OnihashiImg,
+    link: '/character-bios/Onihashi',
+    rank: 2,
+    faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 84,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 84',
+      year: '1989',
+      month: 'March',
     },
   },
 ];
