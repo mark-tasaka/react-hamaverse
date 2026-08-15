@@ -31,7 +31,7 @@ const Tribute: React.FC = () => {
         <section className="tribute-block">
           <div className="tribute-block-media">
             <img src={hama2} alt="Larry Hama and Bart Wulf" />
-            <p className="tribute-block-caption">Larry Hama and Bart Wulf</p>
+            <p className="tribute-block-caption">Larry Hama and Bart Wulf<br />(Issue #233, Letters Page)</p>
           </div>
           <h2 className="tribute-block-title">Characters Based on Real People</h2>
           <p>
