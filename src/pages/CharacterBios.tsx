@@ -308,7 +308,7 @@ const CHARACTERS: Character[] = [
     introduced: {
       issueNumber: 155.1,
       publisher: 'Devils Due',
-      issueLabel: 'GI Joe Declassified Issue 1',
+      issueLabel: 'GI Joe Declassified #1',
       year: '2006',
       month: 'June',
     },

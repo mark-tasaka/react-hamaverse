@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../css/Common.css';
 import './css/CharacterProfile.css';
+import './css/NotesFieldAlternativeBtn.css';
 
 import shooter1 from './img/shooter/shooter_1.png';
 import shooter2 from './img/shooter/shooter_2.png';
@@ -17,7 +18,7 @@ const Shooter: React.FC = () => {
         <h1 className="character-profile-title">Jodie "Shooter" Craig</h1>
 
         <p className="profile-intro">
-          Sergeant First Class Jodie "Shooter" Craig is G.I. Joe's secret asset — a proficient sniper deployed in situations requiring plausible deniability, her identity kept hidden even from her own teammates.
+          Sergeant First Class Jodie "Shooter" Craig is G.I. Joe's secret asset — a proficient sniper deployed in situations requiring plausible deniability, her identity kept hidden even from her own teammates. On the surface, SFC Craig appears to be just another member of the Chaplain's Assistant staff cadre. Only General Flagg and Sparks know of her true role.
         </p>
 
         <section className="profile-block">
@@ -38,7 +39,7 @@ const Shooter: React.FC = () => {
             Shooter is flown from McGuire Air Force Base in New Jersey to Leeward Point Field at Guantanamo Bay, where she boards a helicopter bound for Sierra Gordo. En route, she removes her dog tags and any personal items that could identify her, dons her ghillie suit, and assembles her sniper rifle (G.I. Joe Declassified #2).
           </p>
           <p>
-            On the ground, Shooter sets up her position near the extraction site. Through her binoculars, she spots <Link to="/character-bios/Stalker">Stalker</Link> carrying the wounded prisoner — and then an enemy sniper lining up a shot. She takes out the sniper first, then opens fire on a pair of pursuing guerrillas, wounding one and shooting the radio out of the other's hands.
+            On the ground, Shooter sets up her position near the extraction site. Through her binoculars, she spots <Link to="/character-bios/Stalker">Stalker</Link> carrying the wounded prisoner — and then an enemy sniper lining up a shot. She takes out the sniper first, then opens fire on a pair of pursuing guerrillas, wounding one and shooting the radio the other is carrying.
           </p>
           <p>
             As the Joes are extracted, Shooter shoots the wounded prisoner, causing him to fall from the helicopter. Aboard the aircraft, the Joes are left uncertain what caused the fall.
@@ -55,7 +56,7 @@ const Shooter: React.FC = () => {
             During Operation Lady Doomsday, Shooter operates independently as a sniper on a Cobra-controlled island, providing cover fire for the Joes. As the team departs in a captured Cobra transport helicopter, she turns her sights on Cobra's anti-air guns — and discovers Cobra has been forcing the island's civilian population to serve as ammo bearers. Cobra Commander has set a five-minute timer to destroy the castle.
           </p>
           <p>
-            Knowing the civilian ammo bearers will die in the coming explosion if she doesn't intervene, Shooter abandons her sniper position and rushes the anti-air guns, drawing small-arms fire from Cobra troopers. Her action lets the civilians escape and keeps the guns from firing on the departing Joes — but the same gunfire kills her, sacrificing herself for both the civilians and her team. The ammo bearers make it out before the castle explodes (G.I. Joe Declassified #3).
+            Knowing the civilian ammo bearers will die in the coming explosion if she doesn't intervene, Shooter abandons her sniper position and rushes the anti-air guns, drawing small-arms fire from Cobra troopers. Her action lets the civilians escape and keeps the anti-airguns from firing on the departing Joes. She is kiiled by small arms gunfire, sacrificing herself for both the civilians and her team. The ammo bearers make it out before the castle explodes (G.I. Joe Declassified #3).
           </p>
         </section>
 
@@ -66,7 +67,7 @@ const Shooter: React.FC = () => {
             General Flagg visits the church where Shooter's mother works as a Sunday school teacher. Though he cannot divulge any details of Jodie's mission, he consoles Mrs. Craig with assurances of her daughter's courage, compassion, and integrity.
           </p>
           <p>
-            General Flagg has the team attend Shooter's memorial service. The Joes, puzzled as to why they've been gathered to honor a Chaplain's Assistant School cadre, listen as Flagg — borrowing a line from Grunt's AIT essay — quotes Amelia Earhart: "Courage is the price that life exacts for granting peace" (G.I. Joe Declassified #3).
+            General Flagg has the team attend Shooter's memorial service. The Joes, puzzled as to why they've been gathered to honor a Chaplain's Assistant School cadre. General Flagg — borrowing a line from Grunt's AIT essay — quotes Amelia Earhart: "Courage is the price that life exacts for granting peace" in his eulogy (G.I. Joe Declassified #3).
           </p>
         </section>
 

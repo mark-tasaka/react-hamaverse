@@ -1,0 +1,11 @@
+/* Use when images is added to notes in thef field */
+
+.profile-notes {
+  overflow: hidden;
+}
+
+/* Belt-and-suspenders: force anything after Notes to clear
+   past the floated image regardless of container behavior */
+.profile-back-row {
+  clear: both;
+}
