@@ -19,6 +19,7 @@ import marinaImg from './img/portraits/marina.jpg';
 import HawkImg from './img/portraits/hawk.jpg';
 import WadeImg from './img/portraits/wade.jpg';
 import OnihashiImg from './img/portraits/onihashi.jpg';
+import ShooterImg from './img/portraits/shooter.jpg';
 
 interface Introduced {
   issueNumber: number;
@@ -76,7 +77,7 @@ const CHARACTERS: Character[] = [
     name: 'Soft Master',
     img: softMasterImg,
     link: '/character-bios/SoftMaster',
-    rank: 50,
+    rank: 45,
     faction: 'Arashikage',
     secondaryFaction: '',
     status: 'Dead',
@@ -294,6 +295,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 84',
       year: '1989',
       month: 'March',
+    },
+  },
+  {
+    name: 'Shooter',
+    img: ShooterImg,
+    link: '/character-bios/Shooter',
+    rank: 50,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 155.1,
+      publisher: 'Devils Due',
+      issueLabel: 'GI Joe Declassified Issue 1',
+      year: '2006',
+      month: 'June',
     },
   },
 ];
