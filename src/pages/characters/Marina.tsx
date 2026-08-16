@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import marina1 from './img/marina/marina_1.png';
 import marina2 from './img/marina/marina_2.png';
 import marina3 from './img/marina/marina_3.png';
+import marina4 from './img/marina/marina_4.png';
 
 const Marina: React.FC = () => {
   return (
@@ -42,6 +43,17 @@ const Marina: React.FC = () => {
           </p>
           <p>
             The next day, Marina and the Hero reach the Borovian border by car. When the guards ask where they're headed, Marina answers, "He's going to take me to America, to live with a real American family. I'm going to have a brother and a sister" (Issue #106).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">The American Hospital</h2>
+          <img src={marina4} alt="Marina and Snake Eyes at the American hospital" className="profile-block-img" />
+          <p>
+            When Marina and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrive in the U.S., their first stop is the New York hospital where <Link to="/character-bios/Scarlett">Scarlett</Link> is being treated. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> finds her hospital bed empty. <Link to="/character-bios/Stalker">Stalker</Link> assures him <Link to="/character-bios/Scarlett">Scarlett</Link> is alive — she's disappeared, likely with <Link to="/character-bios/StormShadow">Storm Shadow</Link>, though he doesn't know where either of them are.
+          </p>
+          <p>
+            At the hospital are <Link to="/character-bios/Hawk">Hawk</Link> and Law, along with his dog, Order. Marina falls in love with Order, who affectionately licks her. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Stalker">Stalker</Link> depart to find <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>, while Marina stays behind at the hospital with <Link to="/character-bios/Hawk">Hawk</Link> and Law (Issue #108).
           </p>
         </section>
 
