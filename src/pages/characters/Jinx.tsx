@@ -76,7 +76,7 @@ const Jinx: React.FC = () => {
             When Jinx, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Billy">Billy</Link> arrive at Dulles Airport, Domestic Operations Agency (DOA) agents arrest the trio and cuff them. As they're escorted outside, they spot Rock 'n Roll and Clutch in a car, calling out to them. The three ninjas slip out of their cuffs, knock out the DOA agents, and board the car.
           </p>
           <p>
-            They drive to Dr. Adele Burkhart's home, where they meet Roadblock, Grunt (now a civilian), and his girlfriend, Lola (a civilian and former service member). Cover Girl, Duke, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and Zap later arrive at the house. The Joes mount a raid on the hospital; Dr. Burkhart insists on coming along. Film crews are active inside when <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are cleared, with the arrival of Destro, who presents receipts from MARS on camera, clearing the Joes of wrongdoing (Issue #78).
+            They drive to Dr. Adele Burkhart's home, where they meet Roadblock, <Link to="/character-bios/Grunt">Grunt</Link> (now a civilian), and his girlfriend, Lola (a civilian and former service member). Cover Girl, Duke, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and Zap later arrive at the house. The Joes mount a raid on the hospital; Dr. Burkhart insists on coming along. Film crews are active inside when <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are cleared, with the arrival of Destro, who presents receipts from MARS on camera, clearing the Joes of wrongdoing (Issue #78).
           </p>
         </section>
 
