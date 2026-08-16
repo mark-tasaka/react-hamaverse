@@ -82,7 +82,7 @@ const Grunt: React.FC = () => {
             During the Marvel run (1982–1994), three versions of Grunt were produced: the <a href="https://www.yojoe.com/action/82/grunt.shtml" target="_blank" rel="noopener noreferrer">1982 straight-arm version</a> (<a href="https://www.yojoe.com/action/83/grunt1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm version</a>), the <a href="https://www.yojoe.com/action/83/grunt2.shtml" target="_blank" rel="noopener noreferrer">1983 repaint</a>, and the <a href="https://www.yojoe.com/action/91/grunt3.shtml" target="_blank" rel="noopener noreferrer">1991 version</a>. The 1982 and 1983 file cards list his rank as E-4 (Corporal or Specialist 4*). In Issue #33, Grunt and seven other of the original Joes receive a one-paygrade promotion from General Austin, assigned administrative duties as the team expands — reflected in his 1991 file card, which lists him as an E-5 (Sergeant). Grunt was out of service at the time, attending Georgia Tech.
           </p>
           <p className="profile-notes-footnote">
-            *The rank of Specialist 4 existed until 1985, when the other Specialist ranks were phased out and Specialist 4 became simply "Specialist." A Specialist shares the same pay grade as a Corporal, yet Corporals are NCOs and hold authority over Specialists.
+            *The rank of Specialist 4 existed until 1985, when the other Specialist ranks were phased out, Specialist 4 became "Specialist." A Specialist shares the same pay grade as a Corporal, yet Corporals are NCOs and hold authority over Specialists.
           </p>
         </section>
 
