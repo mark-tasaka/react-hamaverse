@@ -20,6 +20,8 @@ import HawkImg from './img/portraits/hawk.jpg';
 import WadeImg from './img/portraits/wade.jpg';
 import OnihashiImg from './img/portraits/onihashi.jpg';
 import ShooterImg from './img/portraits/shooter.jpg';
+import GruntImg from './img/portraits/grunt.jpg';
+
 
 interface Introduced {
   issueNumber: number;
@@ -311,6 +313,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'GI Joe Declassified #1',
       year: '2006',
       month: 'June',
+    },
+  },
+  {
+    name: 'Grunt',
+    img: GruntImg,
+    link: '/character-bios/Grunt',
+    rank: 55,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   },
 ];

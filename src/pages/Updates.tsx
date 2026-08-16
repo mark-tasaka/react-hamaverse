@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
       
+      <p className="update-log-date">August 14, 2026</p>
+      <p className="update-log-entry">
+        The character bio for <Link to="/character-bios/Onihashi">Professor Onihashi</Link> and expanded bios for <Link to="/character-bios/Wade">Wade Collins</Link> by adding more sections.  Added filter buttons to the character bios page to allow users to filter characters by faction and status.  Added a search bar to the character bios page to allow users to search for characters by name.
+      </p>
+      
       <p className="update-log-date">August 13, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/Hawk">Hawk</Link>, <Link to="/character-bios/Wade">Wade Collins</Link> and <Link to="/character-bios/Marina">Marina</Link> have been added. More sections added to <Link to="/character-bios/StormShadow">Storm Shadows</Link>'s bio. As with Storm Shadow's bio, I will be adding more sections to Hawk and Wade Collins' bios.

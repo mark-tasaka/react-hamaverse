@@ -47,7 +47,7 @@ const Marina: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">The American Hospital</h2>
+          <h2 className="profile-block-title">American Hospital and the Friendly K-9 (Order)</h2>
           <img src={marina4} alt="Marina and Snake Eyes at the American hospital" className="profile-block-img" />
           <p>
             When Marina and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrive in the U.S., their first stop is the New York hospital where <Link to="/character-bios/Scarlett">Scarlett</Link> is being treated. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> finds her hospital bed empty. <Link to="/character-bios/Stalker">Stalker</Link> assures him <Link to="/character-bios/Scarlett">Scarlett</Link> is alive — she's disappeared, likely with <Link to="/character-bios/StormShadow">Storm Shadow</Link>, though he doesn't know where either of them are.
