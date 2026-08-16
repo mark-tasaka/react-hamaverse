@@ -46,7 +46,7 @@ const Grunt: React.FC = () => {
             When his term of service is up, Grunt is honorably discharged and leaves for civilian life, having been accepted into the engineering program at Georgia Tech. Both <Link to="/character-bios/Hawk">Hawk</Link> and Duke shake his hand and wish him well. At the bus stop, Grunt finds Clutch waiting for him. Clutch gives him a firm handshake as he boards the bus, and as it pulls away, salutes and calls out, "Have a good life, soldier" (Issue #55).
           </p>
           <p>
-            Much to his roommate's chagrin, Grunt keeps up his old habit at Georgia Tech, waking at dawn to run laps at the track. One morning, he meets Lola, who recognizes him immediately as a former service member — "Only a grunt would get up at dawn for PT," she tells him. Lola herself is a former Air Cav helicopter mechanic, also using the G.I. Bill to pay for college. The two hit it off. When she asks about his name, Grunt starts to answer, "Gr—" before stopping himself and saying, "Everyone calls me Bobby" (Issue #56).
+            Much to his roommate's chagrin, Grunt keeps up his old habit at Georgia Tech, waking at dawn to run laps at the track. One morning, he meets Lola, who recognizes him immediately as a former service member — "Only a grunt would get up at dawn for PT," she tells him. Lola herself is a former Air Cav helicopter mechanic, also using the G.I. Bill to pay for college. The two hit it off. When she asks about his name, Grunt starts to answer, "Gr—" before stopping himself and saying, "Everyone calls me Bob" (Issue #56).
           </p>
         </section>
 
@@ -63,7 +63,7 @@ const Grunt: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Rural Virginia Hospital Raid Rescue Mission</h2>
+          <h2 className="profile-block-title">Rural Virginia Hospital Raid</h2>
           <img src={grunt5} alt="The rural Virginia hospital raid" className="profile-block-img" />
           <p>
             In the aftermath of the Joes' participation in the Cobra Civil War on Cobra Island, the team is relieved from active duty and placed under arrest pending investigation. Roadblock accompanies Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth to the Pentagon when they're taken into custody, but manages to escape, making his way to Dr. Adele Burkhart's home in the Georgetown section of Washington, D.C. (Issue #77).
