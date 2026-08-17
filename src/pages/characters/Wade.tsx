@@ -11,6 +11,8 @@ import wade5 from './img/wade/wade_5.png';
 import wade6 from './img/wade/wade_6.png';
 import wade7 from './img/wade/wade_7.png';
 import wade8 from './img/wade/wade_8.png';
+import wade9 from './img/wade/wade_9.png';
+import wade10 from './img/wade/wade_10.png';
 
 const Wade: React.FC = () => {
   return (
@@ -128,6 +130,37 @@ const Wade: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/SeanCollins">Sean</Link> writes to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and receives a heartfelt, honest reply detailing the truth of being a soldier. Afterward, <Link to="/character-bios/SeanCollins">Sean</Link> looks up at his father and says, "You never told me what it was like, Dad. You never told me about the war." Wade tells him, "There are some things we need to put behind us. If you're still intent on joining after reading the letter, I'll sign the papers." <Link to="/character-bios/SeanCollins">Sean</Link> says he needs time to think it over. Wade agrees that's the best course of action, and the two embrace (Issue #155).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Sean's Funeral</h2>
+          <img src={wade9} alt="Sean's funeral at Arlington National Cemetery" className="profile-block-img" />
+          <p>
+            After taking time to reflect on <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' letter, <Link to="/character-bios/SeanCollins">Sean</Link> decides to enlist in the Army. He goes on to complete Ranger, Airborne, and Special Forces schools, and serves two tours as a Special Forces operator in Afghanistan. He later joins G.I. Joe.
+          </p>
+          <p>
+            To keep <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death a secret from Cobra, <Link to="/character-bios/Hawk">Hawk</Link> asks <Link to="/character-bios/SeanCollins">Sean</Link> to become <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, maintaining the illusion that he's still alive. To keep up appearances, a funeral is held for <Link to="/character-bios/SeanCollins">Sean</Link>, with no one outside G.I. Joe aware that he's actually alive. A funeral with full military honors is held for the family at Arlington National Cemetery, and a coffin is laid to rest. Wade questions his son's death, noting that the security at the funeral was far too lax — he suspects the whole thing is a sham.
+          </p>
+          <p>
+            Wanting to punish the Collins family, Cobra Commander has Firefly plant explosives that detonate their house (Issue #215). Fortunately, Wade's instincts and knowledge of Cobra pay off — he hides his family in the basement, saving them from the blast. The basement conceals a secret escape tunnel leading to the garden shed, where cash, new passports, and other essentials are stashed away (Issue #216).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Return to Springfield</h2>
+          <img src={wade10} alt="Wade's return to Springfield" className="profile-block-img" />
+          <p>
+            Wade moves his family to the Cobra-occupied town of Springfield, believing it's the last place Cobra would think to look for them. His wife is not impressed. Wade assumes the identity of Fred 96 (Issue #233).
+          </p>
+          <p>
+            Things go smoothly for the Collins family in Springfield at first. One day, Wade's neighbor (Fred 57) reports his suspicions about the Collins family, triggering a raid on their home. Heather is out shopping when the raid occurs; Wade and his wife are captured (Issue #238) and taken to Dr. Mindbender's lab beneath the Springfield Community Center, where the Brainwave Scanner is kept. Heather, disguised as a Crimson Guard Immortal, joins forces with Dawn Moreno (Issue #239).
+          </p>
+          <p>
+            Heather and Dawn rescue Wade and his wife from the Brainwave Scanner. Wade watches a monitor showing <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Zartan, and Obake Obassan inside the community center. Noticing something different about <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' body language, he realizes this is actually <Link to="/character-bios/SeanCollins">Sean</Link>. Dawn hooks the captured Dr. Mindbender up to the Brainwave Scanner, and Heather inserts a USB drive containing a virus to erase all the memories stored inside while the doctor is still connected — an act that inadvertently allows Dr. Venom's dormant consciousness to take over Dr. Mindbender's body.
+          </p>
+          <p>
+            Wade, his wife, Heather, and Dawn meet up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/character-bios/SeanCollins">Sean Collins</Link>), <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Zartan, and Obake Obassan. Wade, his wife, and Heather embrace <Link to="/character-bios/SeanCollins">Sean</Link>, overjoyed to find him still alive (Issue #240). With the help of the Dreadnoks and disguised as Vipers, the group makes their escape (Issue #241).
           </p>
         </section>
 
