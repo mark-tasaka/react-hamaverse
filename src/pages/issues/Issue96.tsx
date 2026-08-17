@@ -97,7 +97,7 @@ const Issue96: React.FC = () => {
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> tactically withdraws while engaged with a Viper combat patrol. The Vipers believe they have him cornered. From the safety of the penthouse command center, the Baroness reiterates that they — not <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — are the ones who are trapped. Just then, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> appears, catching the Vipers by surprise. The Vipers are defeated while the Baroness watches the events play out on the video monitor.
           </p>
           <p>
-            In the lower levels of the burning Consulate are <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and Wade Collins. They cannot progress any further due to the fire. <Link to="/character-bios/StormShadow">Storm Shadow</Link> says he will climb out the window to reach <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> by scaling the outside wall, and asks <Link to="/character-bios/Stalker">Stalker</Link> to round up some air cover.
+            In the lower levels of the burning Consulate are <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and <Link to="/character-bios/Wade">Wade Collins</Link>. They cannot progress any further due to the fire. <Link to="/character-bios/StormShadow">Storm Shadow</Link> says he will climb out the window to reach <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> by scaling the outside wall, and asks <Link to="/character-bios/Stalker">Stalker</Link> to round up some air cover.
           </p>
           <p>
             At JFK Airport, the Tomahawk has landed with the comatose <Link to="/character-bios/Scarlett">Scarlett</Link> on board. Lift Ticket receives the message from <Link to="/character-bios/Stalker">Stalker</Link> and tells Hawk they are the only aircraft available.
@@ -112,13 +112,13 @@ const Issue96: React.FC = () => {
             A couple of floors below, the three missing Vipers are rigging together rope, hoping to climb out the window. One of them spots <Link to="/character-bios/StormShadow">Storm Shadow</Link> scaling the wall outside, and the Vipers blindly empty their assault rifles out the window at him. Once their ammunition runs out, one of the Vipers looks out to check — <Link to="/character-bios/StormShadow">Storm Shadow</Link> grabs him by the neck and throws him out the window, then climbs in and dispatches the remaining two.
           </p>
           <p>
-            Wade and <Link to="/character-bios/Stalker">Stalker</Link> reach the roof of a nearby building with a helicopter landing pad, but the civilian pilot refuses to fly anywhere near the Consulate.
+            <Link to="/character-bios/Wade">Wade</Link> and <Link to="/character-bios/Stalker">Stalker</Link> reach the roof of a nearby building with a helicopter landing pad, but the civilian pilot refuses to fly anywhere near the Consulate.
           </p>
           <p>
             Back in the penthouse, the Vipers finish barricading the main door. The Baroness scans the monitors for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and spots <Link to="/character-bios/StormShadow">Storm Shadow</Link> on the other side of the barricaded door. She orders a Heat-Viper to fire a missile through the barricade; the missile is fired, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> dodges it. He enters the penthouse and calls out for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> throws off the Techno-Viper helmet he had been wearing and joins his sword brother in combat. A loud rumbling sound rises as the penthouse begins to collapse.
           </p>
           <p>
-            On the rooftop of the nearby building, the Tomahawk picks up Wade Collins and <Link to="/character-bios/Stalker">Stalker</Link> and flies toward the Consulate.
+            On the rooftop of the nearby building, the Tomahawk picks up <Link to="/character-bios/Wade">Wade Collins</Link> and <Link to="/character-bios/Stalker">Stalker</Link> and flies toward the Consulate.
           </p>
           <p>
             The penthouse floor gives way, throwing the remaining Vipers to their deaths. The Baroness clings to a crumbling section of floor, hanging outside the building. Her grip slips, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> catches her wrist, preventing her from falling. With her free hand, the Baroness draws her pistol and says she will not be robbed of her revenge. Destro's helicopter arrives, and he tells her that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> did not kill her brother.
