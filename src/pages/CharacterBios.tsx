@@ -21,6 +21,7 @@ import WadeImg from './img/portraits/wade.jpg';
 import OnihashiImg from './img/portraits/onihashi.jpg';
 import ShooterImg from './img/portraits/shooter.jpg';
 import GruntImg from './img/portraits/grunt.jpg';
+import HundtkinderImg from './img/portraits/hundtkinder.jpg';
 
 
 interface Introduced {
@@ -329,6 +330,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 1',
       year: '1982',
       month: 'March',
+    },
+  },
+  {
+    name: 'Dr. Hundtkinder',
+    img: HundtkinderImg,
+    link: '/character-bios/Hundtkinder',
+    rank: 2,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 23,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 23',
+      year: '1984',
+      month: 'May',
     },
   },
 ];
