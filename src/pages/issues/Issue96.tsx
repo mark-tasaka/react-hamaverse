@@ -100,7 +100,7 @@ const Issue96: React.FC = () => {
             In the lower levels of the burning Consulate are <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and <Link to="/character-bios/Wade">Wade Collins</Link>. They cannot progress any further due to the fire. <Link to="/character-bios/StormShadow">Storm Shadow</Link> says he will climb out the window to reach <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> by scaling the outside wall, and asks <Link to="/character-bios/Stalker">Stalker</Link> to round up some air cover.
           </p>
           <p>
-            At JFK Airport, the Tomahawk has landed with the comatose <Link to="/character-bios/Scarlett">Scarlett</Link> on board. Lift Ticket receives the message from <Link to="/character-bios/Stalker">Stalker</Link> and tells Hawk they are the only aircraft available.
+            At JFK Airport, the Tomahawk has landed with the comatose <Link to="/character-bios/Scarlett">Scarlett</Link> on board. Lift Ticket receives the message from <Link to="/character-bios/Stalker">Stalker</Link> and tells <Link to="/character-bios/Hawk">Hawk</Link> they are the only aircraft available.
           </p>
           <p>
             Back in the penthouse, the Viper search parties are returning. The Tele-Viper reports to the Baroness that all but three members of the search party have returned. Destro appears on the monitor, wanting to know why smoke is rising from the Consulate (he is in a helicopter over New Jersey). The Baroness tells him the building has been bombed and they need an airlift. Destro turns his helicopter back toward the Consulate.
