@@ -46,7 +46,7 @@ const Hundtkinder: React.FC = () => {
           <h2 className="profile-block-title">A House Call from the Joes</h2>
           <img src={hundtkinder3} alt="The Joes confronting Dr. Hundtkinder" className="profile-block-img" />
           <p>
-            Dr. Hundtkinder enters his office to find Chuckles seated at his desk. Chuckles informs him that they have phone records showing his call to the Baroness in New York on the day <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrived at the clinic. As Dr. Hundtkinder reaches for the phone to call the local authorities, Roadblock — standing unseen in the corner of the room — clamps a firm hand over the receiver and tells him he doesn't care what the locals think (Issue #95). It remains unclear what becomes of Dr. Hundtkinder afterward.
+            Dr. Hundtkinder enters his office to find Chuckles seated at his desk. Chuckles informs him that they have phone records showing his call to the Baroness in New York on the day <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrived at the clinic. As Dr. Hundtkinder reaches for the phone to call the local authorities, Roadblock — standing unseen in the corner of the room — clamps a firm hand over the receiver and tells him he doesn't care what the locals think (<Link to="/comic-issues/Issue95">Issue #95</Link>). It remains unclear what becomes of Dr. Hundtkinder afterward.
           </p>
         </section>
 
