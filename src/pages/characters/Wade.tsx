@@ -13,6 +13,7 @@ import wade7 from './img/wade/wade_7.png';
 import wade8 from './img/wade/wade_8.png';
 import wade9 from './img/wade/wade_9.png';
 import wade10 from './img/wade/wade_10.png';
+import wade11 from './img/wade/wade_11.png';
 
 const Wade: React.FC = () => {
   return (
@@ -161,6 +162,20 @@ const Wade: React.FC = () => {
           </p>
           <p>
             Wade, his wife, Heather, and Dawn meet up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/character-bios/SeanCollins">Sean Collins</Link>), <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Zartan, and Obake Obassan. Wade, his wife, and Heather embrace <Link to="/character-bios/SeanCollins">Sean</Link>, overjoyed to find him still alive (Issue #240). With the help of the Dreadnoks and disguised as Vipers, the group makes their escape (Issue #241).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">The Rescue Mission</h2>
+          <img src={wade11} alt="The rescue mission to Springfield" className="profile-block-img" />
+          <p>
+            The Motor Pool at Fort Wadsworth is reactivated, and a select group of Joes is stationed there. Cobra launches an attack on the fort and captures <Link to="/character-bios/SeanCollins">Sean Collins</Link>, believing him to be the real <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. <Link to="/character-bios/SeanCollins">Sean</Link> is taken to Springfield. Wade arrives at Fort Wadsworth seeking out <Link to="/character-bios/Stalker">Stalker</Link> to join the rescue mission (Issue #269).
+          </p>
+          <p>
+            Unable to launch an official rescue mission or use military vehicles, the Joes instead use their leave time and civilian vehicles to mount the raid. Wade joins the mission, riding along with <Link to="/character-bios/Stalker">Stalker</Link>, Rock 'n Roll, and Clutch in Bongo the Balloon Bear's van — a relic belonging to Candy Apel that they'd kept in the Motor Pool over the years (Issue #270).
+          </p>
+          <p>
+            The other Joes use their own leave time and take various civilian vehicles to Springfield. After an intense mission, Wade and the Joes leave Springfield with <Link to="/character-bios/SeanCollins">Sean</Link>, who manages to escape captivity on his own and joins his father and the Joes in the battle (Issue #275).
           </p>
         </section>
 
