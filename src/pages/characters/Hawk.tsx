@@ -7,6 +7,7 @@ import hawk1 from './img/hawk/hawk_1.png';
 import hawk2 from './img/hawk/hawk_2.png';
 import hawk3 from './img/hawk/hawk_3.png';
 import hawk4 from './img/hawk/hawk_4.png';
+import hawk5 from './img/hawk/hawk_5.png';
 
 const Hawk: React.FC = () => {
   return (
@@ -68,6 +69,20 @@ const Hawk: React.FC = () => {
           </p>
           <p>
             Hawk and <Link to="/character-bios/Stalker">Stalker</Link> drive up to the cabin and find a giant wolf, Timber, waiting inside. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrives shortly after, carrying rabbits he'd caught and killed with his bare hands. <Link to="/character-bios/Stalker">Stalker</Link> convinces him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Promotion to Brigadier General</h2>
+          <img src={hawk5} alt="Hawk's promotion to Brigadier General" className="profile-block-img" />
+          <p>
+            General Austin suffers a heart attack while speaking with Hawk over video (Issue #42). Hawk has <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> drive him from Fort Wadsworth to the U.S. Army Medical Center in Washington, D.C. At the hospital, General Austin remains consumed with work, and Hawk briefs him on G.I. Joe's ongoing activities as the general recovers in bed.
+          </p>
+          <p>
+            Later, with Hawk present, General Austin holds a video conference with the President, the Joint Chiefs, and the Secretary of Defense. He tells them that, given his cardiac condition, he can no longer serve as commander of G.I. Joe, announces his retirement, and recommends implementing Plan Alpha — a recommendation the group unanimously approves.
+          </p>
+          <p>
+            General Austin then takes a set of general's stars he has been keeping for Hawk from his bedside drawer and presents them to him, telling Hawk he has been promoted to Brigadier General and is now Commander in Chief of G.I. Joe (Issue #45).
           </p>
         </section>
 

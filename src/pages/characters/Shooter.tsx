@@ -92,7 +92,7 @@ const Shooter: React.FC = () => {
             The first issue of G.I. Joe: A Real American Hero shows the names of the fourteen original Joes listed on a monitor at the Pentagon. The fourteenth member is identified as Shooter, though the hand of the Air Force sergeant operating the monitor happens to cover the character's face in the panel. The name was added as a tribute to then-editor-in-chief Jim Shooter, and for years, fans wondered who this mysterious G.I. Joe member named Shooter actually was. Decades later, when Mr. Hama wrote G.I. Joe: Declassified, he finally gave Shooter her backstory.
           </p>
           <p>
-            Jodie "Shooter" Craig is named after a real person Mr. Hama went to high school with — five of the real Jodie Craig's children went on to serve in the armed forces.
+            Jodie Craig is named after a real person Mr. Hama went to high school with — five of the real Jodie Craig's children went on to serve in the armed forces.
           </p>
         </section>
 
