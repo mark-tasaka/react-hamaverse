@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
       
+      <p className="update-log-date">August 17, 2026</p>
+      <p className="update-log-entry">
+        The character bio for <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> and Summary of <Link to="comic-issues/Issue95">Issue #95</Link> have been added.  A new section for the character bio for <Link to="/character-bios/Hawk">Hawk</Link> has been added.
+      </p>
+      
       <p className="update-log-date">August 16, 2026</p>
       <p className="update-log-entry">
         The character bio for <Link to="/character-bios/Shooter">Shooter</Link> and <Link to="/character-bios/Grunt">Grunt</Link> have been added.  The character bio for <Link to="/character-bios/Marina">Marina</Link> has been updated with a new section (American Hospital and the Friendly K-9 (Order)) added.  
