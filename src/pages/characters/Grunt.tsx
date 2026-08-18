@@ -8,6 +8,7 @@ import grunt2 from './img/grunt/grunt_2.png';
 import grunt3 from './img/grunt/grunt_3.png';
 import grunt4 from './img/grunt/grunt_4.png';
 import grunt5 from './img/grunt/grunt_5.png';
+import grunt6 from './img/grunt/grunt_6.png';
 
 const Grunt: React.FC = () => {
   return (
@@ -73,6 +74,22 @@ const Grunt: React.FC = () => {
           </p>
           <p>
             Grunt and Lola join the others for the rescue mission, with Dr. Burkhart insisting on coming along as well. Film crews are on scene at the hospital as the Joes carry out their raid. Destro arrives and presents receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
+          </p>
+        </section>
+                <section className="profile-block">
+          <h2 className="profile-block-title">Engineering Consultant for the U.S. State Department</h2>
+          <img src={grunt6} alt="Grunt as an engineering consultant for the U.S. State Department" className="profile-block-img" />
+          <p>
+            Grunt marries Lola, and the two have a daughter. He becomes an engineer and is eventually employed by the U.S. State Department as an engineering consultant, while Lola finds work with an unidentified three-letter U.S. government agency (this is implied in Issue #198, when Grunt describes her as having security clearance well above his pay grade).
+          </p>
+          <p>
+            In Sierra Gordo, Grunt, as the State Department's engineering consultant, attends an outdoor press conference alongside Sierra Gordo President Velez and U.S. Ambassador Huntley Pierce-Bryson. The group comes under attack by masked gunmen, and several of the U.S. Marines providing security are killed. Drawing on his military training, Grunt grabs a assault rifle from a fallen Marine and returns fire, protecting the President and Ambassador. The President, Ambassador, Grunt, and a surviving Marine are taken captive as the events play out live on TV. Watching the events unfoldfrom TV monitors in the Pit, the G.I. Joe team mobilizes for a rescue mission to Sierra Gordo (Issue #193).
+          </p>
+          <p>
+            The captives are taken to a Terror Drome in the jungle, where the masked attackers are revealed to be Revanche androids. Meanwhile, reporters surround the Graves family home in Northern Virginia, where Lola and their daughter live. After dealing with the press, Lola retrieves her go-bag — a briefcase containing currency, passports, a firearm, and ammunition — reassures her daughter that she's going to bring daddy home, and departs for Sierra Gordo (Issue #196).
+          </p>
+          <p>
+            Grunt, the President, the Ambassador, and the Marine escape the Terror Drome, battling the Android Terrorists along the way. The Ambassador, a former U.S. Marine himself, is badly hit and succumbs to blood loss. Outside the Terror Drome, Grunt encounters Lola, and together they engage the remaining Android Terrorists. The Joes later arrive. In the aftermath of the battle, Duke calls Grunt by his code name. Grunt simply replies, "It's just Bob Graves".  Duke says, you will always be Grunt in our roster (Issue #198).
           </p>
         </section>
 
