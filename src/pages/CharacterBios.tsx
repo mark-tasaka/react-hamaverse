@@ -461,6 +461,8 @@ const CharacterBios: React.FC = () => {
           {sortDir === 'desc' ? '↓ Desc' : '↑ Asc'}
         </button>
 
+        <span className="character-sort-break" aria-hidden="true"></span>
+
         <label htmlFor="character-status" className="character-sort-label">Status</label>
         <select
           id="character-status"
