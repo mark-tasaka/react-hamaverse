@@ -14,6 +14,10 @@ import wade8 from './img/wade/wade_8.png';
 import wade9 from './img/wade/wade_9.png';
 import wade10 from './img/wade/wade_10.png';
 import wade11 from './img/wade/wade_11.png';
+import wade12 from './img/wade/wade_12.png';
+import wade13 from './img/wade/wade_13.png';
+import wade14 from './img/wade/wade_14.png';
+import wade15 from './img/wade/wade_15a.png';
 
 const Wade: React.FC = () => {
   return (
@@ -155,13 +159,21 @@ const Wade: React.FC = () => {
             Wade moves his family to the Cobra-occupied town of Springfield, believing it's the last place Cobra would think to look for them. His wife is not impressed. Wade assumes the identity of Fred 96 (Issue #233).
           </p>
           <p>
-            Things go smoothly for the Collins family in Springfield at first. One day, Wade's neighbor (Fred 57) reports his suspicions about the Collins family, triggering a raid on their home. Heather is out shopping when the raid occurs; Wade and his wife are captured (Issue #238) and taken to Dr. Mindbender's lab beneath the Springfield Community Center, where the Brainwave Scanner is kept. Heather, disguised as a Crimson Guard Immortal, joins forces with Dawn Moreno (Issue #239).
+            Things go smoothly for the Collins family in Springfield at first. One day, Wade's neighbor (Fred 57) reports his suspicions about the Collins family, triggering a raid on their home. Heather is out shopping when the raid occurs; Wade and his wife are captured (Issue #238) and taken to Dr. Mindbender's lab beneath the Springfield Community Center, where the Brainwave Scanners are kept. Heather, disguised as a Crimson Guard Immortal, joins forces with Dawn Moreno (Issue #239).
           </p>
           <p>
             Heather and Dawn rescue Wade and his wife from the Brainwave Scanner. Wade watches a monitor showing <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Zartan, and Obake Obassan inside the community center. Noticing something different about <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' body language, he realizes this is actually <Link to="/character-bios/SeanCollins">Sean</Link>. Dawn hooks the captured Dr. Mindbender up to the Brainwave Scanner, and Heather inserts a USB drive containing a virus to erase all the memories stored inside while the doctor is still connected — an act that inadvertently allows Dr. Venom's dormant consciousness to take over Dr. Mindbender's body.
           </p>
           <p>
             Wade, his wife, Heather, and Dawn meet up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/character-bios/SeanCollins">Sean Collins</Link>), <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Zartan, and Obake Obassan. Wade, his wife, and Heather embrace <Link to="/character-bios/SeanCollins">Sean</Link>, overjoyed to find him still alive (Issue #240). With the help of the Dreadnoks and disguised as Vipers, the group makes their escape (Issue #241).
+          </p>
+        </section>
+        
+        <section className="profile-block">
+          <h2 className="profile-block-title">Memorial Day</h2>
+          <img src={wade13} alt="Wade at the Vietnam War Memorial on Memorial Day" className="profile-block-img" />
+          <p>
+            On Memorial Day, Wade travels to the Vietnam War Memorial to honor his fallen LRRP teammates, where he finds <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> already there. Wade leaves a bottle of hot sauce by Ramon's name on the wall — Ramon used the hot sauce to mask the taste of the C-rations — while <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> also leave a bottle of hot sauce. Wade asks <Link to="/character-bios/Stalker">Stalker</Link> how <Link to="/character-bios/SeanCollins">Sean</Link> is doing. <Link to="/character-bios/Stalker">Stalker</Link> replies, "You'd be proud, Wade" (Issue #263).
           </p>
         </section>
 
@@ -178,6 +190,43 @@ const Wade: React.FC = () => {
             The other Joes use their own leave time and take various civilian vehicles to Springfield. After an intense mission, Wade and the Joes leave Springfield with <Link to="/character-bios/SeanCollins">Sean</Link>, who manages to escape captivity on his own and joins his father and the Joes in the battle (Issue #275).
           </p>
         </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Letter from Sean</h2>
+          <img src={wade12} alt="Wade receiving a letter from Sean" className="profile-block-img" />
+          <p>
+            Wade is living in <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the High Sierras when he receives a delivery of groceries from the store owner in town.  Included with the delivery is a handwritten letter from <Link to="/character-bios/SeanCollins">Sean</Link>. The letter is upbeat, with <Link to="/character-bios/SeanCollins">Sean</Link> talking about his friends at the Motor Pool: <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, Dawn, and Moongoose. But Wade reads past the cheerful front his son puts on in the letter, and tells Timber that he needs to go see him (Issue #292).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Cobra Island</h2>
+          <img src={wade14} alt="Wade's mission to Cobra Island" className="profile-block-img" />
+          <p>
+            In response to <Link to="/character-bios/SeanCollins">Sean</Link>'s letter, Wade travels to the Casino Resort on Cobra Island, bringing his old Siegie (Crimson Guard) uniform with him. Security waves him through the moment they spot it in his luggage. Elsewhere on the island, Serpentor Khan has been brought to life, and <Link to="/character-bios/SeanCollins">Sean</Link> and Dawn have been captured (Issue #298).
+          </p>
+          <p>
+            Wade meets up with <Link to="/character-bios/StormShadow">Storm Shadow</Link> in the jungles outside the Casino. They're later joined by <Link to="/character-bios/SeanCollins">Sean</Link> and Laura 343, a Siegie who switched sides and rescued him. The four come under attack from Vipers, and Wade is wounded. He tells a reluctant <Link to="/character-bios/SeanCollins">Sean</Link> to leave him behind, insisting he get Laura off the island — she'd sacrificed everything to save him. <Link to="/character-bios/SeanCollins">Sean</Link> and Laura depart, while <Link to="/character-bios/StormShadow">Storm Shadow</Link> stays behind with Wade.
+          </p>
+          <p>
+            Wade and <Link to="/character-bios/StormShadow">Storm Shadow</Link> are hit by another wave of Vipers, until <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Stalker">Stalker</Link> arrive to provide support. The W.H.A.L.E. soon follows, carrying <Link to="/character-bios/SeanCollins">Sean</Link>, Laura, Dawn (who managed to escape on her own), and Cobra Commander — betrayed and taken prisoner by Serpentor Khan. The W.H.A.L.E.'s firepower turns the tide of battle, forcing the Vipers to retreat, and <Link to="/character-bios/SeanCollins">Sean</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> board the craft.
+          </p>
+          <p>
+            The W.H.A.L.E. makes its way to Dr. Mindbender's lab through a hidden loading bay, where the group meets up with the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, cloned in the lab. As Serpentor Khan triggers the countdown for the mutant virus bomb, the W.H.A.L.E. departs, carrying the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Cobra Commander as a prisoner (Issue #300).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Wade Collins' Death</h2>
+          <img src={wade15} alt="Wade Collins' death" className="profile-block-img" />
+          <p>
+            Wade and Laura are in the W.H.A.L.E.'s cargo hold with the captured Cobra Commander when he strikes Laura, seizes her pistol, and shoots Wade, killing him. Cobra Commander then makes his escape on the jet sled (Issue #301).
+          </p>
+          <p>
+            Wade is buried with full honors at Arlington National Cemetery, the Joes serving as his honor guard. <Link to="/character-bios/Hawk">Hawk</Link> presents the folded American flag to Mrs. Collins (Issue #302).
+          </p>
+        </section>
+
 
         <div className="profile-back-row">
           <Link to="/character-bios" className="btn">Back to Character Bios</Link>
