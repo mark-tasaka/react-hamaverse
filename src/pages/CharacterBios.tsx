@@ -24,6 +24,7 @@ import GruntImg from './img/portraits/grunt.jpg';
 import HundtkinderImg from './img/portraits/hundtkinder.jpg';
 import LolaImg from './img/portraits/lola.jpg';
 import WhiteClownImg from './img/portraits/whiteClown.jpg';
+import OrlovskyImg from './img/portraits/orlovsky.jpg';
 
 
 interface Introduced {
@@ -242,7 +243,7 @@ const CHARACTERS: Character[] = [
     name: 'Marina',
     img: marinaImg,
     link: '/character-bios/Marina',
-    rank: 5,
+    rank: 7,
     faction: 'Civilian',
     secondaryFaction: '',
     status: 'Alive',
@@ -375,11 +376,27 @@ const CHARACTERS: Character[] = [
     secondaryFaction: '',
     status: 'Dead',
     introduced: {
-      issueNumber: 65,
+      issueNumber: 66,
       publisher: 'Marvel',
-      issueLabel: 'Issue 65',
+      issueLabel: 'Issue 66',
       year: '1987',
-      month: 'November',
+      month: 'December',
+    },
+  },
+  {
+    name: 'Orlovsky',
+    img: OrlovskyImg,
+    link: '/character-bios/Orlovsky',
+    rank: 6,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 66,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 66',
+      year: '1987',
+      month: 'December',
     },
   },
 ];
