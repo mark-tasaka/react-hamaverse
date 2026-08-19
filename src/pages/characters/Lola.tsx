@@ -14,7 +14,7 @@ const Lola: React.FC = () => {
         <h1 className="character-profile-title">Lola Graves</h1>
 
         <p className="profile-intro">
-          Lola is a former Air Cav helicopter mechanic who uses the G.I. Bill to attend Georgia Tech. One morning, she calls out "Grunt!" to a fellow student running on the track, telling him she can tell he's a former service member like herself — only a grunt would get up at dawn for hard PT. The student introduces himself as Bob (<Link to="/character-bios/Grunt">Grunt</Link>), who served in the Chaplain's Assistant Motor Pool at Fort Wadsworth. The two fall in love, marry, and have a daughter.
+          Lola is a former Air Cav helicopter mechanic who uses the G.I. Bill to attend Georgia Tech. One morning, she calls out "Grunt!" to a fellow student running on the track, telling him she can tell he's a former service member like herself — only a grunt would get up at dawn for hard PT. The student introduces himself as Bob (<Link to="/character-bios/Grunt">Grunt</Link>), and says he served in the Chaplain's Assistant Motor Pool at Fort Wadsworth. The two fall in love, marry, and have a daughter.
         </p>
 
         <section className="profile-block">
