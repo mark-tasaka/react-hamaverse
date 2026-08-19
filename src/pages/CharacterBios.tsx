@@ -353,7 +353,7 @@ const CHARACTERS: Character[] = [
     name: 'Lola Graves',
     img: LolaImg,
     link: '/character-bios/Lola',
-    rank: 5,
+    rank: 10,
     faction: 'Civilian',
     secondaryFaction: '',
     status: 'Alive',

@@ -17,7 +17,7 @@ const Grunt: React.FC = () => {
         <h1 className="character-profile-title">Grunt (Robert Graves)</h1>
 
         <p className="profile-intro">
-          Robert W. Graves (Grunt) is one of the original members of G.I. Joe. He eventually leaves the team, taking advantage of the G.I. Bill to pay for college. Grunt attends Georgia Tech, where he meets his future wife, Lola, and graduates with a master's degree in engineering. After leaving the service, Grunt keeps in touch with the team and makes several guest appearances throughout the series.
+          Robert W. Graves (Grunt) is one of the original members of G.I. Joe. He eventually leaves the team, taking advantage of the G.I. Bill to pay for college. Grunt attends Georgia Tech, where he meets his future wife, <Link to="/character-bios/Lola">Lola</Link>, and graduates with a master's degree in engineering. After leaving the service, Grunt keeps in touch with the team and makes several guest appearances throughout the series.
         </p>
 
         <section className="profile-block">
@@ -47,7 +47,7 @@ const Grunt: React.FC = () => {
             When his term of service is up, Grunt is honorably discharged and leaves for civilian life, having been accepted into the engineering program at Georgia Tech. Both <Link to="/character-bios/Hawk">Hawk</Link> and Duke shake his hand and wish him well. At the bus stop, Grunt finds Clutch waiting for him. Clutch gives him a firm handshake as he boards the bus, and as it pulls away, salutes and calls out, "Have a good life, soldier" (Issue #55).
           </p>
           <p>
-            Much to his roommate's chagrin, Grunt keeps up his old habit at Georgia Tech, waking at dawn to run laps at the track. One morning, he meets Lola, who recognizes him immediately as a former service member — "Only a grunt would get up at dawn for PT," she tells him. Lola herself is a former Air Cav helicopter mechanic, also using the G.I. Bill to pay for college. The two hit it off. When she asks about his name, Grunt starts to answer, "Gr—" before stopping himself and saying, "Everyone calls me Bob" (Issue #56).
+            Much to his roommate's chagrin, Grunt keeps up his old habit at Georgia Tech, waking at dawn to run laps at the track. One morning, he meets <Link to="/character-bios/Lola">Lola</Link>, who recognizes him immediately as a former service member — "Only a grunt would get up at dawn for PT," she tells him. <Link to="/character-bios/Lola">Lola</Link> herself is a former Air Cav helicopter mechanic, also using the G.I. Bill to pay for college. The two hit it off. When she asks about his name, Grunt starts to answer, "Gr—" before stopping himself and saying, "Everyone calls me Bob" (Issue #56).
           </p>
         </section>
 
@@ -70,26 +70,26 @@ const Grunt: React.FC = () => {
             In the aftermath of the Joes' participation in the Cobra Civil War on Cobra Island, the team is relieved from active duty and placed under arrest pending investigation. Roadblock accompanies Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth to the Pentagon when they're taken into custody, but manages to escape, making his way to Dr. Adele Burkhart's home in the Georgetown section of Washington, D.C. (Issue #77).
           </p>
           <p>
-            Grunt, Lola, Clutch, and Rock 'n Roll join Roadblock at Dr. Burkhart's home, with <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> arriving soon after. <Link to="/character-bios/Jinx">Jinx</Link>, having accessed the Defense Language Institute's computer system, learns that Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held in a hospital in rural Virginia. More Joes soon arrive: Cover Girl, Duke, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and Zap.
+            Grunt, <Link to="/character-bios/Lola">Lola</Link>, Clutch, and Rock 'n Roll join Roadblock at Dr. Burkhart's home, with <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> arriving soon after. <Link to="/character-bios/Jinx">Jinx</Link>, having accessed the Defense Language Institute's computer system, learns that Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held in a hospital in rural Virginia. More Joes soon arrive: Cover Girl, Duke, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and Zap.
           </p>
           <p>
-            Grunt and Lola join the others for the rescue mission, with Dr. Burkhart insisting on coming along as well. Film crews are on scene at the hospital as the Joes carry out their raid. Destro arrives and presents receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
+            Grunt and <Link to="/character-bios/Lola">Lola</Link> join the others for the rescue mission, with Dr. Burkhart insisting on coming along as well. Film crews are on scene at the hospital as the Joes carry out their raid. Destro arrives and presents receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
           </p>
         </section>
                 <section className="profile-block">
           <h2 className="profile-block-title">Engineering Consultant for the U.S. State Department</h2>
           <img src={grunt6} alt="Grunt as an engineering consultant for the U.S. State Department" className="profile-block-img" />
           <p>
-            Grunt marries Lola, and the two have a daughter. He becomes an engineer and is eventually employed by the U.S. State Department as an engineering consultant, while Lola finds work with an unidentified three-letter U.S. government agency (this is implied in Issue #198, when Grunt describes her as having security clearance well above his pay grade).
+            Grunt marries <Link to="/character-bios/Lola">Lola</Link>, and the two have a daughter. He becomes an engineer and is eventually employed by the U.S. State Department as an engineering consultant, while <Link to="/character-bios/Lola">Lola</Link> finds work with an unidentified three-letter U.S. government agency (this is implied in Issue #198, when Grunt describes her as having security clearance well above his pay grade).
           </p>
           <p>
             In Sierra Gordo, Grunt, as the State Department's engineering consultant, attends an outdoor press conference alongside Sierra Gordo President Velez and U.S. Ambassador Huntley Pierce-Bryson. The group comes under attack by masked gunmen, and several of the U.S. Marines providing security are killed. Drawing on his military training, Grunt grabs a assault rifle from a fallen Marine and returns fire, protecting the President and Ambassador. The President, Ambassador, Grunt, and a surviving Marine are taken captive as the events play out live on TV. Watching the events unfoldfrom TV monitors in the Pit, the G.I. Joe team mobilizes for a rescue mission to Sierra Gordo (Issue #193).
           </p>
           <p>
-            The captives are taken to a Terror Drome in the jungle, where the masked attackers are revealed to be Revanche androids. Meanwhile, reporters surround the Graves family home in Northern Virginia, where Lola and their daughter live. After dealing with the press, Lola retrieves her go-bag — a briefcase containing currency, passports, a firearm, and ammunition — reassures her daughter that she's going to bring daddy home, and departs for Sierra Gordo (Issue #196).
+            The captives are taken to a Terror Drome in the jungle, where the masked attackers are revealed to be Revanche androids. Meanwhile, reporters surround the Graves family home in Northern Virginia, where <Link to="/character-bios/Lola">Lola</Link> and their daughter live. After dealing with the press, <Link to="/character-bios/Lola">Lola</Link> retrieves her go-bag — a briefcase containing currency, passports, a firearm, and ammunition — reassures her daughter that she's going to bring daddy home, and departs for Sierra Gordo (Issue #196).
           </p>
           <p>
-            Grunt, the President, the Ambassador, and the Marine escape the Terror Drome, battling the Android Terrorists along the way. The Ambassador, a former U.S. Marine himself, is badly hit and succumbs to blood loss. Outside the Terror Drome, Grunt encounters Lola, and together they engage the remaining Android Terrorists. The Joes arrive. In the aftermath of the battle, Duke calls Grunt by his code name. Grunt simply replies, "It's just Bob Graves".  Duke says, you will always be Grunt in our roster (Issue #198).
+            Grunt, the President, the Ambassador, and the Marine escape the Terror Drome, battling the Android Terrorists along the way. The Ambassador, a former U.S. Marine himself, is badly hit and succumbs to blood loss. Outside the Terror Drome, Grunt encounters <Link to="/character-bios/Lola">Lola</Link>, and together they engage the remaining Android Terrorists. The Joes arrive. In the aftermath of the battle, Duke calls Grunt by his code name. Grunt simply replies, "It's just Bob Graves".  Duke says, you will always be Grunt in our roster (Issue #198).
           </p>
         </section>
 

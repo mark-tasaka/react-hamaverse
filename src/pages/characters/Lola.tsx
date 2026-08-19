@@ -49,7 +49,7 @@ const Lola: React.FC = () => {
             Lola marries Bob (<Link to="/character-bios/Grunt">Grunt</Link>), and the two have a daughter. Bob becomes an engineer and is eventually employed by the U.S. State Department as an engineering consultant, while Lola finds work with an unidentified three-letter U.S. government agency — implied in Issue #198, when Bob describes her as having security clearance well above his own pay grade.
           </p>
           <p>
-            While working in Sierra Gordo as the State Department's consultant, Bob is present at an outdoor press conference with Sierra Gordo President Velez and U.S. Ambassador Huntley Pierce-Bryson when the group comes under attack by masked gunmen. Several of the U.S. Marines providing security are killed, and the President, Ambassador, Bob, and a surviving young Marine are taken captive — the entire event broadcast live on TV (Issue #193).
+            While working in Sierra Gordo as the State Department's consultant, Bob (<Link to="/character-bios/Grunt">Grunt</Link>) is present at an outdoor press conference with Sierra Gordo President Velez and U.S. Ambassador Huntley Pierce-Bryson when the group comes under attack by masked gunmen. Several of the U.S. Marines providing security are killed, and the President, Ambassador, Bob, and a surviving young Marine are taken captive — the entire event broadcast live on TV (Issue #193).
           </p>
           <p>
             The Graves family home in Northern Virginia is soon surrounded by film crews hoping to interview Lola about her husband's situation. When one overeager reporter pushes his way through the front door and shoves a microphone in her daughter's face, Lola knocks him out cold with a single punch, then orders the rest off her lawn.
@@ -61,7 +61,7 @@ const Lola: React.FC = () => {
             Lola's security clearance grants her access to intelligence pinpointing where the captives are being held — a Terror Drome near an abandoned mine, guarded by Revanche androids disguised as the masked attackers. Arriving at the Sierra Gordo airport, Lola meets up with Bob's former G.I. Joe teammates, commandeers a motorcycle, and leads them to the Terror Drome (Issue #197).
           </p>
           <p>
-            Outside the Terror Drome, Lola engages the Revanche androids just as Bob, the young Marine, and the President — having escaped the compound themselves — join the fight. When the battle ends, Lola and Bob embrace (Issue #198).
+            Outside the Terror Drome, Lola engages the Revanche androids just as Bob, the young Marine, and the President — having escaped the compound themselves — join the fight. When the battle ends, Lola and Bob (<Link to="/character-bios/Grunt">Grunt</Link>) embrace (Issue #198).
           </p>
         </section>
 
