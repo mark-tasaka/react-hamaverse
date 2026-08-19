@@ -22,6 +22,7 @@ import OnihashiImg from './img/portraits/onihashi.jpg';
 import ShooterImg from './img/portraits/shooter.jpg';
 import GruntImg from './img/portraits/grunt.jpg';
 import HundtkinderImg from './img/portraits/hundtkinder.jpg';
+import LolaImg from './img/portraits/lola.jpg';
 
 
 interface Introduced {
@@ -346,6 +347,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 23',
       year: '1984',
       month: 'May',
+    },
+  },
+  {
+    name: 'Lola Graves',
+    img: LolaImg,
+    link: '/character-bios/Lola',
+    rank: 5,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 56,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 56',
+      year: '1987',
+      month: 'February',
     },
   },
 ];

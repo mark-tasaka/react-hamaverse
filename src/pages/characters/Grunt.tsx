@@ -89,7 +89,7 @@ const Grunt: React.FC = () => {
             The captives are taken to a Terror Drome in the jungle, where the masked attackers are revealed to be Revanche androids. Meanwhile, reporters surround the Graves family home in Northern Virginia, where Lola and their daughter live. After dealing with the press, Lola retrieves her go-bag — a briefcase containing currency, passports, a firearm, and ammunition — reassures her daughter that she's going to bring daddy home, and departs for Sierra Gordo (Issue #196).
           </p>
           <p>
-            Grunt, the President, the Ambassador, and the Marine escape the Terror Drome, battling the Android Terrorists along the way. The Ambassador, a former U.S. Marine himself, is badly hit and succumbs to blood loss. Outside the Terror Drome, Grunt encounters Lola, and together they engage the remaining Android Terrorists. The Joes later arrive. In the aftermath of the battle, Duke calls Grunt by his code name. Grunt simply replies, "It's just Bob Graves".  Duke says, you will always be Grunt in our roster (Issue #198).
+            Grunt, the President, the Ambassador, and the Marine escape the Terror Drome, battling the Android Terrorists along the way. The Ambassador, a former U.S. Marine himself, is badly hit and succumbs to blood loss. Outside the Terror Drome, Grunt encounters Lola, and together they engage the remaining Android Terrorists. The Joes arrive. In the aftermath of the battle, Duke calls Grunt by his code name. Grunt simply replies, "It's just Bob Graves".  Duke says, you will always be Grunt in our roster (Issue #198).
           </p>
         </section>
 
