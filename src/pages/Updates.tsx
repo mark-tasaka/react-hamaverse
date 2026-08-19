@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
       
+      <p className="update-log-date">August 18, 2026</p>
+      <p className="update-log-entry">
+        A new character bio for <Link to="/character-bios/Lola">Lola Graves</Link> has been added.  Another section has been added to <Link to="/character-bios/Grunt">Grunt</Link>'s bio.
+      </p>
+
       <p className="update-log-date">August 17, 2026</p>
       <p className="update-log-entry">
         Added more sections to <Link to="/character-bios/Wade">Wade Collins</Link>, completing his Character Bio.
