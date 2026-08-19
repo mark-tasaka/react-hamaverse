@@ -109,7 +109,7 @@ const Stalker: React.FC = () => {
             The Joes offer to take the prisoners in their commandeered army truck to the Borovian border. The prisoners say that while they don't like their government, they love their country, and choose to remain in Borovia to work for the underground resistance.
           </p>
           <p>
-            The Joes reach the border and find a barbed-wire fence and guard towers lining the river bordering Borovia. The White Clown and Orlovsky arrive from the circus, their car hauling the circus cannon. The White Clown fires the Joes into the water, bypassing the fences and guard towers. Stalker is the last to be fired, and as he waits, he spots Sgt. Mosiev. Both raise their rifles; Stalker fires first, killing him. Stalker discards the rifle, enters the cannon, and is fired to the safety of the river (Issue #66).
+            The Joes reach the border and find a barbed-wire fence and guard towers lining the river bordering Borovia. The <Link to="/character-bios/WhiteClown">White Clown</Link> and Orlovsky arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes into the water, bypassing the fences and guard towers. Stalker is the last to be fired, and as he waits, he spots Sgt. Mosiev. Both raise their rifles; Stalker fires first, killing him. Stalker discards the rifle, enters the cannon, and is fired to the safety of the river (Issue #66).
           </p>
         </section>
 

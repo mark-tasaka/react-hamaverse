@@ -12,7 +12,7 @@ const WhiteClown: React.FC = () => {
         <h1 className="character-profile-title">White Clown</h1>
 
         <p className="profile-intro">
-          A circus performer, the White Clown lost his beloved Magda, a bareback rider, when she was taken to a Borovian gulag for criticizing the government. The sadistic Comrade Sgt. Mosiev knows which gulag she was sent to, and the White Clown would do anything to see her again.
+          A circus performer, the White Clown lost his beloved Magda, the Bareback Rider, when she was taken to a Borovian gulag for criticizing the government. Heartbroken, he doesn't know which gulag holds her, or whether she's still alive. When an opportunity arises to trade information about his new American friends' upcoming raid for Magda's possible release, the White Clown knows doing so would betray everything she stood for.  Thus, he chooses to help his American friends instead.
         </p>
 
         <section className="profile-block">

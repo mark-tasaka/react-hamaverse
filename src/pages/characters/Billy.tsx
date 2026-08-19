@@ -139,7 +139,7 @@ const Billy: React.FC = () => {
             Billy travels with <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Jinx">Jinx</Link> to Borovia, where they meet up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link> at the circus troupe. <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells them where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are being held. The six raid Gulag 23, dispatch the guards, liberate the camp, and rescue the three captured Joes.
           </p>
           <p>
-            They steal a truck and head for the Borovian border, discovering barbed wire fences and guard towers lining the river that marks the boundary with the neighboring country. The White Clown and Orlovsky arrive hauling the circus cannon behind their car. All nine are fired from the cannon across the river beyond the fence line and swim to safety, escaping Borovia (Issue #66).
+            They steal a truck and head for the Borovian border, discovering barbed wire fences and guard towers lining the river that marks the boundary with the neighboring country. The <Link to="/character-bios/WhiteClown">White Clown</Link> and Orlovsky arrive hauling the circus cannon behind their car. All nine are fired from the cannon across the river beyond the fence line and swim to safety, escaping Borovia (Issue #66).
           </p>
         </section>
 
