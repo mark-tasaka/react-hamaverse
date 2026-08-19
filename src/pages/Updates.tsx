@@ -8,6 +8,11 @@ function Updates() {
       
       <p className="update-log-date">August 17, 2026</p>
       <p className="update-log-entry">
+        Added more sections to <Link to="/character-bios/Wade">Wade Collins</Link>, completing his Character Bio.
+      </p>
+      
+      <p className="update-log-date">August 17, 2026</p>
+      <p className="update-log-entry">
         The character bio for <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> and Summary of <Link to="comic-issues/Issue95">Issue #95</Link> have been added.  A new section for the character bio for <Link to="/character-bios/Hawk">Hawk</Link> has been added.
       </p>
       
