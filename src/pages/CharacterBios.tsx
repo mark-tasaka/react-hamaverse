@@ -23,6 +23,7 @@ import ShooterImg from './img/portraits/shooter.jpg';
 import GruntImg from './img/portraits/grunt.jpg';
 import HundtkinderImg from './img/portraits/hundtkinder.jpg';
 import LolaImg from './img/portraits/lola.jpg';
+import WhiteClownImg from './img/portraits/whiteClown.jpg';
 
 
 interface Introduced {
@@ -363,6 +364,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 56',
       year: '1987',
       month: 'February',
+    },
+  },
+  {
+    name: 'White Clown',
+    img: WhiteClownImg,
+    link: '/character-bios/WhiteClown',
+    rank: 8,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 65,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 65',
+      year: '1987',
+      month: 'November',
     },
   },
 ];
