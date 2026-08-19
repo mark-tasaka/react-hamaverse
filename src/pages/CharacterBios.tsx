@@ -25,6 +25,7 @@ import HundtkinderImg from './img/portraits/hundtkinder.jpg';
 import LolaImg from './img/portraits/lola.jpg';
 import WhiteClownImg from './img/portraits/whiteClown.jpg';
 import OrlovskyImg from './img/portraits/orlovsky.jpg';
+import PalePeonyImg from './img/portraits/palePeony.jpg';
 
 
 interface Introduced {
@@ -131,7 +132,7 @@ const CHARACTERS: Character[] = [
     name: 'Hard Master',
     img: hardMasterImg,
     link: '/character-bios/HardMaster',
-    rank: 30,
+    rank: 6,
     faction: 'Arashikage',
     secondaryFaction: '',
     status: 'Dead',
@@ -397,6 +398,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 66',
       year: '1987',
       month: 'December',
+    },
+  },
+  {
+    name: 'Pale Peony',
+    img: PalePeonyImg,
+    link: '/character-bios/PalePeony',
+    rank: 55,
+    faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 155.3,
+      publisher: 'Devils Due',
+      issueLabel: 'Storm Shadow #1',
+      year: '2007',
+      month: 'May',
     },
   },
 ];
