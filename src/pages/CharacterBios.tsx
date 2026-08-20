@@ -26,6 +26,7 @@ import LolaImg from './img/portraits/lola.jpg';
 import WhiteClownImg from './img/portraits/whiteClown.jpg';
 import OrlovskyImg from './img/portraits/orlovsky.jpg';
 import PalePeonyImg from './img/portraits/palePeony.jpg';
+import ZartanImg from './img/portraits/zartan.jpg';
 
 
 interface Introduced {
@@ -416,6 +417,22 @@ const CHARACTERS: Character[] = [
       month: 'May',
     },
   },
+  {
+    name: 'Zartan',
+    img: ZartanImg,
+    link: '/character-bios/Zartan',
+    rank: 80,
+    faction: 'Dreadnok',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 25,
+      publisher: 'Devils Due',
+      issueLabel: 'Issue 25',
+      year: '1984',
+      month: 'July',
+    },
+  }
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';

@@ -28,6 +28,7 @@ import Lola from './pages/characters/Lola'
 import WhiteClown from './pages/characters/WhiteClown'
 import Orlovsky from './pages/characters/Orlovsky'
 import PalePeony from './pages/characters/PalePeony'
+import Zartan from './pages/characters/Zartan'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -75,6 +76,7 @@ function App() {
           <Route path="/character-bios/WhiteClown" element={<WhiteClown />} />
           <Route path="/character-bios/Orlovsky" element={<Orlovsky />} />
           <Route path="/character-bios/PalePeony" element={<PalePeony />} />
+          <Route path="/character-bios/Zartan" element={<Zartan />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
