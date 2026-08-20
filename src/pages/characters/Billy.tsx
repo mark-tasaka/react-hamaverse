@@ -164,10 +164,10 @@ const Billy: React.FC = () => {
             While riding his scooter to the University of California, Berkeley, Billy is nearly struck by a car and crashes. Raptor emerges from the vehicle and tells him he knows where his father is buried — and who killed him (Issue #94). Raptor and Billy travel to the mountains outside Denver, where the body lies.
           </p>
           <p>
-            As they prepare to exhume the grave, <Link to="/character-bios/Tyrone">Tyrone</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> (secretly Zartan in disguise) arrive. The <Link to="/character-bios/BlindMaster">Blind Master</Link> strikes Raptor for desecrating the grave, warning against the cycle of vengeance. Billy counters that the target of their revenge is the current Cobra Commander (Issue #94). Rather than exhuming the body, the four travel to the Gulf of Mexico and hire Captain Minh to take them to Cobra Island.
+            As they prepare to exhume the grave, <Link to="/character-bios/Tyrone">Tyrone</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> (secretly <Link to="/character-bios/Zartan">Zartan</Link> in disguise) arrive. The <Link to="/character-bios/BlindMaster">Blind Master</Link> strikes Raptor for desecrating the grave, warning against the cycle of vengeance. Billy counters that the target of their revenge is the current Cobra Commander (Issue #94). Rather than exhuming the body, the four travel to the Gulf of Mexico and hire Captain Minh to take them to Cobra Island.
           </p>
           <p>
-            On the island's beach, Billy watches Cobra Commander through binoculars and notices his body language doesn't match his father's. Raptor reveals that the man posing as Cobra Commander is actually Fred VII, who killed the real Cobra Commander and took his place. The <Link to="/character-bios/BlindMaster">Blind Master</Link> (Zartan) is the first to leave the group, asking the others to stay put while he scouts ahead. Later, Raptor departs on a mission of his own.
+            On the island's beach, Billy watches Cobra Commander through binoculars and notices his body language doesn't match his father's. Raptor reveals that the man posing as Cobra Commander is actually Fred VII, who killed the real Cobra Commander and took his place. The <Link to="/character-bios/BlindMaster">Blind Master</Link> (<Link to="/character-bios/Zartan">Zartan</Link>) is the first to leave the group, asking the others to stay put while he scouts ahead. Later, Raptor departs on a mission of his own.
           </p>
         </section>
 
@@ -175,7 +175,7 @@ const Billy: React.FC = () => {
           <h2 className="profile-block-title">The Freighter</h2>
           <img src={billy11} alt="Confrontation aboard the freighter" className="profile-block-img" />
           <p>
-            Inside a landlocked freighter, "Cobra Commander" (Fred VII) is hosting cocktails for potential weapons buyers. Zartan — who had been posing as the <Link to="/character-bios/BlindMaster">Blind Master</Link> — transforms into Dr. Mindbender and arranges a private meeting with Fred VII. There, Zartan reveals himself, holds a gun to Fred VII's head, and orders him back to his old life as a garage owner in Denver. The real Dr. Mindbender witnesses this exchange from behind an ajar door.
+            Inside a landlocked freighter, "Cobra Commander" (Fred VII) is hosting cocktails for potential weapons buyers. <Link to="/character-bios/Zartan">Zartan</Link> — who had been posing as the <Link to="/character-bios/BlindMaster">Blind Master</Link> — transforms into Dr. Mindbender and arranges a private meeting with Fred VII. There, <Link to="/character-bios/Zartan">Zartan</Link> reveals himself, holds a gun to Fred VII's head, and orders him back to his old life as a garage owner in Denver. The real Dr. Mindbender witnesses this exchange from behind an ajar door.
           </p>
           <p>
             Shortly after, Raptor confronts Dr. Mindbender privately, describing his difficulty controlling the imposter Cobra Commander, and reveals he knows where the real Cobra Commander is buried — remains Dr. Mindbender could use to clone a more controllable "competitor." Raptor, Dr. Mindbender, and a team of Vipers depart to exhume the body.
@@ -184,13 +184,13 @@ const Billy: React.FC = () => {
             That night, Billy, <Link to="/character-bios/Tyrone">Tyrone</Link>, and Captain Minh come under attack by Night Vipers on the beach. They flee into a drain tunnel beneath the island, where Croc Master captures them (Issue #97).
           </p>
           <p>
-            Croc Master brings the trio to the landlocked freighter. The next day, inside, Fred VII, Voltar, Zartan, and Firefly are arguing when the lights go out and the hatch opens, revealing the original Cobra Commander and his loyal Crimson Guard standing above, alongside Dr. Mindbender, Raptor, and the Viper excavation team.
+            Croc Master brings the trio to the landlocked freighter. The next day, inside, Fred VII, Voltar, <Link to="/character-bios/Zartan">Zartan</Link>, and Firefly are arguing when the lights go out and the hatch opens, revealing the original Cobra Commander and his loyal Crimson Guard standing above, alongside Dr. Mindbender, Raptor, and the Viper excavation team.
           </p>
           <p>
             Cobra Commander blames Billy for walking out on him, driving him to his irrational choice to go straight, and disowns him as his son. He and the Crimson Guard throw Dr. Mindbender, Raptor, and the excavation team into the freighter, then board a transport helicopter. Cobra Commander detonates a series of preplanned explosions, diverting a water channel to sink the freighter into an extinct volcano — further explosions bury it deep within, trapping everyone above it (Issue #98).
           </p>
           <p>
-            In time, Billy and Zartan escape; the others die of botulism from tainted rations aboard the freighter (Issue #116). Later issues reveal that Firefly also escaped.
+            In time, Billy and <Link to="/character-bios/Zartan">Zartan</Link> escape; the others die of botulism from tainted rations aboard the freighter (Issue #116). Later issues reveal that Firefly also escaped.
           </p>
         </section>
 
