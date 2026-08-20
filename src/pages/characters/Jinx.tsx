@@ -11,6 +11,9 @@ import jinx5 from './img/jinx/jinx_5.png';
 import jinx6 from './img/jinx/jinx_6.png';
 import jinx7 from './img/jinx/jinx_7.png';
 import jinx8 from './img/jinx/jinx_8.png';
+import jinx9 from './img/jinx/jinx_9.png';
+import jinx10 from './img/jinx/jinx_10.png';
+import jinx11 from './img/jinx/jinx_11.png';
 
 const Jinx: React.FC = () => {
   return (
@@ -116,6 +119,41 @@ const Jinx: React.FC = () => {
           </p>
           <p>
             Jinx, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and Timber are surrounded by Red Ninja while <Link to="/character-bios/StormShadow">Storm Shadow</Link> confronts their leader. The Red Ninja reveal the Arashikage tattoo on their right forearms and say they've come to set things right. A battle ensues. With only three Red Ninja remaining, Jinx and <Link to="/character-bios/Scarlett">Scarlett</Link> have suffered injuries preventing them from continuing to fight. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber kill the remaining three. Jinx spots <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s body drifting down the river; <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber jump in and retrieve the injured <Link to="/character-bios/StormShadow">Storm Shadow</Link> (Issue #91).
+          </p>
+        </section>
+        <section className="profile-block">
+          <h2 className="profile-block-title">Tokyo Amusement Park</h2>
+          <img src={jinx9} alt="Jinx at the Tokyo amusement park" className="profile-block-img" />
+          <p>
+            Jinx arrives at an amusement park in the Asakusa district of Tokyo with a special coupon for the "scariest ride in all of Japan." The coupon specifies a particular date and time. The ticket taker leads her to a special car, where she finds <Link to="/character-bios/PalePeony">Pale Peony</Link> already seated — both women are startled to see each other, each having received an identical coupon.
+          </p>
+          <p>
+            Midway through the ride, Obake Obassan (Demon Granny) appears between them. She tells the two women that leadership of the clan must be passed to a new generation, and that each of them has a trial to prove herself. For security, she says, she cannot contact them again until one of them either succeeds or perishes. Obake Obassan vanishes, and the ride comes to an end (Issue #192).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Revanche Electronics Factory, Ollistan</h2>
+          <img src={jinx10} alt="Jinx and Pale Peony at the Revanche Electronics factory in Ollistan" className="profile-block-img" />
+          <p>
+            Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> find work at a Revanche Electronics factory in Lauhar, Ollistan. The factory's lecherous manager takes notice of the two and summons them to his office, offering promotions in exchange for certain favors. Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> beat him senseless instead, forcing him to reveal how to access the factory's secret area (Issue #193).
+          </p>
+          <p>
+            Inside, they encounter a group of masked gunmen. After defeating the gunmen and removing their masks, the women discover they're actually Revanche cyborgs. Armed with this knowledge, they flee to their safe house, where they have access to secure communications. Outside, they spot more cyborgs disguised as businessmen, but manage to enter their safe house. There they contact the Pit, presenting the severed head of a Revanche cyborg as proof of the the factory's activities (Issue #194).
+          </p>
+          <p>
+            The pair make it to the airport, where they are ambushed by more Revanche cyborgs and <Link to="/character-bios/PalePeony">Pale Peony</Link> is shot (Issue #195). They board their flight and land in Tristel, only for a security team to board the aircraft — forcing the two to escape through the luggage compartment. Driving a baggage tug across the tarmac, Jinx spots a man in a three-piece suit waving them down; he reveals the Arashikage tattoo on his right forearm, and together, he and Jinx help the wounded <Link to="/character-bios/PalePeony">Pale Peony</Link> into the back of a car (Issue #196).
+          </p>
+          <p>
+            <Link to="/character-bios/PalePeony">Pale Peony</Link> receives medical care, and the man escorts them to the train station, arranging a flight home from Aviano Air Base. As the train departs, he waves and calls out, "The Arashikage clan never forgets its own." The two women turn to thank each other for reaching out to him — only to realize neither of them had (Issue #198).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Returning to the Pit in Style</h2>
+          <img src={jinx11} alt="Jinx and Pale Peony returning to the Pit" className="profile-block-img" />
+          <p>
+            Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> return to the Pit in style, arriving in a red convertible. Once they reach the lower levels, they brief <Link to="/character-bios/Hawk">Hawk</Link> on everything they uncovered in Ollistan (Issue #201).
           </p>
         </section>
 
