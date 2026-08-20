@@ -116,7 +116,7 @@ const Zartan: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), two versions of Zartan were produced: the original 1984 version and the 1993 Ninja Force version. After the Marvel run, Zartan is depicted exclusively as the original 1984 version of the figure.
+            During the Marvel run (1982–1994), two versions of Zartan were produced: the original <a href="https://www.yojoe.com/action/84/zartan.shtml" target="_blank" rel="noopener noreferrer">1984 version</a> and the <a href="https://www.yojoe.com/action/93/zartan2.shtml" target="_blank" rel="noopener noreferrer">1993 Ninja Force version</a>. After the Marvel run, Zartan is depicted exclusively as the original 1984 version of the figure.
           </p>
           <p>
             The working name Hasbro used for Zartan was Captain Chameleon. Mr. Hama suggested the name Zartan, an anagram of Tarzan. When the figure was first produced, its file card included the following psychological profile: "Extreme paranoid schizophrenic. Develops multiple personalities to such an extent that the original personality becomes buried and forgotten." Hasbro later removed this section, releasing a revised file card without the psychological profile.
