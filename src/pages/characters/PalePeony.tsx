@@ -40,7 +40,7 @@ const PalePeony: React.FC = () => {
           <h2 className="profile-block-title">Pale Peony's Training in the Arashikage Clan</h2>
           <img src={palePeony2} alt="Pale Peony's training in the Arashikage clan" className="profile-block-img" />
           <p>
-            Storm Shadow sees something in Pale Peony — that she will one day bring credit to the Arashikage clan. He makes a request to his aunt, Obake Obasan ("Demon Granny"), the late <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and the clan's current head. While Obake Obasan recognizes great talent in Pale Peony, she is concerned with her loose ethical core and complex worldview (Issue #183).
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> sees something in Pale Peony — that she will one day bring credit to the Arashikage clan. He makes a request to his aunt, Obake Obasan ("Demon Granny"), the late <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and the clan's current head. While Obake Obasan recognizes great talent in Pale Peony, she is concerned with her loose ethical core and complex worldview (Issue #183).
           </p>
         </section>
 
