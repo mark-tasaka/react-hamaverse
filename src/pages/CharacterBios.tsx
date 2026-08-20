@@ -437,7 +437,7 @@ const CHARACTERS: Character[] = [
 
 type SortField = 'rank' | 'issueNumber' | 'name';
 type SortDir   = 'desc' | 'asc';
-type FactionFilter = 'all' | 'G.I. Joe' | 'Arashikage' | 'Civilian';
+type FactionFilter = 'all' | 'G.I. Joe' | 'Arashikage' | 'Enemy' | 'Civilian';
 type StatusFilter = 'all' | 'Alive' | 'Dead';
 
 const SearchIcon: React.FC = () => (
@@ -511,7 +511,7 @@ const CharacterBios: React.FC = () => {
 
       {/* ── Filter buttons ── */}
       <div className="character-filter-wrapper">
-        {(['all', 'G.I. Joe', 'Arashikage', 'Civilian'] as const).map(f => (
+        {(['all', 'G.I. Joe', 'Arashikage', 'Enemy', 'Civilian'] as const).map(f => (
           <button
             key={f}
             className={`character-filter-btn${
@@ -519,7 +519,7 @@ const CharacterBios: React.FC = () => {
             }`}
             onClick={() => setFilter(f)}
           >
-            {f === 'all' ? 'All' : f}
+            {f === 'all' ? 'All' : f === 'Enemy' ? 'The Enemy' : f}
           </button>
         ))}
       </div>
