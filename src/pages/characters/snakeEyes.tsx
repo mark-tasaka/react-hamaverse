@@ -41,7 +41,7 @@ const SnakeEyes: React.FC = () => {
             At the start of the Tet Offensive (January 31, 1968), Snake Eyes, Thomas Arashikage (<Link to="/character-bios/StormShadow">Storm Shadow</Link>), and Lonzo Wilkinson (<Link to="/character-bios/Stalker">Stalker</Link>) are enroute to report to MACV-SOG in Saigon when a pair of Viet Cong on a scooter open fire on their jeep. Lonzo and Thomas are both wounded, and their driver, Cory Barnett, is killed. Snake Eyes pursues the attackers in the jeep, but the Viet Cong fire several rounds into the vehicle, causing it to crash. Snake Eyes continues the pursuit on foot, eventually tracking the two men to a warehouse.
           </p>
           <p>
-            Inside, the Viet Cong find Baron Eugene DeCobray and his fifteen-year-old sister, Anastasia (the future Baroness), waiting for them. The Baron has traveled to Saigon on a humanitarian mission to check on medical supplies his organization provided. He asks Anastasia to wait in the office while he settles a business matter with the two men, then confronts them about the missing supplies.
+            Inside, the Viet Cong find Baron Eugen DeCobray and his fifteen-year-old sister, Anastasia (the future Baroness), waiting for them. The Baron has traveled to Saigon on a humanitarian mission to check on medical supplies his organization provided. He asks Anastasia to wait in the office while he settles a business matter with the two men, then confronts them about the missing supplies.
           </p>
           <p>
             One of the Viet Cong, Mr. Tran, admits they sold the supplies on the black market in exchange for weapons and explosives. Tran then raises his AK-47 and opens fire on the Baron. At that moment, Snake Eyes is just outside on the ledge. Right after the Baron is shot, Snake Eyes bursts through the window and kills both attackers with his Colt .45.
@@ -214,7 +214,7 @@ const SnakeEyes: React.FC = () => {
             Snake Eyes is taken to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The Baroness tells the now conscious Snake Eyes she has killed his beloved <Link to="/character-bios/Scarlett">Scarlett</Link> and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
           </p>
           <p>
-            Using his ability to slow his heartrate and breathing, Snake Eyes feigns death. One of the Paine Brothers, carrying a hot fire poker, approaches him, believing he has died. Snake Eyes kicks the Paine Brother, seizes the poker, and uses it to break his chains free from the wall. Now free, he battles and kills both Paine Brothers, taking their weapons and uniforms — which become his new outfit.
+            Using his ability to slow his heartrate and breathing, Snake Eyes feigns death. One of the Paine Brothers, carrying a hot fire poker, approaches him, believing he has died. Snake Eyes kicks the Paine Brother, seizes the poker, and uses it to break his chains free from the wall. Now free, he battles and kills the Paine Brothers, taking their weapons and uniforms — which become his new outfit.
           </p>
           <p>
             Snake Eyes then makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the Baroness herself. Snake Eyes then proceeds upward to confront them (<Link to="/comic-issues/Issue95">Issue #95</Link>).
@@ -226,7 +226,7 @@ const SnakeEyes: React.FC = () => {
             The Vipers are thrown to their deaths as the floor gives way. The Baroness is about to fall as well, when Snake Eyes catches her hand. Shocked that he would save her, she draws her pistol with her free hand and points it at him, vowing she will still have her revenge. At that moment, Destro arrives in the crew compartment of a Cobra helicopter.
           </p>
           <p>
-            Destro tells the Baroness that Snake Eyes did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugene DeCobray was wearing a bulletproof vest — it was the AK-47 rounds themselves that killed him.
+            Destro tells the Baroness that Snake Eyes did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugen DeCobray was wearing a bulletproof vest — it was the AK-47 rounds themselves that killed him.
           </p>
           <p>
             Overcome with guilt, the Baroness strikes Snake Eyes' hand, breaking his grip on her. <Link to="/character-bios/StormShadow">Storm Shadow</Link> catches her before she can fall to her death, and together, he and Snake Eyes help her toward Destro's helicopter. But as Destro reaches out for Snake Eyes, the floor beneath Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives way.

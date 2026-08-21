@@ -24,8 +24,8 @@ const FredBroca: React.FC = () => {
           <p>
             Fred and his family live in another part of Staten Island. From the kitchen, Fred calls out to his wife that they're drowning in a sea of debt. She comes in, places a hand on his shoulder, and reassures him things will get better. Fred tells her he already knows how — all he has to do is change his face (G.I. Joe Declassified #1).
           </p>
-          <p className="profile-block-emphasis">
-            The issue confirms that Fred is Fred Broca's real first name, and reveals that Sean and Heather are genuinely his children — rather than assigned to him by Cobra to create the appearance of a family.  Fred son and daughter shown together with their mother in the living room watching TV. It remains unclear whether Broca is his actual surname, since Broca is an anagram of Cobra.
+          <p>
+            The issue confirms that Fred is Fred Broca's real first name, and reveals that Sean and Heather are genuinely his children — rather than assigned to him by Cobra to create the appearance of a family.  Fred's son and daughter shown together with their mother in the living room watching TV. It remains unclear whether Broca is his actual surname, since Broca is an anagram of Cobra.
           </p>
         </section>
 
