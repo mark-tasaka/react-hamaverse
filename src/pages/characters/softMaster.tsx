@@ -32,10 +32,10 @@ const SoftMaster: React.FC = () => {
           <h2 className="profile-block-title">High Sierras</h2>
           <img src={softMaster2} alt="The Soft Master in the High Sierras" className="profile-block-img" />
           <p>
-            The Soft Master travels to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the aftermath of a battle between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Timber, Spirit, Airborne, Destro, Firefly, and Fred Broca (a Crimson Guardsman). Both Joes and Cobras are injured. The Soft Master makes no distinction between the two sides, treating all the wounded equally. The Cobras then depart, with Firefly and Destro carrying the seriously injured Fred Broca.
+            The Soft Master travels to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the aftermath of a battle between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Timber, Spirit, Airborne, Destro, Firefly, and <Link to="/character-bios/FredBroca">Fred Broca</Link> (a Crimson Guardsman). Both Joes and Cobras are injured. The Soft Master makes no distinction between the two sides, treating all the wounded equally. The Cobras then depart, with Firefly and Destro carrying the seriously injured <Link to="/character-bios/FredBroca">Fred Broca</Link>.
           </p>
           <p>
-            After traveling some distance, Fred Broca becomes determined to go back and finish his mission. He slips away while Destro and Firefly are resting and returns to the site of the cabin, where he confronts the Joes. The Soft Master is there and shows Fred the futility of his quest for vengeance. Realizing this, Fred dies — his thirst for vengeance had been the only thing keeping him alive (Issue #32).
+            After traveling some distance, <Link to="/character-bios/FredBroca">Fred Broca</Link> becomes determined to go back and finish his mission. He slips away while Destro and Firefly are resting and returns to the site of the cabin, where he confronts the Joes. The Soft Master is there and shows Fred the futility of his quest for vengeance. Realizing this, Fred dies — his thirst for vengeance had been the only thing keeping him alive (Issue #32).
           </p>
         </section>
 

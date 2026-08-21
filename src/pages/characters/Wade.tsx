@@ -50,7 +50,7 @@ const Wade: React.FC = () => {
             Unable to find employment, Wade wanders from town to town until he comes across a Cobra recruitment poster in a small town, in the organization's early days. Wade joins Cobra and finally finds a place and purpose, working his way up the ranks. When the Crimson Guard is first formed, he volunteers, undergoing plastic surgery to match the others in the series — no longer Wade Collins, but Fred II (Issue #42).
           </p>
           <p>
-            When the original Fred Broca dies, Wade is sent to Staten Island as his replacement. He drives to Fred's home, where Fred's children, <Link to="/character-bios/SeanCollins">Sean</Link> and Heather, run out to greet him — not realizing that, despite his identical face, the man before them isn't their father. Wade takes on both Fred Broca's role as husband and father, and Fred's duties as a Cobra agent (Issue #31).
+            When the original <Link to="/character-bios/FredBroca">Fred Broca</Link> dies, Wade is sent to Staten Island as his replacement. He drives to Fred's home, where Fred's children, <Link to="/character-bios/SeanCollins">Sean</Link> and Heather, run out to greet him — not realizing that, despite his identical face, the man before them isn't their father. Wade takes on both <Link to="/character-bios/FredBroca">Fred Broca</Link>'s role as husband and father, and Fred's duties as a Cobra agent (Issue #31).
           </p>
         </section>
 

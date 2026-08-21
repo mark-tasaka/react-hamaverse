@@ -25,7 +25,7 @@ const SeanCollins: React.FC = () => {
           <h2 className="profile-block-title">Staten Island Home</h2>
           <img src={sean1} alt="Sean's childhood home on Staten Island" className="profile-block-img" />
           <p>
-            Sean's parents are Cobra agents. His father is a Crimson Guardsman named Fred Broca, the original Fred in the Fred series of Crimson Guards. It's unclear whether Fred Broca and his wife are Sean and Heather's biological parents, or whether the children were assigned to the family to make it appear as one. The name Broca is an anagram of Cobra, so it's likely not the family's real name.
+            Sean's parents are Cobra agents. His father is a Crimson Guardsman named <Link to="/character-bios/FredBroca">Fred Broca</Link>, the original Fred in the Fred series of Crimson Guards. It's unclear whether <Link to="/character-bios/FredBroca">Fred Broca</Link> and his wife are Sean and Heather's biological parents, or whether the children were assigned to the family to make it appear as one. The name Broca is an anagram of Cobra, so it's likely not the family's real name.
           </p>
           <p>
             The Broca family purchases a home next to Fort Wadsworth on Staten Island. Sean, a preteen at the time, moves in with his family. Sean's parents set up Cobra surveillance equipment in their home (Issue #30). One day, Destro and Firefly arrive at the family's home and collect Sean's father for a mission of great importance (Issue #31).

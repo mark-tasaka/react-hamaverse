@@ -28,6 +28,7 @@ import OrlovskyImg from './img/portraits/orlovsky.jpg';
 import PalePeonyImg from './img/portraits/palePeony.jpg';
 import ZartanImg from './img/portraits/zartan.jpg';
 import ClutchImg from './img/portraits/clutch.jpg';
+import FredBrocaImg from './img/portraits/fredBroca.jpg';
 
 
 interface Introduced {
@@ -448,6 +449,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 1',
       year: '1982',
       month: 'March',
+    },
+  },
+  {
+    name: 'Fred Broca',
+    img: FredBrocaImg,
+    link: '/character-bios/FredBroca',
+    rank: 3,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 30,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 30',
+      year: '1984',
+      month: 'December',
     },
   },
 ];
