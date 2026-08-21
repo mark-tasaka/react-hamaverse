@@ -126,7 +126,7 @@ const Issue27: React.FC = () => {
         <section className="issue-section">
           <h2 className="issue-section-title">Florida Everglades</h2>
           <p>
-            Destro, Zartan, Cobra Commander, and the Baroness escape the quicksand. Firefly and Wild Weasel set a Malayan tiger-gate trap for the pursuing Joes; meanwhile, Junkyard reunites with Mutt, Torpedo, and Tripwire. Firefly and Wild Weasel hear the trap spring and return to investigate, only to be captured by the Joes. Just then, Destro, Zartan, Cobra Commander, and the Baroness arrive and open fire, allowing Mutt, Junkyard, Torpedo, and Tripwire to escape into the swamp. Zartan, recognizing the futility of the chase, declares it's time to call in the Dreadnocks.
+            Destro, Zartan, Cobra Commander, and the <Link to="/character-bios/Baroness">Baroness</Link> escape the quicksand. Firefly and Wild Weasel set a Malayan tiger-gate trap for the pursuing Joes; meanwhile, Junkyard reunites with Mutt, Torpedo, and Tripwire. Firefly and Wild Weasel hear the trap spring and return to investigate, only to be captured by the Joes. Just then, Destro, Zartan, Cobra Commander, and the <Link to="/character-bios/Baroness">Baroness</Link> arrive and open fire, allowing Mutt, Junkyard, Torpedo, and Tripwire to escape into the swamp. Zartan, recognizing the futility of the chase, declares it's time to call in the Dreadnocks.
           </p>
         </section>
 

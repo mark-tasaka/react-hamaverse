@@ -108,7 +108,7 @@ const Issue26: React.FC = () => {
         <section className="issue-section">
           <h3 className="issue-section-title">Florida Everglades</h3>
           <p>
-            Zartan, Destro, Cobra Commander, and the Baroness are inside Zartan's cabin with Junkyard (Mutt's dog). Junkyard takes a liking to the Cobras. In the distance, Torpedo, Mutt, and Tripwire are watching the cabin. Mutt is upset that Junkyard has taken a liking to the Cobras. The Cobras and Junkyard leave the cabin. The Joes fall back so as not to be spotted. While falling back, the Joes spot Firefly and Wild Weasel, who were previously their prisoners, in the distance. Firefly and Wild Weasel spot the Joes. Junkyard leads Zartan, Destro, Cobra Commander, and the Baroness to a pit of quicksand. Junkyard then departs to rejoin his handler, Mutt.
+            Zartan, Destro, Cobra Commander, and the <Link to="/character-bios/Baroness">Baroness</Link> are inside Zartan's cabin with Junkyard (Mutt's dog). Junkyard takes a liking to the Cobras. In the distance, Torpedo, Mutt, and Tripwire are watching the cabin. Mutt is upset that Junkyard has taken a liking to the Cobras. The Cobras and Junkyard leave the cabin. The Joes fall back so as not to be spotted. While falling back, the Joes spot Firefly and Wild Weasel, who were previously their prisoners, in the distance. Firefly and Wild Weasel spot the Joes. Junkyard leads Zartan, Destro, Cobra Commander, and the <Link to="/character-bios/Baroness">Baroness</Link> to a pit of quicksand. Junkyard then departs to rejoin his handler, Mutt.
           </p>
         </section>
 
