@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import palePeony1 from './img/palePeony/palePeony_1.png';
 import palePeony2 from './img/palePeony/palePeony_2.png';
+import palePeony3 from './img/palePeony/palePeony_3.png';
 
 const PalePeony: React.FC = () => {
   return (
@@ -41,6 +42,17 @@ const PalePeony: React.FC = () => {
           <img src={palePeony2} alt="Pale Peony's training in the Arashikage clan" className="profile-block-img" />
           <p>
             <Link to="/character-bios/StormShadow">Storm Shadow</Link> sees something in Pale Peony — that she will one day bring credit to the Arashikage clan. He makes a request to his aunt, Obake Obasan ("Demon Granny"), the late <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and the clan's current head. While Obake Obasan recognizes great talent in Pale Peony, she is concerned with her loose ethical core and complex worldview (Issue #183).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">San Diego Comic-Con</h2>
+          <img src={palePeony3} alt="Pale Peony at San Diego Comic-Con" className="profile-block-img" />
+          <p>
+            Pale Peony is sent to San Diego Comic-Con to hand off the Virtual Krytron (a nuclear trigger device) to a terrorist agent. Destro passes this information to Duke as a debt of honor, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> head into the convention to recover the device (Issue #180).
+          </p>
+          <p>
+            Pale Peony attacks <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> inside the convention. He recognizes her fighting style as the esoteric techniques used by specific Yakuza clans, and counters with Arashikage forms. Pale Peony, recognizing the style in turn, switches to non-lethal Arashikage techniques of her own — unwilling to kill a fellow member of the clan. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> takes the Virtual Krytron, disguised as a USB drive, from her.  He allows her to escape as <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> understanding her intention by switching to non-lethal techniques (Issue #181).
           </p>
         </section>
 
