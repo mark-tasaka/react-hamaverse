@@ -27,6 +27,7 @@ import WhiteClownImg from './img/portraits/whiteClown.jpg';
 import OrlovskyImg from './img/portraits/orlovsky.jpg';
 import PalePeonyImg from './img/portraits/palePeony.jpg';
 import ZartanImg from './img/portraits/zartan.jpg';
+import ClutchImg from './img/portraits/clutch.jpg';
 
 
 interface Introduced {
@@ -432,7 +433,23 @@ const CHARACTERS: Character[] = [
       year: '1984',
       month: 'July',
     },
-  }
+  },
+  {
+    name: 'Clutch',
+    img: ClutchImg,
+    link: '/character-bios/Clutch',
+    rank: 58,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
+    },
+  },
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';

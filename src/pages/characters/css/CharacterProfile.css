@@ -18,6 +18,33 @@
 }
 
 /* =====================================================
+   File Card Quote (italicized, right-aligned citation)
+   ===================================================== */
+.profile-quote {
+  margin: 0 0 32px;
+  padding: 0;
+  border: none;
+}
+
+.profile-quote p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  color: #2a2a2a;
+  line-height: 1.7;
+  margin: 0 0 8px;
+}
+
+.profile-quote-cite {
+  display: block;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  color: #6a6a6a;
+  text-align: right;
+}
+
+/* =====================================================
    Intro Text (full width, no image)
    ===================================================== */
 .profile-intro {
