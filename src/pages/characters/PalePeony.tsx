@@ -11,6 +11,7 @@ import palePeony5 from './img/palePeony/palePeony_5.png';
 import palePeony6 from './img/palePeony/palePeony_6.png';
 import palePeony7 from './img/palePeony/palePeony_7.png';
 import palePeony8 from './img/palePeony/palePeony_8.png';
+import palePeony9 from './img/palePeony/palePeony_9.png';
 
 const PalePeony: React.FC = () => {
   return (
@@ -131,6 +132,14 @@ const PalePeony: React.FC = () => {
           </p>
           <p>
             On the bridge, Roadblock and McCarthy are already engaged with the truck's driver — another Revanche cyborg. Pale Peony, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> join the fight.  Pale Peony attacks the cyborg inside the truck's cab. The cyborg self-destructs, vaporizing Pale Peony and reducing her to ash (Issue #207).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Returning Pale Peony's Ashes to Japan</h2>
+          <img src={palePeony9} alt="Pale Peony's ashes returned to Japan" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> infiltrates the Pit and takes the box holding Pale Peony's ashes, telling the Joes that Obake Obassan (Demon Granny) will take care of them (Issue #208). <Link to="/character-bios/StormShadow">Storm Shadow</Link> travels to Japan and delivers the ashes to Obake Obassan, where they're placed in the room of remembrance, alongside the photos of the fallen Arashikage (Issue #209).
           </p>
         </section>
 
