@@ -91,7 +91,7 @@ const Billy: React.FC = () => {
             Billy travels to the Cobra-controlled town of Springfield, first hitching a ride with nuns, then with a drunk driver on his way to return a briefcase the <Link to="/character-bios/SoftMaster">Soft Master</Link> had left in his car (the driver had previously given the <Link to="/character-bios/SoftMaster">Soft Master</Link> a ride to Springfield). Also in the car is Candy Apel. As the car approaches a set of train tracks with a train bearing down, the drunk driver crashes into a post, knocking everyone unconscious.
           </p>
           <p>
-            On the other side of the tracks, the <Link to="/character-bios/SoftMaster">Soft Master</Link> — driving a stolen police car — speeds past the oncoming train, escaping Firefly, Buzzer, and Scrap-Iron, who are pursuing him in a Cobra Ferret ATV. Spotting the crashed car, the <Link to="/character-bios/SoftMaster">Soft Master</Link> pulls over to tend to the wounded. From the other side of the tracks, Scrap-Iron climbs a telephone pole and aims his missile launcher at the wreck. The <Link to="/character-bios/SoftMaster">Soft Master</Link> sees this, rushes forward, and sacrifices himself in the ensuing explosion. Scrap-Iron fires his second missile into the wrecked vehicle. The driver and Candy are killed. Billy falls into a coma, losing an eye and a leg (Issue #43).
+            On the other side of the tracks, the <Link to="/character-bios/SoftMaster">Soft Master</Link> — driving a stolen police car — speeds past the oncoming train, escaping <Link to="/character-bios/Firefly">Firefly</Link>, Buzzer, and Scrap-Iron, who are pursuing him in a Cobra Ferret ATV. Spotting the crashed car, the <Link to="/character-bios/SoftMaster">Soft Master</Link> pulls over to tend to the wounded. From the other side of the tracks, Scrap-Iron climbs a telephone pole and aims his missile launcher at the wreck. The <Link to="/character-bios/SoftMaster">Soft Master</Link> sees this, rushes forward, and sacrifices himself in the ensuing explosion. Scrap-Iron fires his second missile into the wrecked vehicle. The driver and Candy are killed. Billy falls into a coma, losing an eye and a leg (Issue #43).
           </p>
         </section>
 
@@ -184,13 +184,13 @@ const Billy: React.FC = () => {
             That night, Billy, <Link to="/character-bios/Tyrone">Tyrone</Link>, and Captain Minh come under attack by Night Vipers on the beach. They flee into a drain tunnel beneath the island, where Croc Master captures them (Issue #97).
           </p>
           <p>
-            Croc Master brings the trio to the landlocked freighter. The next day, inside, Fred VII, Voltar, <Link to="/character-bios/Zartan">Zartan</Link>, and Firefly are arguing when the lights go out and the hatch opens, revealing the original Cobra Commander and his loyal Crimson Guard standing above, alongside Dr. Mindbender, Raptor, and the Viper excavation team.
+            Croc Master brings the trio to the landlocked freighter. The next day, inside, Fred VII, Voltar, <Link to="/character-bios/Zartan">Zartan</Link>, and <Link to="/character-bios/Firefly">Firefly</Link> are arguing when the lights go out and the hatch opens, revealing the original Cobra Commander and his loyal Crimson Guard standing above, alongside Dr. Mindbender, Raptor, and the Viper excavation team.
           </p>
           <p>
             Cobra Commander blames Billy for walking out on him, driving him to his irrational choice to go straight, and disowns him as his son. He and the Crimson Guard throw Dr. Mindbender, Raptor, and the excavation team into the freighter, then board a transport helicopter. Cobra Commander detonates a series of preplanned explosions, diverting a water channel to sink the freighter into an extinct volcano — further explosions bury it deep within, trapping everyone above it (Issue #98).
           </p>
           <p>
-            In time, Billy and <Link to="/character-bios/Zartan">Zartan</Link> escape; the others die of botulism from tainted rations aboard the freighter (Issue #116). Later issues reveal that Firefly also escaped.
+            In time, Billy and <Link to="/character-bios/Zartan">Zartan</Link> escape; the others die of botulism from tainted rations aboard the freighter (Issue #116). Later issues reveal that <Link to="/character-bios/Firefly">Firefly</Link> also escaped.
           </p>
         </section>
 

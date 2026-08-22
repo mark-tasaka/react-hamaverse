@@ -32,10 +32,10 @@ const SoftMaster: React.FC = () => {
           <h2 className="profile-block-title">High Sierras</h2>
           <img src={softMaster2} alt="The Soft Master in the High Sierras" className="profile-block-img" />
           <p>
-            The Soft Master travels to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the aftermath of a battle between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Timber, Spirit, Airborne, Destro, Firefly, and <Link to="/character-bios/FredBroca">Fred Broca</Link> (a Crimson Guardsman). Both Joes and Cobras are injured. The Soft Master makes no distinction between the two sides, treating all the wounded equally. The Cobras then depart, with Firefly and Destro carrying the seriously injured <Link to="/character-bios/FredBroca">Fred Broca</Link>.
+            The Soft Master travels to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the aftermath of a battle between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Timber, Spirit, Airborne, Destro, <Link to="/character-bios/Firefly">Firefly</Link>, and <Link to="/character-bios/FredBroca">Fred Broca</Link> (a Crimson Guardsman). Both Joes and Cobras are injured. The Soft Master makes no distinction between the two sides, treating all the wounded equally. The Cobras then depart, with <Link to="/character-bios/Firefly">Firefly</Link> and Destro carrying the seriously injured <Link to="/character-bios/FredBroca">Fred Broca</Link>.
           </p>
           <p>
-            After traveling some distance, <Link to="/character-bios/FredBroca">Fred Broca</Link> becomes determined to go back and finish his mission. He slips away while Destro and Firefly are resting and returns to the site of the cabin, where he confronts the Joes. The Soft Master is there and shows Fred the futility of his quest for vengeance. Realizing this, Fred dies — his thirst for vengeance had been the only thing keeping him alive (Issue #32).
+            After traveling some distance, <Link to="/character-bios/FredBroca">Fred Broca</Link> becomes determined to go back and finish his mission. He slips away while Destro and <Link to="/character-bios/Firefly">Firefly</Link> are resting and returns to the site of the cabin, where he confronts the Joes. The Soft Master is there and shows Fred the futility of his quest for vengeance. Realizing this, Fred dies — his thirst for vengeance had been the only thing keeping him alive (Issue #32).
           </p>
         </section>
 
@@ -52,7 +52,7 @@ const SoftMaster: React.FC = () => {
             The Soft Master finds the identity of the <Link to="/character-bios/HardMaster">Hard Master</Link>'s killer in the database (though it is not revealed to the reader). Just then, backup arrives, and the sergeant draws a second gun from an ankle holster. The Soft Master knocks him down and flees with ninja speed through the officers and out the main door, then commandeers a police car outside.
           </p>
           <p>
-            Firefly, Scrap-Iron, and Buzzer, riding a Ferret ATV, spot the Soft Master in the stolen car and give chase, opening fire. The Soft Master dodges a missile by ducking under a moving semi-truck, which shears off the top of his car in the process. He then drives across a set of train tracks, narrowly avoiding an oncoming train — which conveniently blocks the pursuing Ferret's path behind him.
+            <Link to="/character-bios/Firefly">Firefly</Link>, Scrap-Iron, and Buzzer, riding a Ferret ATV, spot the Soft Master in the stolen car and give chase, opening fire. The Soft Master dodges a missile by ducking under a moving semi-truck, which shears off the top of his car in the process. He then drives across a set of train tracks, narrowly avoiding an oncoming train — which conveniently blocks the pursuing Ferret's path behind him.
           </p>
           <p>
             On the other side of the tracks, the drunk driver who had dropped the Soft Master off is now driving toward Springfield to return his forgotten suitcase. His passengers are Candy Apel and <Link to="/character-bios/Billy">Billy</Link>. Intoxicated, the driver crashes into a pole, knocking all three unconscious.

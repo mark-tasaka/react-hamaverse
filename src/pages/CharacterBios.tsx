@@ -32,6 +32,7 @@ import FredBrocaImg from './img/portraits/fredBroca.jpg';
 import BaronessImg from './img/portraits/Baroness.jpg';
 import RockRollImg from './img/portraits/RockRoll.jpg';
 import MosievImg from './img/portraits/Mosiev.jpg';
+import FireflyImg from './img/portraits/Firefly.jpg';
 
 
 interface Introduced {
@@ -516,6 +517,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 63',
       year: '1987',
       month: 'September',
+    },
+  },
+  {
+    name: 'Firefly',
+    img: FireflyImg,
+    link: '/character-bios/Firefly',
+    rank: 24,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 24,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 24',
+      year: '1984',
+      month: 'June',
     },
   },
 ];

@@ -15,7 +15,7 @@ const FredBroca: React.FC = () => {
         <h1 className="character-profile-title">Fred Broca (Fred I)</h1>
 
         <p className="profile-intro">
-          The original Fred in the Fred series of Crimson Guards, and <Link to="/character-bios/SeanCollins">Sean Collins</Link>' biological father. Like the others in the series, Fred Broca undergoes plastic surgery to have a face identical to the rest of the Freds. The Broca family purchases a home next to Fort Wadsworth, where Fred and his wife can surveil the motor pool on base. Fred's life is cut short when he joins Destro and Firefly on a mission to attack <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at his cabin in the High Sierras. The next member of the series, Fred II (<Link to="/character-bios/Wade">Wade Collins</Link>), replaces him after his death, adopting his family and continuing his work for Cobra.
+          The original Fred in the Fred series of Crimson Guards, and <Link to="/character-bios/SeanCollins">Sean Collins</Link>' biological father. Like the others in the series, Fred Broca undergoes plastic surgery to have a face identical to the rest of the Freds. The Broca family purchases a home next to Fort Wadsworth, where Fred and his wife can surveil the motor pool on base. Fred's life is cut short when he joins Destro and <Link to="/character-bios/Firefly">Firefly</Link> on a mission to attack <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at his cabin in the High Sierras. The next member of the series, Fred II (<Link to="/character-bios/Wade">Wade Collins</Link>), replaces him after his death, adopting his family and continuing his work for Cobra.
         </p>
 
         <section className="profile-block">
@@ -36,10 +36,10 @@ const FredBroca: React.FC = () => {
             The Broca family purchases a home next to Fort Wadsworth. Among the boxes the movers carry in are crates of high-tech surveillance equipment, which Fred and his wife set up to surveil the motor pool at the fort (Issue #30).
           </p>
           <p>
-            One day, Destro and Firefly arrive at the Broca home and collect Fred for a mission to the High Sierras to kill <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at his cabin. The Joes, anticipating a Cobra attack, send Spirit and Airborne to the High Sierras as well. A battle breaks out at the cabin, leaving everyone wounded (Issue #31).
+            One day, Destro and <Link to="/character-bios/Firefly">Firefly</Link> arrive at the Broca home and collect Fred for a mission to the High Sierras to kill <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at his cabin. The Joes, anticipating a Cobra attack, send Spirit and Airborne to the High Sierras as well. A battle breaks out at the cabin, leaving everyone wounded (Issue #31).
           </p>
           <p>
-            In the aftermath, the <Link to="/character-bios/SoftMaster">Soft Master</Link> appears and tends to the wounded, making no distinction between friend and foe. He has Destro and Firefly help carry the injured Fred away from the cabin. During the journey, Fred insists on finishing the mission and turning back. While Destro and Firefly rest, he slips away and returns to confront the <Link to="/character-bios/SoftMaster">Soft Master</Link> alone. The <Link to="/character-bios/SoftMaster">Soft Master</Link> shows him the futility of his obsession with revenge — and realizing this, Fred dies, his thirst for vengeance having been the only thing keeping him alive (Issue #32).
+            In the aftermath, the <Link to="/character-bios/SoftMaster">Soft Master</Link> appears and tends to the wounded, making no distinction between friend and foe. He has Destro and <Link to="/character-bios/Firefly">Firefly</Link> help carry the injured Fred away from the cabin. During the journey, Fred insists on finishing the mission and turning back. While Destro and <Link to="/character-bios/Firefly">Firefly</Link> rest, he slips away and returns to confront the <Link to="/character-bios/SoftMaster">Soft Master</Link> alone. The <Link to="/character-bios/SoftMaster">Soft Master</Link> shows him the futility of his obsession with revenge — and realizing this, Fred dies, his thirst for vengeance having been the only thing keeping him alive (Issue #32).
           </p>
         </section>
 

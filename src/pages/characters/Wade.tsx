@@ -148,7 +148,7 @@ const Wade: React.FC = () => {
             To keep <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death a secret from Cobra, <Link to="/character-bios/Hawk">Hawk</Link> asks <Link to="/character-bios/SeanCollins">Sean</Link> to become <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, maintaining the illusion that he's still alive. To keep up appearances, a funeral is held for <Link to="/character-bios/SeanCollins">Sean</Link>, with no one outside G.I. Joe aware that he's actually alive. A funeral with full military honors is held for the family at Arlington National Cemetery, and a coffin is laid to rest. Wade questions his son's death, noting that the security at the funeral was far too lax — he suspects the whole thing is a sham.
           </p>
           <p>
-            Wanting to punish the Collins family, Cobra Commander has Firefly plant explosives that detonate their house (Issue #215). Fortunately, Wade's instincts and knowledge of Cobra pay off — he hides his family in the basement, saving them from the blast. The basement conceals a secret escape tunnel leading to the garden shed, where cash, new passports, and other essentials are stashed away (Issue #216).
+            Wanting to punish the Collins family, Cobra Commander has <Link to="/character-bios/Firefly">Firefly</Link> plant explosives that detonate their house (Issue #215). Fortunately, Wade's instincts and knowledge of Cobra pay off — he hides his family in the basement, saving them from the blast. The basement conceals a secret escape tunnel leading to the garden shed, where cash, new passports, and other essentials are stashed away (Issue #216).
           </p>
         </section>
 
