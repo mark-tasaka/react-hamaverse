@@ -47,7 +47,7 @@ const FredBroca: React.FC = () => {
           <h2 className="profile-block-title">Laid to Rest</h2>
           <img src={fred3} alt="Fred Broca laid to rest" className="profile-block-img" />
           <p>
-            Fred Broca is laid to rest in a cave behind the nearby waterfall, his Kalashnikov placed in his arms. Chiseled into the rock wall above him are the words: "Here lies Fred. No matter what he did in life, he died well." Years later, when <Link to="/character-bios/StormShadow">Storm Shadow</Link> battles the Red Ninja at the same waterfall, he grabs the Kalashnikov from the grave and uses it as a shield to deflect a Red Ninja's strike (Issue #91).
+            Fred Broca is laid to rest in a cave behind the nearby waterfall, his Kalashnikov placed in his arms. Chiseled into the rock wall above him are the words: "Here lies Fred. No matter what he did in life, he died well." Years later, when <Link to="/character-bios/StormShadow">Storm Shadow</Link> battles the Red Ninja at the same waterfall, he grabs the Kalashnikov from the grave and uses it as a shield to block the Red Ninja's strike (Issue #91).
           </p>
         </section>
 
