@@ -7,6 +7,10 @@ import palePeony1 from './img/palePeony/palePeony_1.png';
 import palePeony2 from './img/palePeony/palePeony_2.png';
 import palePeony3 from './img/palePeony/palePeony_3.png';
 import palePeony4 from './img/palePeony/palePeony_4.png';
+import palePeony5 from './img/palePeony/palePeony_5.png';
+import palePeony6 from './img/palePeony/palePeony_6.png';
+import palePeony7 from './img/palePeony/palePeony_7.png';
+import palePeony8 from './img/palePeony/palePeony_8.png';
 
 const PalePeony: React.FC = () => {
   return (
@@ -77,6 +81,56 @@ const PalePeony: React.FC = () => {
           </p>
           <p>
             A five-man G.I. Joe team led by Lt. Falcon launches an assault on the prison, while the newly formed crew mounts an independent attack of their own (Issue #186). Pale Peony is wounded, taking a bullet meant for Road Pig. Road Pig carries her unconscious body, refusing to abandon her. When the Tomahawk arrives with reinforcements, he hands Pale Peony to Lifeline, as she will need immediate medical treatment to keep her alive (Issue #187).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Tokyo Amusement Park</h2>
+          <img src={palePeony5} alt="Pale Peony at the Tokyo amusement park" className="profile-block-img" />
+          <p>
+            Pale Peony arrives at an amusement park in the Asakusa district of Tokyo with a special coupon for the "scariest ride in all of Japan." The coupon specifies a particular date and time. The ticket taker leads her to a special car. Shortly after, the ticket taker brings <Link to="/character-bios/Jinx">Jinx</Link> to share the same car — both women are startled to see each other, each having received an identical coupon.
+          </p>
+          <p>
+            Midway through the ride, Obake Obassan (Demon Granny) appears between them. She tells the two women that leadership of the clan must be passed to a new generation, and that each of them has a trial to prove herself. For security, she says, she cannot contact them again until one of them either succeeds or perishes. Obake Obassan vanishes, and the ride comes to an end (Issue #192).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">"The Arashikage clan never forgets its own"</h2>
+          <img src={palePeony6} alt="Pale Peony's mission to Ollistan" className="profile-block-img" />
+          <p>
+            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> find work at a Revanche Electronics factory in Lauhar, Ollistan. The factory's lecherous manager takes notice of the two and summons them to his office, offering promotions in exchange for certain favors. Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> beat him senseless instead, forcing him to reveal how to access the factory's secret area (Issue #193).
+          </p>
+          <p>
+            Inside, they encounter a group of masked gunmen. After defeating them and removing their masks, the women discover they're actually Revanche cyborgs. Armed with this knowledge, they flee to their safe house, where they have access to secure communications. Outside, they spot more cyborgs disguised as businessmen, but manage to slip inside undetected. From within, they contact the Pit, presenting the severed head of a Revanche cyborg as proof of the factory's activities (Issue #194).
+          </p>
+          <p>
+            The pair make it to the airport, where they're ambushed by more Revanche cyborgs and Pale Peony is shot (Issue #195). They board their flight and land in Tristel, only for a security team to board the aircraft — forcing the two to escape through the luggage compartment. Driving a baggage tug across the tarmac, <Link to="/character-bios/Jinx">Jinx</Link> spots a man in a three-piece suit waving them down; he reveals the Arashikage tattoo on his right forearm, and together, he and <Link to="/character-bios/Jinx">Jinx</Link> help the wounded Pale Peony into the back of a car (Issue #196).
+          </p>
+          <p>
+            Pale Peony receives medical care, and the man escorts them to the train station, arranging a flight home from Aviano Air Base. As the train departs, he waves and calls out, "The Arashikage clan never forgets its own." The two women turn to thank each other for reaching out to him — only to realize neither of them had (Issue #198).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Returning to the Pit in Style</h2>
+          <img src={palePeony7} alt="Pale Peony and Jinx returning to the Pit" className="profile-block-img" />
+          <p>
+            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> return to the Pit in style, arriving in a red convertible. Once they reach the lower levels, they brief <Link to="/character-bios/Hawk">Hawk</Link> on everything they uncovered in Ollistan (Issue #201).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Pale Peony's Sacrifice</h2>
+          <img src={palePeony8} alt="Pale Peony's final battle in Dublin" className="profile-block-img" />
+          <p>
+            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> infiltrate Revanche Headquarters in Dublin after hours. Inside, they encounter a cyborg identifying itself as 921, who defeats the women, knocks them unconscious, and takes them prisoner (Issue #206). They wake up bound, sealed in separate container boxes on the back of a flatbed truck.
+          </p>
+          <p>
+            When the truck leaves the facility, it's followed by <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, Roadblock, and Gerry McCarthy — a local authority working with the Joes. <Link to="/character-bios/Jinx">Jinx</Link> manages to free her hands, and together the two women kick their way free of the boxes, sending them off the flatbed, over the bridge, and into the water below. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> dive in after them and free them from the boxes, and all four swim to the surface.
+          </p>
+          <p>
+            On the bridge, Roadblock and McCarthy are already engaged with the truck's driver — another Revanche cyborg. Pale Peony, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> join the fight.  Pale Peony attacks the cyborg inside the truck's cab. The cyborg self-destructs, vaporizing Pale Peony and reducing her to ash (Issue #207).
           </p>
         </section>
 
