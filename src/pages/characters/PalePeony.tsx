@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import palePeony1 from './img/palePeony/palePeony_1.png';
 import palePeony2 from './img/palePeony/palePeony_2.png';
 import palePeony3 from './img/palePeony/palePeony_3.png';
+import palePeony4 from './img/palePeony/palePeony_4.png';
 
 const PalePeony: React.FC = () => {
   return (
@@ -53,6 +54,29 @@ const PalePeony: React.FC = () => {
           </p>
           <p>
             Pale Peony attacks <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> inside the convention. He recognizes her fighting style as the esoteric techniques used by specific Yakuza clans, and counters with Arashikage forms. Pale Peony, recognizing the style in turn, switches to non-lethal Arashikage techniques of her own — unwilling to kill a fellow member of the clan. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> takes the Virtual Krytron, disguised as a USB drive, from her.  He allows her to escape as <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> understanding her intention by switching to non-lethal techniques (Issue #181).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Former Emirate of Benzheen</h2>
+          <img src={palePeony4} alt="Pale Peony in the Former Emirate of Benzheen" className="profile-block-img" />
+          <p>
+            After fleeing Comic-Con, Pale Peony is captured by a Blue Ninja cyborg and held inside a container while it interrogates her about the whereabouts of a flash drive containing Krythorn. She insists she doesn't know. Zarana and Road Pig arrive, destroy the cyborg, and free Pale Peony — revealing that is working with them (Issue #181).
+          </p>
+          <p>
+            Back at their safe house, Zarana and Road Pig tie Pale Peony upside down, explaining that they were using her as a buffer. Pale Peony breaks free of her bindings and kicks both of them, then demands to cut a new deal with them.
+          </p>
+          <p>
+            Later, over drinks, the three discuss their plan to take over Darklon's operations — which Pale Peony describes not as a hostile takeover, but a stealth merger (Issue #182). <Link to="/character-bios/Zartan">Zartan</Link> later joins the trio, and all four travel to the former Emirate of Benzheen (Issue #183).
+          </p>
+          <p>
+            Tunnel Rat, Dusty, and Air Tight are operating in Benzheen. Tunnel Rat is captured by the newly formed crew — Pale Peony, <Link to="/character-bios/Zartan">Zartan</Link>, Zarana, and Road Pig - while Dusty and Air Tight are captured separately by the local authorities (Issue #184) and sent to a prison outside the city (Issue #185). Pale Peony quietly whispers to Tunnel Rat that she's on his side.
+          </p>
+          <p>
+            Darklon and Colonel Faroud, the prospective buyer of the Krythorn device, arrive at the prison, where the Colonel takes Darklon down to the basement to test it. Darklon is shocked to see how little the Colonel cares for the guards and scientists who will die in the resulting explosion.
+          </p>
+          <p>
+            A five-man G.I. Joe team led by Lt. Falcon launches an assault on the prison, while the newly formed crew mounts an independent attack of their own (Issue #186). Pale Peony is wounded, taking a bullet meant for Road Pig. Road Pig carries her unconscious body, refusing to abandon her. When the Tomahawk arrives with reinforcements, he hands Pale Peony to Lifeline, as she will need immediate medical treatment to keep her alive (Issue #187).
           </p>
         </section>
 
