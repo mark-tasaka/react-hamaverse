@@ -5,6 +5,12 @@ function Updates() {
   return (
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
+
+      
+      <p className="update-log-date">August 21, 2026</p>
+      <p className="update-log-entry">
+        New character bios for the <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, The <Link to="/character-bios/Baroness">Baroness</Link>, <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link>, and <Link to="/character-bios/FredBroca">Fred Broca</Link> have been added.  More sections will be added to Cutch, Rock 'n Roll, and the Baroness in the future.  The character bio for <Link to="/character-bios/PalePeony">Pale Peony</Link> have been updated with new section.
+      </p>
       
       <p className="update-log-date">August 20, 2026</p>
       <p className="update-log-entry">

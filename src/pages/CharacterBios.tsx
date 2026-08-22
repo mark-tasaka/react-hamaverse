@@ -523,7 +523,7 @@ const CHARACTERS: Character[] = [
     name: 'Firefly',
     img: FireflyImg,
     link: '/character-bios/Firefly',
-    rank: 24,
+    rank: 52,
     faction: 'Cobra',
     secondaryFaction: 'Enemy',
     status: 'Alive',

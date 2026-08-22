@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 21, 2026</p>
+          <p className="update-log-date">August 22, 2026</p>
           <p className="update-log-entry">
-            new character bios for the <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, The <Link to="/character-bios/Baroness">Baroness</Link>, <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link>, and <Link to="/character-bios/FredBroca">Fred Broca</Link> have been added.  More sections will be added to Cutch, Rock 'n Roll, and the Baroness in the future.  The character bio for <Link to="/character-bios/PalePeony">Pale Peony</Link> have been updated with new section.
+            New character bio for the <Link to="/character-bios/Firefly">Firefly</Link> has been added.  More sections will be added to Firefly's bio in the future.  As well, more sections added to <Link to="/character-bios/PalePeony">Pale Peony's</Link> bio, completing her story arc.
           </p>
 
           <div className="btn-row">
