@@ -33,7 +33,7 @@ const Clutch: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), three versions of Clutch were produced: the original 1982 version (with a 1983 swivel-arm variant), a 1984 repaint, and the 1993 version. Clutch was one of the original Joes who did not receive a pay-grade promotion when General Austin promoted eight others and assigned them administrative duties to accommodate the team's growth. As a result, all three of Clutch's file cards show his rank as E-4.
+            During the Marvel run (1982–1994), three versions of Clutch were produced: the original <a href="https://www.yojoe.com/action/82/clutch.shtml" target="_blank" rel="noopener noreferrer">1982 version</a> (with a <a href="https://www.yojoe.com/action/83/clutch1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> variant), a <a href="https://www.yojoe.com/action/84/clutch2.shtml" target="_blank" rel="noopener noreferrer">1984 repaint</a>, and the <a href="https://www.yojoe.com/action/93/clutch3.shtml" target="_blank" rel="noopener noreferrer">1993 version</a>. Clutch was one of the original Joes who did not receive a pay-grade promotion when General Austin promoted eight others and assigned them administrative duties to accommodate the team's growth. As a result, all three of Clutch's file cards show his rank as E-4.
           </p>
 
           <p className="profile-notes-footnote">

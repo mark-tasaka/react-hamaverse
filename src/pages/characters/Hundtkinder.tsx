@@ -24,7 +24,7 @@ const Hundtkinder: React.FC = () => {
             Major Bludd brings the severely burned <Link to="/character-bios/Baroness">Baroness</Link> to the Bern Institute of Reconstructive Surgery in the Swiss Alps, where he arranges for Dr. Hundtkinder to perform her surgery. When Major Bludd stresses that discretion is necessary, providing the alias "<Link to="/character-bios/Baroness">Baroness</Link> DeCobray," Dr. Hundtkinder replies that discretion costs extra — revealing his loose ethics (Issue #22).
           </p>
           <p>
-            The surgery is a success, restoring the <Link to="/character-bios/Baroness">Baroness</Link>' face. It also marks the debut of her signature black leather uniform, which she wears for the remainder of the series, replacing the blue Cobra dress uniform she wore previously (Issue #23).
+            The surgery is a success, restoring the <Link to="/character-bios/Baroness">Baroness</Link> to what she looked like before the accident. It also marks the debut of the <Link to="/character-bios/Baroness">Baroness'</Link> signature black leather uniform, which she wears for the remainder of the series, replacing the blue Cobra dress uniform she wore previously (Issue #23).
           </p>
         </section>
 

@@ -30,6 +30,7 @@ import ZartanImg from './img/portraits/zartan.jpg';
 import ClutchImg from './img/portraits/clutch.jpg';
 import FredBrocaImg from './img/portraits/fredBroca.jpg';
 import BaronessImg from './img/portraits/Baroness.jpg';
+import RockRollImg from './img/portraits/RockRoll.jpg';
 
 
 interface Introduced {
@@ -475,6 +476,22 @@ const CHARACTERS: Character[] = [
     rank: 82,
     faction: 'Cobra',
     secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
+    },
+  },
+  {
+    name: 'Rock \'n Roll',
+    img: RockRollImg,
+    link: '/character-bios/RockRoll',
+    rank: 58,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
     status: 'Alive',
     introduced: {
       issueNumber: 1,
