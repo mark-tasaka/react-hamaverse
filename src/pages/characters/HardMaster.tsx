@@ -12,7 +12,7 @@ const HardMaster: React.FC = () => {
         <h1 className="character-profile-title">Hard Master</h1>
 
         <p className="profile-intro">
-          The Hard Master was the head of the Arashikage clan during the time <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> spent training in Japan. He is also <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s uncle (<Link to="/character-bios/StormShadow">Storm Shadow</Link>'s unnamed, deceased father was the Hard Master's younger brother). At the time of his death, the Hard Master was married to the woman who would become known as Obake Obassan ("Demon Granny").
+          The Hard Master was the head of the Arashikage clan during the time <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> spent training in Japan. He is also <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s uncle (<Link to="/character-bios/StormShadow">Storm Shadow</Link>'s unnamed, deceased father was the Hard Master's younger brother). At the time of his death, the Hard Master was married to the woman who would become known as Obake Obaasan ("Demon Granny").
         </p>
 
         <section className="profile-block">
