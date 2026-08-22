@@ -31,6 +31,7 @@ import ClutchImg from './img/portraits/clutch.jpg';
 import FredBrocaImg from './img/portraits/fredBroca.jpg';
 import BaronessImg from './img/portraits/Baroness.jpg';
 import RockRollImg from './img/portraits/RockRoll.jpg';
+import MosievImg from './img/portraits/Mosiev.jpg';
 
 
 interface Introduced {
@@ -499,6 +500,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 1',
       year: '1982',
       month: 'March',
+    },
+  },
+  {
+    name: 'Sgt. Mosiev',
+    img: MosievImg,
+    link: '/character-bios/Mosiev',
+    rank: 2,
+    faction: 'Borovian Army',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 63,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 63',
+      year: '1987',
+      month: 'September',
     },
   },
 ];

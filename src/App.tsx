@@ -33,6 +33,7 @@ import Clutch from './pages/characters/Clutch'
 import FredBroca from './pages/characters/FredBroca'
 import Baroness from './pages/characters/Baroness'
 import RockRoll from './pages/characters/RockRoll'
+import Mosiev from './pages/characters/Mosiev'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -85,6 +86,7 @@ function App() {
           <Route path="/character-bios/FredBroca" element={<FredBroca />} />
           <Route path="/character-bios/Baroness" element={<Baroness />} />
           <Route path="/character-bios/RockRoll" element={<RockRoll />} />
+          <Route path="/character-bios/Mosiev" element={<Mosiev />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

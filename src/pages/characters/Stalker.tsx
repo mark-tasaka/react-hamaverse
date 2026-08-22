@@ -94,10 +94,10 @@ const Stalker: React.FC = () => {
             A quick trial is held for Stalker, Snow Job, and Quick Kick, and they're sent by train to a gulag. On the train, Stalker tends to the wounded Snow Job and Quick Kick and ensures all the prisoners in his freight car share the meager food and water provided (Issue #62).
           </p>
           <p>
-            In the gulag, Snow Job and Quick Kick are assigned to the workshop, building children's toys, forced to work at the same table as Boris, a well-known snitch. Stalker is sent to work the logging camp, where Sgt. Mosiev tells him he holds the national gold medal for long-distance rifle shooting, daring Stalker to run — he won't fire until Stalker reaches the 300-meter mark.
+            In the gulag, Snow Job and Quick Kick are assigned to the workshop, building children's toys, forced to work at the same table as Boris, a well-known snitch. Stalker is sent to work the logging camp, where <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link> tells him he holds the national gold medal for long-distance rifle shooting, daring Stalker to run — he won't fire until Stalker reaches the 300-meter mark.
           </p>
           <p>
-            At dinner, the three Joes sit together with Boris at the table. Boris alerts the guards that the Americans are plotting, using their secret slang. Snow Job is taken away. Stalker is about to stand when Sgt. Mosiev tells him that if he moves another inch, his friend will be shot instead of beaten. Stalker sits down (Issue #63).
+            At dinner, the three Joes sit together with Boris at the table. Boris alerts the guards that the Americans are plotting, using their secret slang. Snow Job is taken away. Stalker is about to stand when <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link> tells him that if he moves another inch, his friend will be shot instead of beaten. Stalker sits down (Issue #63).
           </p>
           <p>
             Days turn to weeks. On a stormy night, Corporal Olga enters the barracks with three soldiers. She pistol-whips one of the prisoners and demands he give her a name. When he refuses, she shoots him dead, then turns to the treacherous Boris. Boris points to Snow Job, lying in bed recovering from his wounds. Olga says he's been too sick to get up for weeks and tells Boris the culprit must be him instead. She has her soldiers take Boris away.
@@ -109,7 +109,7 @@ const Stalker: React.FC = () => {
             The Joes offer to take the prisoners in their commandeered army truck to the Borovian border. The prisoners say that while they don't like their government, they love their country, and choose to remain in Borovia to work for the underground resistance.
           </p>
           <p>
-            The Joes reach the border and find a barbed-wire fence and guard towers lining the river bordering Borovia. The <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes into the water, bypassing the fences and guard towers. Stalker is the last to be fired, and as he waits, he spots Sgt. Mosiev. Both raise their rifles; Stalker fires first, killing him. Stalker discards the rifle, enters the cannon, and is fired to the safety of the river (Issue #66).
+            The Joes reach the border and find a barbed-wire fence and guard towers lining the river bordering Borovia. The <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes into the water, bypassing the fences and guard towers. Stalker is the last to be fired, and as he waits, he spots <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link>. Both raise their rifles; Stalker fires first, killing him. Stalker discards the rifle, enters the cannon, and is fired to the safety of the river (Issue #66).
           </p>
         </section>
 
