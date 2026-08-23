@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import clutch1 from './img/clutch/clutch_1.png';
 import clutch2 from './img/clutch/clutch_2.png';
+import clutch3 from './img/clutch/clutch_3.png';
 
 const Clutch: React.FC = () => {
   return (
@@ -42,6 +43,16 @@ const Clutch: React.FC = () => {
           </p>
           <p>
             By the time Lady Jay joins the team, Clutch's pursuit of his female teammates has mellowed.
+          </p>
+        </section>
+                <section className="profile-block">
+          <h2 className="profile-block-title">Close Friendship with Grunt</h2>
+          <img src={clutch3} alt="Clutch's friendship with Grunt" className="profile-block-img" />
+          <p>
+            Clutch forms deep friendships with several of his teammates. His best friend is Rock 'n Roll, with whom he often spends off-duty hours getting into one adventure or another. Clutch also grows close with <Link to="/character-bios/Grunt">Grunt</Link>. When <Link to="/character-bios/Grunt">Grunt</Link> is honorably discharged and prepares to return to civilian life as a student at Georgia Tech, Clutch is the only Joe waiting for him at the bus stop. <Link to="/character-bios/Grunt">Grunt</Link>  is surprised and pleased to see.  He gives <Link to="/character-bios/Grunt">Grunt</Link> a firm handshake as the bus pulls up. As it departs, Clutch salutes and calls out, "Have a good life... soldier" (Issue #55).
+          </p>
+          <p>
+            On the desk beside <Link to="/character-bios/Grunt">Grunt</Link>'s dorm room bed sits a photo of <Link to="/character-bios/Grunt">himself</Link>, Clutch, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> — a testament to the deep friendship he shares with the three of them (Issue #56).
           </p>
         </section>
 
