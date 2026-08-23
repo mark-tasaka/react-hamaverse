@@ -34,6 +34,7 @@ import RockRollImg from './img/portraits/RockRoll.jpg';
 import MosievImg from './img/portraits/Mosiev.jpg';
 import FireflyImg from './img/portraits/Firefly.jpg';
 import CobraCommanderImg from './img/portraits/cobraCommander.jpg';
+import ObakeObaasanImg from './img/portraits/obakeObaasan.jpg';
 
 
 interface Introduced {
@@ -126,7 +127,7 @@ const CHARACTERS: Character[] = [
     link: '/character-bios/Billy',
     rank: 69,
     faction: 'Arashikage',
-    secondaryFaction: '',
+    secondaryFaction: 'Civilian',
     status: 'Dead',
     introduced: {
       issueNumber: 10,
@@ -550,6 +551,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 1',
       year: '1982',
       month: 'March',
+    },
+  },
+  {
+    name: 'Obake Obaasan',
+    img: ObakeObaasanImg,
+    link: '/character-bios/ObakeObaasan',
+    rank: 46,
+    faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 155.5,
+      publisher: 'Devils Due',
+      issueLabel: 'Storm Shadow #3',
+      year: '2007',
+      month: 'July',
     },
   },
 ];
