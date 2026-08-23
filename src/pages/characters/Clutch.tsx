@@ -26,7 +26,7 @@ const Clutch: React.FC = () => {
             Prior to the formation of G.I. Joe, Clutch serves as General Austin's personal driver. On one assignment, he's ordered to pick up a Tahoe from McGuire Air Force Base and drive it to Fort Holabird. To his surprise, he finds a blindfolded and bound passenger — Col. Abernathy (<Link to="/character-bios/Hawk">Hawk</Link>) — waiting in the backseat. Clutch doesn't engage the passanger in conversation.
           </p>
           <p>
-            While driving, a van carrying three occupants pulls alongside Clutch. The van's back door opens, revealing a thug armed with a .50-cal machine gun. Clutch speeds up and drives alongside the van's passenger side; one of its occupants draws a gun. Clutch rams his Tahoe into the side of the van and elbows the gunman in the face, breaking his nose. He forces the van into the freeway divider, sending it up in flames. Clutch delivers his passenger to Fort Holabird.  No one at Fort Holabird batted an eye when the Tahoe came back damaged (G.I. Joe Declassified #2).
+            While driving, a van carrying three occupants pulls alongside Clutch. The van's back door opens, revealing a thug armed with a .50-cal machine gun. Clutch speeds up and drives alongside the van's passenger side; one of its occupants draws a gun. Clutch rams his Tahoe into the side of the van and elbows the gunman in the face, breaking his nose. He forces the van into the freeway divider, sending it up in flames. Clutch delivers his passenger to Fort Holabird.  No one at Fort Holabird bats an eye when the Tahoe came back damaged (G.I. Joe Declassified #2).
           </p>
         </section>
 

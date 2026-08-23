@@ -237,7 +237,7 @@ const CHARACTERS: Character[] = [
     link: '/character-bios/StormShadow',
     rank: 98,
     faction: 'Arashikage',
-    secondaryFaction: 'G.I. Joe',
+    secondaryFaction: '',
     status: 'Alive',
     introduced: {
       issueNumber: 21,
