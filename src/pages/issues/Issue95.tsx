@@ -76,7 +76,7 @@ const Issue95: React.FC = () => {
             <section className="issue-section">
               <h2 className="issue-section-title">Summary</h2>
               <p>
-                There are two story arcs in this issue. The main arc follows <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> as he escapes the dungeon below the Cobra Consulate and fights his way up through the building to confront the <Link to="/character-bios/Baroness">Baroness</Link>. The secondary arc follows <Link to="/character-bios/Billy">Billy</Link> and Raptor's exhumation of Cobra Commander's grave.
+                There are two story arcs in this issue. The main arc follows <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> as he escapes the dungeon below the Cobra Consulate and fights his way up through the building to confront the <Link to="/character-bios/Baroness">Baroness</Link>. The secondary arc follows <Link to="/character-bios/Billy">Billy</Link> and Raptor's exhumation of <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s grave.
               </p>
             </section>
           </div>
@@ -132,7 +132,7 @@ const Issue95: React.FC = () => {
         <section className="issue-section">
           <h3 className="issue-section-title">Somewhere in Front of the Rockies Outside Denver</h3>
           <p>
-            <Link to="/character-bios/Billy">Billy</Link> and Raptor are about to begin exhuming Cobra Commander's remains when a red car pulls up. <Link to="/character-bios/Tyrone">Tyrone</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> (secretly <Link to="/character-bios/Zartan">Zartan</Link> in disguise) step out. The <Link to="/character-bios/BlindMaster">Blind Master</Link> strikes Raptor, calling him trash for desecrating <Link to="/character-bios/Billy">Billy</Link>'s father's grave, and warns <Link to="/character-bios/Billy">Billy</Link> about the endless cycle of vengeance. <Link to="/character-bios/Billy">Billy</Link> replies that the target of his revenge is the current Cobra Commander — and that killing him would do the world a favor.
+            <Link to="/character-bios/Billy">Billy</Link> and Raptor are about to begin exhuming <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s remains when a red car pulls up. <Link to="/character-bios/Tyrone">Tyrone</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> (secretly <Link to="/character-bios/Zartan">Zartan</Link> in disguise) step out. The <Link to="/character-bios/BlindMaster">Blind Master</Link> strikes Raptor, calling him trash for desecrating <Link to="/character-bios/Billy">Billy</Link>'s father's grave, and warns <Link to="/character-bios/Billy">Billy</Link> about the endless cycle of vengeance. <Link to="/character-bios/Billy">Billy</Link> replies that the target of his revenge is the current <Link to="/character-bios/CobraCommander">Cobra Commander</Link> — and that killing him would do the world a favor.
           </p>
         </section>
 

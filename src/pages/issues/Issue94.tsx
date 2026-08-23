@@ -85,7 +85,7 @@ const Issue94: React.FC = () => {
         <section className="issue-section">
           <h2 className="issue-section-title">Detailed Summary</h2>
           <p>
-            There are two plots in this issue. The main story deals with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> at the Bern Institute in Switzerland. The secondary takes place in Oakland, California, and involves Raptor divulging that he knows where <Link to="/character-bios/Billy">Billy</Link>'s father (the original Cobra Commander) is buried, and who killed him.
+            There are two plots in this issue. The main story deals with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> at the Bern Institute in Switzerland. The secondary takes place in Oakland, California, and involves Raptor divulging that he knows where <Link to="/character-bios/Billy">Billy</Link>'s father (the original <Link to="/character-bios/CobraCommander">Cobra Commander</Link>) is buried, and who killed him.
           </p>
         </section>
 

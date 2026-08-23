@@ -148,7 +148,7 @@ const Wade: React.FC = () => {
             To keep <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death a secret from Cobra, <Link to="/character-bios/Hawk">Hawk</Link> asks <Link to="/character-bios/SeanCollins">Sean</Link> to become <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, maintaining the illusion that he's still alive. To keep up appearances, a funeral is held for <Link to="/character-bios/SeanCollins">Sean</Link>, with no one outside G.I. Joe aware that he's actually alive. A funeral with full military honors is held for the family at Arlington National Cemetery, and a coffin is laid to rest. Wade questions his son's death, noting that the security at the funeral was far too lax — he suspects the whole thing is a sham.
           </p>
           <p>
-            Wanting to punish the Collins family, Cobra Commander has <Link to="/character-bios/Firefly">Firefly</Link> plant explosives that detonate their house (Issue #215). Fortunately, Wade's instincts and knowledge of Cobra pay off — he hides his family in the basement, saving them from the blast. The basement conceals a secret escape tunnel leading to the garden shed, where cash, new passports, and other essentials are stashed away (Issue #216).
+            Wanting to punish the Collins family, <Link to="/character-bios/CobraCommander">Cobra Commander</Link> has <Link to="/character-bios/Firefly">Firefly</Link> plant explosives that detonate their house (Issue #215). Fortunately, Wade's instincts and knowledge of Cobra pay off — he hides his family in the basement, saving them from the blast. The basement conceals a secret escape tunnel leading to the garden shed, where cash, new passports, and other essentials are stashed away (Issue #216).
           </p>
         </section>
 
@@ -209,10 +209,10 @@ const Wade: React.FC = () => {
             Wade meets up with <Link to="/character-bios/StormShadow">Storm Shadow</Link> in the jungles outside the Casino. They're later joined by <Link to="/character-bios/SeanCollins">Sean</Link> and Laura 343, a Siegie who switched sides and rescued him. The four come under attack from Vipers, and Wade is wounded. He tells a reluctant <Link to="/character-bios/SeanCollins">Sean</Link> to leave him behind, insisting he get Laura off the island — she'd sacrificed everything to save him. <Link to="/character-bios/SeanCollins">Sean</Link> and Laura depart, while <Link to="/character-bios/StormShadow">Storm Shadow</Link> stays behind with Wade.
           </p>
           <p>
-            Wade and <Link to="/character-bios/StormShadow">Storm Shadow</Link> are hit by another wave of Vipers.  <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Stalker">Stalker</Link> arrive and join the battle. The W.H.A.L.E. soon follows, carrying <Link to="/character-bios/SeanCollins">Sean</Link>, Laura, Dawn (who managed to escape on her own), and a prisoner, Cobra Commander. The W.H.A.L.E.'s firepower turns the tide of battle, forcing the Vipers to retreat, and <Link to="/character-bios/SeanCollins">Sean</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> board the craft.
+            Wade and <Link to="/character-bios/StormShadow">Storm Shadow</Link> are hit by another wave of Vipers.  <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Stalker">Stalker</Link> arrive and join the battle. The W.H.A.L.E. soon follows, carrying <Link to="/character-bios/SeanCollins">Sean</Link>, Laura, Dawn (who managed to escape on her own), and a prisoner, <Link to="/character-bios/CobraCommander">Cobra Commander</Link>. The W.H.A.L.E.'s firepower turns the tide of battle, forcing the Vipers to retreat, and <Link to="/character-bios/SeanCollins">Sean</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> board the craft.
           </p>
           <p>
-            The W.H.A.L.E. makes its way to Dr. Mindbender's lab through a hidden loading bay, where the group meets up with the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, cloned in the lab. As Serpentor Khan triggers the countdown for the mutant virus bomb, the W.H.A.L.E. departs, carrying the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Cobra Commander as a prisoner (Issue #300).
+            The W.H.A.L.E. makes its way to Dr. Mindbender's lab through a hidden loading bay, where the group meets up with the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, cloned in the lab. As Serpentor Khan triggers the countdown for the mutant virus bomb, the W.H.A.L.E. departs, carrying the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/CobraCommander">Cobra Commander</Link> as a prisoner (Issue #300).
           </p>
         </section>
 
@@ -220,7 +220,7 @@ const Wade: React.FC = () => {
           <h2 className="profile-block-title">Wade Collins' Death</h2>
           <img src={wade15} alt="Wade Collins' death" className="profile-block-img" />
           <p>
-            Wade and Laura are in the W.H.A.L.E.'s cargo hold guarding the captured Cobra Commander when he strikes Laura, seizes her pistol, and shoots Wade, killing him. Cobra Commander then makes his escape on the jet sled (Issue #301).
+            Wade and Laura are in the W.H.A.L.E.'s cargo hold guarding the captured <Link to="/character-bios/CobraCommander">Cobra Commander</Link> when he strikes Laura, seizes her pistol, and shoots Wade, killing him. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> then makes his escape on the jet sled (Issue #301).
           </p>
           <p>
             Wade is buried with full honors at Arlington National Cemetery, the Joes serving as his honor guard. <Link to="/character-bios/Hawk">Hawk</Link> presents the folded American flag to Mrs. Collins (Issue #302).

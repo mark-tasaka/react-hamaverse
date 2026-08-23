@@ -53,7 +53,7 @@ const Shooter: React.FC = () => {
           <h2 className="profile-block-title">Operation Lady Doomsday</h2>
           <img src={shooter3} alt="Shooter during Operation Lady Doomsday" className="profile-block-img" />
           <p>
-            During Operation Lady Doomsday, Shooter operates independently as a sniper on a Cobra-controlled island, providing cover fire for the Joes. As the team departs in a captured Cobra transport helicopter, she turns her sights on Cobra's anti-air guns — and discovers Cobra has been forcing the island's civilian population to serve as ammo bearers. Cobra Commander has set a five-minute timer to destroy the castle.
+            During Operation Lady Doomsday, Shooter operates independently as a sniper on a Cobra-controlled island, providing cover fire for the Joes. As the team departs in a captured Cobra transport helicopter, she turns her sights on Cobra's anti-air guns — and discovers Cobra has been forcing the island's civilian population to serve as ammo bearers. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> has set a five-minute timer to destroy the castle.
           </p>
           <p>
             Knowing the civilian ammo bearers will die in the coming explosion if she doesn't intervene, Shooter abandons her sniper position and rushes the anti-air guns, drawing small-arms fire from Cobra troopers. Her action lets the civilians escape and keeps the anti-airguns from firing on the departing Joes. She is kiiled by small arms gunfire, sacrificing herself for both the civilians and her team. The ammo bearers make it out before the castle explodes (G.I. Joe Declassified #3).

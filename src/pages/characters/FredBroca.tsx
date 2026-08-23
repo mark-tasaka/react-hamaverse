@@ -55,7 +55,7 @@ const FredBroca: React.FC = () => {
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <img src={fred4} alt="Notes on the Freds' faces" className="profile-block-img" />
           <p>
-            G.I. Joe: Declassified #1 reveals that Fred Broca underwent plastic surgery to match the faces of the others in the Fred series — raising the question of whose face are Freds actually modeled after. In Issue #98, Cobra Commander's partially shown face appears as a Fred surgeon operates to remove the bullet.  Cobra Commander's face bears a striking resemblance to the Freds' own faces. Could the Freds' faces have been modeled on Cobra Commander's face?
+            G.I. Joe: Declassified #1 reveals that Fred Broca underwent plastic surgery to match the faces of the others in the Fred series — raising the question of whose face are Freds actually modeled after. In Issue #98, <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s partially shown face appears as a Fred surgeon operates to remove the bullet.  <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s face bears a striking resemblance to the Freds' own faces. Could the Freds' faces have been modeled on <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s face?
           </p>
         </section>
 

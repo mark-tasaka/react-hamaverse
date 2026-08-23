@@ -59,7 +59,7 @@ const Scarlett: React.FC = () => {
           <h2 className="profile-block-title">First Encounter with Storm Shadow</h2>
           <img src={scarlett4} alt="Scarlett's first encounter with Storm Shadow" className="profile-block-img" />
           <p>
-            While making her yearly qualifying jump, Scarlett is captured by <Link to="/character-bios/StormShadow">Storm Shadow</Link>, who is operating a Cobra C.L.A.W. (Covert Light Aerial Weapon) (Issue #22). <Link to="/character-bios/StormShadow">Storm Shadow</Link> flies her to Cobra's Silent Castle, where she is presented to Cobra Commander. He then takes Scarlett to a dungeon, chaining her wrists to an anchor set into the ground. The only access to the dungeon is a manhole above.
+            While making her yearly qualifying jump, Scarlett is captured by <Link to="/character-bios/StormShadow">Storm Shadow</Link>, who is operating a Cobra C.L.A.W. (Covert Light Aerial Weapon) (Issue #22). <Link to="/character-bios/StormShadow">Storm Shadow</Link> flies her to Cobra's Silent Castle, where she is presented to <Link to="/character-bios/CobraCommander">Cobra Commander</Link>. He then takes Scarlett to a dungeon, chaining her wrists to an anchor set into the ground. The only access to the dungeon is a manhole above.
           </p>
           <p>
             While this is happening, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes a HALO jump from a C-130, landing atop the castle. Using her hairpin, Scarlett unlocks the chains. When <Link to="/character-bios/StormShadow">Storm Shadow</Link> opens the manhole cover, Scarlett lassos the chain around him and pulls him down into the dungeon, then escapes through the opening herself.
