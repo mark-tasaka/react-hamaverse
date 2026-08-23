@@ -31,7 +31,7 @@ const Firefly: React.FC = () => {
           <p>
             Witnessing <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' skill firsthand, Firefly realizes he's no match for him, and instead recommends an outside contractor to assissinate <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.  This outside contractor Cobra Commander recruits is <Link to="/character-bios/Zartan">Zartan</Link>. Firefly supplies <Link to="/character-bios/Zartan">Zartan</Link> with the sound-amplifying compound bow that kills the <Link to="/character-bios/HardMaster">Hard Master</Link>, and later pilots the helicopter that carries <Link to="/character-bios/Zartan">Zartan</Link> away (Issue #126).
           </p>
-          <p>
+          <p className="italics">
             In the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s family photo of the Arashikage clan, Firefly appears as <Link to="/character-bios/Onihashi">Onihashi</Link>'s assistant. Kneeling in the front row are <Link to="/character-bios/StormShadow">Storm Shadow</Link>, the <Link to="/character-bios/HardMaster">Hard Master</Link>, the <Link to="/character-bios/SoftMaster">Soft Master</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>; standing behind them are the <Link to="/character-bios/BlindMaster">Blind Master</Link>, an eight-year-old <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/Onihashi">Professor Onihashi</Link>, and Firefly. <Link to="/character-bios/Jinx">Jinx</Link> describes Firefly in the photo only as "the blurred fellow," a practitioner of the now-extinct Koga clan (Issue #62).
           </p>
         </section>

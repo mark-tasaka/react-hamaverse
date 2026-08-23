@@ -35,6 +35,7 @@ import Baroness from './pages/characters/Baroness'
 import RockRoll from './pages/characters/RockRoll'
 import Mosiev from './pages/characters/Mosiev'
 import Firefly from './pages/characters/Firefly'
+import CobraCommander from './pages/characters/CobraCommander'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -89,6 +90,7 @@ function App() {
           <Route path="/character-bios/RockRoll" element={<RockRoll />} />
           <Route path="/character-bios/Mosiev" element={<Mosiev />} />
           <Route path="/character-bios/Firefly" element={<Firefly />} />
+          <Route path="/character-bios/CobraCommander" element={<CobraCommander />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

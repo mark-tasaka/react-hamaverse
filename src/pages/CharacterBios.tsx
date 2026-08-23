@@ -33,6 +33,7 @@ import BaronessImg from './img/portraits/Baroness.jpg';
 import RockRollImg from './img/portraits/RockRoll.jpg';
 import MosievImg from './img/portraits/Mosiev.jpg';
 import FireflyImg from './img/portraits/Firefly.jpg';
+import CobraCommanderImg from './img/portraits/cobraCommander.jpg';
 
 
 interface Introduced {
@@ -533,6 +534,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 24',
       year: '1984',
       month: 'June',
+    },
+  },
+  {
+    name: 'Cobra Commander',
+    img: CobraCommanderImg,
+    link: '/character-bios/CobraCommander',
+    rank: 90,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   },
 ];
