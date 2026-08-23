@@ -47,7 +47,7 @@ const PalePeony: React.FC = () => {
           <h2 className="profile-block-title">Pale Peony's Training in the Arashikage Clan</h2>
           <img src={palePeony2} alt="Pale Peony's training in the Arashikage clan" className="profile-block-img" />
           <p>
-            <Link to="/character-bios/StormShadow">Storm Shadow</Link> sees something in Pale Peony — that she will one day bring credit to the Arashikage clan. He makes a request to his aunt, Obake Obasan ("Demon Granny"), the late <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and the clan's current head. While Obake Obasan recognizes great talent in Pale Peony, she is concerned with her loose ethical core and complex worldview (Issue #183).
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> sees something in Pale Peony — that she will one day bring credit to the Arashikage clan. He makes a request to his aunt, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> ("Demon Granny"), the late <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and the clan's current head. While <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> recognizes great talent in Pale Peony, she is concerned with her loose ethical core and complex worldview (Issue #183).
           </p>
         </section>
 
@@ -92,7 +92,7 @@ const PalePeony: React.FC = () => {
             Pale Peony arrives at an amusement park in the Asakusa district of Tokyo with a special coupon for the "scariest ride in all of Japan." The coupon specifies a particular date and time. The ticket taker leads her to a special car. Shortly after, the ticket taker brings <Link to="/character-bios/Jinx">Jinx</Link> to share the same car — both women are startled to see each other, each having received an identical coupon.
           </p>
           <p>
-            Midway through the ride, Obake Obaasan (Demon Granny) appears between them. She tells the two women that leadership of the clan must be passed to a new generation, and that each of them has a trial to prove herself. For security, she says, she cannot contact them again until one of them either succeeds or perishes. Obake Obaasan vanishes, and the ride comes to an end (Issue #192).
+            Midway through the ride, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> (Demon Granny) appears between them. She tells the two women that leadership of the clan must be passed to a new generation, and that each of them has a trial to prove herself. For security, she says, she cannot contact them again until one of them either succeeds or perishes. <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> vanishes, and the ride comes to an end (Issue #192).
           </p>
         </section>
 
@@ -139,7 +139,7 @@ const PalePeony: React.FC = () => {
           <h2 className="profile-block-title">Returning Pale Peony's Ashes to Japan</h2>
           <img src={palePeony9} alt="Pale Peony's ashes returned to Japan" className="profile-block-img" />
           <p>
-            <Link to="/character-bios/StormShadow">Storm Shadow</Link> infiltrates the Pit and takes the box holding Pale Peony's ashes, telling the Joes that Obake Obaasan (Demon Granny) will take care of them (Issue #208). <Link to="/character-bios/StormShadow">Storm Shadow</Link> travels to Japan and delivers the ashes to Obake Obaasan, where they're placed in the room of remembrance, alongside the photos of the fallen Arashikage (Issue #209).
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> infiltrates the Pit and takes the box holding Pale Peony's ashes, telling the Joes that <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> (Demon Granny) will take care of them (Issue #208). <Link to="/character-bios/StormShadow">Storm Shadow</Link> travels to Japan and delivers the ashes to <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>, where they're placed in the room of remembrance, alongside the photos of the fallen Arashikage (Issue #209).
           </p>
         </section>
 

@@ -129,7 +129,7 @@ const Jinx: React.FC = () => {
             Jinx arrives at an amusement park in the Asakusa district of Tokyo with a special coupon for the "scariest ride in all of Japan." The coupon specifies a particular date and time. The ticket taker leads her to a special car, where she finds <Link to="/character-bios/PalePeony">Pale Peony</Link> already seated — both women are startled to see each other, each having received an identical coupon.
           </p>
           <p>
-            Midway through the ride, Obake Obaasan (Demon Granny) appears between them. She tells the two women that leadership of the clan must be passed to a new generation, and that each of them has a trial to prove herself. For security, she says, she cannot contact them again until one of them either succeeds or perishes. Obake Obaasan vanishes, and the ride comes to an end (Issue #192).
+            Midway through the ride, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> (Demon Granny) appears between them. She tells the two women that leadership of the clan must be passed to a new generation, and that each of them has a trial to prove herself. For security, she says, she cannot contact them again until one of them either succeeds or perishes. <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> vanishes, and the ride comes to an end (Issue #192).
           </p>
         </section>
 
@@ -171,7 +171,7 @@ const Jinx: React.FC = () => {
             On the bridge, Roadblock and McCarthy are engaged with the truck's driver — another Revanche cyborg. Jinx, <Link to="/character-bios/PalePeony">Pale Peony</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> join the fight.  <Link to="/character-bios/PalePeony">Pale Peony</Link> attacks the cyborg inside the truck's cab.   The cyborg self-destructs, vaporizing <Link to="/character-bios/PalePeony">Pale Peony</Link> and reducing her to ash. Shocked, Jinx stares at what remains of her friend as Roadblock tries to comfort her. She tells Roadblock the cyborg had called itself 921, which translates to Ku-no-Ichi in Japanese, the term for a female ninja (Issue #207).
           </p>
           <p>
-            Jinx joins <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, Roadblock, and McCarthy to exact revenge on Revanche. Storming the headquarters, they battle 921 and discover that a human body inside a stasis chamber is what's actually controlling the cyborg. Roadblock destroys the chamber, killing 921 for good. They return to the Pit with <Link to="/character-bios/PalePeony">Pale Peony</Link>'s ashes.  <Link to="/character-bios/StormShadow">Storm Shadow</Link> infiltrates the base and tells them he's taking her ashes to Obake Obaasan (Issue #208).
+            Jinx joins <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, Roadblock, and McCarthy to exact revenge on Revanche. Storming the headquarters, they battle 921 and discover that a human body inside a stasis chamber is what's actually controlling the cyborg. Roadblock destroys the chamber, killing 921 for good. They return to the Pit with <Link to="/character-bios/PalePeony">Pale Peony</Link>'s ashes.  <Link to="/character-bios/StormShadow">Storm Shadow</Link> infiltrates the base and tells them he's taking her ashes to <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> (Issue #208).
           </p>
         </section>
 
