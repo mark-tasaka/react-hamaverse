@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import clutch1 from './img/clutch/clutch_1.png';
+import clutch2 from './img/clutch/clutch_2.png';
 
 const Clutch: React.FC = () => {
   return (
@@ -27,6 +28,20 @@ const Clutch: React.FC = () => {
           </p>
           <p>
             While driving, a van carrying three occupants pulls alongside Clutch. The van's back door opens, revealing a thug armed with a .50-cal machine gun. Clutch speeds up and drives alongside the van's passenger side; one of its occupants draws a gun. Clutch rams his Tahoe into the side of the van and elbows the gunman in the face, breaking his nose. He forces the van into the freeway divider, sending it up in flames. Clutch delivers his passenger to Fort Holabird.  No one at Fort Holabird bats an eye when the Tahoe came back damaged (G.I. Joe Declassified #2).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Unabashed Skirt Chaser</h2>
+          <img src={clutch2} alt="Clutch flirting with his female teammates" className="profile-block-img" />
+          <p>
+            In the team's early days, Clutch is an unabashed skirt chaser, hitting on the team's female members — <Link to="/character-bios/Scarlett">Scarlett</Link> and Cover Girl. For instance, Cover Girl and Clutch are monitoring the <Link to="/character-bios/Baroness">Baroness</Link> and Major Bludd in the Swiss Alps, dressed in civilian attire and parked in a sports car. Cover Girl tells Clutch, who's driving, that if they stay too close they're sure to be spotted. Clutch suggests they pull over in a dark, secluded alley and "pretend" to make out. Cover Girl replies, "Nice try. Let's take our chances in the open" (Issue #23).
+          </p>
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> and Cover Girl keep sharp comebacks ready for Clutch, often anticipating what he is going to say before he opens his mouth. For instance, Clutch tells <Link to="/character-bios/Scarlett">Scarlett</Link> he hasn't been the same since she returned with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from who knows where (the  <Link to="/comic-issues/Issue21">Silent Castle</Link>). Anticipating his next remark, <Link to="/character-bios/Scarlett">Scarlett</Link> tells him that absence makes the heart grow fonder. Clutch is surprised and hopeful at her remark — until <Link to="/character-bios/Scarlett">Scarlett</Link> adds, "In your case, I grew fond of your absence" (Issue #22).
+          </p>
+          <p>
+            By the time Lady Jay joins the team, Clutch's pursuit of his female teammates has mellowed.
           </p>
         </section>
 
