@@ -66,16 +66,16 @@ const PalePeony: React.FC = () => {
           <h2 className="profile-block-title">Former Emirate of Benzheen</h2>
           <img src={palePeony4} alt="Pale Peony in the Former Emirate of Benzheen" className="profile-block-img" />
           <p>
-            After fleeing Comic-Con, Pale Peony is captured by a Blue Ninja cyborg and held inside a container while it interrogates her about the whereabouts of a flash drive containing Krythorn. She insists she doesn't know. Zarana and Road Pig arrive, destroy the cyborg, and free Pale Peony — revealing that is working with them (Issue #181).
+            After fleeing Comic-Con, Pale Peony is captured by a Blue Ninja cyborg and held inside a container while it interrogates her about the whereabouts of a flash drive containing Krythorn. She insists she doesn't know. <Link to="/character-bios/Zarana">Zarana</Link> and Road Pig arrive, destroy the cyborg, and free Pale Peony — revealing they are working together (Issue #181).
           </p>
           <p>
-            Back at their safe house, Zarana and Road Pig tie Pale Peony upside down, explaining that they were using her as a buffer. Pale Peony breaks free of her bindings and kicks both of them, then demands to cut a new deal with them.
+            Back at their safe house, <Link to="/character-bios/Zarana">Zarana</Link> and Road Pig tie Pale Peony upside down, explaining that they were using her as a buffer. Pale Peony breaks free of her bindings and kicks both of them, then demands to cut a new deal with them.
           </p>
           <p>
             Later, over drinks, the three discuss their plan to take over Darklon's operations — which Pale Peony describes not as a hostile takeover, but a stealth merger (Issue #182). <Link to="/character-bios/Zartan">Zartan</Link> later joins the trio, and all four travel to the former Emirate of Benzheen (Issue #183).
           </p>
           <p>
-            Tunnel Rat, Dusty, and Air Tight are operating in Benzheen. Tunnel Rat is captured by the newly formed crew — Pale Peony, <Link to="/character-bios/Zartan">Zartan</Link>, Zarana, and Road Pig - while Dusty and Air Tight are captured separately by the local authorities (Issue #184) and sent to a prison outside the city (Issue #185). Pale Peony quietly whispers to Tunnel Rat that she's on his side.
+            Tunnel Rat, Dusty, and Air Tight are operating in Benzheen. Tunnel Rat is captured by the newly formed crew — Pale Peony, <Link to="/character-bios/Zartan">Zartan</Link>, <Link to="/character-bios/Zarana">Zarana</Link>, and Road Pig - while Dusty and Air Tight are captured separately by the local authorities (Issue #184) and sent to a prison outside the city (Issue #185). Pale Peony quietly whispers to Tunnel Rat that she's on his side.
           </p>
           <p>
             Darklon and Colonel Faroud, the prospective buyer of the Krythorn device, arrive at the prison, where the Colonel takes Darklon down to the basement to test it. Darklon is shocked to see how little the Colonel cares for the guards and scientists who will die in the resulting explosion.

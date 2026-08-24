@@ -16,7 +16,7 @@ const Zarana: React.FC = () => {
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Cheapness on Display at Her First Meeting with the Boys</h2>
+          <h2 className="profile-block-title">A Buck-Fifty a Bottle</h2>
           <img src={zarana1} alt="Zarana's first meeting with the Dreadnoks" className="profile-block-img" />
           <p>
             When the Dreadnoks flee Springfield and arrive at their New Jersey swampland safehouse, they find Zarana waiting for them there. It's the first time the Dreadnoks — Buzzer, Ripper, and Torch — have met her. As they enter the safehouse, Zarana tells them there is a six-pack of grape soda on the desk, priced at a buck-fifty per bottle, and that she's putting it on their tab — with interest.
@@ -29,7 +29,7 @@ const Zarana: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), only a single version of Zarana's action figure was produced: the 1986 version.
+            During the Marvel run (1982–1994), only a single version of Zarana's action figure was produced: the <a href="https://www.yojoe.com/action/86/zarana.shtml" target="_blank" rel="noopener noreferrer">1986 figure</a>.
           </p>
         </section>
 
