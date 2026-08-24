@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import rockRoll1 from './img/rockRoll/rockRoll_1.png';
 import rockRoll2 from './img/rockRoll/rockRoll_2.png';
+import rockRoll3 from './img/rockRoll/rockRoll_3.png';
 
 const RockRoll: React.FC = () => {
   return (
@@ -39,6 +40,26 @@ const RockRoll: React.FC = () => {
           </p>
           <p>
             The helicopter crashes. <Link to="/character-bios/Grunt">Grunt</Link> and Rock 'n Roll rush to the burning wreckage and find a badly burned <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> carrying an unconscious <Link to="/character-bios/Scarlett">Scarlett</Link> in his arms (Issue #27).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Breakout at Dulles Airport</h2>
+          <img src={rockRoll3} alt="Rock 'n Roll's breakout at Dulles Airport" className="profile-block-img" />
+          <p>
+            In the aftermath of the Joes' participation in the Cobra Civil War on Cobra Island, the team is relieved from active duty and placed under arrest pending investigation. Roadblock accompanies Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth to the Pentagon when they're taken into custody, but manages to escape, making his way to Dr. Adele Burkhart's home in the Georgetown section of Washington, D.C. (Issue #77).
+          </p>
+          <p>
+            Rock 'n Roll meets up with <Link to="/character-bios/Grunt">Grunt</Link> (now a civilian) and his girlfriend <Link to="/character-bios/Lola">Lola</Link> (a former service member) at Dr. Burkhart's home. He's tasked with picking up <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> at Dulles Airport (<Link to="/character-bios/Jinx">Jinx</Link> has intelligence where Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held). Rock 'n Roll repaints an Army military police car with yellow water-based paint and adds red flames over top.  The car stands out like a sore thumb.
+          </p>
+          <p>
+            When Rock 'n Roll pulls up to the front of the airport, he finds <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> in cuffs, surrounded by Domestic Operations Agency (DOA) goons. Rock 'n Roll calls out to the trio, who use their ninja training to free themselves and knock out the DOA thugs before piling into the car. The car speeds off, DOA vehicles in pursuit.
+          </p>
+          <p>
+            Rock 'n Roll drives through a car wash, donning a military police helmet and shirt along the way — the paint washing clean off the car as it exits. He slaps a police siren onto the roof, and the military in area assumes he's another MP, letting him continue on to his destination.
+          </p>
+          <p>
+            At Dr. Burkhart's home, <Link to="/character-bios/Jinx">Jinx</Link> informs the group that <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held at St. Lo's infirmary in rural Virginia. Shortly after, Cover Girl, Dusty, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and Zap arrive in a telephone truck. Dr. Burkhart and <Link to="/character-bios/Lola">Lola</Link> join the Joes on the hospital raid. Film crews are on scene as the Joes carry out their raid, and Destro arrives to present receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
           </p>
         </section>
 
