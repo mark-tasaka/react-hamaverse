@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import zarana1 from './img/zarana/zarana_1.png';
+import zarana2 from './img/zarana/zarana_2.png';
 
 const Zarana: React.FC = () => {
   return (
@@ -26,6 +27,15 @@ const Zarana: React.FC = () => {
           </p>
         </section>
 
+        <section className="profile-block">
+          <h2 className="profile-block-title">Road Pig/Donald's Undying Love</h2>
+          <img src={zarana2} alt="Road Pig's devotion to Zarana" className="profile-block-img" />
+          <p>
+            A man of almost superhuman strength, Road Pig carries two distinct personalities within him. One is Road Pig himself — simple and easily amused. The other is Donald, sharp and calculating. Both personalities are utterly devoted to Zarana, existing only to serve her every wish without hesitation or question. Zarana, for her part, adores the Road Pig personality; Donald, she merely tolerates.
+          </p>
+        </section>
+
+        
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
