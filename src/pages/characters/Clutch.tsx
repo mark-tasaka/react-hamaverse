@@ -42,7 +42,7 @@ const Clutch: React.FC = () => {
             <Link to="/character-bios/Scarlett">Scarlett</Link> and Cover Girl keep sharp comebacks ready for Clutch, often anticipating what he is going to say before he opens his mouth. For instance, Clutch tells <Link to="/character-bios/Scarlett">Scarlett</Link> he hasn't been the same since she returned with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from who knows where (the  <Link to="/comic-issues/Issue21">Silent Castle</Link>). Anticipating his next remark, <Link to="/character-bios/Scarlett">Scarlett</Link> tells him that absence makes the heart grow fonder. Clutch is surprised and hopeful at her remark — until <Link to="/character-bios/Scarlett">Scarlett</Link> adds, "In your case, I grew fond of your absence" (Issue #22).
           </p>
           <p>
-            By the time Lady Jay joins the team, Clutch's pursuit of his female teammates has mellowed.
+            By the time <Link to="/character-bios/LadyJay">Lady Jay</Link> joins the team, Clutch's pursuit of his female teammates has mellowed.
           </p>
         </section>
                 <section className="profile-block">

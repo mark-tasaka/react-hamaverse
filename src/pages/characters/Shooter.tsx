@@ -75,10 +75,10 @@ const Shooter: React.FC = () => {
           <h2 className="profile-block-title">Posthumously Awarded the Silver Star and Second Purple Heart</h2>
           <img src={shooter5} alt="Shooter's posthumous Silver Star and Purple Heart" className="profile-block-img" />
           <p>
-            Years later, certain details of Operation Lady Doomsday are declassified. Lady Jay and Cover Girl travel to St. Ewan Church to visit Jodie's mother, presenting her with the Silver Star and Purple Heart Jodie was posthumously awarded for that mission. Mrs. Craig asks, "They give out medals for killing the enemy, don't they? Did my Jodie kill people?"
+            Years later, certain details of Operation Lady Doomsday are declassified. <Link to="/character-bios/LadyJay">Lady Jay</Link> and Cover Girl travel to St. Ewan Church to visit Jodie's mother, presenting her with the Silver Star and Purple Heart Jodie was posthumously awarded for that mission. Mrs. Craig asks, "They give out medals for killing the enemy, don't they? Did my Jodie kill people?"
           </p>
           <p>
-            Lady Jay tells her that Jodie performed her duties with exceptional valor, and that the mission's success hinged on her actions.
+            <Link to="/character-bios/LadyJay">Lady Jay</Link> tells her that Jodie performed her duties with exceptional valor, and that the mission's success hinged on her actions.
           </p>
           <p>
             Cover Girl quotes John 15:13, telling her, "She gave her life to save the twelve of her comrades." In tears, Mrs. Craig says, "It's such a costly gift..." Cover Girl embraces her, offering what comfort she can (Issue #228).
