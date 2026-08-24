@@ -19,7 +19,7 @@ const Zarana: React.FC = () => {
           <h2 className="profile-block-title">A Buck-Fifty a Bottle</h2>
           <img src={zarana1} alt="Zarana's first meeting with the Dreadnoks" className="profile-block-img" />
           <p>
-            When the Dreadnoks flee Springfield and arrive at their New Jersey swampland safehouse, they find Zarana waiting for them there. It's the first time the Dreadnoks — Buzzer, Ripper, and Torch — have met her. As they enter the safehouse, Zarana tells them there is a six-pack of grape soda on the desk, priced at a buck-fifty per bottle, and that she's putting it on their tab — with interest.
+            When the Dreadnoks flee Springfield and arrive at their New Jersey swampland safehouse, they find Zarana waiting for them there. It's the first time the Dreadnoks — Buzzer, Ripper, and Torch — have met her. As they enter the safehouse, Zarana tells them there is a six-pack of grape soda on the desk, priced at a buck-fifty per bottle, and she is putting it on their tab — with interest.
           </p>
           <p>
             Buzzer remarks, "When <Link to="/character-bios/Zartan">Zartan</Link> said his sister was cheap, I thought he was talking about something else altogether" (Issue #50).

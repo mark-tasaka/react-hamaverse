@@ -134,7 +134,7 @@ const StormShadow: React.FC = () => {
             Storm Shadow infiltrates the Pit and finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. He tells his sword brother that while his body has healed, his spirit has not, and asks him for a safe place to restore his health and his soul — scarred, as it is, by revenge. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives Storm Shadow the keys to his cabin in the High Sierras, and Storm Shadow departs.
           </p>
           <p>
-            A week later, Storm Shadow reaches the cabin, much of it destroyed from an earlier conflict involving <Link to="/character-bios/FredBroca">Fred Broca</Link>, Destro, and <Link to="/character-bios/Firefly">Firefly</Link>. He finds the trap door leading to the underground bunker, where Timber appears. The two bond, and Storm Shadow begins his process of healing (Issue #52).
+            A week later, Storm Shadow reaches the cabin, much of it destroyed from an earlier conflict involving <Link to="/character-bios/FredBroca">Fred Broca</Link>, Destro, and <Link to="/character-bios/Firefly">Firefly</Link>. He finds the trap door leading to the underground bunker, when Timber appears. The two bond, and Storm Shadow begins his process of healing (Issue #52).
           </p>
         </section>
 

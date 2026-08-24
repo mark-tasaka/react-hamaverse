@@ -12,7 +12,7 @@ const Firefly: React.FC = () => {
         <h1 className="character-profile-title">Firefly</h1>
 
         <blockquote className="profile-quote">
-          <p>"Even <Link to="/character-bios/CobraCommander">Cobra Commander</Link> doesn't know much about Firefly. His fees are paid into a numbered Swiss bank account and are always payable in advance. He makes no guarantees and gives no refunds."*</p>
+          <p>"Even Cobra Commander doesn't know much about Firefly. His fees are paid into a numbered Swiss bank account and are always payable in advance. He makes no guarantees and gives no refunds."*</p>
         </blockquote>
 
         <p className="profile-intro">
