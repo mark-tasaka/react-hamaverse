@@ -37,6 +37,7 @@ import Mosiev from './pages/characters/Mosiev'
 import Firefly from './pages/characters/Firefly'
 import CobraCommander from './pages/characters/CobraCommander'
 import ObakeObaasan from './pages/characters/ObakeObaasan'
+import Zarana from './pages/characters/Zarana'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -93,6 +94,7 @@ function App() {
           <Route path="/character-bios/Firefly" element={<Firefly />} />
           <Route path="/character-bios/CobraCommander" element={<CobraCommander />} />
           <Route path="/character-bios/ObakeObaasan" element={<ObakeObaasan />} />
+          <Route path="/character-bios/Zarana" element={<Zarana />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

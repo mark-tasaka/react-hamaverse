@@ -30,7 +30,7 @@ const CobraCommander: React.FC = () => {
           <h2 className="profile-block-title">His Brother's Death</h2>
           <img src={cobraCommander2} alt="The death of Cobra Commander's brother" className="profile-block-img" />
           <p>
-            Before he became Cobra Commander, he had an older brother, Dan, who extended his tours in Vietnam to prevent him from being sent overseas*. When Dan returned home, he came back a different man, spending long hours driving at high speeds on the interstate as if searching for death to find him. One day, he crashed head-on into a car carrying a family on their way to pick up their son, a returning soldier, from the airport. Everyone was killed. The family of the returning veteran was <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' family: his parents and twin sister.
+            Cobra Commander had an older brother, Dan, who extended his tours in Vietnam to prevent him from being sent overseas*. When Dan returned home, he came back a different man, spending long hours driving at high speeds on the interstate searching for death to find him. One day, he crashed head-on into a car carrying a family on their way to pick up their son, a returning soldier, from the airport. Everyone was killed. The family of the returning veteran was <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' family.
           </p>
           <p>
             Cobra Commander twists the event in his mind, blaming the returning veteran's family for his brother's death. When he learns the veteran — <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — is living with the Arashikage ninja clan in Japan (Issue #84), he first hires the saboteur <Link to="/character-bios/Firefly">Firefly</Link> to engineer his assassination. <Link to="/character-bios/Firefly">Firefly</Link> infiltrates the Arashikage clan but has no interest in carrying out the killing himself, agreeing only to play a supporting role in the mission (Issue #126).
@@ -62,7 +62,7 @@ const CobraCommander: React.FC = () => {
           </p>
           
           <p className="profile-notes-footnote">
-            *It is implied Cobra Commander was a draftee at that time.  The government has a policy of sending only one member of a family to serve in combat at a time.  Thus, by extending his tours, Dan was able to keep his younger brother from being sent to Vietnam.
+            *It is implied Cobra Commander was in the serivice at that time (likely drafted into the military for a two year term of service).  The government has a policy of sending only one member of a family to serve in combat at a time.  Thus, by extending his tours, Dan was able to keep his younger brother from being sent to Vietnam.
           </p>
         </section>
 

@@ -35,6 +35,7 @@ import MosievImg from './img/portraits/Mosiev.jpg';
 import FireflyImg from './img/portraits/Firefly.jpg';
 import CobraCommanderImg from './img/portraits/cobraCommander.jpg';
 import ObakeObaasanImg from './img/portraits/obakeObaasan.jpg';
+import ZaranaImg from './img/portraits/zarana.jpg';
 
 
 interface Introduced {
@@ -435,7 +436,7 @@ const CHARACTERS: Character[] = [
     status: 'Alive',
     introduced: {
       issueNumber: 25,
-      publisher: 'Devils Due',
+      publisher: 'Marvel',
       issueLabel: 'Issue 25',
       year: '1984',
       month: 'July',
@@ -566,6 +567,22 @@ const CHARACTERS: Character[] = [
       publisher: 'Devils Due',
       issueLabel: 'Storm Shadow #3',
       year: '2007',
+      month: 'July',
+    },
+  },
+  {
+    name: 'Zarana',
+    img: ZaranaImg,
+    link: '/character-bios/Zarana',
+    rank: 60,
+    faction: 'Dreadnok',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 49,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 49',
+      year: '1986',
       month: 'July',
     },
   },
