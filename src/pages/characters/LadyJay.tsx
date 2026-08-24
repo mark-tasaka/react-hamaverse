@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import ladyJay1 from './img/ladyJay/ladyJay_1.png';
 import ladyJay2 from './img/ladyJay/ladyJay_2.png';
+import ladyJay3 from './img/ladyJay/ladyJay_3.png';
 
 const LadyJay: React.FC = () => {
   return (
@@ -47,12 +48,36 @@ const LadyJay: React.FC = () => {
           </p>
         </section>
 
+        <section className="profile-block">
+          <h2 className="profile-block-title">Grenada Vacation</h2>
+          <img src={ladyJay3} alt="Lady Jay and Flint's Grenada vacation" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, Quick Kick, and Outback are sent on a covert mission to Borovia (a Communist state) under the guise of trade emissaries. Their cover is blown, and <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are captured, while Outback escapes. For political reasons, the U.S. State Department denies any connection with the captured Joes, and as a result, the Joes are not authorized to launch a rescue mission (Issue #61).
+          </p>
+          <p>
+            Lady Jay, Flint, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> are on vacation in Grenada. At the beach, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> spends his time watching a portable TV, following news of the arrest and trial of the three captured Joes. Flint lectures him that orders are orders and there will be no rescue mission — the three Joes are grown men who knew what they were getting into. <Link to="/character-bios/Scarlett">Scarlett</Link> tells Flint that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Stalker">Stalker</Link> go way back, and that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> needs time to sort this out for himself.
+          </p>
+          <p>
+            Later, the two couples are walking back to their hotel along a dirt road when they encounter an older blind man. He tells them he's on his way to visit his daughter and asks for help reaching the airport before he's late. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> quickly offers his arm, but the blind man insists on taking a shortcut through a field of tall grass. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> guide him through the field, while Lady Jay and Flint continue on down the road.
+          </p>
+          <p>
+            It suddenly dawns on Flint that he's seen this field somewhere before — then he remembers it from a news report about a military operation. Just then, he spots a broken sign buried in the tall grass and clears away the growth to reveal the words "Danger: Mines." Flint shouts, "Snake Eyes! Scarlett! Stop! That field is mined!" — just as a powerful explosion goes off. Lady Jay starts to run toward the blast, but Flint tackles her to the ground, telling her they have no way of knowing how many more mines lie in that field.
+          </p>
+          <p>
+            An Explosive Ordnance Disposal (EOD) team is later brought in to clear the field. There's no sign of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, or the blind man — it appears their bodies were vaporized in the blast (Issue #63).
+          </p>
+          <p>
+            Unbeknownst to Lady Jay and Flint, the blind man is actually the <Link to="/character-bios/BlindMaster">Blind Master</Link>, a friend of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from his days training with the Arashikage clan in Japan. The whole scene was staged by the <Link to="/character-bios/BlindMaster">Blind Master</Link>, allowing <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to fake their deaths and slip away on an unauthorized mission to rescue the three captured Joes in Borovia.
+          </p>
+        </section>
+
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
             During the Marvel run (1982–1994), only a single version of Lady Jay was produced: the <a href="https://www.yojoe.com/action/85/ladyjaye.shtml" target="_blank" rel="noopener noreferrer">1985 figure</a>.
           </p>
         </section>
+                
 
         <div className="profile-back-row">
           <Link to="/character-bios" className="btn">Back to Character Bios</Link>
