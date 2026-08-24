@@ -48,7 +48,7 @@ const RoadPig: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), two versions of Road Pig were produced from a single mold: the original <a href="https://www.yojoe.com/action/88/roadpig.shtml" target="_blank" rel="noopener noreferrer">1988 figure</a> and the <a href="https://www.yojoe.com/action/91/roadpig2.shtml" target="_blank" rel="noopener noreferrer">1991 repaint</a>.
+            During the Marvel run (1982–1994), two versions of Road Pig were produced from a single mold: the original <a href="https://www.yojoe.com/action/88/roadpig.shtml" target="_blank" rel="noopener noreferrer">1988 figure</a> and the <a href="https://www.yojoe.com/action/91/roadpig2.shtml" target="_blank" rel="noopener noreferrer">1991 repaint</a>  During the Marvel run, Mr. Hama wrote Road Pig with two distinct personalities, Donald and Road Pig. In post-Marvel appearances, the character is portrayed with a single personality.
           </p>
           
           <p className="profile-notes-footnote">

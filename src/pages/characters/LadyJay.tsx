@@ -50,7 +50,7 @@ const LadyJay: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), only a single version of Lady Jay was produced: the 1985 version.
+            During the Marvel run (1982–1994), only a single version of Lady Jay was produced: the <a href="https://www.yojoe.com/action/85/ladyjaye.shtml" target="_blank" rel="noopener noreferrer">1985 figure</a>.
           </p>
         </section>
 
