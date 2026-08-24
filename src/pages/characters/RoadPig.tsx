@@ -10,6 +10,10 @@ const RoadPig: React.FC = () => {
     <main className="character-profile-page">
       <div className="container">
         <h1 className="character-profile-title">Road Pig (Donald Deluca)</h1>
+        
+        <blockquote className="profile-quote">
+          <p>“Ugly?  They banned from the football games because he stopped the clock!  His mother had to tie a pork chop around his back so the dog would play with him!  He went to visit the Empire State Building and he got strafed! I’ll tell you, beauty may be skin deep, but ugly goes clean to the bone.”*</p>
+        </blockquote>
 
         <p className="profile-intro">
           The first and only probationary member of the Dreadnoks, Road Pig is a brute of a man possessing almost superhuman strength, poor hygiene, and an extensive history of anti-social behavior. He is utterly devoted to his love, <Link to="/character-bios/Zarana">Zarana</Link>, existing only to serve her every wish without hesitation or question. Within him are two distinct personalities: Road Pig, simple and easily amused, and Donald, highly intelligent and intellectual.
@@ -29,7 +33,11 @@ const RoadPig: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), two versions of Road Pig were produced from a single mold: the original 1988 version and a 1991 repaint.
+            During the Marvel run (1982–1994), two versions of Road Pig were produced from a single mold: the original <a href="https://www.yojoe.com/action/88/roadpig.shtml" target="_blank" rel="noopener noreferrer">1988 figure</a> and the <a href="https://www.yojoe.com/action/91/roadpig2.shtml" target="_blank" rel="noopener noreferrer">1991 repaint</a>.
+          </p>
+          
+          <p className="profile-notes-footnote">
+            *The quote is from Road Pig's 1988 file card.
           </p>
         </section>
 
