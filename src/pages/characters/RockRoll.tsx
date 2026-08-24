@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import rockRoll1 from './img/rockRoll/rockRoll_1.png';
+import rockRoll2 from './img/rockRoll/rockRoll_2.png';
 
 const RockRoll: React.FC = () => {
   return (
@@ -27,6 +28,17 @@ const RockRoll: React.FC = () => {
           </p>
           <p>
             After the paramedics take Mandy away, Craig thanks the lifeguard, and points to the tattoo saying, "You sure don't look like a park ranger". The lifeguard tells him he was an Airborne Ranger, adding, "Rangers rule the night," as he walks off. Craig overhears two surfers talking nearby — one recognizes the lifeguard as Shotgun Don, a legendary surfer; the other remarks it's a shame he threw it all away to join the Army (G.I. Joe Declassified #2). The encounter leaves a lasting impression on Craig, and is likely what led him to enlist.
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Helicopter Accident</h2>
+          <img src={rockRoll2} alt="The helicopter accident" className="profile-block-img" />
+          <p>
+            During one of the team's early missions to the Middle East, Rock 'n Roll, <Link to="/character-bios/Grunt">Grunt</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> are aboard a helicopter, with a second helicopter flying nearby. Neither aircraft has proper dust filters installed, and dust gets sucked into the engine, causing it to stall. The pilot orders the crew to jump. Rock 'n Roll and <Link to="/character-bios/Grunt">Grunt</Link> leap clear, but <Link to="/character-bios/Scarlett">Scarlett</Link> becomes trapped, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> stays behind to free her.
+          </p>
+          <p>
+            The helicopter crashes. <Link to="/character-bios/Grunt">Grunt</Link> and Rock 'n Roll rush to the burning wreckage and find a badly burned <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> carrying an unconscious <Link to="/character-bios/Scarlett">Scarlett</Link> in his arms (Issue #27).
           </p>
         </section>
 

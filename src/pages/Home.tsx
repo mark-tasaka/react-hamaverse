@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 22, 2026</p>
+          <p className="update-log-date">August 23, 2026</p>
           <p className="update-log-entry">
-            New character bio for the <Link to="/character-bios/Firefly">Firefly</Link> has been added.  More sections will be added to Firefly's bio in the future.  As well, more sections added to <Link to="/character-bios/PalePeony">Pale Peony's</Link> bio, completing her story arc.
+            New character bios for <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> have been added.  More sections will be added to these charactre bios in the future.  As well, two new sections added to <Link to="/character-bios/Clutch">Clutch's</Link> bio.
           </p>
 
           <div className="btn-row">
