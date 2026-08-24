@@ -37,6 +37,7 @@ import CobraCommanderImg from './img/portraits/cobraCommander.jpg';
 import ObakeObaasanImg from './img/portraits/obakeObaasan.jpg';
 import ZaranaImg from './img/portraits/zarana.jpg';
 import RoadPigImg from './img/portraits/roadPig.jpg';
+import LadyJayImg from './img/portraits/ladyJay.jpg';
 
 
 interface Introduced {
@@ -600,6 +601,22 @@ const CHARACTERS: Character[] = [
       publisher: 'Marvel',
       issueLabel: 'Issue 83',
       year: '1989',
+      month: 'February',
+    },
+  },
+  {
+    name: 'Lady Jay',
+    img: LadyJayImg,
+    link: '/character-bios/LadyJay',
+    rank: 80,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 32,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 32',
+      year: '1985',
       month: 'February',
     },
   },
