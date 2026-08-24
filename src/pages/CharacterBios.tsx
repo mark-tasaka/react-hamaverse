@@ -36,6 +36,7 @@ import FireflyImg from './img/portraits/Firefly.jpg';
 import CobraCommanderImg from './img/portraits/cobraCommander.jpg';
 import ObakeObaasanImg from './img/portraits/obakeObaasan.jpg';
 import ZaranaImg from './img/portraits/zarana.jpg';
+import RoadPigImg from './img/portraits/roadPig.jpg';
 
 
 interface Introduced {
@@ -584,6 +585,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 49',
       year: '1986',
       month: 'July',
+    },
+  },
+  {
+    name: 'Road Pig',
+    img: RoadPigImg,
+    link: '/character-bios/RoadPig',
+    rank: 59,
+    faction: 'Dreadnok',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 83,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 83',
+      year: '1989',
+      month: 'February',
     },
   },
 ];
