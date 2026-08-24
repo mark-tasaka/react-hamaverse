@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import roadPig1 from './img/roadPig/roadPig_1.png';
+import roadPig2 from './img/roadPig/roadPig_2.png';
 
 const RoadPig: React.FC = () => {
   return (
@@ -27,6 +28,20 @@ const RoadPig: React.FC = () => {
           </p>
           <p>
             Both Road Pig and Donald share an undying love for <Link to="/character-bios/Zarana">Zarana</Link>, utterly devoted to her and following her every whim. <Link to="/character-bios/Zarana">Zarana</Link> adores the Road Pig personality; Donald, she merely tolerates.
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">"That Counts for Something"</h2>
+          <img src={roadPig2} alt="Road Pig's act of defiance for Pale Peony" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/PalePeony">Pale Peony</Link> forms an alliance with <Link to="/character-bios/Zarana">Zarana</Link> and Road Pig, the three agreeing to travel to the former Emirate of Benzheen to gain access to the Krytron — a nuclear triggering device. Their goal, as <Link to="/character-bios/PalePeony">Pale Peony</Link> puts it, is to "take over Darklon's operations, not as a hostile takeover, but as a stealth merger" (Issue #182). <Link to="/character-bios/Zartan">Zartan</Link> later joins the trio on their mission to Benzheen (Issue #183).
+          </p>
+          <p>
+            In a battle at a Benzheen prison, where the Krytron is being held, <Link to="/character-bios/PalePeony">Pale Peony</Link> takes a bullet meant for Road Pig. <Link to="/character-bios/Zarana">Zarana</Link> tells him to leave her behind — she isn't one of their own. In an act of defiance, Road Pig goes back for the unconscious <Link to="/character-bios/PalePeony">Pale Peony</Link>, carrying her to safety. He delivers her to Lifeline aboard the Tomahawk in the courtyard, so she can receive immediate care for her wounds.
+          </p>
+          <p>
+            <Link to="/character-bios/Zarana">Zarana</Link> tells Road Pig it was stupid to go back for her, since she was going to die anyway. Road Pig simply replies, "She took a bullet for me. That counts for something" (Issue #187).
           </p>
         </section>
 

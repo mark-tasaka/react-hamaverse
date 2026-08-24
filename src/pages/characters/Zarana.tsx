@@ -36,6 +36,8 @@ const Zarana: React.FC = () => {
         </section>
 
         
+
+        
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
