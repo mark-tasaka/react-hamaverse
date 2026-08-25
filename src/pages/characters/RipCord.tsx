@@ -13,7 +13,7 @@ const RipCord: React.FC = () => {
         <h1 className="character-profile-title">Rip Cord (Wallace Weems)</h1>
 
         <p className="profile-intro">
-          Wallace A. Weems (Rip Cord) is the team's HALO (High Altitude, Low Opening) jumper.
+          Wallace A. Weems (Rip Cord) is the team's HALO (High Altitude, Low Opening) jumper. Rip Cord develops a relationship with <Link to="/character-bios/Candy">Candy Apel</Link>, but the nature of his work means he cannot tell her what he does for a living, or even his real name. The secrecy takes its toll on their relationship, and <Link to="/character-bios/Candy">Candy</Link> eventually breaks up with him. Later, Rip Cord makes a HALO jump onto the newly formed Cobra Island, where he comes face to face with <Link to="/character-bios/Candy">Candy</Link>'s father, Professor Apel — the Crimson Guardsman scientist responsible for the island's creation.
         </p>
 
         <section className="profile-block">
