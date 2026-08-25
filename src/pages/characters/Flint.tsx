@@ -6,6 +6,8 @@ import './css/CharacterProfile.css';
 import flint1 from './img/flint/flint_1.png';
 import flint2 from './img/flint/flint_2.png';
 import flint3 from './img/flint/flint_3.png';
+import flint4 from './img/flint/flint_4.png';
+import flint5 from './img/flint/flint_5.png';
 
 const Flint: React.FC = () => {
   return (
@@ -59,7 +61,7 @@ const Flint: React.FC = () => {
           </p>
         </section>
 
-                <section className="profile-block">
+          <section className="profile-block">
           <h2 className="profile-block-title">Piecing It Together</h2>
           <img src={flint3} alt="Flint piecing together the truth with Storm Shadow" className="profile-block-img" />
           <p>
@@ -67,6 +69,43 @@ const Flint: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/StormShadow">Storm Shadow</Link> asks Flint what happened. Flint tells him there were three victims, with no trace of their bodies left after the explosion. When <Link to="/character-bios/StormShadow">Storm Shadow</Link> asks about the third victim, Flint starts to describe an old blind man — only for <Link to="/character-bios/StormShadow">Storm Shadow</Link> to cut him off and finish the description himself, in exact detail. Flint is stunned. <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells him he believed the blind man dead for years, but that faking his own death has always been something of a specialty of his. Flint realizes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> faked their own deaths, slipping away on an unauthorized rescue mission to Borovia (Issue #63).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">"As Much As I Do"</h2>
+          <img src={flint4} alt="Flint and Lady Jaye's confrontation after the Borovia mission" className="profile-block-img" />
+          <p>
+            The Joes wait outside Camp Greer, the new location of the Pit, as a C-130 lands. The cargo ramp opens, and <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick step out to a warm, relieved welcome from the team. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> follow close behind.
+          </p>
+          <p>
+            Flint, <Link to="/character-bios/LadyJay">Lady Jaye</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> walk back to the Pit together. After a moment of silence, Flint explodes: "You could have let us in on it! You didn't have to make fools of us by pretending to get blown up by a land mine!" <Link to="/character-bios/LadyJay">Lady Jaye</Link> turns and strikes him, knocking him to the ground.
+          </p>
+          <p>
+            "<Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> did what they did so we wouldn't be implicated," she tells him. "They did it because they cared about us. Don't you understand that they care about you as much as..."
+          </p>
+          <p>
+            Before <Link to="/character-bios/LadyJay">Lady Jaye</Link> can finish, Flint asks, "You do?" Understanding exactly what he means, she pulls him into a hug. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> keep walking, leaving Flint and <Link to="/character-bios/LadyJay">Lady Jaye</Link> to their privacy (Issue #67).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">"Practice What You Preach"</h2>
+          <img src={flint5} alt="Flint's advice to Snake Eyes" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> of the Bern Institute of Reconstructive Surgery betrays his Hippocratic Oath, revealing to the Baroness that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is his next patient — the Baroness falsely believing <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> murdered her brother twenty years before. While <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is undergoing surgery, the Baroness enters the hospital, shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the head, and takes the unconscious <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to the Cobra Consulate (Issue #93). <Link to="/character-bios/Scarlett">Scarlett</Link> survives, but falls into a deep coma.
+          </p>
+          <p>
+            In the aftermath of the Cobra Consulate ordeal, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> waits for the doctor's prognosis on <Link to="/character-bios/Scarlett">Scarlett</Link>. The news isn't good — the doctor can't say whether she'll ever live a normal, productive life again. Looking at <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' bandaged face, the doctor recommends <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> at the Bern Institute, unaware that this is the very doctor whose betrayal led to <Link to="/character-bios/Scarlett">Scarlett</Link> being shot in the first place.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is about to strike the doctor when Flint and <Link to="/character-bios/LadyJay">Lady Jaye</Link> hold him back. He walks out of the hospital, the two following close behind. Flint lectures him, telling him he isn't going to let him wallow in self-pity. <Link to="/character-bios/LadyJay">Lady Jaye</Link> tries to step in, but Flint cuts her off and keeps going.
+          </p>
+          <p>
+            Flint tells <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> he has to move on with his life — that what <Link to="/character-bios/Scarlett">Scarlett</Link> would want. He needs to be grateful for the time they had together, not dwell on regrets — all those "should have" moments of telling her how much he loved her, back when there was still time.
+          </p>
+          <p>
+            Just before Flint finishes, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> turns him around to face <Link to="/character-bios/LadyJay">Lady Jaye</Link> — then walks. "What did he mean by that?" Flint asks. <Link to="/character-bios/LadyJay">Lady Jaye</Link> replies, "I think he was telling you to practice what you preach" (Issue #97).
           </p>
         </section>
 

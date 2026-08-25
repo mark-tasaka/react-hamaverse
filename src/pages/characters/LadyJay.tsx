@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import ladyJay1 from './img/ladyJay/ladyJay_1.png';
 import ladyJay2 from './img/ladyJay/ladyJay_2.png';
 import ladyJay3 from './img/ladyJay/ladyJay_3.png';
+import ladyJay4 from './img/ladyJay/ladyJay_4.png';
 
 const LadyJay: React.FC = () => {
   return (
@@ -68,6 +69,23 @@ const LadyJay: React.FC = () => {
           </p>
           <p>
             Unbeknownst to Lady Jaye and <Link to="/character-bios/Flint">Flint</Link>, the blind man is actually the <Link to="/character-bios/BlindMaster">Blind Master</Link>, a friend of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from his days training with the Arashikage clan in Japan. The whole scene was staged by the <Link to="/character-bios/BlindMaster">Blind Master</Link>, allowing <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to fake their deaths and slip away on an unauthorized mission to rescue the three captured Joes in Borovia.
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">"As Much As I Do"</h2>
+          <img src={ladyJay4} alt="Lady Jaye and Flint's confrontation after the Borovia mission" className="profile-block-img" />
+          <p>
+            The Joes wait outside Camp Greer, the new location of the Pit, as a C-130 lands. The cargo ramp opens, and <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick step out to a warm, relieved welcome from the team. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> follow close behind.
+          </p>
+          <p>
+            Lady Jaye, <Link to="/character-bios/Flint">Flint</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> walk back to the Pit together. After a moment of silence, <Link to="/character-bios/Flint">Flint</Link> explodes: "You could have let us in on it! You didn't have to make fools of us by pretending to get blown up by a land mine!" Lady Jaye turns and strikes him, knocking him to the ground.
+          </p>
+          <p>
+            "<Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> did what they did so we wouldn't be implicated," she tells him. "They did it because they cared about us. Don't you understand that they care about you as much as..."
+          </p>
+          <p>
+            Before Lady Jaye can finish, <Link to="/character-bios/Flint">Flint</Link> asks, "You do?" Understanding exactly what he means, she pulls him into a hug. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> keep walking, leaving <Link to="/character-bios/Flint">Flint</Link> and Lady Jaye to their privacy (Issue #67).
           </p>
         </section>
 
