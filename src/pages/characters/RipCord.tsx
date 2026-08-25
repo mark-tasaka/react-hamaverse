@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import ripCord1 from './img/ripCord/ripCord_1.png';
 import ripCord2 from './img/ripCord/ripCord_2.png';
+import ripCord3 from './img/ripCord/ripCord_3.png';
 
 const RipCord: React.FC = () => {
   return (
@@ -41,6 +42,14 @@ const RipCord: React.FC = () => {
           </p>
           <p>
             The Joes continue their chase, but the Brocas escape. Rip Cord returns the van to <Link to="/character-bios/Candy">Bongo</Link> and asks if there is anything the government can do to compensate her. "How about dinner?" <Link to="/character-bios/Candy">Bongo</Link> asks, removing her bear mask to reveal the face of a beautiful young woman. "You're a girl," a surprised Rip Cord replies. Rip Cord takes <Link to="/character-bios/Candy">Candy</Link> out for dinner, and the two begin dating (Issue #33). Due to the nature of his work, Rip Cord keeps his real name and what he does a secret from <Link to="/character-bios/Candy">Candy</Link>, who knows him simply as Rip Cord.
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">The Breakup</h2>
+          <img src={ripCord3} alt="Candy breaking up with Rip Cord at the circus" className="profile-block-img" />
+          <p>
+            Rip Cord, <Link to="/character-bios/Candy">Candy</Link>, dressed as Bongo, her van, and a handful of other Joes are at the circus when chaos erupts as the Crimson Twins and a squad of uniformed Crimson Guard attack. In the aftermath of the battle, <Link to="/character-bios/Candy">Candy</Link> confronts Rip Cord, upset over the secrecy surrounding what he does, who he really is, and why he cannot reveal his real name to her. She adds that wherever they go together, people end up shot or blown up. <Link to="/character-bios/Candy">Candy</Link> tells him they are through, then drives off. Rip Cord is heartbroken. Gung-Ho puts a hand on his friend's shoulder and says, "She's just a little shook up. Give her time. She'll come around." <Link to="/character-bios/Candy">Candy</Link> never does. It is the last time Rip Cord ever sees her (Issue #37).
           </p>
         </section>
 
