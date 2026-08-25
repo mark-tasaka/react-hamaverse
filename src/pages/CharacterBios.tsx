@@ -39,6 +39,7 @@ import ZaranaImg from './img/portraits/zarana.jpg';
 import RoadPigImg from './img/portraits/roadPig.jpg';
 import LadyJayImg from './img/portraits/ladyJay.jpg';
 import FlintImg from './img/portraits/Flint.jpg';
+import Fred7Img from './img/portraits/Fred7.jpg';
 
 
 interface Introduced {
@@ -635,6 +636,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 37',
       year: '1985',
       month: 'July',
+    },
+  },
+  {
+    name: 'Fred VII',
+    img: Fred7Img,
+    link: '/character-bios/Fred7',
+    rank: 40,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 58,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 58',
+      year: '1987',
+      month: 'April',
     },
   },
 ];
