@@ -38,6 +38,7 @@ import ObakeObaasanImg from './img/portraits/obakeObaasan.jpg';
 import ZaranaImg from './img/portraits/zarana.jpg';
 import RoadPigImg from './img/portraits/roadPig.jpg';
 import LadyJayImg from './img/portraits/ladyJay.jpg';
+import FlintImg from './img/portraits/Flint.jpg';
 
 
 interface Introduced {
@@ -618,6 +619,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 32',
       year: '1985',
       month: 'February',
+    },
+  },
+  {
+    name: 'Flint',
+    img: FlintImg,
+    link: '/character-bios/Flint',
+    rank: 80,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 37,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 37',
+      year: '1985',
+      month: 'July',
     },
   },
 ];

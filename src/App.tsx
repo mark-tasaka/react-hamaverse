@@ -40,6 +40,7 @@ import ObakeObaasan from './pages/characters/ObakeObaasan'
 import Zarana from './pages/characters/Zarana'
 import RoadPig from './pages/characters/RoadPig'
 import LadyJay from './pages/characters/LadyJay'
+import Flint from './pages/characters/Flint'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -99,6 +100,7 @@ function App() {
           <Route path="/character-bios/Zarana" element={<Zarana />} />
           <Route path="/character-bios/RoadPig" element={<RoadPig />} />
           <Route path="/character-bios/LadyJay" element={<LadyJay />} />
+          <Route path="/character-bios/Flint" element={<Flint />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
