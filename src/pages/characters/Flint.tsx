@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import flint1 from './img/flint/flint_1.png';
 import flint2 from './img/flint/flint_2.png';
+import flint3 from './img/flint/flint_3.png';
 
 const Flint: React.FC = () => {
   return (
@@ -55,6 +56,17 @@ const Flint: React.FC = () => {
           </p>
           <p>
             Unbeknownst to Flint and <Link to="/character-bios/LadyJay">Lady Jaye</Link>, the blind man is actually the <Link to="/character-bios/BlindMaster">Blind Master</Link>, a friend of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' from his days training with the Arashikage clan in Japan. The whole scene was staged by the <Link to="/character-bios/BlindMaster">Blind Master</Link>, allowing <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to fake their deaths and slip away on an unauthorized mission to rescue the three captured Joes in Borovia.
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Piecing It Together</h2>
+          <img src={flint3} alt="Flint piecing together the truth with Storm Shadow" className="profile-block-img" />
+          <p>
+            In the aftermath of the mine detonation, Flint calls Hawk at the Defense Language Institute's sublevel to update him on the situation. <Link to="/character-bios/StormShadow">Storm Shadow</Link>, in the room with Hawk, asks if he could speak with Flint, and Hawk hands over the phone.
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> asks Flint what happened. Flint tells him there were three victims, with no trace of their bodies left after the explosion. When <Link to="/character-bios/StormShadow">Storm Shadow</Link> asks about the third victim, Flint starts to describe an old blind man — only for <Link to="/character-bios/StormShadow">Storm Shadow</Link> to cut him off and finish the description himself, in exact detail. Flint is stunned. <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells him he believed the blind man dead for years, but that faking his own death has always been something of a specialty of his. Flint realizes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> faked their own deaths, slipping away on an unauthorized rescue mission to Borovia (Issue #63).
           </p>
         </section>
 
