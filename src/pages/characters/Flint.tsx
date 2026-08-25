@@ -16,7 +16,7 @@ const Flint: React.FC = () => {
         <h1 className="character-profile-title">Flint (Dashiell Faireborn)</h1>
 
         <p className="profile-intro">
-          Chief Warrant Officer Dashiell R. Faireborn (Flint) has earned a well-deserved reputation as an insufferable egotist — a man who never misses an opportunity to remind you of his own good looks, sharp instincts, and undeniable charm. Despite this flaw — or perhaps because of it — he's also a highly capable adn respected leader. CWO Faireborn takes a liking to fellow team member Alison Hart-Burnett (<Link to="/character-bios/LadyJay">Lady Jaye</Link>) and pursues her. At first, she finds him insufferably full of himself. An act of reckless courage soon changes her mind, and the two become a couple.
+          Chief Warrant Officer Dashiell R. Faireborn (Flint) has earned a well-deserved reputation as an insufferable egotist — a man who never misses an opportunity to remind you of his own good looks, sharp instincts, and undeniable charm. Despite this flaw — or perhaps because of it — he's also a highly capable and respected leader. CWO Faireborn takes a liking to fellow team member Alison Hart-Burnett (<Link to="/character-bios/LadyJay">Lady Jaye</Link>) and pursues her. At first, she finds him insufferably full of himself. An act of reckless courage soon changes her mind, and the two become a couple.
         </p>
 
         <section className="profile-block">
@@ -105,7 +105,7 @@ const Flint: React.FC = () => {
             Flint tells <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> he has to move on with his life — that what <Link to="/character-bios/Scarlett">Scarlett</Link> would want. He needs to be grateful for the time they had together, not dwell on regrets — all those "should have" moments of telling her how much he loved her, back when there was still time.
           </p>
           <p>
-            Just before Flint finishes, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> turns him around to face <Link to="/character-bios/LadyJay">Lady Jaye</Link> — then walks. "What did he mean by that?" Flint asks. <Link to="/character-bios/LadyJay">Lady Jaye</Link> replies, "I think he was telling you to practice what you preach" (Issue #97).
+            Just before Flint finishes, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> turns him around to face <Link to="/character-bios/LadyJay">Lady Jaye</Link> — then walks away. "What did he mean by that?" Flint asks. <Link to="/character-bios/LadyJay">Lady Jaye</Link> replies, "I think he was telling you to practice what you preach" (Issue #97).
           </p>
         </section>
 
