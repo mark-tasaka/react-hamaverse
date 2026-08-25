@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import clutch1 from './img/clutch/clutch_1.png';
 import clutch2 from './img/clutch/clutch_2.png';
 import clutch3 from './img/clutch/clutch_3.png';
+import clutch4 from './img/clutch/clutch_4.png';
 
 const Clutch: React.FC = () => {
   return (
@@ -49,10 +50,33 @@ const Clutch: React.FC = () => {
           <h2 className="profile-block-title">Close Friendship with Grunt</h2>
           <img src={clutch3} alt="Clutch's friendship with Grunt" className="profile-block-img" />
           <p>
-            Clutch forms deep friendships with several of his teammates. His best friend is <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, with whom he often spends off-duty hours getting into one adventure or another. Clutch also grows close with <Link to="/character-bios/Grunt">Grunt</Link>. When <Link to="/character-bios/Grunt">Grunt</Link> is honorably discharged and prepares to return to civilian life as a student at Georgia Tech, Clutch is the only Joe waiting for him at the bus stop. <Link to="/character-bios/Grunt">Grunt</Link>  is surprised and pleased to see.  He gives <Link to="/character-bios/Grunt">Grunt</Link> a firm handshake as the bus pulls up. As it departs, Clutch salutes and calls out, "Have a good life... soldier" (Issue #55).
+            Clutch forms deep friendships with several of his teammates. His best friend is <Link to="/character-bios/RockRoll"><Link to="/character-bios/RockRoll">Rock 'n Roll</Link></Link>, with whom he often spends off-duty hours getting into one adventure or another. Clutch also grows close with <Link to="/character-bios/Grunt">Grunt</Link>. When <Link to="/character-bios/Grunt">Grunt</Link> is honorably discharged and prepares to return to civilian life as a student at Georgia Tech, Clutch is the only Joe waiting for him at the bus stop. <Link to="/character-bios/Grunt">Grunt</Link>  is surprised and pleased to see.  He gives <Link to="/character-bios/Grunt">Grunt</Link> a firm handshake as the bus pulls up. As it departs, Clutch salutes and calls out, "Have a good life... soldier" (Issue #55).
           </p>
           <p>
             On the desk beside <Link to="/character-bios/Grunt">Grunt</Link>'s dorm room bed sits a photo of <Link to="/character-bios/Grunt">himself</Link>, Clutch, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> — a testament to the deep friendship he shares with the three of them (Issue #56).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Broca Beach, New Jersey Shore</h2>
+          <img src={clutch4} alt="Clutch and Rock 'n Roll at Broca Beach" className="profile-block-img" />
+          <p>
+            Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> are on vacation, and they travel to a beach town <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> used to visit as a teenager. <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> remarks that the town has really cleaned up — and been is Broca Beach. Little do they know, Broca Beach is now a Cobra-controlled town. When they realize the truth, the two attempt to drive away, but are chased down by Cobra police and the Dreadnoks. The Dreadnoks capture the pair (Issue #89).
+          </p>
+          <p>
+            Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> are hooked up to the Brainwave Scanner, subjected to a Manchurian Candidate-style brainwashing process meant to  turn them into unwitting sleeper agents for Cobra. <Link to="/character-bios/Zarana">Zarana</Link> and the <Link to="/character-bios/Baroness">Baroness</Link> oversee the procedure (Issue #90), systematically wiping specific pasts memories and implanting new memories in their place, transforming them into dormant Cobra operatives (Issues #91 and #93).
+          </p>
+          <p>
+            With the Joes now aware that Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> are being held by Cobra, the <Link to="/character-bios/Baroness">Baroness</Link> must find a way to return them without raising suspicion. She has the Dreadnoks load the two into the back of an ice cream truck, driven by <Link to="/character-bios/Zarana">Zarana</Link> and <Link to="/character-bios/RoadPig">Road Pig</Link>, with a second truck carrying the rest of the Dreadnoks following behind.
+          </p>
+          <p>
+            The <Link to="/character-bios/Baroness">Baroness</Link> leaks their location to the Joes, who track down the Dreadnoks and free Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>. Both men are returned to active duty.
+          </p>
+          <p>
+            An unspecified amount of time passes. Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> are stationed at the new Pit in the Utah desert. A pair of teenage girls, having wandered into the restricted area, are being held inside the Pit until their parents can be reached, with Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> assigned to watch over them. Nearby, in the desert outside, <Link to="/character-bios/Zarana">Zarana</Link> activates a hidden ultrasonic device — the trigger meant to switch Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> into activated killing agents, unleashing chaos on the Joes inside the Pit.
+          </p>
+          <p>
+            Clutch and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> draw their weapons on the girls — but the fundamental goodness within them resists the programming, and rather than opening fire, both men collapse unconscious. The effects of the Brainwave Scanner are broken for good (Issue #100).
           </p>
         </section>
 

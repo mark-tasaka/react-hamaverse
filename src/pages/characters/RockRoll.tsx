@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import rockRoll1 from './img/rockRoll/rockRoll_1.png';
 import rockRoll2 from './img/rockRoll/rockRoll_2.png';
 import rockRoll3 from './img/rockRoll/rockRoll_3.png';
+import rockRoll4 from './img/rockRoll/rockRoll_4.png';
 
 const RockRoll: React.FC = () => {
   return (
@@ -60,6 +61,29 @@ const RockRoll: React.FC = () => {
           </p>
           <p>
             At Dr. Burkhart's home, <Link to="/character-bios/Jinx">Jinx</Link> informs the group that <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held at St. Lo's infirmary in rural Virginia. Shortly after, Cover Girl, Dusty, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and Zap arrive in a telephone truck. Dr. Burkhart and <Link to="/character-bios/Lola">Lola</Link> join the Joes on the hospital raid. Film crews are on scene as the Joes carry out their raid, and Destro arrives to present receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Broca Beach, New Jersey Shore</h2>
+          <img src={rockRoll4} alt="Rock 'n Roll and Clutch at Broca Beach" className="profile-block-img" />
+          <p>
+            Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> are on vacation, and they travel to a beach town Rock 'n Roll used to visit as a teenager. He remarks that the town has really cleaned up — and been renamed Broca Beach. Little do they know, Broca Beach is now a Cobra-controlled town. When they realize the truth, the two attempt to drive away, but are chased down by Cobra police and the Dreadnoks. The Dreadnoks capture the pair (Issue #89).
+          </p>
+          <p>
+            Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> are hooked up to the Brainwave Scanner, subjected to a Manchurian Candidate-style brainwashing process meant to turn them into unwitting sleeper agents for Cobra. <Link to="/character-bios/Zarana">Zarana</Link> and the <Link to="/character-bios/Baroness">Baroness</Link> oversee the procedure (Issue #90), systematically wiping their past memories and implanting new ones in their place, transforming them into dormant Cobra operatives (Issues #91 and #93).
+          </p>
+          <p>
+            With the Joes now aware that Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> are being held by Cobra, the <Link to="/character-bios/Baroness">Baroness</Link> must find a way to return them without raising suspicion. She has the Dreadnoks load the two into the back of an ice cream truck, driven by <Link to="/character-bios/Zarana">Zarana</Link> and <Link to="/character-bios/RoadPig">Road Pig</Link>, with a second truck carrying the rest of the Dreadnoks following behind.
+          </p>
+          <p>
+            The <Link to="/character-bios/Baroness">Baroness</Link> leaks their location to the Joes, who track down the Dreadnoks and free Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link>. Both men are returned to active duty.
+          </p>
+          <p>
+            An unspecified amount of time passes. Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> are stationed at the new Pit in the Utah desert. A pair of teenage girls, having wandered into the restricted area, are being held inside the Pit until their parents can be reached, with Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> assigned to watch over them. Nearby, in the desert outside, <Link to="/character-bios/Zarana">Zarana</Link> activates a hidden ultrasonic device — the trigger meant to switch Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> into activated killing agents, unleashing chaos on the Joes inside the Pit.
+          </p>
+          <p>
+            Rock 'n Roll and <Link to="/character-bios/Clutch">Clutch</Link> draw their weapons on the girls — but the fundamental goodness within them resists the programming, and rather than opening fire, both men collapse unconscious. The effects of the Brainwave Scanner are broken for good (Issue #100).
           </p>
         </section>
 
