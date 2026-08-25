@@ -42,6 +42,7 @@ import RoadPig from './pages/characters/RoadPig'
 import LadyJay from './pages/characters/LadyJay'
 import Flint from './pages/characters/Flint'
 import Fred7 from './pages/characters/Fred7'
+import Candy from './pages/characters/Candy'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -103,6 +104,7 @@ function App() {
           <Route path="/character-bios/LadyJay" element={<LadyJay />} />
           <Route path="/character-bios/Flint" element={<Flint />} />
           <Route path="/character-bios/Fred7" element={<Fred7 />} />
+          <Route path="/character-bios/Candy" element={<Candy />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

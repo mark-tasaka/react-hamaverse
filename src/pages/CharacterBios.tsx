@@ -40,6 +40,7 @@ import RoadPigImg from './img/portraits/roadPig.jpg';
 import LadyJayImg from './img/portraits/ladyJay.jpg';
 import FlintImg from './img/portraits/Flint.jpg';
 import Fred7Img from './img/portraits/Fred7.jpg';
+import CandyImg from './img/portraits/Candy.jpg';
 
 
 interface Introduced {
@@ -652,6 +653,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 58',
       year: '1987',
       month: 'April',
+    },
+  },
+  {
+    name: 'Candy Apel',
+    img: CandyImg,
+    link: '/character-bios/Candy',
+    rank: 9,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 33,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 33',
+      year: '1985',
+      month: 'March',
     },
   },
 ];
