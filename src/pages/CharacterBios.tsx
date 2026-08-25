@@ -38,9 +38,10 @@ import ObakeObaasanImg from './img/portraits/obakeObaasan.jpg';
 import ZaranaImg from './img/portraits/zarana.jpg';
 import RoadPigImg from './img/portraits/roadPig.jpg';
 import LadyJayImg from './img/portraits/ladyJay.jpg';
-import FlintImg from './img/portraits/Flint.jpg';
-import Fred7Img from './img/portraits/Fred7.jpg';
-import CandyImg from './img/portraits/Candy.jpg';
+import FlintImg from './img/portraits/flint.jpg';
+import Fred7Img from './img/portraits/fred7.jpg';
+import CandyImg from './img/portraits/candy.jpg';
+import RipCordImg from './img/portraits/ripCord.jpg';
 
 
 interface Introduced {
@@ -323,7 +324,7 @@ const CHARACTERS: Character[] = [
     name: 'Shooter',
     img: ShooterImg,
     link: '/character-bios/Shooter',
-    rank: 50,
+    rank: 39,
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Dead',
@@ -669,6 +670,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 33',
       year: '1985',
       month: 'March',
+    },
+  },
+  {
+    name: 'Rip Cord',
+    img: RipCordImg,
+    link: '/character-bios/RipCord',
+    rank: 40,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 32,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 32',
+      year: '1985',
+      month: 'February',
     },
   },
 ];

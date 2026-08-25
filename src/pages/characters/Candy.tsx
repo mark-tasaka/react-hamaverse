@@ -14,28 +14,28 @@ const Candy: React.FC = () => {
         <h1 className="character-profile-title">Candy Apel (a.k.a. Bongo the Balloon Bear)</h1>
 
         <p className="profile-intro">
-          Candy Apel is Ripcord's former girlfriend and the daughter of Professor Apel, an undercover Crimson Guardsman. Candy does not discover her father is a Cobra agent until she returns home one night to find the Joes surrounding her house. A series of events later leads Candy to the Cobra-controlled town of Springfield, where she meets her end from one of Scrap-Iron's anti-armor missiles.
+          Candy Apel is Rip Cord's former girlfriend and the daughter of Professor Apel, an undercover Crimson Guardsman. Candy does not discover her father is a Cobra agent until she returns home one night to find the Joes surrounding her house. A series of events later leads Candy to the Cobra-controlled town of Springfield, where she meets her end from one of Scrap-Iron's anti-armor missiles.
         </p>
 
         <section className="profile-block">
           <h2 className="profile-block-title">Bongo the Balloon Bear</h2>
           <img src={candy1} alt="Candy as Bongo the Balloon Bear" className="profile-block-img" />
           <p>
-            Spirit, Ripcord, and Barbecue are at a mall on Staten Island when Spirit encounters <Link to="/character-bios/Wade">Fred II (Wade Collins)</Link> and his family. Spirit had previously encountered the original Fred <Link to="/character-bios/FredBroca">Fred Broca</Link> in the High Sierras, an encounter that ended in Fred <Link to="/character-bios/FredBroca">Fred Broca</Link>'s death. Spirit tells Fred II he had better come along for questioning. Mrs. Collins strikes Spirit in the head with her purse, while her children kick him in the knees. The Brocas flee to the parking lot and make their escape by car, with Mrs. Collins throwing a grenade into the Joes' vehicle and destroying it.
+            Spirit, Rip Cord, and Barbecue are at a mall on Staten Island when Spirit encounters <Link to="/character-bios/Wade">Fred II (Wade Collins)</Link> and his family. Spirit had previously encountered the original Fred <Link to="/character-bios/FredBroca">Fred Broca</Link> in the High Sierras, an encounter that ended in Fred <Link to="/character-bios/FredBroca">Fred Broca</Link>'s death. Spirit tells Fred II he had better come along for questioning. Mrs. Collins strikes Spirit in the head with her purse, while her children kick him in the knees. The Brocas flee to the parking lot and make their escape by car, with Mrs. Collins throwing a grenade into the Joes' vehicle and destroying it.
           </p>
           <p>
-            Spirit, Ripcord, and Barbecue commandeer a colorful van with the words "Bongo the Balloon Bear" painted across it. Inside is Bongo herself, dressed in a bear costume. Bongo drives the Joes in pursuit of the Brocas, and a chase ensues. After a firefight, in which the Brocas open fire on the van, Bongo asks to be let out. She tells the Joes to bring her van back safely and waits behind for their return.
+            Spirit, Rip Cord, and Barbecue commandeer a colorful van with the words "Bongo the Balloon Bear" painted across it. Inside is Bongo herself, dressed in a bear costume. Bongo drives the Joes in pursuit of the Brocas, and a chase ensues. After a firefight, in which the Brocas open fire on the van, Bongo asks to be let out. She tells the Joes to bring her van back safely and waits behind for their return.
           </p>
           <p>
-            The Brocas escape. Ripcord returns the van to Bongo and asks if there is anything the government can do to compensate her. "How about dinner?" Bongo asks, removing her bear mask to reveal the face of a beautiful young woman. "You're a girl," a surprised Ripcord replies. Ripcord takes Candy out for dinner, and the two begin dating (Issue #33).
+            The Brocas escape. Rip Cord returns the van to Bongo and asks if there is anything the government can do to compensate her. "How about dinner?" Bongo asks, removing her bear mask to reveal the face of a beautiful young woman. "You're a girl," a surprised Rip Cord replies. Rip Cord takes Candy out for dinner, and the two begin dating (Issue #33).
           </p>
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Breaking Up with Ripcord</h2>
-          <img src={candy2} alt="Candy breaking up with Ripcord" className="profile-block-img" />
+          <h2 className="profile-block-title">Breaking Up with Rip Cord</h2>
+          <img src={candy2} alt="Candy breaking up with Rip Cord" className="profile-block-img" />
           <p>
-            Candy, dressed as Bongo, her van, Ripcord, and a handful of other Joes are at the circus when chaos erupts as the Crimson Twins and a squad of uniformed Crimson Guard attack. In the aftermath of the battle, Candy confronts Ripcord, upset over the secrecy surrounding what he does, who he really is, and why he cannot reveal his real name to her. She adds that wherever they go together, people end up shot or blown up. Candy tells him they are through, then drives off, leaving a heartbroken Ripcord behind (Issue #37).
+            Candy, dressed as Bongo, her van, Rip Cord, and a handful of other Joes are at the circus when chaos erupts as the Crimson Twins and a squad of uniformed Crimson Guard attack. In the aftermath of the battle, Candy confronts Rip Cord, upset over the secrecy surrounding what he does, who he really is, and why he cannot reveal his real name to her. She adds that wherever they go together, people end up shot or blown up. Candy tells him they are through, then drives off, leaving a heartbroken Rip Cord behind (Issue #37).
           </p>
         </section>
 
