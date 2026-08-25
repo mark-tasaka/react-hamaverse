@@ -20,7 +20,7 @@ const Flint: React.FC = () => {
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Full of Himself, Full of Courage</h2>
+          <h2 className="profile-block-title">Winning Lady Jaye's Heart</h2>
           <img src={flint1} alt="Flint's reckless courage against the Cobra Eels" className="profile-block-img" />
           <p>
             Flint and <Link to="/character-bios/LadyJay">Lady Jaye</Link> are talking among the trees outside Fort Wadsworth. Flint tries to impress her by listing his many assets — good-looking, dashing, and intelligent. <Link to="/character-bios/LadyJay">Lady Jaye</Link>, unimpressed, pushes back on his lack of modesty, remarking that at least his insurance policy is paid up. Flint tells her he carries the standard policy from Uncle Sugar, and asks if she'd be interested in becoming his beneficiary.
