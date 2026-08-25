@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import candy1 from './img/candy/candy_1.png';
 import candy2 from './img/candy/candy_2.png';
 import candy3 from './img/candy/candy_3.png';
+import candy4 from './img/candy/candy_4.png';
 
 const Candy: React.FC = () => {
   return (
@@ -53,6 +54,20 @@ const Candy: React.FC = () => {
           </p>
           <p>
             Buzzer heads for Springfield, stealing a pickup truck at a diner along the way. At one point, Candy nearly escapes before Buzzer recaptures her. The truck carries an unloaded shotgun displayed on the rear window rack. During a sudden hard stop, the glove box flies open and shotgun shells spill out. Candy grabs the shells, loads the shotgun, and fires — missing Buzzer but putting a round through the window. She then levels the shotgun at his head and orders him out of the truck, driving off and leaving him behind (Issue #42).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Candy's Death</h2>
+          <img src={candy4} alt="Candy's death" className="profile-block-img" />
+          <p>
+            The stolen pickup truck breaks down, and unable to fix it, Candy hitches a ride. The man who picks her up is drinking coffee mixed with alcohol, clearly drunk. In the backseat, Candy notices a suitcase and mentions it to the driver, who realizes it belongs to the man he had previously dropped off in Springfield — the <Link to="/character-bios/SoftMaster">Soft Master</Link>, who had left it behind. The driver turns toward Springfield to return it.
+          </p>
+          <p>
+            Along the way, he picks up another hitchhiker, <Link to="/character-bios/Billy">Billy</Link>. Drunk, the driver crashes into a post in front of a set of train tracks, knocking all three unconscious. Just before a train passes, the <Link to="/character-bios/SoftMaster">Soft Master</Link> drives up in a stolen police car from the other side of the tracks. He stops and checks on the crash victims.
+          </p>
+          <p>
+            On the far side of the tracks, <Link to="/character-bios/Firefly">Firefly</Link>, Scrap-Iron, and Buzzer sit in a Cobra Ferret ATV, having been pursuing the <Link to="/character-bios/SoftMaster">Soft Master</Link>. While he tends to the victims, Scrap-Iron climbs a nearby pole and aims his dual missile launcher at the wrecked car. The <Link to="/character-bios/SoftMaster">Soft Master</Link> rushes forward, using his own body as a shield, and is killed. Scrap-Iron fires his second missile, destroying the car and killing both Candy and the driver. <Link to="/character-bios/Billy">Billy</Link> survives, though he loses an eye and a leg and falls into a coma (Issue #43).
           </p>
         </section>
 
