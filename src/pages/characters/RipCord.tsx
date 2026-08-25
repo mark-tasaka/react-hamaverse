@@ -47,7 +47,7 @@ const RipCord: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), a single version of Rip Cord was produced: the 1984 version. The file card spells his name as two words, Rip Cord. In the 2000s, five further versions were produced, spelling his name as a single word, Ripcord (some versions naming him Wallace "Ripcord" Weems).
+            During the Marvel run (1982–1994), a single version of Rip Cord was produced: the <a href="https://www.yojoe.com/action/84/ripcord.shtml" target="_blank" rel="noopener noreferrer">1984 figure</a>. The file card spells his name as two words, Rip Cord. In the 2000s, five further versions were produced, spelling his name as a single word, Ripcord (some versions naming him Wallace "Ripcord" Weems).
           </p>
         </section>
 
