@@ -51,7 +51,7 @@ const Candy: React.FC = () => {
             Candy is brought inside the Pit for questioning. Duke asks her about the Cobra radios, cipher machines, bugging devices, surveillance gear, and manuals recovered from the house. Candy insists she had no idea any of it was there (Issue #40).
           </p>
           <p>
-            <Link to="/character-bios/Hawk">Hawk</Link> receives a call from General Austin, informing him that Candy and the Dreadnok Buzzer, captured in a separate incident, must be released for constitutional reasons. The two are transported out of Fort Wadsworth aboard a military police bus. Buzzer overpowers the MPs and commandeers the bus, driving off with Candy as his prisoner (Issue #40).
+            <Link to="/character-bios/Hawk">Hawk</Link> receives a call from <Link to="/character-bios/Austin">General Austin</Link>, informing him that Candy and the Dreadnok Buzzer, captured in a separate incident, must be released for constitutional reasons. The two are transported out of Fort Wadsworth aboard a military police bus. Buzzer overpowers the MPs and commandeers the bus, driving off with Candy as his prisoner (Issue #40).
           </p>
           <p>
             Buzzer heads for Springfield, stealing a pickup truck at a diner along the way. At one point, Candy nearly escapes before Buzzer recaptures her. The truck carries an unloaded shotgun displayed on the rear window rack. During a sudden hard stop, the glove box flies open and shotgun shells spill out. Candy grabs the shells, loads the shotgun, and fires — missing Buzzer but putting a round through the window. She then levels the shotgun at his head and orders him out of the truck, driving off and leaving him behind (Issue #42).
