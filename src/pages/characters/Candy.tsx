@@ -7,6 +7,7 @@ import candy1 from './img/candy/candy_1.png';
 import candy2 from './img/candy/candy_2.png';
 import candy3 from './img/candy/candy_3.png';
 import candy4 from './img/candy/candy_4.png';
+import candy5 from './img/candy/candy_5.png';
 
 const Candy: React.FC = () => {
   return (
@@ -68,6 +69,20 @@ const Candy: React.FC = () => {
           </p>
           <p>
             On the far side of the tracks, <Link to="/character-bios/Firefly">Firefly</Link>, Scrap-Iron, and Buzzer sit in a Cobra Ferret ATV, having been pursuing the <Link to="/character-bios/SoftMaster">Soft Master</Link>. While he tends to the victims, Scrap-Iron climbs a nearby pole and aims his dual missile launcher at the wrecked car. The <Link to="/character-bios/SoftMaster">Soft Master</Link> rushes forward, using his own body as a shield, and is killed. Scrap-Iron fires his second missile, destroying the car and killing both Candy and the driver. <Link to="/character-bios/Billy">Billy</Link> survives, though he loses an eye and a leg and falls into a coma (Issue #43).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Bongo the Balloon Bear Van's Return</h2>
+          <img src={candy5} alt="Bongo the Balloon Bear van's return" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/RipCord">Rip Cord</Link> kept Candy's Bongo the Balloon Bear van over years, storing it at the Motor Pool at Fort Wadsworth. He could never bring himself to get rid of it — the van held too many memories of her.
+          </p>
+          <p>
+            Years later, <Link to="/character-bios/SeanCollins">Sean Collins</Link> (a.k.a. the new Snake Eyes) is captured and taken to Springfield. Lacking the authority for an official rescue mission, the Joes are forced to rely on their own leave time and civilian vehicles. <Link to="/character-bios/Clutch">Clutch</Link> leads <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Wade">Wade Collins</Link>, and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> to where the van is stored, hidden beneath a canvas tarp. <Link to="/character-bios/Clutch">Clutch</Link> pulls the tarp away, revealing the van still intact.
+          </p>
+          <p>
+            <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Wade">Wade Collins</Link>, and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> use Bongo the Balloon Bear van for their rescue mission, driving it to Springfield and back (Issue #270).
           </p>
         </section>
 
