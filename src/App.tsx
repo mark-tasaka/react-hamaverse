@@ -46,6 +46,7 @@ import Candy from './pages/characters/Candy'
 import RipCord from './pages/characters/RipCord'
 import Austin from './pages/characters/Austin'
 import Appel from './pages/characters/Appel'
+import ScrapIron from './pages/characters/ScrapIron'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -111,6 +112,7 @@ function App() {
           <Route path="/character-bios/RipCord" element={<RipCord />} />
           <Route path="/character-bios/Austin" element={<Austin />} />
           <Route path="/character-bios/Appel" element={<Appel />} />
+          <Route path="/character-bios/ScrapIron" element={<ScrapIron />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

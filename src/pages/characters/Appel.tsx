@@ -28,7 +28,7 @@ const Appel: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">A Father's Grief</h2>
+          <h2 className="profile-block-title">A Father's Love</h2>
           <img src={appel2} alt="Professor Appel's search for his daughter" className="profile-block-img" />
           <p className = "italics">
             Professor Appel's daughter, <Link to="/character-bios/Candy">Candy</Link>, is killed outside Springfield when an anti-armor missile strikes the vehicle she is riding in. Scrap-Iron, who fired the missile, has no idea who the vehicle's occupants are — inside are the driver, <Link to="/character-bios/Candy">Candy</Link>, and <Link to="/character-bios/Billy">Billy</Link>. No one in Cobra knows where Professor Appel's daughter is. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> keeps this from him, while quietly mounting search parties to look for her and <Link to="/character-bios/Billy">Billy</Link>.

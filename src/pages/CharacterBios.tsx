@@ -44,6 +44,7 @@ import CandyImg from './img/portraits/candy.jpg';
 import RipCordImg from './img/portraits/ripCord.jpg';
 import AustinImg from './img/portraits/austin.jpg';
 import AppelImg from './img/portraits/appel.jpg';
+import ScrapIronImg from './img/portraits/scrapIron.jpg';
 
 
 interface Introduced {
@@ -720,6 +721,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 40',
       year: '1985',
       month: 'October',
+    },
+  },
+  {
+    name: 'Scrap Iron',
+    img: ScrapIronImg,
+    link: '/character-bios/ScrapIron',
+    rank: 6,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 43,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 43',
+      year: '1986',
+      month: 'January',
     },
   },
 ];
