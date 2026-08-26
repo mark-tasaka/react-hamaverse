@@ -16,7 +16,7 @@ const Candy: React.FC = () => {
         <h1 className="character-profile-title">Candy Appel (a.k.a. Bongo the Balloon Bear)</h1>
 
         <p className="profile-intro">
-          Candy Appel is <Link to="/character-bios/RipCord">Rip Cord</Link>'s former girlfriend and the daughter of Professor Appel, an undercover Crimson Guardsman. Candy does not discover her father is a Cobra agent until she returns home one night to find the Joes surrounding her house. A series of events later leads Candy to the Cobra-controlled town of Springfield, where she meets her end from one of Scrap-Iron's anti-armor missiles.
+          Candy Appel is <Link to="/character-bios/RipCord">Rip Cord</Link>'s former girlfriend and the daughter of <Link to="/character-bios/Appel">Professor Appel</Link>, an undercover Crimson Guardsman. Candy does not discover her father is a Cobra agent until she returns home one night to find the Joes surrounding her house. A series of events later leads Candy to the Cobra-controlled town of Springfield, where she meets her end from one of Scrap-Iron's anti-armor missiles.
         </p>
 
         <section className="profile-block">
