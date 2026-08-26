@@ -45,6 +45,7 @@ import RipCordImg from './img/portraits/ripCord.jpg';
 import AustinImg from './img/portraits/austin.jpg';
 import AppelImg from './img/portraits/appel.jpg';
 import ScrapIronImg from './img/portraits/scrapIron.jpg';
+import DeepSixImg from './img/portraits/deepSix.jpg';
 
 
 interface Introduced {
@@ -737,6 +738,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 43',
       year: '1986',
       month: 'January',
+    },
+  },
+  {
+    name: 'Deep Six',
+    img: DeepSixImg,
+    link: '/character-bios/DeepSix',
+    rank: 6,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 25,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 25',
+      year: '1984',
+      month: 'July',
     },
   },
 ];
