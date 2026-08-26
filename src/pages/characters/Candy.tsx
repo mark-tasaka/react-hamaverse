@@ -13,10 +13,10 @@ const Candy: React.FC = () => {
   return (
     <main className="character-profile-page">
       <div className="container">
-        <h1 className="character-profile-title">Candy Apel (a.k.a. Bongo the Balloon Bear)</h1>
+        <h1 className="character-profile-title">Candy Appel (a.k.a. Bongo the Balloon Bear)</h1>
 
         <p className="profile-intro">
-          Candy Apel is <Link to="/character-bios/RipCord">Rip Cord</Link>'s former girlfriend and the daughter of Professor Apel, an undercover Crimson Guardsman. Candy does not discover her father is a Cobra agent until she returns home one night to find the Joes surrounding her house. A series of events later leads Candy to the Cobra-controlled town of Springfield, where she meets her end from one of Scrap-Iron's anti-armor missiles.
+          Candy Appel is <Link to="/character-bios/RipCord">Rip Cord</Link>'s former girlfriend and the daughter of Professor Appel, an undercover Crimson Guardsman. Candy does not discover her father is a Cobra agent until she returns home one night to find the Joes surrounding her house. A series of events later leads Candy to the Cobra-controlled town of Springfield, where she meets her end from one of Scrap-Iron's anti-armor missiles.
         </p>
 
         <section className="profile-block">
@@ -68,14 +68,14 @@ const Candy: React.FC = () => {
             Along the way, he picks up another hitchhiker, <Link to="/character-bios/Billy">Billy</Link>. Drunk, the driver crashes into a post in front of a set of train tracks, knocking all three unconscious. Just before a train passes, the <Link to="/character-bios/SoftMaster">Soft Master</Link> drives up in a stolen police car from the other side of the tracks. He stops and checks on the crash victims.
           </p>
           <p>
-            On the far side of the tracks, <Link to="/character-bios/Firefly">Firefly</Link>, Scrap-Iron, and Buzzer sit in a Cobra Ferret ATV, having been pursuing the <Link to="/character-bios/SoftMaster">Soft Master</Link>. While he tends to the victims, Scrap-Iron climbs a nearby pole and aims his dual missile launcher at the wrecked car. The <Link to="/character-bios/SoftMaster">Soft Master</Link> rushes forward, using his own body as a shield, and is killed. Scrap-Iron fires his second missile, destroying the car and killing both Candy and the driver. <Link to="/character-bios/Billy">Billy</Link> survives, though he loses an eye and a leg and falls into a coma (Issue #43).
+            On the far side of the tracks, <Link to="/character-bios/Firefly">Firefly</Link>, Scrap-Iron, and Buzzer are in a Cobra Ferret ATV, having been pursuing the <Link to="/character-bios/SoftMaster">Soft Master</Link>. While he tends to the victims, Scrap-Iron climbs a nearby pole and aims his dual missile launcher at the wrecked car. The <Link to="/character-bios/SoftMaster">Soft Master</Link> rushes forward, using his own body as a shield, and is killed. Scrap-Iron fires his second missile, destroying the car and killing both Candy and the driver. <Link to="/character-bios/Billy">Billy</Link> survives, though he loses an eye and a leg and falls into a coma (Issue #43).
           </p>
         </section>
 
                 <section className="profile-block">
           <h2 className="profile-block-title">Bongo the Balloon Bear Van's Return</h2>
           <img src={candy5} alt="Bongo the Balloon Bear van's return" className="profile-block-img" />
-          <p>
+          <p className = "italics">
             <Link to="/character-bios/RipCord">Rip Cord</Link> kept Candy's Bongo the Balloon Bear van over years, storing it at the Motor Pool at Fort Wadsworth. He could never bring himself to get rid of it — the van held too many memories of her.
           </p>
           <p>

@@ -14,7 +14,7 @@ const RipCord: React.FC = () => {
         <h1 className="character-profile-title">Rip Cord (Wallace Weems)</h1>
 
         <p className="profile-intro">
-          Wallace A. Weems (Rip Cord) is the team's HALO (High Altitude, Low Opening) jumper. Rip Cord develops a relationship with <Link to="/character-bios/Candy">Candy Apel</Link>, but the nature of his work means he cannot tell her what he does for a living, or even his real name. The secrecy takes its toll on their relationship, and <Link to="/character-bios/Candy">Candy</Link> eventually breaks up with him. Later, Rip Cord makes a HALO jump onto the newly formed Cobra Island, where he comes face to face with <Link to="/character-bios/Candy">Candy</Link>'s father, Professor Apel — the Crimson Guardsman scientist responsible for the island's creation.
+          Wallace A. Weems (Rip Cord) is the team's HALO (High Altitude, Low Opening) jumper. Rip Cord develops a relationship with <Link to="/character-bios/Candy">Candy Appel</Link>, but the nature of his work means he cannot tell her what he does for a living, or even his real name. The secrecy takes its toll on their relationship, and <Link to="/character-bios/Candy">Candy</Link> eventually breaks up with him. Later, Rip Cord makes a HALO jump onto the newly formed Cobra Island, where he comes face to face with <Link to="/character-bios/Candy">Candy</Link>'s father, Professor Appel — the Crimson Guardsman scientist responsible for the island's creation.
         </p>
 
         <section className="profile-block">
@@ -32,8 +32,8 @@ const RipCord: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Meeting Candy Apel</h2>
-          <img src={ripCord2} alt="Rip Cord meeting Candy Apel" className="profile-block-img" />
+          <h2 className="profile-block-title">Meeting Candy Appel</h2>
+          <img src={ripCord2} alt="Rip Cord meeting Candy Appel" className="profile-block-img" />
           <p>
             Rip Cord, Spirit, and Barbecue are at a mall on Staten Island when Spirit encounters <Link to="/character-bios/Wade">Fred II (Wade Collins)</Link> and his family. Spirit had previously encountered the original Fred Broca in the High Sierras, an encounter that ended in Fred Broca's death. Spirit tells Fred II he had better come along for questioning. Mrs. Collins strikes Spirit in the head with her purse, while her children kick him in the knees. The Brocas flee to the parking lot and make their escape by car, with Mrs. Collins throwing a grenade into the Joes' vehicle and destroying it.
           </p>

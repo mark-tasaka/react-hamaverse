@@ -658,7 +658,7 @@ const CHARACTERS: Character[] = [
     },
   },
   {
-    name: 'Candy Apel',
+    name: 'Candy Appel',
     img: CandyImg,
     link: '/character-bios/Candy',
     rank: 9,
