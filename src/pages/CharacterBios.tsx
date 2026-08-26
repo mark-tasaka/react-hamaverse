@@ -43,6 +43,7 @@ import Fred7Img from './img/portraits/fred7.jpg';
 import CandyImg from './img/portraits/candy.jpg';
 import RipCordImg from './img/portraits/ripCord.jpg';
 import AustinImg from './img/portraits/austin.jpg';
+import AppelImg from './img/portraits/appel.jpg';
 
 
 interface Introduced {
@@ -705,11 +706,27 @@ const CHARACTERS: Character[] = [
       month: 'March',
     },
   },
+  {
+    name: 'Professor Appel',
+    img: AppelImg,
+    link: '/character-bios/Appel',
+    rank: 5,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 40,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 40',
+      year: '1985',
+      month: 'October',
+    },
+  },
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';
 type SortDir   = 'desc' | 'asc';
-type FactionFilter = 'all' | 'G.I. Joe' | 'Arashikage' | 'Enemy' | 'Civilian';
+type FactionFilter = 'all' | 'G.I. Joe' |'Enemy' | 'Arashikage' | 'Civilian';
 type StatusFilter = 'all' | 'Alive' | 'Dead';
 
 const SearchIcon: React.FC = () => (
@@ -783,7 +800,7 @@ const CharacterBios: React.FC = () => {
 
       {/* ── Filter buttons ── */}
       <div className="character-filter-wrapper">
-        {(['all', 'G.I. Joe', 'Arashikage', 'Enemy', 'Civilian'] as const).map(f => (
+        {(['all', 'G.I. Joe', 'Enemy', 'Arashikage', 'Civilian'] as const).map(f => (
           <button
             key={f}
             className={`character-filter-btn${
