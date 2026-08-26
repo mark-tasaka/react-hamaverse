@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import firefly1 from './img/firefly/firefly_1.png';
+import firefly2 from './img/firefly/firefly_2.png';
 
 const Firefly: React.FC = () => {
   return (
@@ -33,6 +34,14 @@ const Firefly: React.FC = () => {
           </p>
           <p className="italics">
             In the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s family photo of the Arashikage clan, Firefly appears as <Link to="/character-bios/Onihashi">Onihashi</Link>'s assistant. Kneeling in the front row are <Link to="/character-bios/StormShadow">Storm Shadow</Link>, the <Link to="/character-bios/HardMaster">Hard Master</Link>, the <Link to="/character-bios/SoftMaster">Soft Master</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>; standing behind them are the <Link to="/character-bios/BlindMaster">Blind Master</Link>, an eight-year-old <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/Onihashi">Professor Onihashi</Link>, and Firefly. <Link to="/character-bios/Jinx">Jinx</Link> describes Firefly in the photo only as "the blurred fellow," a practitioner of the now-extinct Koga clan (Issue #62).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Escaping the Landlocked Freighter</h2>
+          <img src={firefly2} alt="Firefly's escape from the landlocked freighter" className="profile-block-img" />
+          <p>
+            Firefly is one of the unfortunate souls buried inside the landlocked freighter when <Link to="/character-bios/CobraCommander">Cobra Commander</Link>  returns (Issue #98). While <Link to="/character-bios/Zartan">Zartan</Link> and <Link to="/character-bios/Billy">Billy</Link> organize the others to tunnel their way out, Firefly quietly goes his own way. Knowing their are damaged B.A.T.s stored within the freighter's walls, he repurposes them to dig his own escape tunnel. Firefly also knows the freighter holds Serpentor's dead body, preserved on ice — he dresses the corpse in his own clothing and disfigures the face beyond recognition, staging his own death. It takes Firefly three weeks to tunnel out.  He leaves the others behind to die (Issue #126).
           </p>
         </section>
 
