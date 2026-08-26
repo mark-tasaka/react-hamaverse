@@ -42,6 +42,7 @@ import FlintImg from './img/portraits/flint.jpg';
 import Fred7Img from './img/portraits/fred7.jpg';
 import CandyImg from './img/portraits/candy.jpg';
 import RipCordImg from './img/portraits/ripCord.jpg';
+import AustinImg from './img/portraits/austin.jpg';
 
 
 interface Introduced {
@@ -686,6 +687,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 32',
       year: '1985',
       month: 'February',
+    },
+  },
+  {
+    name: 'General Austin',
+    img: AustinImg,
+    link: '/character-bios/Austin',
+    rank: 5,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   },
 ];

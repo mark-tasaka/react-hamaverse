@@ -34,7 +34,7 @@ const SeanCollins: React.FC = () => {
             The Brocas are at the mall when Spirit grabs Fred II by the shoulder and tells him he'd better come along for some questions. Mrs. Broca strikes Spirit in the head with her purse, while Sean and Heather kick his kneecaps, knocking him to the ground. The family flees.
           </p>
           <p>
-            They run to the parking lot and jump into their car. Mrs. Broca throws grenades into the parked G.I. Joe V.A.M.P., destroying it. The Joes are forced to commandeer Bongo the Balloon Bear's van, taking Bongo along as the driver, and chase the Broca family through the streets of Staten Island. Eventually, the Brocas escape (Issue #33).
+            They run to the parking lot and jump into their car. Mrs. Broca throws grenades into the parked G.I. Joe V.A.M.P., destroying it. The Joes are forced to commandeer Bongo the Balloon Bear's van, taking <Link to="/character-bios/Candy">Bongo</Link> along as the driver, and chase the Broca family through the streets of Staten Island. Eventually, the Brocas escape (Issue #33).
           </p>
         </section>
 
