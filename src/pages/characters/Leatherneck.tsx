@@ -33,6 +33,21 @@ const Leatherneck: React.FC = () => {
           </p>
         </section>
 
+                <section className="profile-notes">
+          <h2 className="profile-notes-title">Notes from the Field</h2>
+          <p>
+            During the Marvel run (1982–1994), two versions of Leatherneck were produced: the <a href="https://www.yojoe.com/action/86/leatherneck.shtml" target="_blank" rel="noopener noreferrer">1986 version</a> (<a href="https://www.yojoe.com/action/86/leatherneck2.shtml" target="_blank" rel="noopener noreferrer">1986 repainted version</a>) and the <a href="https://www.yojoe.com/action/93/leatherneck3.shtml" target="_blank" rel="noopener noreferrer">1993 version</a>.
+          </p>
+          <p>
+            Leatherneck's personality is exactly what I love about Mr. Hama's writing. He is a genuinely difficult man that many of the Joes struggle to like, yet trust completely in the field — proof that being a good soldier does not always mean being a good person. Like in real life, there is always someone you just do not get along with. Leatherneck's redeeming quality is that he is a standup soldier when it counts. You may not care for him back at the barracks, but out on a mission, he is exactly who you want at your side.
+          </p>
+
+          
+          <p className="profile-notes-footnote">
+            *The quote is from Leatherneck's 1986 file card.
+          </p>
+        </section>
+
         <div className="profile-back-row">
           <Link to="/character-bios" className="btn">Back to Character Bios</Link>
         </div>
