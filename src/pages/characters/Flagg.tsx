@@ -102,7 +102,7 @@ const Flagg: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            Brigadier General Lawrence J. Flagg is a creation of Mr. Hama. In 1992, a figure for General Flagg was released, identifying this version of Flagg as the son of the original — James Longstreet Flagg III. To my knowledge, this son was never featured in Mr. Hama's ARAH comic.
+            Brigadier General Lawrence J. Flagg is a creation of Mr. Hama. In 1992, a figure for <a href="https://www.yojoe.com/action/92/generalflagg.shtml" target="_blank" rel="noopener noreferrer">General Flagg</a> was released, identifying this version of Flagg as the son of the original — James Longstreet Flagg III. To my knowledge, there is no reference to General Flagg's son anywhere in Mr. Hama's ARAH comic.
           </p>
           <p className="profile-notes-footnote">
             *The Major General featured in G.I. Joe Declassified is never named. I have assumed this officer is General Crowther, based on his connection to both the Jugglers and Major Bludd. In Issue #103, General Crowther hires Major Bludd to travel to Borovia to assassinate <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, in order to prevent him from returning with George Strawhacker.
