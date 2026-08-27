@@ -47,6 +47,7 @@ import AppelImg from './img/portraits/appel.jpg';
 import ScrapIronImg from './img/portraits/scrapIron.jpg';
 import DeepSixImg from './img/portraits/deepSix.jpg';
 import LeatherneckImg from './img/portraits/leatherneck2.jpg';
+import FlaggImg from './img/portraits/flagg.jpg';
 
 
 interface Introduced {
@@ -771,6 +772,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 49',
       year: '1986',
       month: 'July',
+    },
+  },
+  {
+    name: 'General Flagg',
+    img: FlaggImg,
+    link: '/character-bios/Flagg',
+    rank: 10,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   },
 ];

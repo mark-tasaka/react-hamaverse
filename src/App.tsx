@@ -49,6 +49,7 @@ import Appel from './pages/characters/Appel'
 import ScrapIron from './pages/characters/ScrapIron'
 import DeepSix from './pages/characters/DeepSix'
 import Leatherneck from './pages/characters/Leatherneck'
+import Flagg from './pages/characters/Flagg'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -117,6 +118,7 @@ function App() {
           <Route path="/character-bios/ScrapIron" element={<ScrapIron />} />
           <Route path="/character-bios/DeepSix" element={<DeepSix />} />
           <Route path="/character-bios/Leatherneck" element={<Leatherneck />} />
+          <Route path="/character-bios/Flagg" element={<Flagg />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
