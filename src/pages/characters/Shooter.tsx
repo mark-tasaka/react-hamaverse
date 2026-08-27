@@ -18,7 +18,7 @@ const Shooter: React.FC = () => {
         <h1 className="character-profile-title">Jodie "Shooter" Craig</h1>
 
         <p className="profile-intro">
-          Sergeant First Class Jodie "Shooter" Craig is G.I. Joe's secret asset — a proficient sniper deployed in situations requiring plausible deniability, her identity kept hidden even from her own teammates. On the surface, SFC Craig appears to be just another member of the Chaplain's Assistant staff cadre. Only General Flagg and Sparks know of her true role.
+          Sergeant First Class Jodie "Shooter" Craig is G.I. Joe's secret asset — a proficient sniper deployed in situations requiring plausible deniability, her identity kept hidden even from her own teammates. On the surface, SFC Craig appears to be just another member of the Chaplain's Assistant staff cadre. Only <Link to="/character-bios/Flagg">General Flagg</Link> and Sparks know of her true role.
         </p>
 
         <section className="profile-block">
@@ -33,7 +33,7 @@ const Shooter: React.FC = () => {
           <h2 className="profile-block-title">Sierra Gordo</h2>
           <img src={shooter2} alt="Shooter's mission in Sierra Gordo" className="profile-block-img" />
           <p>
-            In Sierra Gordo, four members of the team — <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, Zap, and <Link to="/character-bios/Grunt">Grunt</Link> — are carrying a blinded, severely burned prisoner to the extraction site. At the Pentagon, <Link to="/character-bios/Austin">General Austin</Link> voices concerns about the security of the extraction. General Flagg and Sparks activate Shooter (G.I. Joe Declassified #1).
+            In Sierra Gordo, four members of the team — <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, Zap, and <Link to="/character-bios/Grunt">Grunt</Link> — are carrying a blinded, severely burned prisoner to the extraction site. At the Pentagon, <Link to="/character-bios/Austin">General Austin</Link> voices concerns about the security of the extraction. <Link to="/character-bios/Flagg">General Flagg</Link> and Sparks activate Shooter (G.I. Joe Declassified #1).
           </p>
           <p>
             Shooter is flown from McGuire Air Force Base in New Jersey to Leeward Point Field at Guantanamo Bay, where she boards a helicopter bound for Sierra Gordo. En route, she removes her dog tags and any personal items that could identify her, dons her ghillie suit, and assembles her sniper rifle (G.I. Joe Declassified #2).
@@ -64,10 +64,10 @@ const Shooter: React.FC = () => {
           <h2 className="profile-block-title">Shooter's Memorial Service</h2>
           <img src={shooter4} alt="Shooter's memorial service" className="profile-block-img" />
           <p>
-            General Flagg visits the church where Shooter's mother works as a Sunday school teacher. Though he cannot divulge any details of Jodie's mission, he consoles Mrs. Craig with assurances of her daughter's courage, compassion, and integrity.
+            <Link to="/character-bios/Flagg">General Flagg</Link> visits the church where Shooter's mother works as a Sunday school teacher. Though he cannot divulge any details of Jodie's mission, he consoles Mrs. Craig with assurances of her daughter's courage, compassion, and integrity.
           </p>
           <p>
-            General Flagg has the team attend Shooter's memorial service. The Joes, puzzled as to why they've been gathered to honor a Chaplain's Assistant School cadre. General Flagg — borrowing a line from <Link to="/character-bios/Grunt">Grunt</Link>'s AIT essay — quotes Amelia Earhart: "Courage is the price that life exacts for granting peace" in his eulogy (G.I. Joe Declassified #3).
+            <Link to="/character-bios/Flagg">General Flagg</Link> has the team attend Shooter's memorial service. The Joes, puzzled as to why they've been gathered to honor a Chaplain's Assistant School cadre. <Link to="/character-bios/Flagg">General Flagg</Link> — borrowing a line from <Link to="/character-bios/Grunt">Grunt</Link>'s AIT essay — quotes Amelia Earhart: "Courage is the price that life exacts for granting peace" in his eulogy (G.I. Joe Declassified #3).
           </p>
         </section>
 

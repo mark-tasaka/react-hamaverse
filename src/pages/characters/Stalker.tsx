@@ -125,7 +125,7 @@ const Stalker: React.FC = () => {
             *<Link to="/character-bios/Hawk">Hawk</Link> was an O-5 (Lieutenant Colonel) when he oversaw the refugee camp. Between this time and the formation of G.I. Joe, he was promoted to O-6 (Colonel).
           </p>
           <p className="profile-notes-footnote">
-            **A direct quote from Sparks to General Flagg, while observing the court-martial.
+            **A direct quote from Sparks to <Link to="/character-bios/Flagg">General Flagg</Link>, while observing the court-martial.
           </p>
         </section>
 
