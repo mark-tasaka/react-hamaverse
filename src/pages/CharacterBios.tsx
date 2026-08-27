@@ -46,6 +46,7 @@ import AustinImg from './img/portraits/austin.jpg';
 import AppelImg from './img/portraits/appel.jpg';
 import ScrapIronImg from './img/portraits/scrapIron.jpg';
 import DeepSixImg from './img/portraits/deepSix.jpg';
+import LeatherneckImg from './img/portraits/leatherneck2.jpg';
 
 
 interface Introduced {
@@ -753,6 +754,22 @@ const CHARACTERS: Character[] = [
       publisher: 'Marvel',
       issueLabel: 'Issue 25',
       year: '1984',
+      month: 'July',
+    },
+  },
+  {
+    name: 'Leatherneck',
+    img: LeatherneckImg,
+    link: '/character-bios/Leatherneck',
+    rank: 7,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 49,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 49',
+      year: '1986',
       month: 'July',
     },
   },
