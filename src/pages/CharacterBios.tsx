@@ -778,7 +778,7 @@ const CHARACTERS: Character[] = [
     name: 'General Flagg',
     img: FlaggImg,
     link: '/character-bios/Flagg',
-    rank: 10,
+    rank: 40,
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Dead',

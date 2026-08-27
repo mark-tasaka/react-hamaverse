@@ -24,7 +24,7 @@ const Austin: React.FC = () => {
             Dr. Adele Burkhart, the nation's top nuclear physicist and an outspoken critic of the military and government, is captured by Cobra. Dr. Burkhart holds knowledge of the nation's nuclear secrets, and Cobra now has the means to weaponize them.
           </p>
           <p>
-            In the Pentagon, Major General Austin and Brigadier General Flagg discuss the situation. Both know a direct frontal assault using regular forces could turn into a bloodbath for their side. General Flagg suggests that a botched rescue mission, forcing Cobra's hand in killing Dr. Burkhart, might be the best course of action. General Austin counters says Dr. Burkhart death would be a political embarrassment for the U.S. A rescue mission is needed.
+            In the Pentagon, Major General Austin and Brigadier General Flagg discuss the situation. Both know a direct frontal assault using regular forces could turn into a bloodbath for their side. General Flagg suggests that a botched rescue mission, forcing Cobra's hand in killing Dr. Burkhart, might be the best course of action. General Austin counters, "Dr. Burkhart's death would be a political embarrassment for the U.S. A rescue mission is needed."
           </p>
           <p>
             General Flagg then points out that the Special Counter-Terrorist Group Delta, code named G.I. Joe, could be used for this mission. General Austin orders the sergeant to pull up the G.I. Joe dossier, which lists the names of fourteen members, including <Link to="/character-bios/Shooter">Shooter</Link> (Issue #1).
