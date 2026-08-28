@@ -126,13 +126,13 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Dr. Venom's Brainwave Scanner</h2>
           <img src={snakeEyes9} alt="Snake Eyes hooked to Dr. Venom's Brainwave Scanner" className="profile-block-img" />
           <p>
-            Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and Zap are captured while investigating a suspected Cobra stronghold in Manhattan. Knocked unconscious with sleeping gas, they awaken in the Cobra town of Springfield. <Link to="/character-bios/Scarlett">Scarlett</Link> and Zap wake up in a prison cell, while Snake Eyes wakes up in Dr. Venom's laboratory, hooked up to the Brainwave Scanner.
+            Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Zap">Zap</Link> are captured while investigating a suspected Cobra stronghold in Manhattan. Knocked unconscious with sleeping gas, they awaken in the Cobra town of Springfield. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Zap">Zap</Link> wake up in a prison cell, while Snake Eyes wakes up in Dr. Venom's laboratory, hooked up to the Brainwave Scanner.
           </p>
           <p>
             Dr. Venom uses the scanner to learn the location of the G.I. Joe secret base, and in the process, it collects and stores Snake Eyes' memories (memories that Dr. Mindbender will later use to create his Snake Eyes clone). Snake Eyes draws on his ninja training to slow his heartbeat and breathing to the semblance of death. Believing him dead, Dr. Venom and his assistant unhook Snake Eyes from the scanner — at which point Snake Eyes attacks, knocking both out.
           </p>
           <p>
-            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into <Link to="/character-bios/Scarlett">Scarlett</Link> and Zap, who have made their own escape with the help of a youth named <Link to="/character-bios/Billy">Billy</Link>. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
+            Snake Eyes makes his way out of the lab to the video arcade located above, where he runs into <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Zap">Zap</Link>, who have made their own escape with the help of a youth named <Link to="/character-bios/Billy">Billy</Link>. The trio hijacks the aircraft that had brought them to Springfield and flies back to New York, where they catch a bus to their base on Staten Island (Issue #10).
           </p>
         </section>
 

@@ -33,7 +33,7 @@ const Shooter: React.FC = () => {
           <h2 className="profile-block-title">Sierra Gordo</h2>
           <img src={shooter2} alt="Shooter's mission in Sierra Gordo" className="profile-block-img" />
           <p>
-            In Sierra Gordo, four members of the team — <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, Zap, and <Link to="/character-bios/Grunt">Grunt</Link> — are carrying a blinded, severely burned prisoner to the extraction site. At the Pentagon, <Link to="/character-bios/Austin">General Austin</Link> voices concerns about the security of the extraction. <Link to="/character-bios/Flagg">General Flagg</Link> and Sparks activate Shooter (G.I. Joe Declassified #1).
+            In Sierra Gordo, four members of the team — <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, <Link to="/character-bios/Zap">Zap</Link>, and <Link to="/character-bios/Grunt">Grunt</Link> — are carrying a blinded, severely burned prisoner to the extraction site. At the Pentagon, <Link to="/character-bios/Austin">General Austin</Link> voices concerns about the security of the extraction. <Link to="/character-bios/Flagg">General Flagg</Link> and Sparks activate Shooter (G.I. Joe Declassified #1).
           </p>
           <p>
             Shooter is flown from McGuire Air Force Base in New Jersey to Leeward Point Field at Guantanamo Bay, where she boards a helicopter bound for Sierra Gordo. En route, she removes her dog tags and any personal items that could identify her, dons her ghillie suit, and assembles her sniper rifle (G.I. Joe Declassified #2).
