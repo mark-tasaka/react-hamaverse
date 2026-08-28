@@ -29,10 +29,10 @@ const Breaker: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">The Power of Bubble Gum</h2>
+          <h2 className="profile-block-title">Breaker's Bubble Gum</h2>
           <img src={breaker2} alt="Breaker's bubble gum saving the team" className="profile-block-img" />
           <p>
-            Breaker loves chewing bubble gum and blowing bubbles, a habit that has earned him more than one chewing-out from General Flagg (Issue #3). Odd as it sounds, the habit has come to the team's rescue more than once. During a parade, Breaker, Steeler, and <Link to="/character-bios/Clutch">Clutch</Link> are manning an unarmed M.O.B.A.T. when Cobra agents, disguised as members of the marching band, surround the tank in an attempt to capture it. Over the P.A. system, Breaker blows a bubble and pops it, simulating the sound of the tank's cannon firing — enough to send the marching band surrendering on the spot (Issue #5).
+            Breaker loves chewing bubble gum and blowing bubbles, a habit that has earned him more than one chewing-out from <Link to="/character-bios/Flagg">General Flagg</Link> (Issue #3). Odd as it sounds, the habit has come to the team's rescue more than once. During a parade, Breaker, Steeler, and <Link to="/character-bios/Clutch">Clutch</Link> are manning an unarmed M.O.B.A.T. when Cobra agents, disguised as members of the marching band, surround the tank in an attempt to capture it. Over the P.A. system, Breaker blows a bubble and pops it, simulating the sound of the tank's cannon firing — enough to send the marching band surrendering on the spot (Issue #5).
           </p>
           <p>
             Breaker, Gung-Ho, and <Link to="/character-bios/Stalker">Stalker</Link> are captured in Sierra Gordo, bound and transported aboard a rat-infested riverboat. Breaker spits his gum onto the rope binding them, drawing the rats in to gnaw at it. Once the rope is sufficiently weakened, the Joes break free and overpower their Cobra captors (Issue #12).
@@ -40,7 +40,7 @@ const Breaker: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Death in Trucial Abysmia</h2>
+          <h2 className="profile-block-title">A Costly Mission</h2>
           <img src={breaker3} alt="Breaker's death in Trucial Abysmia" className="profile-block-img" />
           <p>
             Breaker is killed on an ill-fated mission to Trucial Abysmia, a mission that claims the lives of several of his teammates. Lt. Falcon leads a team of Joes into the country, where they are captured by Cobra and thrown into a pit. A S.A.W. Viper opens fire on the captive Joes, killing Doc, Thunder, Crankcase, and Heavy Metal. The surviving Joes manage to escape and steal a Cobra R.A.G.E. tank, but it is later struck, killing Breaker, Quick Kick, and Crazy Legs. Only Falcon, Duke, and Cross Country survive the mission (Issue #109).
@@ -50,7 +50,7 @@ const Breaker: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), a single version of Breaker was produced: the 1982 version, with a 1983 swivel-arm variant. Breaker's file card lists his rank as E-4, consistent with his being addressed as Specialist Kibbey in G.I. Joe Declassified. In Issue #33, General Austin promotes Breaker, along with seven other original team members, by one pay grade, assigning them administrative duties to accommodate the growing roster. By the time of his death, Breaker's rank had risen to E-5 (Sergeant).
+            During the Marvel run (1982–1994), a single version of Breaker was produced: the <a href="https://www.yojoe.com/action/82/breaker.shtml" target="_blank" rel="noopener noreferrer">1982 version</a>, with a <a href="https://www.yojoe.com/action/83/breaker1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> variant. Breaker's file card lists his rank as E-4, consistent with his being addressed as Specialist Kibbey in G.I. Joe Declassified. In Issue #33, <Link to="/character-bios/Austin">General Austin</Link> promotes Breaker, along with seven other original team members, by one pay grade, assigning them administrative duties to accommodate the growing roster. By the time of his death, Breaker's rank had risen to E-5 (Sergeant).
           </p>
         </section>
 
