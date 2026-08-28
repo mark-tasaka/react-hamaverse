@@ -10,7 +10,6 @@ import flagg4 from './img/flagg/flagg_4.png';
 import flagg5 from './img/flagg/flagg_5.png';
 import flagg6 from './img/flagg/flagg_6.png';
 import flagg7 from './img/flagg/flagg_7.png';
-import flagg8 from './img/flagg/flagg_8.png';
 
 const Flagg: React.FC = () => {
   return (
@@ -90,7 +89,7 @@ const Flagg: React.FC = () => {
 
         <section className="profile-block">
           <h2 className="profile-block-title">General Flagg's Death</h2>
-          <img src={flagg8} alt="General Flagg's death" className="profile-block-img" />
+          <img src={flagg7} alt="General Flagg's death" className="profile-block-img" />
           <p>
             The G.I. Joe modular headquarters, located above the Pit at Fort Wadsworth, comes under attack. Major Bludd, Scarface, and a comatose <Link to="/character-bios/Baroness">Baroness</Link> are being held as prisoners inside. A Cobra trooper flies a F.A.N.G. helicopter to the roof of the headquarters and plants explosives. Major Bludd and Scarface each have one hand chained to the bars of their cell. Major Bludd kicks Doc, knocking him to the floor, while Scarface kicks the gun from General Flagg's hand. Major Bludd grabs the weapon, shoots General Flagg, and seizes the keys from Doc. He unlocks his cuffs and departs with the <Link to="/character-bios/Baroness">Baroness</Link>, leaving Scarface behind.
           </p>
