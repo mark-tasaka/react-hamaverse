@@ -5,6 +5,10 @@ import './css/CharacterProfile.css';
 
 import baroness1 from './img/baroness/baroness_1.png';
 import baroness2 from './img/baroness/baroness_2.png';
+import baroness3 from './img/baroness/baroness_3.png';
+import baroness4 from './img/baroness/baroness_4.png';
+import baroness5 from './img/baroness/baroness_5.png';
+import baroness6 from './img/baroness/baroness_6.png';
 
 const Baroness: React.FC = () => {
   return (
@@ -26,7 +30,47 @@ const Baroness: React.FC = () => {
             When Eugen and Anastasia arrive in Saigon, the Tet Offensive begins, plunging the city into chaos. The two find the warehouse empty of medical supplies. Just then, two Vietnamese men enter, one carrying an AK-47 over his back, both visibly surprised to see Eugen. Eugen asks his sister to wait in the office while he speaks with the men. From inside, Anastasia hears gunfire coming from the room where her brother and the men had been talking. When she emerges, she finds her brother and the two Vietnamese men lying dead.  An American soldier (<Link to="/character-bios/SnakeEyes">Snake Eyes</Link>) stands over their bodies. Anastasia believes the American killed her brother.
           </p>
           <p>
-            What Anastasia doesn't know is that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> had tracked the two men to the warehouse after they opened fire on him and his companions earlier that day, killing one soldier, Cory Barnett, and wounding two others, <Link to="/character-bios/Stalker">Lonzo Wilkinson</Link> and <Link to="/character-bios/StormShadow">Thomas Arashikage</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> was waiting on the outside window ledge when the two men met with Eugen. Eugen demanded to know where the medical supplies had gone; one of the men told him they'd been sold on the black market to buy weapons, then raised his AK-47 and opened fire on Eugen at point-blank range. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> burst through the window with his Colt .45 and killed both men (Issue #95).
+            What Anastasia doesn't know is that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> had tracked the two men to the warehouse after they opened fire on him and his companions earlier that day, killing one soldier, Cory Barnett, and wounding two others, <Link to="/character-bios/Stalker">Lonzo Wilkinson</Link> and <Link to="/character-bios/StormShadow">Thomas Arashikage</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> was waiting on the outside window ledge when the two men met with Eugen. Eugen demanded to know where the medical supplies had gone; one of the men told him they'd been sold on the black market to buy weapons, then raised his AK-47 and opened fire on Eugen at point-blank range. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> burst through the window with his Colt .45 and killed both men (<Link to="/comic-issues/Issue95">Issue #95</Link>).
+          </p>
+        </section>
+
+        
+                <section className="profile-block">
+          <h2 className="profile-block-title">Crossing Paths with James McCullen Destro XXIV in Saigon</h2>
+          <img src={baroness3} alt="Anastasia crossing paths with the future Destro in Saigon" className="profile-block-img" />
+          <p>
+            Anastasia briefly crosses paths with her future lover, James McCullen Destro XXIV, in Saigon in the aftermath of her brother's murder. A pair of MPs escort a tearful Anastasia away from the crime scene, just as a youth passes by with his father, Destro XXIII. It is unlikely Anastasia ever knew who the father and son were as they passed her (Issue #96). It will not be until years later, when Anastasia is a university student in Edinburgh, Scotland, that she formally meets her future lover.
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">A Scar to Remember Her By</h2>
+          <img src={baroness4} alt="Anastasia and Cully at university in Edinburgh" className="profile-block-img" />
+          <p>
+            As a university student in Edinburgh, Scotland, Anastasia is actively involved in the left-wing activist movement — a sharp contrast to her aristocratic upbringing. She is introduced to the future Destro, a fellow university student, at a fencing class. The instructor identifies Destro as the son of a laird and Anastasia as the daughter of a baron, remarking that the two have something in common. After the match, Destro tells her his given name is James, though everyone knows him as Cully. It is here that Cully gives Anastasia the name "the Baroness." The two fall in love.
+          </p>
+          <p>
+            One day, Cully informs the Baroness that his father's health is failing, and that he must return to the family castle to take over his father's role. He asks her to marry him and come with him. The Baroness tells him she has found real fulfillment in the student movement, and cannot see herself as some upper-class wife overseeing charities and hosting garden parties.
+          </p>
+          <p>
+            The Baroness and Cully share one final fencing match before he departs, choosing to fence without their masks. Cully teases her that this will be his last chance to earn a coveted dueling scar. While sparring, the Baroness tells him that if he truly loves her, he would let his family's business take care of itself. Cully replies that if she truly loves him, she would leave behind her silly activism and come away with him. "What an utterly male chauvinist thing to say," the Baroness snaps, striking his face with her fencing saber. Cully's face begins to bleed, and the Baroness is horrified. "I didn't mean that!" she cries.
+          </p>
+          <p>
+            Cully rises and walks away, telling her that her anger was righteous, and that he cannot blame her for it. He thanks her for giving him something to remember her by — the scar — and tells her he is sorry he could not love her enough to pull her away from her passions (Issue #252).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Calling Him Destro</h2>
+          <img src={baroness6} alt="The Baroness reuniting with Destro at Cobra headquarters" className="profile-block-img" />
+          <p>
+            The next time the Baroness meets her former lover, Cully, is years later, at Cobra headquarters. By now, the Baroness has traded her left-wing political activism for international terrorism, having risen into Cobra Commander's inner circle.
+          </p>
+          <p>
+            She finds Cully wearing the silver beryllium-steel mask passed down through the McCullen family for generations — the same mask his late father once wore. Seeing her former lover behind it, she asks why she must call him by his new name, even in private. She is torn between her loyalty to her new master, <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, and her feelings for the man she once loved.
+          </p>
+          <p>
+            Cully asks the Baroness to say his name. She turns to him and asks if it truly matters that much to him. "Yes," he says. The Baroness answers, "Destro" — calling him that for the very first time (Issue #14).
           </p>
         </section>
 
@@ -41,6 +85,21 @@ const Baroness: React.FC = () => {
           </p>
           <p>
             Major Bludd brings the Baroness to the Bern Institute of Reconstructive Surgery in the Swiss Alps, where they meet <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link>, who will perform the surgery. Major Bludd gives the name "Baroness DeCobray," and <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> replies that he isn't familiar with the title — implying it's a name the Major has simply invented. <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> tells him discretion will cost extra, a telling glimpse of his loose morals. The surgery is a success, restoring the Baroness' appearance. After her recovery, the Baroness wears her trademark black leather uniform afterward (Issue #23).
+          </p>
+        </section>
+
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">The Fax, the Face</h2>
+          <img src={baroness5} alt="The Baroness recognizing Snake Eyes' face" className="profile-block-img" />
+          <p>
+            One day, at the Cobra Consulate, the Baroness receives a phone call from <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link>, who tells her that his newest patient's bills are being paid through the Chaplain's Assistant School at Fort Wadsworth. He also sends her a fax of the patient's face, taken twenty years earlier. The Baroness immediately recognizes it as the face of the man who killed her brother in Saigon two decades before, and puts together that it belongs to a G.I. Joe member named <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/comic-issues/Issue93">Issue #93</Link>).
+          </p>
+          <p>
+            During <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' sixth and final procedure at the Bern Institute of Reconstructive Surgery, the Baroness and a mixed team of Night and Alley Vipers land at the hospital. <Link to="/character-bios/Scarlett">Scarlett</Link>, alerted by <Link to="/character-bios/Hawk">Hawk</Link> to the plot between the Baroness and <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link>, is already on guard. When the Baroness reaches the operating room, she finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gone and <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> and his staff tied up. She and her Vipers search the building for <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, eventually finding <Link to="/character-bios/Scarlett">Scarlett</Link> wheeling an unconscious <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> down the hall. A firefight breaks out. <Link to="/character-bios/Scarlett">Scarlett</Link> shoots out the lights, and the Baroness orders the Night Vipers to switch to night vision while the Alley Vipers move to the outside ledge.
+          </p>
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> wheels <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> into a nearby room as a round grazes her right upper arm and the Alley Vipers crash through the windows. The Baroness enters and kicks the gun from <Link to="/character-bios/Scarlett">Scarlett</Link>'s hand. When one of the Alley Vipers asks if they should finish her off, the Baroness refuses — she wants to do it herself — and shoots <Link to="/character-bios/Scarlett">Scarlett</Link> point-blank in the head (<Link to="/comic-issues/Issue94">Issue #94</Link>). <Link to="/character-bios/Scarlett">Scarlett</Link> does not die from the shot; the bullet strikes the dome of her skull at an oblique angle, deflecting off and leaving her in a coma instead. The Baroness takes the unconscious <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to the Cobra Consulate in New York, where she intends to extract her revenge (<Link to="/comic-issues/Issue95">Issue #95</Link>).
           </p>
         </section>
 
