@@ -49,6 +49,7 @@ import DeepSixImg from './img/portraits/deepSix.jpg';
 import LeatherneckImg from './img/portraits/leatherneck2.jpg';
 import FlaggImg from './img/portraits/flagg.jpg';
 import ZapImg from './img/portraits/zap.jpg';
+import BreakerImg from './img/portraits/breaker.jpg';
 
 
 
@@ -800,6 +801,22 @@ const CHARACTERS: Character[] = [
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
+    },
+  },
+  {
+    name: 'Breaker',
+    img: BreakerImg,
+    link: '/character-bios/Breaker',
+    rank: 11,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Dead',
     introduced: {
       issueNumber: 1,
       publisher: 'Marvel',
