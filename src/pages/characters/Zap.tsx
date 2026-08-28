@@ -47,7 +47,7 @@ const Zap: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), two versions of Zap were produced: the 1982 version (with a 1983 swivel-arm variant) and the 1991 version. Zap's original 1982 file card lists his grade as E-4, while his 1991 file card lists him as E-6. In Issue #33, General Austin promotes Zap and seven other original team members by one pay grade, assigning them administrative duties in light of the growing roster. It appears Zap received a further promotion, from E-5 to E-6, sometime between Issue #33 and his 1991 file card.
+            During the Marvel run (1982–1994), two versions of Zap were produced: the <a href="https://www.yojoe.com/action/82/zap.shtml" target="_blank" rel="noopener noreferrer">1982 version</a> (<a href="https://www.yojoe.com/action/83/zap1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm variant</a>) and the <a href="https://www.yojoe.com/action/91/zap2.shtml" target="_blank" rel="noopener noreferrer">1991 version</a>. Zap's original 1982 file card lists his grade as E-4, while his 1991 file card lists him as E-6. In Issue #33, General Austin promotes Zap and seven other original team members by one pay grade, assigning them administrative duties in light of the growing roster. It appears Zap received a further promotion, from E-5 to E-6, sometime between Issue #33 and his 1991 file card.
           </p>
         </section>
 
