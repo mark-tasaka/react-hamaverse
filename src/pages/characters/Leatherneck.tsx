@@ -20,7 +20,7 @@ const Leatherneck: React.FC = () => {
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">A Chip on His Shoulder</h2>
+          <h2 className="profile-block-title">Giving Outback and Roadblock a Hard Time</h2>
           <img src={leatherneck1} alt="Leatherneck's confrontation with Outback" className="profile-block-img" />
           <p className = "italics">
             <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, Quick Kick, and Outback are sent on a covert mission to Borovia (a Communist state) under the guise of trade emissaries. Their cover is blown, and Snow Job and Quick Kick are wounded. <Link to="/character-bios/Stalker">Stalker</Link> orders Outback to escape, despite Outback's wish to stay and fight, so he can report back to Hawk on what happened in Borovia (Issue #61). Outback makes it out and returns to America.
@@ -29,7 +29,7 @@ const Leatherneck: React.FC = () => {
             Outback arrives at Camp Greer, the location of the Pit III, to a mixed reception. Some Joes are simply relieved he made it out alive; others quietly question why he is the only one who did. Leatherneck is the loudest and most aggressive of the doubters — never one to keep an opinion to himself, he corners Outback and gets right in his face, accusing him of abandoning his three teammates to rot in a Borovian gulag just to save his own skin.
           </p>
           <p>
-            Later that evening, Roadblock tries to smooth things over, explaining Outback's side of the story — that <Link to="/character-bios/Stalker">Stalker</Link> had personally ordered him to retreat. Leatherneck refuses to hear it, turning his confrontational nature on Roadblock instead, squaring up in his face and refusing to back down. The shouting match grows so loud that Gung-Ho and two other Joes climb up through the trapdoor, remarking that they could hear the two of them arguing three levels down (Issue #62).
+            Later that evening, Roadblock tries to smooth things over, explaining Outback's side of the story — that <Link to="/character-bios/Stalker">Stalker</Link> ordered him to retreat. Leatherneck refuses to hear it, turning his confrontational nature on Roadblock instead, squaring up in his face and refusing to back down. The shouting match grows so loud that Gung-Ho and two other Joes climb up through the trapdoor, remarking that they could hear the two of them arguing three levels down (Issue #62).
           </p>
         </section>
 
