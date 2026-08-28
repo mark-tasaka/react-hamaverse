@@ -48,6 +48,8 @@ import ScrapIronImg from './img/portraits/scrapIron.jpg';
 import DeepSixImg from './img/portraits/deepSix.jpg';
 import LeatherneckImg from './img/portraits/leatherneck2.jpg';
 import FlaggImg from './img/portraits/flagg.jpg';
+import ZapImg from './img/portraits/zap.jpg';
+
 
 
 interface Introduced {
@@ -782,6 +784,22 @@ const CHARACTERS: Character[] = [
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Dead',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
+    },
+  },
+  {
+    name: 'Zap',
+    img: ZapImg,
+    link: '/character-bios/Zap',
+    rank: 10,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
     introduced: {
       issueNumber: 1,
       publisher: 'Marvel',
