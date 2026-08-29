@@ -44,7 +44,7 @@ const Baroness: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">A Scar to Remember Her By</h2>
+          <h2 className="profile-block-title">Meeting James 'Cully' at Edinburgh</h2>
           <img src={baroness4} alt="Anastasia and Cully at university in Edinburgh" className="profile-block-img" />
           <p>
             As a university student in Edinburgh, Scotland, Anastasia is actively involved in the left-wing activist movement — a sharp contrast to her aristocratic upbringing. She is introduced to the future Destro, a fellow university student, at a fencing class. The instructor identifies Destro as the son of a laird and Anastasia as the daughter of a baron, remarking that the two have something in common. After the match, Destro tells her his given name is James, though everyone knows him as Cully. It is here that Cully gives Anastasia the name "the Baroness." The two fall in love.
