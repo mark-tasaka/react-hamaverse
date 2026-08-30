@@ -116,7 +116,7 @@ const Zartan: React.FC = () => {
           </p>
         </section>
 
-                <section className="profile-block">
+          <section className="profile-block">
           <h2 className="profile-block-title">Seeking Absolution: Surrending Evening Shade</h2>
           <img src={zartan6} alt="Zartan surrendering Evening Shade" className="profile-block-img" />
           <p>

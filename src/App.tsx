@@ -65,6 +65,7 @@ import Resources from './pages/Resources'
 import Tribute from './pages/Tribute'
 import Contact from './pages/Contact'
 import Updates from './pages/Updates'
+import WishList from './pages/WishList'
 import './App.css'
 
 function App() {
@@ -135,6 +136,7 @@ function App() {
           <Route path="/tribute" element={<Tribute />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/updates" element={<Updates />} />
+          <Route path="/wishList" element={<WishList />} />
         </Routes>
       </main>
       <Footer />

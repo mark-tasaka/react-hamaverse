@@ -27,7 +27,6 @@ const Tribute: React.FC = () => {
             While G.I. Joe began as a toy line, Mr. Hama wrote the comics for a wider audience. He respected the intelligence and sophistication of his readers, bringing a level of realism and grit to the stories that set them apart. Drawing on his own experience as a Vietnam War veteran, he used authentic military terminology and captured the emotions felt by soldiers on the battlefield. He told the story of individuals — not from the perspective of generals or high command, but from that of the rank-and-file soldier on the ground, fighting alongside friends they'd come to depend on utterly.
           </p>
         </section>
-
         <section className="tribute-block">
           <div className="tribute-block-media">
             <img src={hama2} alt="Larry Hama and Bart Wulf" />
@@ -51,12 +50,17 @@ const Tribute: React.FC = () => {
           <p>
             From what I've learned listening to Mr. Hama's interviews, his approach to storytelling centers on character — building the story one page at a time, without always knowing what comes next until the final page is finished. When he reached the last pages of his classic "<Link to="/comic-issues/Issue21">Silent Interlude</Link>" (Issue #21), for instance, he spontaneously drew matching I Ching hexagram tattoos on the forearms of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Storm Shadow, linking the two — without yet knowing exactly how they were connected. That connection wouldn't become clear to Mr. Hama himself until he began writing <Link to="/comic-issues/Issue26">Issue #26</Link> ("Snake Eyes: The Origin"). Like the reader, the story of Snake Eyes and Storm Shadow unfolded page by page for Mr. Hama as well; he didn't discover that Storm Shadow hadn't killed his own uncle until he reached the final pages of <Link to="/comic-issues/Issue27">Issue #27</Link> ("Snake Eyes: The Origin, Part 2"). It is this unique, character-first style of storytelling that makes the ARAH stories so memorable.
           </p>
-
           <h2 className="tribute-block-title">Tunnel Rat: Hasbro's Tribute to Mr. Hama</h2>
           <p>
             In 1987, to honor Mr. Hama, Hasbro produced the <a href="https://www.yojoe.com/action/87/tunnelrat.shtml" target="_blank" rel="noopener noreferrer">Tunnel Rat action figure</a>, sculpted in his likeness. Mr. Hama served in the 18th Engineer Brigade of the U.S. Army Corps of Engineers as a firearms and explosive ordnance expert. He also served as a Tunnel Rat — an unofficial role held by specialists who entered, cleared, and destroyed enemy tunnel complexes in Vietnam. Serving as a Tunnel Rat was purely voluntary, given the extreme danger involved. Tunnel Rat's file card lists him as an Explosive Ordnance Disposal (EOD) specialist (89D)***, holding the rank of E-5 (Sgt. or Spec. 5). I believe Tunnel Rat's file card reflects Mr. Hama's own MOS and rank.
           </p>
         </section>
+
+        
+        <div className="btn-row-center">
+          <Link to="/wishlist" className="btn">My ARAH Wish List</Link>
+        </div>
+
 
         <section className="tribute-notes">
           <p className="tribute-notes-footnote">
@@ -69,7 +73,6 @@ const Tribute: React.FC = () => {
             ***EOD specialists (89D) are highly trained personnel who undergo a rigorous selection process and are considered among the elite of the U.S. Army.
           </p>
         </section>
-
 
       </div>
     </main>
