@@ -8,6 +8,7 @@ import zartan2 from './img/zartan/zartan_2.png';
 import zartan3 from './img/zartan/zartan_3.png';
 import zartan4 from './img/zartan/zartan_4.png';
 import zartan5 from './img/zartan/zartan_5.png';
+import zartan6 from './img/zartan/zartan_6.png';
 
 const Zartan: React.FC = () => {
   return (
@@ -112,6 +113,17 @@ const Zartan: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/StormShadow">Storm Shadow</Link> reveals that Morning Light is on display in a museum, then presents Evening Shade to Zartan, telling him it belongs with <Link to="/character-bios/Onihashi">Professor Onihashi</Link>'s last apprentice. With her objective out of reach, <Link to="/character-bios/PalePeony">Pale Peony</Link> disarms her nephew, stopping him from firing on <Link to="/character-bios/StormShadow">Storm Shadow</Link>. <Link to="/character-bios/StormShadow">Storm Shadow</Link> then offers to buy the two noodles in the East Village, and the three depart in haste as police close in. Zartan makes his own escape, departing with Evening Shade in hand (Storm Shadow #4).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Seeking Absolution: Surrending Evening Shade</h2>
+          <img src={zartan6} alt="Zartan surrendering Evening Shade" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> is staying with his aunt, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>, at her home outside the old Arashikage clan grounds. Something calls to him in the middle of the night, drawing him out to walk the grounds himself. There he meets Zartan, who shifts into the form of the <Link to="/character-bios/BlindMaster">Blind Master</Link>. Zartan speaks of his guilt over killing both the <Link to="/character-bios/HardMaster">Hard Master</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link>, and how he sought penance by mentoring <Link to="/character-bios/Tyrone">Tyrone</Link> in the <Link to="/character-bios/BlindMaster">Blind Master</Link>'s image — becoming him, yet never once feeling absolved.
+          </p>
+          <p>
+            Zartan recalls the day <Link to="/character-bios/StormShadow">Storm Shadow</Link> first gave him Evening Shade, then presents the blade back to him, saying it belongs with the Arashikage clan. <Link to="/character-bios/StormShadow">Storm Shadow</Link> accepts it graciously. When he looks up again, Zartan is gone (Issue #217).
           </p>
         </section>
 
