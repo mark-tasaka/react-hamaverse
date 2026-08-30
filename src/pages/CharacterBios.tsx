@@ -50,6 +50,7 @@ import LeatherneckImg from './img/portraits/leatherneck2.jpg';
 import FlaggImg from './img/portraits/flagg.jpg';
 import ZapImg from './img/portraits/zap.jpg';
 import BreakerImg from './img/portraits/breaker.jpg';
+import RussImg from './img/portraits/russ.jpg';
 
 
 
@@ -823,6 +824,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 1',
       year: '1982',
       month: 'March',
+    },
+  },
+  {
+    name: 'Russ',
+    img: RussImg,
+    link: '/character-bios/Russ',
+    rank: 1,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 100,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 100',
+      year: '1990',
+      month: 'May',
     },
   },
 ];
