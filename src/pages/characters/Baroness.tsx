@@ -10,6 +10,7 @@ import baroness4 from './img/baroness/baroness_4.png';
 import baroness5 from './img/baroness/baroness_5.png';
 import baroness6 from './img/baroness/baroness_6.png';
 import baroness7 from './img/baroness/baroness_7.png';
+import baroness8 from './img/baroness/baroness_8.png';
 
 const Baroness: React.FC = () => {
   return (
@@ -117,7 +118,7 @@ const Baroness: React.FC = () => {
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> kills the team of Night Vipers sent after him. The Baroness sees Destro off at the rooftop helicopter landing.
           </p>
           <p>
-            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the Baroness herself. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> then proceeds upward to confront them. The Baroness changes her mind about his capture orders her Vipers to hunt him down and kill him (Issue #95).
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the Baroness herself. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> then proceeds upward to confront them. The Baroness changes her mind about his capture orders her Vipers to hunt him down and kill him (<Link to="/comic-issues/Issue95">Issue #95</Link>).
           </p>
           <p>
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> kills more Vipers as he makes his way up.  The surviving Vipers fall back to the penthouse with the Baroness, who orders them to barricade the door. Destro calls to tell her he is returning to the Consulate — he can see smoke rising all the way from New Jersey. On the video monitor, one of the cameras shows <Link to="/character-bios/StormShadow">Storm Shadow</Link> outside the barricaded door.  The Baroness orders a Heat-Viper to fire a missile at it.
@@ -132,7 +133,27 @@ const Baroness: React.FC = () => {
             Destro tells the Baroness that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugene DeCobray was wearing a bulletproof vest — it was the AK-47 rounds themselves that killed him.
           </p>
           <p>
-            Overcome with guilt, the Baroness strikes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' hand, breaking his grip on her. <Link to="/character-bios/StormShadow">Storm Shadow</Link> catches her before she can fall to her death, and together, he and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> help her toward Destro's helicopter. As Destro reaches out for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, the floor beneath him and <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives way. Fortunately, a Tomahawk helicopter is nearby — Lift Ticket executes a barrel-roll maneuver, catching <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall (Issue #96).
+            Overcome with guilt, the Baroness strikes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' hand, breaking his grip on her. <Link to="/character-bios/StormShadow">Storm Shadow</Link> catches her before she can fall to her death, and together, he and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> help her toward Destro's helicopter. As Destro reaches out for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, the floor beneath him and <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives way. Fortunately, a Tomahawk helicopter is nearby — Lift Ticket executes a barrel-roll maneuver, catching <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall (<Link to="/comic-issues/Issue96">Issue #96</Link>).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">"I Would Give Up More Than That"</h2>
+          <img src={baroness8} alt="The Baroness and Destro at Broca Beach" className="profile-block-img" />
+          <p>
+            The next day, the Baroness and Destro are in Broca Beach. Dressed in civilian attire, the Baroness is packing her bags. When Destro asks why, she tells him the events of the past few weeks have left her whole life feeling meaningless, and that she needs to go somewhere to put herself back together.
+          </p>
+          <p>
+            Destro asks to come with her. The Baroness points out that, with his mask, he could only ever travel within Cobra or arms-merchant circles — and who would look after his family's business and manage Broca Beach in his absence?
+          </p>
+          <p>
+            Destro removes his mask and tells her that Darklon can run things for a while.
+          </p>
+          <p>
+            Shocked, the Baroness asks, "You would give up wearing the Destro family mask? Turn your back on centuries of tradition... for me?"
+          </p>
+          <p>
+            "I would give up more than that." The two kiss (Issue #97).
           </p>
         </section>
 
