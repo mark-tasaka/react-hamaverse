@@ -9,6 +9,7 @@ import baroness3 from './img/baroness/baroness_3.png';
 import baroness4 from './img/baroness/baroness_4.png';
 import baroness5 from './img/baroness/baroness_5.png';
 import baroness6 from './img/baroness/baroness_6.png';
+import baroness7 from './img/baroness/baroness_7.png';
 
 const Baroness: React.FC = () => {
   return (
@@ -100,6 +101,38 @@ const Baroness: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Scarlett">Scarlett</Link> wheels <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> into a nearby room as a round grazes her right upper arm and the Alley Vipers crash through the windows. The Baroness enters and kicks the gun from <Link to="/character-bios/Scarlett">Scarlett</Link>'s hand. When one of the Alley Vipers asks if they should finish her off, the Baroness refuses — she wants to do it herself — and shoots <Link to="/character-bios/Scarlett">Scarlett</Link> point-blank in the head (<Link to="/comic-issues/Issue94">Issue #94</Link>). <Link to="/character-bios/Scarlett">Scarlett</Link> does not die from the shot; the bullet strikes the dome of her skull at an oblique angle, deflecting off and leaving her in a coma instead. The Baroness takes the unconscious <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to the Cobra Consulate in New York, where she intends to extract her revenge (<Link to="/comic-issues/Issue95">Issue #95</Link>).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Learning the Truth</h2>
+          <img src={baroness7} alt="The Baroness learning the truth about Snake Eyes" className="profile-block-img" />
+          <p>
+            The Baroness takes the now-conscious <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The Baroness tells <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> she has killed his beloved <Link to="/character-bios/Scarlett">Scarlett</Link> and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
+          </p>
+          <p>
+            While meeting with Destro, a Tele-Viper discreetly shows her footage of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> breaking free of his chains and killing the Paine Brothers, taking their weapons and clothing. The Baroness whispers to the Tele-Viper to quietly send a team down to recapture him.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> kills the team of Night Vipers sent after him, while the Baroness sees Destro off at the rooftop helicopter landing.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the Baroness herself. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> then proceeds upward to confront them, and the Baroness orders her Vipers to kill him (Issue #95).
+          </p>
+          <p>
+            The surviving Vipers fall back to the penthouse with the Baroness, who orders them to barricade the door. Destro calls to tell her he is returning to the Consulate — he can see smoke rising all the way from New Jersey. On the video monitor, one of the cameras shows <Link to="/character-bios/StormShadow">Storm Shadow</Link> outside the barricaded door, and the Baroness orders a Heat-Viper to fire a missile at it.
+          </p>
+          <p>
+            The missile blows the barricade open; <Link to="/character-bios/StormShadow">Storm Shadow</Link> dodges the blast and enters, searching for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, who reveals himself from beneath a Viper disguise. The sword brothers square off as the penthouse begins to collapse around them.
+          </p>
+          <p>
+            The Vipers are thrown to their deaths as the floor gives way. The Baroness is about to fall as well, when <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> catches her hand. Shocked that he would save her, she draws her pistol with her free hand and points it at him, vowing she will still have her revenge. At that moment, Destro arrives in the crew compartment of a Cobra helicopter.
+          </p>
+          <p>
+            Destro tells the Baroness that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugene DeCobray was wearing a bulletproof vest — it was the AK-47 rounds themselves that killed him.
+          </p>
+          <p>
+            Overcome with guilt, the Baroness strikes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' hand, breaking his grip on her. <Link to="/character-bios/StormShadow">Storm Shadow</Link> catches her before she can fall to her death, and together, he and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> help her toward Destro's helicopter. But as Destro reaches out for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, the floor beneath him and <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives way. Fortunately, a Tomahawk helicopter is nearby — Lift Ticket executes a barrel-roll maneuver, catching <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall (Issue #96).
           </p>
         </section>
 
