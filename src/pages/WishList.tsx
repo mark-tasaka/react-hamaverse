@@ -33,7 +33,7 @@ const WishList: React.FC = () => {
 
           <h3 className="wishlist-subblock-title">Her Brothers Today</h3>
           <p>
-            Given their backgrounds as martial arts instructors, I would be interesting to know what brothers are doing now. Did any of them go on to serve in the military, perhaps in the special forces community? Or find their way into a three-letter intelligence agency?
+            Given their backgrounds as martial arts instructors, I would be interesting to know what brothers are doing now. Did any of them go on to serve in the military, perhaps in the special forces community? Work for three-letter intelligence agencies?
           </p>
           
           <h3 className="wishlist-subblock-title">Scarlett's Connections to Ireland</h3>
