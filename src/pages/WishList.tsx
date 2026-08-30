@@ -5,6 +5,7 @@ import './css/WishList.css';
 
 import wishList1 from './img/wishList/wishList_1.png';
 import wishList2 from './img/wishList/wishList_2.png';
+import wishList3 from './img/wishList/wishList_3.png';
 
 const WishList: React.FC = () => {
   return (
@@ -58,7 +59,7 @@ const WishList: React.FC = () => {
 
           <h3 className="wishlist-subblock-title">Snake Eyes' Voice</h3>
           <p>
-            When the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returned, his vocal cords were restored along with him. I love how you conveyed the love between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> largely through body language rather than words. For instance, outside the Bern Institute of Reconstructive Surgery, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> touches <Link to="/character-bios/Scarlett">Scarlett</Link>'s hand, looks up at the sun, then glances toward a nearby couple holding hands (Issue #93) — wordlessly conveying to her exactly why he wants to go through with the surgery. Now that his voice has returned, I would love to see more dialogue between the two, where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> can finally express, in his own words, what <Link to="/character-bios/Scarlett">Scarlett</Link> means to him and how much he loves her.
+            When the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returned, his vocal cords were restored along with him. I love how you conveyed the love between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> largely through body language rather than words. For instance, outside the Bern Institute of Reconstructive Surgery, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> touches <Link to="/character-bios/Scarlett">Scarlett</Link>'s hand, looks up at the sun, then glances toward a nearby couple holding hands (<Link to="/comic-issues/Issue93">Issue #93</Link>) — wordlessly conveying to her exactly why he wants to go through with the surgery. Now that his voice has returned, I would love to see more dialogue between the two, where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> can finally express, in his own words, what <Link to="/character-bios/Scarlett">Scarlett</Link> means to him and how much he loves her.
           </p>
 
           <h3 className="wishlist-subblock-title">Lost Memories</h3>
@@ -67,6 +68,19 @@ const WishList: React.FC = () => {
           </p>
           <p>
             It would be interesting to explore how this memory gap affects his relationships going forward. For instance, while <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> may know, secondhand, that he once crossed blades with <Link to="/character-bios/StormShadow">Storm Shadow</Link> during his time as a Cobra agent, he will have no actual memory of the event itself, since it took place after the Brainwave Scan.
+          </p>
+        </section>
+
+                <section className="wishlist-block">
+          <div className="wishlist-block-media">
+            <img src={wishList3} alt="Joes Everyone Loves to Hate" />
+          </div>
+          <h2 className="wishlist-block-title">Joes Everyone Loves to Hate</h2>
+          <p>
+            I love how you based the Joes on real people you know, with real personalities. In the Marvel run, I love how you portrayed certain Joes with difficult personalities — showing that you may not like a person back at the barracks, but you know you can utterly depend on them in the field. <Link to="/character-bios/Leatherneck">Leatherneck</Link>'s brash, loudmouthed, and ill-tempered personality is on full display when Outback returns without his team from Borovia (Issue #62). <Link to="/character-bios/DeepSix">Deep Six</Link>'s lack of emotion, interest, or enthusiasm is just as memorable, with Airborne having to hold back Wild Bill from striking him after <Link to="/character-bios/DeepSix">Deep Six</Link> walks right past him, utterly ignoring his offered handshake (Issue #25). <Link to="/character-bios/Flint">Flint</Link>'s overconfidence and self-importance shine through as well, particularly in his early attempts to impress <Link to="/character-bios/LadyJay">Lady Jaye</Link> (Issue #53).
+          </p>
+          <p>
+            I would love to see more of these personality traits come to light in the Skybound iteration of the series. Having characters you love to hate, who the other Joes struggle to get along with, adds a level of depth and realism to the series. It is one of the things that makes your characters and writing so memorable.
           </p>
         </section>
 
