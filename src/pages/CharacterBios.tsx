@@ -51,6 +51,7 @@ import FlaggImg from './img/portraits/flagg.jpg';
 import ZapImg from './img/portraits/zap.jpg';
 import BreakerImg from './img/portraits/breaker.jpg';
 import RussImg from './img/portraits/russ.jpg';
+import RaptorImg from './img/portraits/raptor.jpg';
 
 
 
@@ -839,6 +840,22 @@ const CHARACTERS: Character[] = [
       publisher: 'Marvel',
       issueLabel: 'Issue 100',
       year: '1990',
+      month: 'May',
+    },
+  },
+  {
+    name: 'Raptor',
+    img: RaptorImg,
+    link: '/character-bios/Raptor',
+    rank: 5,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 59,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 59',
+      year: '1987',
       month: 'May',
     },
   },
