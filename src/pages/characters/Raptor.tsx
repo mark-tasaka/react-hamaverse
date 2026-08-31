@@ -9,6 +9,7 @@ import raptor3 from './img/raptor/raptor_3.png';
 import raptor4 from './img/raptor/raptor_4.png';
 import raptor5 from './img/raptor/raptor_5.png';
 import raptor6 from './img/raptor/raptor_6.png';
+import raptor7 from './img/raptor/raptor_7.png';
 
 const Raptor: React.FC = () => {
   return (
@@ -82,6 +83,14 @@ const Raptor: React.FC = () => {
           </p>
           <p>
             The hatch closes, and <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and his Siegies board the helicopter, which departs soon after. A series of explosions diverts a water channel, carrying the freighter into an inactive volcano; further explosions bury it deep within, trapping everyone inside (Issue #98). Over time, Raptor and most of the others trapped in the freighter die of botulism from tainted rations aboard the vessel.
+          </p>
+        </section>
+
+                <section className="profile-notes">
+          <h2 className="profile-notes-title">Notes from the Field</h2>
+          <img src={raptor7} alt="Notes on Raptor" className="profile-block-img" />
+          <p>
+            During the Marvel run (1982–1994), a single version of Raptor was produced: the <a href="https://www.yojoe.com/action/87/raptor.shtml" target="_blank" rel="noopener noreferrer">1987 figure</a>. Hasbro created some "over-the-top" action figures that presented a real challenge for Mr. Hama to write believably into the comic. Raptor was one of these figures — a challenge Mr. Hama himself seems to acknowledge through the voice of <Link to="/character-bios/CobraCommander">Cobra Commander</Link> upon first meeting him.
           </p>
         </section>
 
