@@ -7,6 +7,7 @@ import raptor1 from './img/raptor/raptor_1.png';
 import raptor2 from './img/raptor/raptor_2.png';
 import raptor3 from './img/raptor/raptor_3.png';
 import raptor4 from './img/raptor/raptor_4.png';
+import raptor5 from './img/raptor/raptor_5.png';
 
 const Raptor: React.FC = () => {
   return (
@@ -56,6 +57,19 @@ const Raptor: React.FC = () => {
           </p>
           <p>
             Aboard the freighter, <Link to="/character-bios/Zartan">Zartan</Link> transforms into Dr. Mindbender and arranges a private meeting with <Link to="/character-bios/Fred7">Fred VII</Link>. There, he reveals himself, holds a gun to <Link to="/character-bios/Fred7">Fred VII</Link>'s head, and orders him back to his old life as a garage owner in Denver — all while the real Dr. Mindbender watches the exchange from behind an ajar door. Raptor then confronts Dr. Mindbender privately, describing his trouble controlling the imposter <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, and reveals he knows where the real <Link to="/character-bios/CobraCommander">Cobra Commander</Link> is buried — remains Dr. Mindbender could use to clone a more controllable <Link to="/character-bios/CobraCommander">Cobra Commander</Link>. Raptor, Dr. Mindbender, and a team of Vipers depart to exhume the body (Issue #97).
+          </p>
+        </section>
+                <section className="profile-block">
+          <h2 className="profile-block-title">The Real Cobra Commander Lives</h2>
+          <img src={raptor5} alt="The return of the real Cobra Commander" className="profile-block-img" />
+          <p>
+            Raptor is with Dr. Mindbender and the Viper excavation team as they search for Cobra Commander's body. All they find is an old shirt with a bullet hole in the back. Soon after, the real <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and his loyal Crimson Guard emerge from the trees. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> reveals he had remote sensors installed in the area, in case anyone ever came back to retrieve his body.
+          </p>
+          <p>
+            <Link to="/character-bios/CobraCommander">Cobra Commander</Link> explains that Fred VIII, who had been monitoring <Link to="/character-bios/Fred7">Fred VII</Link>, was the one who uncovered his body. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> had not actually died from the gunshot wound — he had fallen into a catatonic state, only appearing dead. Fred VIII called the secret Fred hotline and located a Fred series doctor in the area, who removed the bullet and saw to the Commander's full recovery. Once he had recovered, <Link to="/character-bios/CobraCommander">Cobra Commander</Link> contacted his Siegies (Crimson Guard) and quietly rebuilt his organization, taking full advantage of human corruption and greed.
+          </p>
+          <p>
+            <Link to="/character-bios/CobraCommander">Cobra Commander</Link> tells Dr. Mindbender and Raptor that his loyal Siegies have made modifications to Cobra Island. He, his Siegies, and the others then depart aboard a Cobra transport helicopter for Cobra Island (Issue #98).
           </p>
         </section>
 
