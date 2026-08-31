@@ -52,6 +52,7 @@ import ZapImg from './img/portraits/zap.jpg';
 import BreakerImg from './img/portraits/breaker.jpg';
 import RussImg from './img/portraits/russ.jpg';
 import RaptorImg from './img/portraits/raptor.jpg';
+import MinhImg from './img/portraits/minh.jpg';
 
 
 
@@ -857,6 +858,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 59',
       year: '1987',
       month: 'May',
+    },
+  },
+  {
+    name: 'Captain Minh',
+    img: MinhImg,
+    link: '/character-bios/Minh',
+    rank: 2,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 63,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 63',
+      year: '1987',
+      month: 'September',
     },
   },
 ];

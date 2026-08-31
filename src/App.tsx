@@ -54,6 +54,7 @@ import Zap from './pages/characters/Zap'
 import Breaker from './pages/characters/Breaker'
 import Russ from './pages/characters/Russ'
 import Raptor from './pages/characters/Raptor'
+import Minh from './pages/characters/Minh'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -128,6 +129,7 @@ function App() {
           <Route path="/character-bios/Breaker" element={<Breaker />} />
           <Route path="/character-bios/Russ" element={<Russ />} />
           <Route path="/character-bios/Raptor" element={<Raptor />} />
+          <Route path="/character-bios/Minh" element={<Minh />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
