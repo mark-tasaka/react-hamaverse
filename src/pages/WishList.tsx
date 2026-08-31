@@ -6,6 +6,7 @@ import './css/WishList.css';
 import wishList1 from './img/wishList/wishList_1.png';
 import wishList2 from './img/wishList/wishList_2.png';
 import wishList3 from './img/wishList/wishList_3.png';
+import wishList4 from './img/wishList/wishList_4.png';
 
 const WishList: React.FC = () => {
   return (
@@ -81,6 +82,26 @@ const WishList: React.FC = () => {
           </p>
           <p>
             I would love to see more of these personality traits come to light in the Skybound iteration of the series. Having characters you love to hate, who the other Joes struggle to get along with, adds a level of depth and realism to the series. It is one of the things that makes your characters and writing so memorable.
+          </p>
+        </section>
+
+                <section className="wishlist-block">
+          <div className="wishlist-block-media">
+            <img src={wishList4} alt="Callbacks and Connections" />
+          </div>
+          <h2 className="wishlist-block-title">Callbacks to Past Minor Characters</h2>
+          <p>
+            I love how you have carried characters created in your early Marvel run all the way through to recent issues. I loved the introduction of <Link to="/character-bios/Tyrone">Tyrone</Link>'s younger brother Raymond, a tribute to the legacies of the <Link to="/character-bios/BlindMaster">Blind Master</Link> and <Link to="/character-bios/Tyrone">Tyrone</Link>. I also loved seeing Heather Collins playing a role in a couple of issues, where she meets up with Dawn Moreno in the Springfield Brainwave Scanner lab. The confrontation between Dawn and <Link to="/character-bios/Firefly">Firefly</Link> atop a moving train, with <Link to="/character-bios/Zartan">Zartan</Link> disguised as the <Link to="/character-bios/SoftMaster">Soft Master</Link>, is an excellent nod to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s own rooftop train battle in New York in <Link to="/comic-issues/Issue27">Issue #27</Link>.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Marina: Borovian Orphan</h3>
+          <p>
+            <Link to="/character-bios/Marina">Marina</Link> is the orphan <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> brings back with him from Borovia. I loved her story arc during the Borovian storyline, in which <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, placed under the Arashikage Mindset, travels there to rescue George Strawhacker. <Link to="/character-bios/Marina">Marina</Link> is later adopted into the Collins family, becoming <Link to="/character-bios/SeanCollins">Sean</Link> and Heather's adopted sister (Issues #104–108). I would love to learn what <Link to="/character-bios/Marina">Marina</Link> is up to today — is she a college student? Serving on active duty? It would be wonderful to see her reconnect with <Link to="/character-bios/SeanCollins">Sean</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Russ the Veteran</h3>
+          <p>
+            <Link to="/character-bios/Russ">Russ</Link> is the veteran who helped Mutt and Spirit form the armed youth resistance in Millville (Issue #100-102). I would love to know what Russ is up to these days. Is he still in touch with Mutt and Spirit? Is he still mentoring troubled youth? Does he still call Millville home? It would also be wonderful to see what some of those very youth are up to now.
           </p>
         </section>
 
