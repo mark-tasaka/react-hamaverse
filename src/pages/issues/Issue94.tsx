@@ -85,7 +85,7 @@ const Issue94: React.FC = () => {
         <section className="issue-section">
           <h2 className="issue-section-title">Detailed Summary</h2>
           <p>
-            There are two plots in this issue. The main story deals with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> at the Bern Institute in Switzerland. The secondary takes place in Oakland, California, and involves Raptor divulging that he knows where <Link to="/character-bios/Billy">Billy</Link>'s father (the original <Link to="/character-bios/CobraCommander">Cobra Commander</Link>) is buried, and who killed him.
+            There are two plots in this issue. The main story deals with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> at the Bern Institute in Switzerland. The secondary takes place in Oakland, California, and involves <Link to="/character-bios/Raptor">Raptor</Link> divulging that he knows where <Link to="/character-bios/Billy">Billy</Link>'s father (the original <Link to="/character-bios/CobraCommander">Cobra Commander</Link>) is buried, and who killed him.
           </p>
         </section>
 
@@ -120,7 +120,7 @@ const Issue94: React.FC = () => {
         <section className="issue-section">
           <h2 className="issue-section-title">Oakland, California</h2>
           <p>
-            The issue shifts to Oakland. <Link to="/character-bios/Billy">Billy</Link> says goodbye to his mother and leaves for the University of Berkeley on his scooter. A car nearly crashes into him, causing <Link to="/character-bios/Billy">Billy</Link> to wipe out and crash his scooter against some garbage cans. Raptor emerges from the car, and <Link to="/character-bios/Billy">Billy</Link> jump-kicks him, knocking him back against the vehicle. <Link to="/character-bios/Billy">Billy</Link> grabs Raptor's head and is about to deliver a blow when Raptor tells him he knows where his father is buried and knows who killed him. The issue ends with <Link to="/character-bios/Billy">Billy</Link> saying, "Start talking."
+            The issue shifts to Oakland. <Link to="/character-bios/Billy">Billy</Link> says goodbye to his mother and leaves for the University of Berkeley on his scooter. A car nearly crashes into him, causing <Link to="/character-bios/Billy">Billy</Link> to wipe out and crash his scooter against some garbage cans. <Link to="/character-bios/Raptor">Raptor</Link> emerges from the car, and <Link to="/character-bios/Billy">Billy</Link> jump-kicks him, knocking him back against the vehicle. <Link to="/character-bios/Billy">Billy</Link> grabs <Link to="/character-bios/Raptor">Raptor</Link>'s head and is about to deliver a blow when <Link to="/character-bios/Raptor">Raptor</Link> tells him he knows where his father is buried and knows who killed him. The issue ends with <Link to="/character-bios/Billy">Billy</Link> saying, "Start talking."
           </p>
         </section>
 
