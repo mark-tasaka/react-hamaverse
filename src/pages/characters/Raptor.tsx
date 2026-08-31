@@ -90,7 +90,7 @@ const Raptor: React.FC = () => {
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <img src={raptor7} alt="Notes on Raptor" className="profile-block-img" />
           <p>
-            During the Marvel run (1982–1994), a single version of Raptor was produced: the <a href="https://www.yojoe.com/action/87/raptor.shtml" target="_blank" rel="noopener noreferrer">1987 figure</a>. Hasbro created some "over-the-top" action figures that presented a real challenge for Mr. Hama to write believably into the comic. Raptor was one of these figures — a challenge Mr. Hama himself seems to acknowledge through the voice of <Link to="/character-bios/CobraCommander">Cobra Commander</Link> upon first meeting him.
+            During the Marvel run (1982–1994), a single version of Raptor was produced: the <a href="https://www.yojoe.com/action/87/raptor.shtml" target="_blank" rel="noopener noreferrer">1987 figure</a>. Hasbro created some "over-the-top" action figures, and writing them believably into the comic was a real challenge for Mr. Hama. Raptor was one of these figures — a challenge Mr. Hama himself seems to acknowledge through the voice of <Link to="/character-bios/CobraCommander">Cobra Commander</Link> upon first meeting him.
           </p>
         </section>
 
