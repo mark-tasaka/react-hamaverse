@@ -8,6 +8,7 @@ import raptor2 from './img/raptor/raptor_2.png';
 import raptor3 from './img/raptor/raptor_3.png';
 import raptor4 from './img/raptor/raptor_4.png';
 import raptor5 from './img/raptor/raptor_5.png';
+import raptor6 from './img/raptor/raptor_6.png';
 
 const Raptor: React.FC = () => {
   return (
@@ -70,6 +71,17 @@ const Raptor: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/CobraCommander">Cobra Commander</Link> tells Dr. Mindbender and Raptor that his loyal Siegies have made modifications to Cobra Island. He, his Siegies, and the others then depart aboard a Cobra transport helicopter for Cobra Island (Issue #98).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Death in the Landlocked Freighter</h2>
+          <img src={raptor6} alt="Raptor's death in the landlocked freighter" className="profile-block-img" />
+          <p>
+            The transport helicopter lands atop the landlocked freighter. <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s Siegies open the freighter's top hatch, revealing <Link to="/character-bios/Fred7">Fred VII</Link>, <Link to="/character-bios/Billy">Billy</Link>, Croc Master, Voltar, Firefly, <Link to="/character-bios/Zartan">Zartan</Link>, Captain Minh, and <Link to="/character-bios/Tyrone">Tyrone</Link> arguing inside. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> announces his return, and his Siegies throw Raptor, Dr. Mindbender, and the Viper excavation team down into the freighter.
+          </p>
+          <p>
+            The hatch closes, and <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and his Siegies board the helicopter, which departs soon after. A series of explosions diverts a water channel, carrying the freighter into an inactive volcano; further explosions bury it deep within, trapping everyone inside (Issue #98). Over time, Raptor and most of the others trapped in the freighter die of botulism from tainted rations aboard the vessel.
           </p>
         </section>
 
