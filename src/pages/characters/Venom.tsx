@@ -6,6 +6,8 @@ import './css/CharacterProfile.css';
 import venom1 from './img/venom/venom_1.png';
 import venom2 from './img/venom/venom_2.png';
 import venom3 from './img/venom/venom_3.png';
+import venom4 from './img/venom/venom_4.png';
+import venom5 from './img/venom/venom_5.png';
 
 const Venom: React.FC = () => {
   return (
@@ -35,7 +37,7 @@ const Venom: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Reading Snake Eyes' Mind</h2>
+          <h2 className="profile-block-title">Brainwave Scanner</h2>
           <img src={venom2} alt="Dr. Venom reading Snake Eyes' mind" className="profile-block-img" />
           <p>
             Cobra captures <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Zap">Zap</Link>, knocking them unconscious with sleeping gas and transporting them to Springfield. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Zap">Zap</Link> are taken to a Cobra dungeon, while <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is brought to Dr. Venom's laboratory beneath the Video World arcade and hooked up to the Brainwave Scanner.
@@ -74,6 +76,22 @@ const Venom: React.FC = () => {
           </p>
           <p>
             The aircraft lands on a beach in Miami, and all three are arrested. A Cobra lawyer soon arrives at the police station and arranges for Dr. Venom's release (Issue #16).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Making Peace with the Weasel</h2>
+          <img src={venom4} alt="Kwinn's confrontation with Dr. Venom" className="profile-block-img" />
+          <p>
+            In a battle outside the G.I. Joe modular headquarters, Kwinn confronts Dr. Venom, grabbing him with one hand while holding an unpinned grenade in the other. Kwinn speaks of the Weasel spirit that has long taunted him, saying he cannot hope to fight the weasel in others until he has conquered it within himself. He spares Dr. Venom's life and releases his grip. But as Kwinn turns to walk away, Dr. Venom draws his pistol and shoots him in the back. Kwinn turns around, says he has finally made peace with the weasel, and falls to the ground, dead — the unpinned grenade slipping from his hand. It explodes, killing Dr. Venom (Issue #19).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Potter's Field</h2>
+          <img src={venom5} alt="Dr. Venom's burial in Potter's Field" className="profile-block-img" />
+          <p>
+            Dr. Venom is laid to rest in Potter's Field, buried in a mass grave. There is no ceremony to mark his passing (Issue #22).
           </p>
         </section>
 
