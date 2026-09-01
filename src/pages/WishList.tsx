@@ -65,7 +65,7 @@ const WishList: React.FC = () => {
 
           <h3 className="wishlist-subblock-title">Lost Memories</h3>
           <p>
-            There is much more to explore here than the return of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' voice. The clone was created from memories and DNA stored in the Brainwave Scanner during Dr. Venom's very first encounter with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, all the way back in Issue #10. That leaves a substantial gap in the clone's memories — including, for instance, his encounter at the Silent Castle with <Link to="/character-bios/StormShadow">Storm Shadow</Link> as a Cobra agent.
+            There is much more to explore here than the return of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' voice. The clone was created from memories and DNA stored in the Brainwave Scanner during <Link to="/character-bios/Venom">Dr. Venom</Link>'s very first encounter with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, all the way back in Issue #10. That leaves a substantial gap in the clone's memories — including, for instance, his encounter at the Silent Castle with <Link to="/character-bios/StormShadow">Storm Shadow</Link> as a Cobra agent.
           </p>
           <p>
             It would be interesting to explore how this memory gap affects his relationships going forward. For instance, while <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> may know, secondhand, that he once crossed blades with <Link to="/character-bios/StormShadow">Storm Shadow</Link> during his time as a Cobra agent, he will have no actual memory of the event itself, since it took place after the Brainwave Scan.

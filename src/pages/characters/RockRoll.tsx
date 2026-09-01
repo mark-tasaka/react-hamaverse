@@ -4,7 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import rockRoll1 from './img/rockRoll/rockRoll_1.png';
-import rockRoll2 from './img/rockRoll/rockRoll_2.png';
+import rockRoll2 from './img/rockRoll/rockRoll_2a.png';
 import rockRoll3 from './img/rockRoll/rockRoll_3.png';
 import rockRoll4 from './img/rockRoll/rockRoll_4.png';
 

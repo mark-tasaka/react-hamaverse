@@ -4,7 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import grunt1 from './img/grunt/grunt_1.png';
-import grunt2 from './img/grunt/grunt_2.png';
+import grunt2 from './img/grunt/grunt_2a.png';
 import grunt3 from './img/grunt/grunt_3.png';
 import grunt4 from './img/grunt/grunt_4.png';
 import grunt5 from './img/grunt/grunt_5.png';
