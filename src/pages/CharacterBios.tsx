@@ -54,6 +54,7 @@ import RussImg from './img/portraits/russ.jpg';
 import RaptorImg from './img/portraits/raptor.jpg';
 import MinhImg from './img/portraits/minh.jpg';
 import VenomImg from './img/portraits/venom.jpg';
+import CrocMasterImg from './img/portraits/crocMaster.jpg';
 
 
 
@@ -891,6 +892,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 10',
       year: '1982',
       month: 'December',
+    },
+  },
+  {
+    name: 'Croc Master',
+    img: CrocMasterImg,
+    link: '/character-bios/CrocMaster',
+    rank: 1,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 72,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 72',
+      year: '1988',
+      month: 'June',
     },
   },
 ];
