@@ -53,6 +53,7 @@ import BreakerImg from './img/portraits/breaker.jpg';
 import RussImg from './img/portraits/russ.jpg';
 import RaptorImg from './img/portraits/raptor.jpg';
 import MinhImg from './img/portraits/minh.jpg';
+import VenomImg from './img/portraits/venom.jpg';
 
 
 
@@ -874,6 +875,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 63',
       year: '1987',
       month: 'September',
+    },
+  },
+  {
+    name: 'Dr. Venom',
+    img: VenomImg,
+    link: '/character-bios/Venom',
+    rank: 10,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 10,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 10',
+      year: '1982',
+      month: 'December',
     },
   },
 ];
