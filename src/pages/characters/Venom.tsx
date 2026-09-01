@@ -8,6 +8,7 @@ import venom2 from './img/venom/venom_2.png';
 import venom3 from './img/venom/venom_3.png';
 import venom4 from './img/venom/venom_4.png';
 import venom5 from './img/venom/venom_5.png';
+import venom6 from './img/venom/venom_6.png';
 
 const Venom: React.FC = () => {
   return (
@@ -92,6 +93,23 @@ const Venom: React.FC = () => {
           <img src={venom5} alt="Dr. Venom's burial in Potter's Field" className="profile-block-img" />
           <p>
             Dr. Venom is laid to rest in Potter's Field, buried in a mass grave. There is no ceremony to mark his passing (Issue #22).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Dr. Venom's Consciousness Lives On</h2>
+          <img src={venom6} alt="Dr. Venom's consciousness living on" className="profile-block-img" />
+          <p>
+            Before his death, Dr. Venom had implanted his consciousness into the Brainwave Scanner. Years later, <Link to="/character-bios/Billy">Billy</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> are captured by <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and subjected to the scanner themselves, becoming brainwashed agents of Cobra. An undisclosed amount of time passes between the disbandment of G.I. Joe and its reformation — sometime during this interim period, Dr. Venom's consciousness seizes control of <Link to="/character-bios/Billy">Billy</Link>'s brainwashed body (Issue #157).
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> — who had broken free of the mind control several issues earlier — and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> confront <Link to="/character-bios/Billy">Billy</Link>, knock him unconscious, and bring him to Broca Beach, where the Brainwave Scanner is kept. Once hooked up, Dr. Venom's avatar appears on the monitor, challenging them. They confront him, drawing his consciousness into "the attic of his mind" and banishing it to join the ghost of Kwinn. This frees <Link to="/character-bios/Billy">Billy</Link> from Dr. Venom's control and the Brainwave Scanner's effects (Issue #165).
+          </p>
+          <p>
+            The Brainwave Scanner is later moved to Dr. Mindbender's labratory in Springfield. Dawn Moreno and Heather Collins join forces to rescue <Link to="/character-bios/Wade">Wade Collins</Link> and his wife from Dr. Mindbender's laboratory (Issue #239). Dawn hooks the captured Dr. Mindbender up to the Brainwave Scanner, while Heather inserts a USB drive containing a virus into the machine. In the process, Dr. Venom's consciousness is unintentionally downloaded into Dr. Mindbender's body, granting him a physical form once again (Issue #240).
+          </p>
+          <p>
+            After spending some time living inside Dr. Mindbender's body, Dr. Venom decides to transfer his consciousness into a giant robot. The transfer succeeds, and Dr. Venom departs Dr. Mindbender's body, allowing the good doctor to become himself again (Issue #255). The Dr. Venom Robot is later destroyed by Bombstrike, Sight Line, Ambush, and Milo (Issue #258).
           </p>
         </section>
 
