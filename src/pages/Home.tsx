@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">August 31, 2026</p>
+          <p className="update-log-date">September 1, 2026</p>
           <p className="update-log-entry">
-            The character bios for <Link to="/character-bios/Russ">Russ the Vet</Link>, <Link to="/character-bios/Raptor">Raptor</Link> and <Link to="/character-bios/Minh">Captain Minh</Link> have been added. A new section has been added to <Link to="/WishList">My ARAH Wish List</Link>.
+            The character bios for <Link to="/character-bios/Venom">Dr. Venom</Link>, <Link to="/character-bios/Kwinn">Kwinn</Link> and <Link to="/character-bios/CrocMaster">Croc Master</Link> have been added. 
           </p>
 
           <div className="btn-row">

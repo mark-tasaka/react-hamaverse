@@ -5,7 +5,12 @@ function Updates() {
   return (
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
-            
+      
+      <p className="update-log-date">August 31, 2026</p>
+      <p className="update-log-entry">
+        The character bios for <Link to="/character-bios/Russ">Russ the Vet</Link>, <Link to="/character-bios/Raptor">Raptor</Link> and <Link to="/character-bios/Minh">Captain Minh</Link> have been added. A new section has been added to <Link to="/WishList">My ARAH Wish List</Link>.
+      </p>
+
       <p className="update-log-date">August 30, 2026</p>
       <p className="update-log-entry">
         A new section, <Link to="/WishList">My ARAH Wish List</Link> has been added.  As well, new sections for the <Link to="/character-bios/Baroness">Baroness</Link> and <Link to="/character-bios/Zartan">Zartan</Link> have been added.
