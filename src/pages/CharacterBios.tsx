@@ -55,6 +55,7 @@ import RaptorImg from './img/portraits/raptor.jpg';
 import MinhImg from './img/portraits/minh.jpg';
 import VenomImg from './img/portraits/venom.jpg';
 import CrocMasterImg from './img/portraits/crocMaster.jpg';
+import KwinnImg from './img/portraits/kwinn.jpg';
 
 
 
@@ -908,6 +909,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 72',
       year: '1988',
       month: 'June',
+    },
+  },
+  {
+    name: 'Kwinn',
+    img: KwinnImg,
+    link: '/character-bios/Kwinn',
+    rank: 10,
+    faction: 'Mercenary',
+    secondaryFaction: 'Civilian',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 2,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 2',
+      year: '1982',
+      month: 'April',
     },
   },
 ];
