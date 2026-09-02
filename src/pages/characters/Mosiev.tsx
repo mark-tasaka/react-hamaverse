@@ -14,7 +14,7 @@ const Mosiev: React.FC = () => {
         <h1 className="character-profile-title">Comrade Sgt. Mosiev</h1>
 
         <p className="profile-intro">
-          Comrade Sgt. Mosiev is one of the NCOs at the Borovian gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are sent. A sadistic man, Sgt. Mosiev takes pleasure in both abusing the gulag's prisoners and taunting the <Link to="/character-bios/WhiteClown">White Clown</Link> over the fate of his beloved Magda.
+          Comrade Sgt. Mosiev is one of the NCOs at the Borovian gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are sent. A sadistic man, Sgt. Mosiev takes pleasure in both abusing the gulag's prisoners and taunting the <Link to="/character-bios/WhiteClown">White Clown</Link> over the fate of his beloved <Link to="/character-bios/Magda">Madga</Link>.
         </p>
 
         <section className="profile-block">
@@ -32,10 +32,10 @@ const Mosiev: React.FC = () => {
           <h2 className="profile-block-title">Circus Troupe</h2>
           <img src={mosiev2} alt="Sgt. Mosiev taunting the White Clown" className="profile-block-img" />
           <p>
-            Sgt. Mosiev and Cpl. Olga watch the circus troupe rehearse. Sgt. Mosiev approaches the <Link to="/character-bios/WhiteClown">White Clown</Link>, asking whatever happened to Magda the bareback rider after she criticized the government — is she alive, or dead? Knowing full well how the <Link to="/character-bios/WhiteClown">White Clown</Link> still loves her, and how desperately he wonders about her fate, Sgt. Mosiev continues to taunt him, well aware of how much pain the memory causes.
+            Sgt. Mosiev and Cpl. Olga watch the circus troupe rehearse. Sgt. Mosiev approaches the <Link to="/character-bios/WhiteClown">White Clown</Link>, asking whatever happened to <Link to="/character-bios/Magda">Madga</Link> the bareback rider after she criticized the government — is she alive, or dead? Knowing full well how the <Link to="/character-bios/WhiteClown">White Clown</Link> still loves her, and how desperately he wonders about her fate, Sgt. Mosiev continues to taunt him, well aware of how much pain the memory causes.
           </p>
           <p>
-            Heartbroken, the <Link to="/character-bios/WhiteClown">White Clown</Link> says nothing. <Link to="/character-bios/Orlovsky">Orlovsky the Dwarf</Link> overhears the taunting and steps in, telling the Sergeant he could simply tell his friend whether Magda is alive or not. <Link to="/character-bios/Orlovsky">Orlovsky</Link> says, "isn't the world cruel enough as it is?" Sgt. Mosiev strikes <Link to="/character-bios/Orlovsky">Orlovsky</Link>, telling him the information is a state secret (Issue #66).
+            Heartbroken, the <Link to="/character-bios/WhiteClown">White Clown</Link> says nothing. <Link to="/character-bios/Orlovsky">Orlovsky the Dwarf</Link> overhears the taunting and steps in, telling the Sergeant he could simply tell his friend whether <Link to="/character-bios/Magda">Madga</Link> is alive or not. <Link to="/character-bios/Orlovsky">Orlovsky</Link> says, "isn't the world cruel enough as it is?" Sgt. Mosiev strikes <Link to="/character-bios/Orlovsky">Orlovsky</Link>, telling him the information is a state secret (Issue #66).
           </p>
         </section>
 

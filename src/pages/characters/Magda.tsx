@@ -16,7 +16,7 @@ const Magda: React.FC = () => {
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">A Revolution's True Colors</h2>
+          <h2 className="profile-block-title">Reunited with the White Clown</h2>
           <img src={magda1} alt="Magda's freedom and the fall of Gulag 23" className="profile-block-img" />
           <p>
             Imprisoned for criticizing the government, Magda the Bareback Rider is taken to the gulags. Even within its walls, her will for freedom never leaves her. Outside, her lover, the <Link to="/character-bios/WhiteClown">White Clown</Link>, never gives up hope of finding her.
