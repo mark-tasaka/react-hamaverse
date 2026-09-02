@@ -275,13 +275,13 @@ const SnakeEyes: React.FC = () => {
             In the sewers, Snake Eyes comes across a group of guards fleeing with Strawhacker and Magda. He dispatches the guards and frees the two prisoners. Strawhacker recognizes Snake Eyes despite his mask, and the <Link to="/character-bios/WhiteClown">White Clown</Link> embraces Magda.
           </p>
           <p>
-            When they return to the surface and rejoin the mob surrounding the gulag, Magda is horrified to see that the revolution has given rise to ethnic cleansing. <Link to="/character-bios/Marina">Marina</Link> and several other Upper Borovians are being led into the crowd to be killed. <Link to="/character-bios/Marina">Marina</Link> spots Snake Eyes and tells the crowd he is no hero — he let her father be executed. The mob's leader, Mertz, pistol-whips <Link to="/character-bios/Marina">Marina</Link> and points his gun at her, calling her subhuman.
+            When they return to the surface and rejoin the mob surrounding the gulag, Magda is horrified to see that the revolution has given rise to ethnic cleansing. <Link to="/character-bios/Marina">Marina</Link> and several other Upper Borovians are being led into the crowd to be killed. <Link to="/character-bios/Marina">Marina</Link> spots Snake Eyes and tells the crowd he is no hero — he let her father be executed. The mob's leader, Metz, pistol-whips <Link to="/character-bios/Marina">Marina</Link> and points his gun at her, calling her subhuman.
           </p>
           <p>
-            Strawhacker strikes Mertz, knocking him to the ground, and tells him he is no different from the regime they just overthrew. Mertz shoots and kills Strawhacker — and the shock of it breaks the Arashikage Mindset's hold over Snake Eyes. Snake Eyes raises his gun toward Mertz. The mob sides with Snake Eyes and beats Mertz.
+            Strawhacker strikes Metz, knocking him to the ground, and tells him he is no different from the regime they just overthrew. Metz shoots and kills Strawhacker — and the shock of it breaks the Arashikage Mindset's hold over Snake Eyes. Snake Eyes raises his gun toward Metz. The mob sides with Snake Eyes and beats Metz.
           </p>
           <p>
-            As the mob prepares to hang Mertz, <Link to="/character-bios/Marina">Marina</Link> begs Snake Eyes to save him, insisting that even if Mertz is a bad man, they can't let him be hanged. Just as the noose tightens, Snake Eyes shoots the rope, saving Mertz's life. Snake Eyes then departs Borovia together with <Link to="/character-bios/Marina">Marina</Link> (Issue #106). In America, <Link to="/character-bios/Marina">Marina</Link> is adopted by the Collins family, becoming Sean and Heather's sister (Issue #108).
+            As the mob prepares to hang Metz, <Link to="/character-bios/Marina">Marina</Link> begs Snake Eyes to save him, insisting that even if Metz is a bad man, they can't let him be hanged. Just as the noose tightens, Snake Eyes shoots the rope, saving Metz's life. Snake Eyes then departs Borovia together with <Link to="/character-bios/Marina">Marina</Link> (Issue #106). In America, <Link to="/character-bios/Marina">Marina</Link> is adopted by the Collins family, becoming Sean and Heather's sister (Issue #108).
           </p>
         </section>
 

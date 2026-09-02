@@ -56,6 +56,7 @@ import MinhImg from './img/portraits/minh.jpg';
 import VenomImg from './img/portraits/venom.jpg';
 import CrocMasterImg from './img/portraits/crocMaster.jpg';
 import KwinnImg from './img/portraits/kwinn.jpg';
+import MagdaImg from './img/portraits/magda.jpg';
 
 
 
@@ -925,6 +926,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 2',
       year: '1982',
       month: 'April',
+    },
+  },
+  {
+    name: 'Magda',
+    img: MagdaImg,
+    link: '/character-bios/Magda',
+    rank: 2,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 106,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 106',
+      year: '1990',
+      month: 'November',
     },
   },
 ];

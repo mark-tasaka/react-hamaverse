@@ -12,6 +12,10 @@ const CrocMaster: React.FC = () => {
       <div className="container">
         <h1 className="character-profile-title">Croc Master</h1>
 
+        <blockquote className="profile-quote">
+          <p>"Croc Master spends his leisure hours dozing in a tub of tepid bath water with only his nose breaking the surface.  He dreams strange free dreams while grinding his teeth and clenching his powerful jaws.  He has a hunger that never leaves him…"*</p>
+        </blockquote>
+
         <p className="profile-intro">
           An unusual sort, Croc Master patrols the swamps and waterways surrounding Cobra Island with his girls — pet crocodiles named Chelsea, Melissa, and Tara. He spends a full year tracking a clever interloper without success, until he finally captures the man and two of his friends in the tunnels beneath the island. Croc Master delivers the prisoners to the landlocked freighter and makes the fatal mistake of staying behind — becoming one of the unfortunate souls trapped inside when the original <Link to="/character-bios/CobraCommander">Cobra Commander</Link> returns.
         </p>
@@ -41,7 +45,11 @@ const CrocMaster: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), a single version of Croc Master was produced: the <a href="https://www.yojoe.com/action/87/crocmaster.shtml" target="_blank" rel="noopener noreferrer">1987 figure</a>. Hasbro occasionally created "over-the-top" action figures that presented Mr. Hama with real challenges — and no small amount of frustration — when it came to writing them believably into the comic. I suspect Croc Master was one of these figures, which explains the fate that ultimately befell him in the landlocked freighter.
+            During the Marvel run (1982–1994), a single version of Croc Master was produced: the <a href="https://www.yojoe.com/action/87/crocmaster.shtml" target="_blank" rel="noopener noreferrer">1987 figure</a>. Hasbro occasionally created "over-the-top" action figures that presented Mr. Hama with real challenges — and no small amount of frustration — when it came to writing them believably into the comic. I suspect Croc Master was one of these figures, which explains the fate that  befell him in the landlocked freighter.
+          </p>
+          
+          <p className="profile-notes-footnote">
+            *The quote is from Croc Master's 1987 file card.
           </p>
         </section>
 
