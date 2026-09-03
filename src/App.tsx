@@ -59,6 +59,7 @@ import Venom from './pages/characters/Venom'
 import CrocMaster from './pages/characters/CrocMaster'
 import Kwinn from './pages/characters/Kwinn'
 import Magda from './pages/characters/Magda'
+import Metz from './pages/characters/Metz'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -138,6 +139,7 @@ function App() {
           <Route path="/character-bios/CrocMaster" element={<CrocMaster />} />
           <Route path="/character-bios/Kwinn" element={<Kwinn />} />
           <Route path="/character-bios/Magda" element={<Magda />} />
+          <Route path="/character-bios/Metz" element={<Metz />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

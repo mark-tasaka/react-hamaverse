@@ -57,6 +57,7 @@ import VenomImg from './img/portraits/venom.jpg';
 import CrocMasterImg from './img/portraits/crocMaster.jpg';
 import KwinnImg from './img/portraits/kwinn.jpg';
 import MagdaImg from './img/portraits/magda.jpg';
+import MetzImg from './img/portraits/metz.jpg';
 
 
 
@@ -942,6 +943,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 106',
       year: '1990',
       month: 'November',
+    },
+  },
+  {
+    name: 'Metz',
+    img: MetzImg,
+    link: '/character-bios/Metz',
+    rank: 2,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 104,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 104',
+      year: '1990',
+      month: 'September',
     },
   },
 ];
