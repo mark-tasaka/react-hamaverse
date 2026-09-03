@@ -37,7 +37,7 @@ const Orlovsky: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">A Familiar Face in the Chaos</h2>
+          <h2 className="profile-block-title">This is Not the Snake Eyes We Used to Know</h2>
           <img src={orlovsky2} alt="Orlovsky witnessing Snake Eyes' arrival" className="profile-block-img" />
           <p>
             The revolution to overthrow the communist government of Borovia is underway. Orlovsky stands with the <Link to="/character-bios/WhiteClown">White Clown</Link> outside the headquarters of the Security Police, amid a large mob of rebels. Beside him, the <Link to="/character-bios/WhiteClown">White Clown</Link> grows anxious, worried the mob will burn the building down before they can retrieve the records revealing which gulag holds his beloved <Link to="/character-bios/Magda">Magda</Link>. Suddenly, a stranger emerges from the crowd, somersaulting over the barricades and dodging incoming machine-gun fire to breach the headquarters. Orlovsky watches as the <Link to="/character-bios/WhiteClown">White Clown</Link>'s face changes at once — he recognizes the acrobatic style as belonging to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and hope fills his heart.
