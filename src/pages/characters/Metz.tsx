@@ -43,10 +43,10 @@ const Metz: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Metz's Rise to Power</h2>
+          <h2 className="profile-block-title">Alliance with Cobra</h2>
           <img src={metz3} alt="Metz's rise to power and alliance with Cobra" className="profile-block-img" />
           <p>
-            <Link to="/character-bios/Magda">Magda</Link> becomes president of Borovia, but her term in office comes to an end as political instability returns. Metz strikes a pact with <Link to="/character-bios/SnakeEyes">Cobra Commander</Link>, allowing Cobra to provide military support in exchange for installing him as the new president. A pair of Vipers bring the captured <Link to="/character-bios/Magda">Magda</Link> and the <Link to="/character-bios/WhiteClown">White Clown</Link> before him, and Metz offers them a fair trial. <Link to="/character-bios/SnakeEyes">Cobra Commander</Link> has other plans, however, executing the couple in cold blood in front of a shocked Metz (Issue #145).
+            <Link to="/character-bios/Magda">Magda</Link> becomes President of Borovia, but her term in office comes to an end as political instability returns. Metz strikes a pact with <Link to="/character-bios/SnakeEyes">Cobra Commander</Link>, allowing Cobra to provide military support in exchange for installing him as the new President. A pair of Vipers bring the captured <Link to="/character-bios/Magda">Magda</Link> and the <Link to="/character-bios/WhiteClown">White Clown</Link> before him, and Metz offers them a fair trial. <Link to="/character-bios/SnakeEyes">Cobra Commander</Link> has other plans, however, executing the couple in cold blood in front of a shocked Metz (Issue #145).
           </p>
         </section>
 

@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import ripCord1 from './img/ripCord/ripCord_1.png';
 import ripCord2 from './img/ripCord/ripCord_2.png';
 import ripCord3 from './img/ripCord/ripCord_3.png';
+import ripCord4 from './img/ripCord/ripCord_4.png';
 
 const RipCord: React.FC = () => {
   return (
@@ -50,6 +51,23 @@ const RipCord: React.FC = () => {
           <img src={ripCord3} alt="Candy breaking up with Rip Cord at the circus" className="profile-block-img" />
           <p>
             Rip Cord, <Link to="/character-bios/Candy">Candy</Link>, dressed as Bongo, her van, and a handful of other Joes are at the circus when chaos erupts as the Crimson Twins and a squad of uniformed Crimson Guard attack. In the aftermath of the battle, <Link to="/character-bios/Candy">Candy</Link> confronts Rip Cord, upset over the secrecy surrounding what he does, who he really is, and why he cannot reveal his real name to her. She adds that wherever they go together, people end up shot or blown up. <Link to="/character-bios/Candy">Candy</Link> tells him they are through, then drives off. Rip Cord is heartbroken. Gung-Ho puts a hand on his friend's shoulder and says, "She's just a little shook up. Give her time. She'll come around." <Link to="/character-bios/Candy">Candy</Link> never does. It is the last time Rip Cord ever sees her (Issue #37).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Meeting Candy's Father</h2>
+          <img src={ripCord4} alt="Rip Cord mistaken for Zartan" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Candy">Candy Appel</Link> is believed to be on Cobra Island after being kidnapped by Buzzer. As a sovereign state, the island limits the Joes to aerial reconnaissance only. <Link to="/character-bios/Hawk">Hawk</Link> devises a way to get a team on the ground, assigning Rip Cord to take reconnaissance photos from the backseat of a Skystriker — fully aware that Rip Cord will eject and land on the island himself to search for <Link to="/character-bios/Candy">Candy</Link>. This gives <Link to="/character-bios/Hawk">Hawk</Link> the justification he needs to send in a covert recon and rescue team.
+          </p>
+          <p>
+            Over Cobra Island, Rip Cord ejects from the backseat of the Skystriker and lands on the island, where he is ambushed by <Link to="/character-bios/Zartan">Zartan</Link>. <Link to="/character-bios/Zartan">Zartan</Link> gains the upper hand, badly injuring him (Issue #45). <Link to="/character-bios/Zartan">Zartan</Link> then transforms into Rip Cord's likeness and dresses the unconscious Rip Cord in his own clothing before departing. Later, <Link to="/character-bios/Appel">Professor Appel</Link>, leading a H.I.S.S. tank patrol, finds Rip Cord and mistakes him for an injured <Link to="/character-bios/Zartan">Zartan</Link>, carrying him back to the medical facilities inside the Terror Drome.
+          </p>
+          <p>
+            At the medical facility, <Link to="/character-bios/Appel">Professor Appel</Link> discovers a photo of <Link to="/character-bios/Candy">Candy</Link> on the disguised Rip Cord and realizes his true identity. Rip Cord asks where <Link to="/character-bios/Candy">Candy</Link> is, believing Buzzer had brought her to the island. It is only then that <Link to="/character-bios/Appel">Professor Appel</Link> realizes Cobra Commander had lied to him all along about knowing his daughter's whereabouts. Determined to help, <Link to="/character-bios/Appel">Professor Appel</Link> resolves to get Rip Cord off the island so he can find <Link to="/character-bios/Candy">Candy</Link> himself.
+          </p>
+          <p>
+            Meanwhile, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> have infiltrated the Terror Drome, fighting their way through in search of <Link to="/character-bios/Zartan">Zartan</Link>. <Link to="/character-bios/Appel">Professor Appel</Link> helps carry the injured Rip Cord — still disguised as <Link to="/character-bios/Zartan">Zartan</Link> — to the Firebat to make his escape. As <Link to="/character-bios/Appel">Professor Appel</Link> begins the launch sequence, <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> appear. <Link to="/character-bios/StormShadow">Storm Shadow</Link> strikes <Link to="/character-bios/Appel">Professor Appel</Link>, wounding him, just as the Firebat launches. <Link to="/character-bios/Appel">Professor Appel</Link> is killed in the resulting blast (Issue #46).
           </p>
         </section>
 
