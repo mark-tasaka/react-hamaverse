@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import orlovsky1 from './img/orlovsky/orlovsky_1.png';
+import orlovsky2 from './img/orlovsky/orlovsky_2.png';
 
 const Orlovsky: React.FC = () => {
   return (
@@ -32,6 +33,23 @@ const Orlovsky: React.FC = () => {
           </p>
           <p>
             The <Link to="/character-bios/WhiteClown">White Clown</Link> know that betraying the Americans would go against everything <Link to="/character-bios/Magda">Madga</Link> stood for. So instead, the two haul the circus cannon to the cliffs overlooking the border — the very spot where the freed Americans are headed. There, they find their new friends and the liberated American prisoners looking out at the border crossing: a river lined with barbed-wire fencing and guard towers on the Borovian side. Orlovsky and the <Link to="/character-bios/WhiteClown">White Clown</Link> use the circus cannon to fire the Americans past the fense and safely into the river, allowing them to escape Borovia (Issue #66).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Familiar Face in the Chaos</h2>
+          <img src={orlovsky2} alt="Orlovsky witnessing Snake Eyes' arrival" className="profile-block-img" />
+          <p>
+            The revolution to overthrow the communist government of Borovia is underway. Orlovsky stands with the <Link to="/character-bios/WhiteClown">White Clown</Link> outside the headquarters of the Security Police, amid a large mob of rebels. Beside him, the <Link to="/character-bios/WhiteClown">White Clown</Link> grows anxious, worried the mob will burn the building down before they can retrieve the records revealing which gulag holds his beloved <Link to="/character-bios/Magda">Magda</Link>. Suddenly, a stranger emerges from the crowd, somersaulting over the barricades and dodging incoming machine-gun fire to breach the headquarters. Orlovsky watches as the <Link to="/character-bios/WhiteClown">White Clown</Link>'s face changes at once — he recognizes the acrobatic style as belonging to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and hope fills his heart.
+          </p>
+          <p>
+            The <Link to="/character-bios/WhiteClown">White Clown</Link> raises his assault rifle, and Orlovsky follows alongside him and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> into the building, providing covering fire. The mob, led by <Link to="/character-bios/Metz">Metz</Link>, follows shortly after. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> reaches the records room, where the security police inside surrender, and begins searching through the files. <Link to="/character-bios/Metz">Metz</Link> enters and orders the rebels to march the prisoners outside along with the Lower Borovians and have them shot. The <Link to="/character-bios/WhiteClown">White Clown</Link> protests, but <Link to="/character-bios/Metz">Metz</Link> turns on him, demanding to know if he, too, is an enemy of the people, before departing to oversee the executions. Orlovsky finds the records they came for and tells the <Link to="/character-bios/WhiteClown">White Clown</Link> he has located where <Link to="/character-bios/Magda">Magda</Link> is held.
+          </p>
+          <p>
+            Looking over <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' shoulder the <Link to="/character-bios/WhiteClown">White Clown</Link> discovers the file belongs to a prisoner held in the cellblocks beneath Gulag 23 — the same place where <Link to="/character-bios/Magda">Magda</Link> is being held. Something about the moment unsettles him. "This is not the Snake Eyes we used to know," Orlovsky remarks.
+          </p>
+          <p>
+            Orlovsky and the <Link to="/character-bios/WhiteClown">White Clown</Link> follow <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> out of the building. A <Link to="/character-bios/Marina">young girl</Link> pleads with him to stop the firing squad from killing her family, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> ignores her cries and walks past. Orlovsky watches, puzzled and troubled, as the firing squad shoots the girl's father, unable to understand why <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> does nothing to stop it. The three then steal <Link to="/character-bios/Metz">Metz</Link>'s car and set off for Gulag 23 (Issue #104).
           </p>
         </section>
 
