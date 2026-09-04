@@ -7,6 +7,7 @@ import ripCord1 from './img/ripCord/ripCord_1.png';
 import ripCord2 from './img/ripCord/ripCord_2.png';
 import ripCord3 from './img/ripCord/ripCord_3.png';
 import ripCord4 from './img/ripCord/ripCord_4.png';
+import ripCord5 from './img/ripCord/ripCord_5.png';
 
 const RipCord: React.FC = () => {
   return (
@@ -68,6 +69,23 @@ const RipCord: React.FC = () => {
           </p>
           <p>
             Meanwhile, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> have infiltrated the Terror Drome, fighting their way through in search of <Link to="/character-bios/Zartan">Zartan</Link>. <Link to="/character-bios/Appel">Professor Appel</Link> helps carry the injured Rip Cord — still disguised as <Link to="/character-bios/Zartan">Zartan</Link> — to the Firebat to make his escape. As <Link to="/character-bios/Appel">Professor Appel</Link> begins the launch sequence, <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> appear. <Link to="/character-bios/StormShadow">Storm Shadow</Link> strikes <Link to="/character-bios/Appel">Professor Appel</Link>, wounding him, just as the Firebat launches. <Link to="/character-bios/Appel">Professor Appel</Link> is killed in the resulting blast (Issue #46).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Trapped in Springfield</h2>
+          <img src={ripCord5} alt="Rip Cord trapped in Springfield" className="profile-block-img" />
+          <p>
+            The Firebat takes Rip Cord to the town of Springfield, where everyone believes him to be <Link to="/character-bios/Zartan">Zartan</Link>. Rip Cord is admitted to the Springfield hospital for medical treatment. When the Dreadnoks visit, a confrontation erupts between Rip Cord and Buzzer over <Link to="/character-bios/Candy">Candy</Link>'s fate. Buzzer had previously "borrowed" <Link to="/character-bios/Zartan">Zartan</Link>'s motorcycle and destroyed it in the process, and the Dreadnoks assume <Link to="/character-bios/Zartan">Zartan</Link>'s anger toward Buzzer stems from that incident.  They are utterly confused as to why "Zartan" seems so upset about Buzzer stealing his "Candy" (Issue #48).
+          </p>
+          <p>
+            At a bar in Springfield, Rip Cord — still disguised as <Link to="/character-bios/Zartan">Zartan</Link> — uses a payphone to contact the Pit, inadvertently revealing Springfield's location. Cobra intercepts the call, and a team led by <Link to="/character-bios/ScrapIron">Scrap-Iron</Link> and <Link to="/character-bios/Firefly">Firefly</Link> quickly arrives. A firefight breaks out, and Rip Cord flees into the street, pulling a father from his car and driving off — unaware the man's young daughter is still inside. The girl pulls a .375 Magnum on Rip Cord, forcing him to stop and surrender. The Dreadnoks drag him out of the car and thank the girl for her help.
+          </p>
+          <p>
+            The Dreadnoks rough Rip Cord up, but he refuses to reveal what he told G.I. Joe. They take him to Dr. Mindbender's lab in the Springfield Museum and hook him up to the Brainwave Scanner to extract the information by force.
+          </p>
+          <p>
+            The Joes arrive in Springfield, and a major battle breaks out (Issue #49). Cobra evacuates the entire population of the town to Cobra Island.  The Joes are victorious.  Rip Cord is rescued (Issue #50).
           </p>
         </section>
 
