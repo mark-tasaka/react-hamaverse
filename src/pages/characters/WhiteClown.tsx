@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import whiteClown1 from './img/whiteClown/whiteClown_1.png';
 import whiteClown2 from './img/whiteClown/whiteClown_2.png';
+import whiteClown3 from './img/whiteClown/whiteClown_3.png';
 
 const WhiteClown: React.FC = () => {
   return (
@@ -50,6 +51,35 @@ const WhiteClown: React.FC = () => {
           </p>
           <p>
             The White Clown and <Link to="/character-bios/Orlovsky">Orlovsky</Link> follow <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> out of the building. A <Link to="/character-bios/Marina">young girl</Link> pleads with him to stop the firing squad from killing her family, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> ignores her cries and walks past. <Link to="/character-bios/Orlovsky">Orlovsky</Link> watches, puzzled and troubled, as the firing squad shoots the girl's father, unable to understand why <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> does nothing to stop it. The three then steal <Link to="/character-bios/Metz">Metz</Link>'s car and set off for Gulag 23 (Issue #104).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Reunited with his Love</h2>
+          <img src={whiteClown3} alt="The White Clown's rescue at the gulag" className="profile-block-img" />
+          <p>
+            The White Clown and <Link to="/character-bios/Orlovsky">Orlovsky</Link> travel with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to the gulag. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> assaults it alone, laying waste to the guards, while the White Clown and <Link to="/character-bios/Orlovsky">Orlovsky</Link> observe from a distance. The pair spot a helicopter approaching, carrying <Link to="/character-bios/Metz">Metz</Link> and a mercenary. The White Clown believes <Link to="/character-bios/Metz">Metz</Link> has come to help <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, but <Link to="/character-bios/Orlovsky">Orlovsky</Link> tells him he doesn't trust the man (Issue #105). Once <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> has defeated the guards on the surface, he descends into the sewers below, with the mercenary following close behind. Unwilling to risk <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> being killed, the White Clown heads down after them, and <Link to="/character-bios/Orlovsky">Orlovsky</Link> joins him.
+          </p>
+          <p>
+            Inside the sewers, the White Clown spots the mercenary aiming his weapon at <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and strikes him, spoiling his shot. The mercenary quickly overpowers the White Clown, throwing him to the ground and leveling his rifle at him — but <Link to="/character-bios/Orlovsky">Orlovsky</Link>, aiming down through the manhole above, forces the mercenary to surrender his weapon.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> kills the remaining guards and frees the prisoners — <Link to="/character-bios/Magda">Magda</Link> and George Strawhacker. The White Clown is finally reunited with his beloved <Link to="/character-bios/Magda">Magda</Link>, and the two embrace.
+          </p>
+          <p>
+            The White Clown and <Link to="/character-bios/Magda">Magda</Link> return to the surface. A train carrying Lower Borovians arrives outside, and <Link to="/character-bios/Metz">Metz</Link>, the rebel leader, announces that the gulags will remain open — now to house the Lower Borovians instead. Shocked, <Link to="/character-bios/Magda">Magda</Link> realizes the revolution accomplished nothing more than trading one form of persecution for another, shifting from ideology to ethnicity.
+          </p>
+          <p>
+            One of the Lower Borovians, a <Link to="/character-bios/Marina">young girl</Link>, cries out, telling the crowd this man (<Link to="/character-bios/SnakeEyes">Snake Eyes</Link>) is no hero.  He let the mob kill her father. <Link to="/character-bios/Metz">Metz</Link> strikes her with his machine pistol, then levels the weapon at her, calling her subhuman. George Strawhacker, walking beside the Hero, strikes <Link to="/character-bios/Metz">Metz</Link> with his fist, knocking him to the ground.  Strawhacker shouts that <Link to="/character-bios/Metz">Metz</Link> is no different than the regime he claims to have overthrown.
+          </p>
+          <p>
+            <Link to="/character-bios/Metz">Metz</Link> fires his machine pistol, killing Strawhacker instantly. Something awakens in the Hero, who raises his rifle at <Link to="/character-bios/Metz">Metz</Link>. A mercenary in the crowd reveals that <Link to="/character-bios/Metz">Metz</Link> had hired him to kill the Hero, and the mob turns on <Link to="/character-bios/Metz">Metz</Link>, beating him and preparing to hang him.
+          </p>
+          <p>
+            The <Link to="/character-bios/Marina">young girl</Link> begs the Hero not to let the mob hang <Link to="/character-bios/Metz">Metz</Link>. Just as the noose tightens, the Hero, carrying the <Link to="/character-bios/Marina">girl</Link>, shoots the rope in two, and <Link to="/character-bios/Metz">Metz</Link> falls safely to the ground.
+          </p>
+          <p>
+            The White Clown whispers, "Magda — if Metz is allowed to live, he will surely plot to bring about your death." <Link to="/character-bios/Magda">Magda</Link> replies, "I would rather be dead than become the very people who built this gulag" (Issue #106).
           </p>
         </section>
 
