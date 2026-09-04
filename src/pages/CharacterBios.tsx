@@ -58,6 +58,7 @@ import CrocMasterImg from './img/portraits/crocMaster.jpg';
 import KwinnImg from './img/portraits/kwinn.jpg';
 import MagdaImg from './img/portraits/magda.jpg';
 import MetzImg from './img/portraits/metz.jpg';
+import SteelerImg from './img/portraits/steeler.jpg';
 
 
 
@@ -959,6 +960,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 104',
       year: '1990',
       month: 'September',
+    },
+  },
+  {
+    name: 'Steeler',
+    img: SteelerImg,
+    link: '/character-bios/Steeler',
+    rank: 12,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   },
 ];
