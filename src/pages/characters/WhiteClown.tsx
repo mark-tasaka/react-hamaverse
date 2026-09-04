@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import whiteClown1 from './img/whiteClown/whiteClown_1.png';
 import whiteClown2 from './img/whiteClown/whiteClown_2.png';
 import whiteClown3 from './img/whiteClown/whiteClown_3.png';
+import whiteClown4 from './img/whiteClown/whiteClown_4.png';
 
 const WhiteClown: React.FC = () => {
   return (
@@ -79,7 +80,18 @@ const WhiteClown: React.FC = () => {
             The <Link to="/character-bios/Marina">young girl</Link> begs the Hero not to let the mob hang <Link to="/character-bios/Metz">Metz</Link>. Just as the noose tightens, the Hero, carrying the <Link to="/character-bios/Marina">girl</Link>, shoots the rope in two, and <Link to="/character-bios/Metz">Metz</Link> falls safely to the ground.
           </p>
           <p>
-            The White Clown whispers, "Magda — if Metz is allowed to live, he will surely plot to bring about your death." <Link to="/character-bios/Magda">Magda</Link> replies, "I would rather be dead than become the very people who built this gulag" (Issue #106).
+            The White Clown whispers, "Magda — if Metz is allowed to live, he will surely plot to bring about your death." <Link to="/character-bios/Magda">Magda</Link> replies, "I would rather be dead than become the very people who built this gulag" (Issue #106).  <Link to="/character-bios/Magda">Magda</Link> becomes the President of Borovia, forming the new government.
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">The White Clown and Magda's End</h2>
+          <img src={whiteClown4} alt="The death of the White Clown and Magda" className="profile-block-img" />
+          <p>
+            Political turmoil grips Borovia as <Link to="/character-bios/Magda">Magda</Link>'s presidency comes to an end and she is thrown from office. <Link to="/character-bios/Metz">Metz</Link>, the opposition leader, allies himself with Cobra and seizes the presidency. <Link to="/character-bios/Magda">Magda</Link> and the White Clown are captured by Vipers and brought before <Link to="/character-bios/Metz">Metz</Link> and <Link to="/character-bios/CobraCommander">Cobra Commander</Link>. <Link to="/character-bios/Metz">Metz</Link> promises them a fair trial, recalling that his own life had once been spared when the mob tried to hang him.
+          </p>
+          <p>
+            <Link to="/character-bios/CobraCommander">Cobra Commander</Link> disagrees, and guns down <Link to="/character-bios/Magda">Magda</Link> and the White Clown in cold blood. <Link to="/character-bios/Metz">Metz</Link> can only look on, shocked and horrified (Issue #145).
           </p>
         </section>
 
