@@ -33,7 +33,7 @@ const Flagg: React.FC = () => {
           <h2 className="profile-block-title">A Broken Rangefinder</h2>
           <img src={flagg2} alt="General Flagg recruiting Flash" className="profile-block-img" />
           <p>
-            Prior to the formation of G.I. Joe, General Flagg conducts an inspection at the Covert Electronics Shop at Aberdeen Proving Ground. There he meets Specialist Anthony Gambello (Flash), who he learns has made improvements to the laser rangefinders. Flagg asks Gambello the distance to the water tower. As Gambello reaches for the improved rangefinder to measure it, Flagg smashes the device. While Gambello scrambles to fix it, Flagg demands to know the distance anyway.
+            Prior to the formation of G.I. Joe, General Flagg conducts an inspection at the Covert Electronics Shop at Aberdeen Proving Ground. There he meets Specialist Anthony Gambello (<Link to="/character-bios/Flash">Flash</Link>), who he learns has made improvements to the laser rangefinders. Flagg asks Gambello the distance to the water tower. As Gambello reaches for the improved rangefinder to measure it, Flagg smashes the device. While Gambello scrambles to fix it, Flagg demands to know the distance anyway.
           </p>
           <p>
             Gambello tells him it is 240 yards, explaining that he was quarterback on his high school football team and became skilled at estimating yardage by eye. Impressed, Flagg orders Sparks to arrange his transfer to Staten Island — to G.I. Joe (G.I. Joe Declassified #2).
