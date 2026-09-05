@@ -25,7 +25,7 @@ const Shooter: React.FC = () => {
           <h2 className="profile-block-title">Fort Wadsworth</h2>
           <img src={shooter1} alt="Shooter at Fort Wadsworth" className="profile-block-img" />
           <p>
-            Officially, SFC Craig serves as NCO cadre at the Chaplain's Assistant School at Fort Wadsworth, where she plays an active role keeping snoopy Chaplain's Assistants from poking around the motor pool and bothering its staff — the cover identity for the G.I. Joe team. Shortly after she orders a pair of nosy Chaplain's Assistants back to their duties, giving the motor pool staff some breathing room, Short Fuze, Steeler, and Flash take note of the ribbons and badges on her dress uniform: the Combat Infantryman's Badge (CIB), Expert Rifleman's Badge, Bronze Star, Purple Heart, and Air Medal. The CIB, they note, is only awarded to personnel who've served under direct enemy fire (G.I. Joe Declassified #1).
+            Officially, SFC Craig serves as NCO cadre at the Chaplain's Assistant School at Fort Wadsworth, where she plays an active role keeping snoopy Chaplain's Assistants from poking around the motor pool and bothering its staff — the cover identity for the G.I. Joe team. Shortly after she orders a pair of nosy Chaplain's Assistants back to their duties, giving the motor pool staff some breathing room, Short Fuze, <Link to="/character-bios/Steeler">Steeler</Link>, and Flash take note of the ribbons and badges on her dress uniform: the Combat Infantryman's Badge (CIB), Expert Rifleman's Badge, Bronze Star, Purple Heart, and Air Medal. The CIB, they note, is only awarded to personnel who've served under direct enemy fire (G.I. Joe Declassified #1).
           </p>
         </section>
 

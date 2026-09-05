@@ -8,6 +8,7 @@ import ripCord2 from './img/ripCord/ripCord_2.png';
 import ripCord3 from './img/ripCord/ripCord_3.png';
 import ripCord4 from './img/ripCord/ripCord_4.png';
 import ripCord5 from './img/ripCord/ripCord_5.png';
+import ripCord6 from './img/ripCord/ripCord_6.png';
 
 const RipCord: React.FC = () => {
   return (
@@ -79,13 +80,22 @@ const RipCord: React.FC = () => {
             The Firebat takes Rip Cord to the town of Springfield, where everyone believes him to be <Link to="/character-bios/Zartan">Zartan</Link>. Rip Cord is admitted to the Springfield hospital for medical treatment. When the Dreadnoks visit, a confrontation erupts between Rip Cord and Buzzer over <Link to="/character-bios/Candy">Candy</Link>'s fate. Buzzer had previously "borrowed" <Link to="/character-bios/Zartan">Zartan</Link>'s motorcycle and destroyed it in the process, and the Dreadnoks assume <Link to="/character-bios/Zartan">Zartan</Link>'s anger toward Buzzer stems from that incident.  They are utterly confused as to why "Zartan" seems so upset about Buzzer stealing his "Candy" (Issue #48).
           </p>
           <p>
-            At a bar in Springfield, Rip Cord — still disguised as <Link to="/character-bios/Zartan">Zartan</Link> — uses a payphone to contact the Pit, inadvertently revealing Springfield's location. Cobra intercepts the call, and a team led by <Link to="/character-bios/ScrapIron">Scrap-Iron</Link> and <Link to="/character-bios/Firefly">Firefly</Link> quickly arrives. A firefight breaks out, and Rip Cord flees into the street, pulling a father from his car and driving off — unaware the man's young daughter is still inside. The girl pulls a .375 Magnum on Rip Cord, forcing him to stop and surrender. The Dreadnoks drag him out of the car and thank the girl for her help.
+            At a bar in Springfield, Rip Cord — still disguised as <Link to="/character-bios/Zartan">Zartan</Link> — uses a payphone to contact the Pit, inadvertently revealing Springfield's location. Cobra intercepts the call, and a team led by <Link to="/character-bios/ScrapIron">Scrap-Iron</Link> and <Link to="/character-bios/Firefly">Firefly</Link> quickly arrives. A firefight breaks out, and Rip Cord flees into the street, pulling a father from his car and driving off with the man's young daughter is still inside. The girl pulls a .375 Magnum on Rip Cord, forcing him to stop and surrender. The Dreadnoks drag him out of the car and thank the girl for her help.
           </p>
           <p>
             The Dreadnoks rough Rip Cord up, but he refuses to reveal what he told G.I. Joe. They take him to Dr. Mindbender's lab in the Springfield Museum and hook him up to the Brainwave Scanner to extract the information by force.
           </p>
           <p>
             The Joes arrive in Springfield, and a major battle breaks out (Issue #49). Cobra evacuates the entire population of the town to Cobra Island.  The Joes are victorious.  Rip Cord is rescued (Issue #50).
+          </p>
+        </section>
+
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Learning Candy's Fate</h2>
+          <img src={ripCord6} alt="Rip Cord learning Candy's fate" className="profile-block-img" />
+          <p>
+            Rip Cord and <Link to="/character-bios/StormShadow">Storm Shadow</Link> wait in the recreation room of the secret underground section beneath the Defense Language Institute. Rip Cord doesn't yet know <Link to="/character-bios/Candy">Candy</Link>'s fate, but he knows the guest <Link to="/character-bios/Hawk">Hawk</Link> is bringing with him has insight into what happened. <Link to="/character-bios/Hawk">Hawk</Link> enters with a teenager named <Link to="/character-bios/Billy">Billy</Link> — the son of Cobra Commander.  While <Link to="/character-bios/StormShadow">Storm Shadow</Link> already knows him, this is the first time Rip Cord and <Link to="/character-bios/Billy">Billy</Link> meet. Getting straight to the point, <Link to="/character-bios/Billy">Billy</Link> tells Rip Cord and <Link to="/character-bios/StormShadow">Storm Shadow</Link> that both <Link to="/character-bios/Candy">Candy</Link> and the <Link to="/character-bios/SoftMaster">Soft Master</Link> were killed when a missile struck their car outside Springfield (Issue #63).
           </p>
         </section>
 

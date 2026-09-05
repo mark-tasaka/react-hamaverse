@@ -60,7 +60,7 @@ const RockRoll: React.FC = () => {
             Rock 'n Roll drives through a car wash, donning a military police helmet and shirt along the way — the paint washing clean off the car as it exits. He slaps a police siren onto the roof, and the military in area assumes he's another MP, letting him continue on to his destination.
           </p>
           <p>
-            At Dr. Burkhart's home, <Link to="/character-bios/Jinx">Jinx</Link> informs the group that <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held at St. Lo's infirmary in rural Virginia. Shortly after, Cover Girl, Dusty, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, Steeler, and <Link to="/character-bios/Zap">Zap</Link> arrive in a telephone truck. Dr. Burkhart and <Link to="/character-bios/Lola">Lola</Link> join the Joes on the hospital raid. Film crews are on scene as the Joes carry out their raid, and Destro arrives to present receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
+            At Dr. Burkhart's home, <Link to="/character-bios/Jinx">Jinx</Link> informs the group that <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held at St. Lo's infirmary in rural Virginia. Shortly after, Cover Girl, Dusty, Bazooka, Barbecue, Flash, Wet-Suit, Snow Job, <Link to="/character-bios/Steeler">Steeler</Link>, and <Link to="/character-bios/Zap">Zap</Link> arrive in a telephone truck. Dr. Burkhart and <Link to="/character-bios/Lola">Lola</Link> join the Joes on the hospital raid. Film crews are on scene as the Joes carry out their raid, and Destro arrives to present receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
           </p>
         </section>
 
