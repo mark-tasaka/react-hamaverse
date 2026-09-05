@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import steeler1 from './img/steeler/steeler_1.png';
 import steeler2 from './img/steeler/steeler_2.png';
+import steeler3 from './img/steeler/steeler_3.png';
 
 const Steeler: React.FC = () => {
   return (
@@ -41,6 +42,26 @@ const Steeler: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and <Link to="/character-bios/Flagg">General Flagg</Link> raise their pistols at one another, but <Link to="/character-bios/CobraCommander">Cobra Commander</Link> grabs a nearby child as a human shield. <Link to="/character-bios/Flagg">General Flagg</Link> holds his fire, while <Link to="/character-bios/CobraCommander">Cobra Commander</Link> fires a shot that grazes <Link to="/character-bios/Flagg">Flagg</Link>'s temple. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and the <Link to="/character-bios/Baroness">Baroness</Link> make their escape in the chaos that follows (Issue #5).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Emirate of Benzheen</h2>
+          <img src={steeler3} alt="Steeler's tank wargame in Benzheen" className="profile-block-img" />
+          <p>
+            In the Emirate of Benzheen, an American Abrams tank — crewed by Wild Card (commander), Steeler (driver), Cover Girl (gunner), and Cross (loader) — squares off against a Russian T-90, crewed by October Guard Colonel Chikatilo (commander), Daina (gunner), and Molyenkiy (driver), in a wargame staged in an abandoned town. The exercise is meant to showcase both tank platforms to the Emir, who is deciding which to purchase for the Benzheen military.
+          </p>
+          <p>
+            Shortly after the exercise wraps up, with both tanks simultaneously struck by paint rounds, a flood of civilian traffic pours into town from Imam. The Joes learn that tanks crossed the border from neighboring Abysmia two hours earlier, entering Imam, shooting indiscriminately, and killing the mayor. The column is now advancing toward the very town where the Joes and October Guard are stationed. Together, they organize the armed civilians to build defenses ahead of the approaching Abysmian tanks (Issue #173).
+          </p>
+          <p>
+            The Abysmian tanks arrive in town, and the Joes quickly discover these are Cobra tanks, led by Colonel Bin Ismael and crewed by Cobra advisors. The civilians set fires throughout the town, throwing off the Abysmian tanks' sensors and creating the illusion of a much larger armored presence than actually exists. Cover Girl fires a round into the Colonel's tank, destroying it and forcing the surviving Cobra advisors to take command themselves.
+          </p>
+          <p>
+            The Joes and October Guard knock out several more Cobra tanks before the remaining force suddenly withdraws from the town. One of the civilian leaders informs the Joes and October Guard that the Emir has been overthrown and placed under arrest — the army now supports the rebels.
+          </p>
+          <p>
+            The armed civilians now raise their rifles at the Joes and October Guard, explaining that when they were fighting together they were friends — but now, with the Emir under arrest, they are enemies. They are free to leave, but their tanks are seized in the name of the revolution. Colonel Chikatilo claps a shocked Wild Card on the shoulder and says, "Welcome to this part of the world!" (Issue #174).
           </p>
         </section>
 
