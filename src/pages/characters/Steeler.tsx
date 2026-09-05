@@ -47,7 +47,7 @@ const Steeler: React.FC = () => {
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), only a single version of Steeler was released: the <a href="https://www.yojoe.com/action/82/steeler.shtml" target="_blank" rel="noopener noreferrer">1982 figure</a> (and a <a href="https://www.yojoe.com/action/83/steeler1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> variant). Steeler's file card lists his rank as O-1, a commissioned officer (Second Lieutenant), his interactions and relations with the enlisted team members throughout the comic depict him as one of the enlisted ranks himself.
+            During the Marvel run (1982–1994), only a single version of Steeler was released: the <a href="https://www.yojoe.com/action/82/steeler.shtml" target="_blank" rel="noopener noreferrer">1982 figure</a> (and a <a href="https://www.yojoe.com/action/83/steeler1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> variant). Steeler's file card lists his rank as O-1, a commissioned officer (Second Lieutenant).  However, his interactions and relations with the enlisted team members throughout the comic depict him as one of the enlisted ranks himself.
           </p>
         </section>
 
