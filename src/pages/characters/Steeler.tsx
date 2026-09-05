@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import steeler1 from './img/steeler/steeler_1.png';
 import steeler2 from './img/steeler/steeler_2.png';
 import steeler3 from './img/steeler/steeler_3.png';
+import steeler4 from './img/steeler/steeler_4.png';
 
 const Steeler: React.FC = () => {
   return (
@@ -65,10 +66,18 @@ const Steeler: React.FC = () => {
           </p>
         </section>
 
+                <section className="profile-block">
+          <h2 className="profile-block-title">Reassigned Back to Fort Wadsworth</h2>
+          <img src={steeler4} alt="Steeler reassigned to the Motor Pool at Fort Wadsworth" className="profile-block-img" />
+          <p>
+            The Motor Pool at the Chaplain's Assistant School at Fort Wadsworth is reactivated as a secondary location for G.I. Joe. Steeler is reassigned there, along with several of the original team members: <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, Cover Girl, and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> (Issue #206).
+          </p>
+        </section>
+
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), only a single version of Steeler was released: the <a href="https://www.yojoe.com/action/82/steeler.shtml" target="_blank" rel="noopener noreferrer">1982 figure</a> (and a <a href="https://www.yojoe.com/action/83/steeler1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> variant). Steeler's file card lists his rank as O-1, a commissioned officer (Second Lieutenant).  However, his interactions and relations with the enlisted team members throughout the comic depict him as one of the enlisted ranks himself.
+            During the Marvel run (1982–1994), only a single version of Steeler was released: the <a href="https://www.yojoe.com/action/82/steeler.shtml" target="_blank" rel="noopener noreferrer">1982 figure</a> (and a <a href="https://www.yojoe.com/action/83/steeler1p5.shtml" target="_blank" rel="noopener noreferrer">1983 swivel-arm</a> variant). Steeler's file card lists his rank as O-1, a commissioned officer (Second Lieutenant).  However, his interactions and relationships with the enlisted team members in the comic depicts him as one of the enlisted ranks himself.
           </p>
         </section>
 
