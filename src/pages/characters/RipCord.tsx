@@ -9,6 +9,8 @@ import ripCord3 from './img/ripCord/ripCord_3.png';
 import ripCord4 from './img/ripCord/ripCord_4.png';
 import ripCord5 from './img/ripCord/ripCord_5.png';
 import ripCord6 from './img/ripCord/ripCord_6.png';
+import ripCord7 from './img/ripCord/ripCord_7.png';
+
 
 const RipCord: React.FC = () => {
   return (
@@ -96,6 +98,14 @@ const RipCord: React.FC = () => {
           <img src={ripCord6} alt="Rip Cord learning Candy's fate" className="profile-block-img" />
           <p>
             Rip Cord and <Link to="/character-bios/StormShadow">Storm Shadow</Link> wait in the recreation room of the secret underground section beneath the Defense Language Institute. Rip Cord doesn't yet know <Link to="/character-bios/Candy">Candy</Link>'s fate, but he knows the guest <Link to="/character-bios/Hawk">Hawk</Link> is bringing with him has insight into what happened. <Link to="/character-bios/Hawk">Hawk</Link> enters with a teenager named <Link to="/character-bios/Billy">Billy</Link> — the son of Cobra Commander.  While <Link to="/character-bios/StormShadow">Storm Shadow</Link> already knows him, this is the first time Rip Cord and <Link to="/character-bios/Billy">Billy</Link> meet. Getting straight to the point, <Link to="/character-bios/Billy">Billy</Link> tells Rip Cord and <Link to="/character-bios/StormShadow">Storm Shadow</Link> that both <Link to="/character-bios/Candy">Candy</Link> and the <Link to="/character-bios/SoftMaster">Soft Master</Link> were killed when a missile struck their car outside Springfield (Issue #63).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Candy's Legacy Lives On</h2>
+          <img src={ripCord7} alt="Candy's Bongo the Balloon Bear van" className="profile-block-img" />
+          <p>
+            Rip Cord keeps <Link to="/character-bios/Candy">Candy</Link>'s Bongo the Balloon Bear van, storing it away in the Motor Pool at Fort Wadsworth. He can never bring himself to part with it — his memories of <Link to="/character-bios/Candy">Candy</Link> are too tightly bound to the van, which remains a lasting reminder of her and the time they shared together.
           </p>
         </section>
 
