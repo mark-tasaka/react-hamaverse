@@ -4,6 +4,8 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import coverGirl1 from './img/coverGirl/coverGirl_1.png';
+import coverGirl2 from './img/coverGirl/coverGirl_2.png';
+import coverGirl3 from './img/coverGirl/coverGirl_3.png';
 
 const CoverGirl: React.FC = () => {
   return (
@@ -23,6 +25,43 @@ const CoverGirl: React.FC = () => {
           </p>
           <p>
             Cover Girl's baptism by fire comes when the team is assigned to provide security for the Treasury Building in Washington, D.C. Cobra H.I.S.S. tanks, smuggled inside tractor-trailers, launch a nighttime surprise attack on the building. Cover Girl destroys two H.I.S.S. tanks with the Wolverine before <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s own tank sideswipes hers, knocking the Wolverine onto its side. Cover Girl and the three Joes riding with her — Gung-Ho, Tripwire, and Torpedo — leap to safety just in time, escaping injury (Issue #16).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Surveillance in the Swiss Alps</h2>
+          <img src={coverGirl2} alt="Cover Girl's surveillance mission in the Swiss Alps" className="profile-block-img" />
+          <p>
+            Major Bludd takes the badly burned <Link to="/character-bios/Baroness">Baroness</Link> to the Bern Institute of Reconstructive Surgery in Switzerland, where <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link> proposes performing plastic surgery on her. The Joes travel to Switzerland to keep watch, with Cover Girl teamed up with <Link to="/character-bios/Clutch">Clutch</Link>, the unabashed skirt chaser. The two go undercover as a couple, driving a red sports car.
+          </p>
+          <p>
+            Cover Girl and <Link to="/character-bios/Clutch">Clutch</Link> tail Major Bludd's taxi through the streets. Cover Girl tells him they're driving too close and will surely be spotted. <Link to="/character-bios/Clutch">Clutch</Link> suggests they pull into a dark, secluded alley and "pretend" to make out. Cover Girl offers a witty comeback instead: "Nice try, Clutch. Let's take our chances in the open."
+          </p>
+          <p>
+            <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> later arrive, and a car chase erupts down through the Swiss Alps, with the Joes pursuing <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Major Bludd, and the <Link to="/character-bios/Baroness">Baroness</Link>. Cover Girl and <Link to="/character-bios/Clutch">Clutch</Link>'s sports car is totaled in the chase, forcing them to commandeer a motorcycle and rejoin the rest of the team: Duke, Roadblock, and Snow Job.
+          </p>
+          <p>
+            <Link to="/character-bios/Clutch">Clutch</Link> and Roadblock press on ahead in the V.A.M.P., while Cover Girl, Duke, and Snow Job catch a ride in a cement truck. The mission ultimately ends with <Link to="/character-bios/Clutch">Clutch</Link> and Roadblock capturing <Link to="/character-bios/CobraCommander">Cobra Commander</Link> (Issue #23).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Emirate of Benzheen</h2>
+          <img src={coverGirl3} alt="Cover Girl's tank battle in the Emirate of Benzheen" className="profile-block-img" />
+          <p>
+            In the Emirate of Benzheen, an American Abrams tank — crewed by Wild Card (commander), <Link to="/character-bios/Steeler">Steeler</Link> (driver), Cover Girl (gunner), and Cross (loader) — squares off against a Russian T-90, crewed by October Guard Colonel Chikatilo (commander), Daina (gunner), and Molyenkiy (driver), in a wargame staged in an abandoned town. The exercise is meant to showcase both tank platforms to the Emir, who is deciding which to purchase for the Benzheen military.
+          </p>
+          <p>
+            Shortly after the exercise wraps up, with both tanks simultaneously struck by paint rounds, a flood of civilian traffic pours into town from Imam. The Joes learn that tanks crossed the border from neighboring Abysmia two hours earlier, entering Imam, shooting indiscriminately, and killing the mayor. The column is now advancing toward the very town where the Joes and October Guard are stationed. Together, they organize the armed civilians to build defenses ahead of the approaching Abysmian tanks (Issue #173).
+          </p>
+          <p>
+            The Abysmian tanks arrive in town, and the Joes quickly discover these are Cobra tanks, led by Colonel Bin Ismael and crewed by Cobra advisors. The civilians set fires throughout the town, throwing off the Abysmian tanks' sensors and creating the illusion of a much larger armored presence than actually exists. Cover Girl fires a round into the Colonel's tank, destroying it and forcing the surviving Cobra advisors to take command themselves.
+          </p>
+          <p>
+            The Joes and October Guard knock out several more Cobra tanks before the remaining force suddenly withdraws from the town. One of the civilian leaders informs the Joes and October Guard that the Emir has been overthrown and placed under arrest — the army now supports the rebels.
+          </p>
+          <p>
+            The armed civilians now raise their rifles at the Joes and October Guard, explaining that when they were fighting together they were friends — but now, with the Emir under arrest, they are enemies. They are free to leave, but their tanks are seized in the name of the revolution. Colonel Chikatilo claps a shocked Wild Card on the shoulder and says, "Welcome to this part of the world!" (Issue #174).
           </p>
         </section>
 
