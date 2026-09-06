@@ -60,6 +60,7 @@ import MagdaImg from './img/portraits/magda.jpg';
 import MetzImg from './img/portraits/metz.jpg';
 import SteelerImg from './img/portraits/steeler.jpg';
 import FlashImg from './img/portraits/flash.jpg';
+import CoverGirlImg from './img/portraits/coverGirl.jpg';
 
 
 
@@ -993,6 +994,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 1',
       year: '1982',
       month: 'March',
+    },
+  },
+  {
+    name: 'Cover Girl',
+    img: CoverGirlImg,
+    link: '/character-bios/CoverGirl',
+    rank: 58,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 16,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 16',
+      year: '1983',
+      month: 'October',
     },
   },
 ];
