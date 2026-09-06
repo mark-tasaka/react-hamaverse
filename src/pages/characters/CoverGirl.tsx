@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import coverGirl1 from './img/coverGirl/coverGirl_1.png';
 import coverGirl2 from './img/coverGirl/coverGirl_2.png';
 import coverGirl3 from './img/coverGirl/coverGirl_3.png';
+import coverGirl4 from './img/coverGirl/coverGirl_4.png';
 
 const CoverGirl: React.FC = () => {
   return (
@@ -65,10 +66,21 @@ const CoverGirl: React.FC = () => {
           </p>
         </section>
 
+                <section className="profile-block">
+          <h2 className="profile-block-title">Reassigned Back to Fort Wadsworth</h2>
+          <img src={coverGirl4} alt="Cover Girl reassigned to Fort Wadsworth" className="profile-block-img" />
+          <p>
+            The Motor Pool at the Chaplain's Assistant School at Fort Wadsworth is reactivated as a secondary location for G.I. Joe. <Link to="/character-bios/Steeler">Steeler</Link> is reassigned there, along with several of the original team members: <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, Cover Girl, and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> (Issue #206).
+          </p>
+          <p>
+            Shortly after the Motor Pool is reactivated, <Link to="/character-bios/SeanCollins">Sean Collins</Link> arrives with orders assigning him to the instructor cadre of a new training facility in Texas — a cover story for his actual acceptance into G.I. Joe, though <Link to="/character-bios/SeanCollins">Sean</Link> himself does not know it. He stops by to say his goodbyes. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives him one of his Sykes-Fairbairn commando daggers, and <Link to="/character-bios/SeanCollins">Sean</Link>, visibly touched, wipes away a tear. <Link to="/character-bios/Clutch">Clutch</Link> jokes, "You must rate, Sean — I never got one of those." Cover Girl and <Link to="/character-bios/Scarlett">Scarlett</Link> kiss <Link to="/character-bios/SeanCollins">Sean</Link> on his cheeks, with Cover Girl adding, "Knock 'em dead in Texas, Sean." <Link to="/character-bios/Clutch">Clutch</Link>'s jaw drops. "I never got one of these either!" he says, unable to hide his envy (Issue #209).
+          </p>
+        </section>
+
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), only a single version of Cover Girl was produced: the <a href="https://www.yojoe.com/action/83/covergirl.shtml" target="_blank" rel="noopener noreferrer">1983 figure</a>. Cover Girl's file card lists her grade as E-4 (Specialist), with "Specialist" spelled out in brackets, clearly identifying her as a Specialist rather than a Corporal — since both ranks share the same E-4 pay grade.
+            During the Marvel run (1982–1994), only a single version of Cover Girl was produced: the <a href="https://www.yojoe.com/action/83/covergirl.shtml" target="_blank" rel="noopener noreferrer">1983 figure</a>. Cover Girl's file card lists her grade as E-4 (Specialist), with "Specialist" added in brackets, clearly identifying her as a Specialist rather than a Corporal — both ranks share the same E-4 pay grade.
           </p>
         </section>
 
