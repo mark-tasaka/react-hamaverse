@@ -50,13 +50,13 @@ const Steeler: React.FC = () => {
           <h2 className="profile-block-title">Emirate of Benzheen</h2>
           <img src={steeler3} alt="Steeler's tank wargame in Benzheen" className="profile-block-img" />
           <p>
-            In the Emirate of Benzheen, an American Abrams tank — crewed by Wild Card (commander), Steeler (driver), Cover Girl (gunner), and Cross (loader) — squares off against a Russian T-90, crewed by October Guard Colonel Chikatilo (commander), Daina (gunner), and Molyenkiy (driver), in a wargame staged in an abandoned town. The exercise is meant to showcase both tank platforms to the Emir, who is deciding which to purchase for the Benzheen military.
+            In the Emirate of Benzheen, an American Abrams tank — crewed by Wild Card (commander), Steeler (driver), <Link to="/character-bios/CoverGirl">Cover Girl</Link> (gunner), and Cross (loader) — squares off against a Russian T-90, crewed by October Guard Colonel Chikatilo (commander), Daina (gunner), and Molyenkiy (driver), in a wargame staged in an abandoned town. The exercise is meant to showcase both tank platforms to the Emir, who is deciding which to purchase for the Benzheen military.
           </p>
           <p>
             Shortly after the exercise wraps up, with both tanks simultaneously struck by paint rounds, a flood of civilian traffic pours into town from Imam. The Joes learn that tanks crossed the border from neighboring Abysmia two hours earlier, entering Imam, shooting indiscriminately, and killing the mayor. The column is now advancing toward the very town where the Joes and October Guard are stationed. Together, they organize the armed civilians to build defenses ahead of the approaching Abysmian tanks (Issue #173).
           </p>
           <p>
-            The Abysmian tanks arrive in town, and the Joes quickly discover these are Cobra tanks, led by Colonel Bin Ismael and crewed by Cobra advisors. The civilians set fires throughout the town, throwing off the Abysmian tanks' sensors and creating the illusion of a much larger armored presence than actually exists. Cover Girl fires a round into the Colonel's tank, destroying it and forcing the surviving Cobra advisors to take command themselves.
+            The Abysmian tanks arrive in town, and the Joes quickly discover these are Cobra tanks, led by Colonel Bin Ismael and crewed by Cobra advisors. The civilians set fires throughout the town, throwing off the Abysmian tanks' sensors and creating the illusion of a much larger armored presence than actually exists. <Link to="/character-bios/CoverGirl">Cover Girl</Link> fires a round into the Colonel's tank, destroying it and forcing the surviving Cobra advisors to take command themselves.
           </p>
           <p>
             The Joes and October Guard knock out several more Cobra tanks before the remaining force suddenly withdraws from the town. One of the civilian leaders informs the Joes and October Guard that the Emir has been overthrown and placed under arrest — the army now supports the rebels.
@@ -70,7 +70,7 @@ const Steeler: React.FC = () => {
           <h2 className="profile-block-title">Reassigned Back to Fort Wadsworth</h2>
           <img src={steeler4} alt="Steeler reassigned to the Motor Pool at Fort Wadsworth" className="profile-block-img" />
           <p>
-            The Motor Pool at the Chaplain's Assistant School at Fort Wadsworth is reactivated as a secondary location for G.I. Joe. Steeler is reassigned there, along with several of the original team members: <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, Cover Girl, and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> (Issue #206).
+            The Motor Pool at the Chaplain's Assistant School at Fort Wadsworth is reactivated as a secondary location for G.I. Joe. Steeler is reassigned there, along with several of the original team members: <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/CoverGirl">Cover Girl</Link>, and <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> (Issue #206).
           </p>
         </section>
 
