@@ -7,6 +7,7 @@ import coverGirl1 from './img/coverGirl/coverGirl_1.png';
 import coverGirl2 from './img/coverGirl/coverGirl_2.png';
 import coverGirl3 from './img/coverGirl/coverGirl_3.png';
 import coverGirl4 from './img/coverGirl/coverGirl_4.png';
+import coverGirl5 from './img/coverGirl/coverGirl_5.png';
 
 const CoverGirl: React.FC = () => {
   return (
@@ -74,6 +75,17 @@ const CoverGirl: React.FC = () => {
           </p>
           <p>
             Shortly after the Motor Pool is reactivated, <Link to="/character-bios/SeanCollins">Sean Collins</Link> arrives with orders assigning him to the instructor cadre of a new training facility in Texas — a cover story for his actual acceptance into G.I. Joe, though <Link to="/character-bios/SeanCollins">Sean</Link> himself does not know it. He stops by to say his goodbyes. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives him one of his Sykes-Fairbairn commando daggers, and <Link to="/character-bios/SeanCollins">Sean</Link>, visibly touched, wipes away a tear. <Link to="/character-bios/Clutch">Clutch</Link> jokes, "You must rate, Sean — I never got one of those." Cover Girl and <Link to="/character-bios/Scarlett">Scarlett</Link> kiss <Link to="/character-bios/SeanCollins">Sean</Link> on his cheeks, with Cover Girl adding, "Knock 'em dead in Texas, Sean." <Link to="/character-bios/Clutch">Clutch</Link>'s jaw drops. "I never got one of these either!" he says, unable to hide his envy (Issue #209).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Wounded in Seattle</h2>
+          <img src={coverGirl5} alt="Cover Girl wounded in Seattle" className="profile-block-img" />
+          <p>
+            Cobra has activated sleeper cells across the nation. Cover Girl is dispatched to Seattle, where she teams up with Colonel Bright to investigate a suspicious air traffic controller, smuggled a briefcase past security. Inside the tower, they find the rest of the staff tied up and discover the controller is actually a Fred series Crimson Guardsman. In the exchange of gunfire that follows, both Colonel Bright and Cover Girl are shot.  Cover Girl manages to kill the Crimson Guardsman (Issue #223).
+          </p>
+          <p>
+            While the Colonel's wounds are minor, Cover Girl's are far more severe — she has been shot through her neck. She is rushed to Walter Reed Medical Center and placed in a medically induced coma (Issue #224). The injury permanently changes her voice: deep, raspy, smoky. When Cover Girl finally returns to Fort Wadsworth, <Link to="/character-bios/LadyJay">Lady Jaye</Link> asks if the changes to her voice are permanent and remarks that her new voice is hot (Issue #228).
           </p>
         </section>
 
