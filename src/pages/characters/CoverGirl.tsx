@@ -8,6 +8,7 @@ import coverGirl2 from './img/coverGirl/coverGirl_2.png';
 import coverGirl3 from './img/coverGirl/coverGirl_3.png';
 import coverGirl4 from './img/coverGirl/coverGirl_4.png';
 import coverGirl5 from './img/coverGirl/coverGirl_5.png';
+import coverGirl6 from './img/coverGirl/coverGirl_6.png';
 
 const CoverGirl: React.FC = () => {
   return (
@@ -86,6 +87,17 @@ const CoverGirl: React.FC = () => {
           </p>
           <p>
             While the Colonel's wounds are minor, Cover Girl's are far more severe — she has been shot through her neck. She is rushed to Walter Reed Medical Center and placed in a medically induced coma (Issue #224). The injury permanently changes her voice: deep, raspy, smoky. When Cover Girl finally returns to Fort Wadsworth, <Link to="/character-bios/LadyJay">Lady Jaye</Link> asks if the changes to her voice are permanent and remarks that her new voice is hot (Issue #228).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Scripture for a Grieving Mother</h2>
+          <img src={coverGirl6} alt="Cover Girl honoring Shooter's sacrifice" className="profile-block-img" />
+          <p>
+            Cover Girl's first assignment upon returning from Walter Reed is to accompany <Link to="/character-bios/LadyJay">Lady Jaye</Link> to St. Ewan Church to visit SFC Jodie "<Link to="/character-bios/Shooter">Shooter</Link>" Craig's mother. Certain details of Operation Lady Doomsday have since been made public, and SFC Craig has been posthumously awarded the Silver Star and Purple Heart for her actions. <Link to="/character-bios/LadyJay">Lady Jaye</Link> presents the medals to Mrs. Craig, who asks, "They give out medals for killing the enemy, don't they? Did my Jodie kill people?" <Link to="/character-bios/LadyJay">Lady Jaye</Link> tells her that Jodie performed her duties with exceptional valor, and that the mission's success hinged on her actions.
+          </p>
+          <p>
+            Cover Girl quotes John 15:13, telling her, "She gave her life to save the twelve of her comrades." In tears, Mrs. Craig says, "It's such a costly gift..." Cover Girl embraces her, offering what comfort she can (Issue #228).
           </p>
         </section>
 
