@@ -17,7 +17,7 @@ const CoverGirl: React.FC = () => {
         <h1 className="character-profile-title">Cover Girl (Courtney Krieger)</h1>
 
         <p className="profile-intro">
-          Specialist Courtney A. Krieger (Cover Girl) is the team's armor specialist, operating tanks and armored fighting vehicles. SPC Krieger joins G.I. Joe as the operator of the Wolverine MLRS (Multiple Launch Rocket System).
+          Specialist Courtney A. Krieger (Cover Girl) is the team's armor specialist, operating tanks and armored fighting vehicles. SPC Krieger joins G.I. Joe as the Wolverine MLRS (Multiple Launch Rocket System) operator. She is a skilled mechanic and a capable soldier in her own right, taking on roles well beyond simply operating an AFV.
         </p>
 
         <section className="profile-block">
