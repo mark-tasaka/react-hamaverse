@@ -24,7 +24,7 @@ const WildBill: React.FC = () => {
             Wild Bill's first mission with G.I. Joe is as the pilot of a Huey, transporting Doc, the team's new doctor, to tend to the wounded. After dropping Doc off, Wild Bill picks up <Link to="/character-bios/Zap">Zap</Link> and flies him to Pumping Station 2, where a trio of workers is waiting for them. Wild Bill and <Link to="/character-bios/Zap">Zap</Link> disembark to meet the group.
           </p>
           <p>
-            Wild Bill enters the pumping station with the three workers, when <Link to="/character-bios/Zap">Zap</Link> suddenly bursts in, warning him the men are actually Cobra agents. The workers draw their pistols, but Wild Bill is faster, drawing his trusted Colt .45 single-action revolver and shooting from the hip to take down all three Cobra agents (Issue #10).
+            Wild Bill enters the pumping station with the three workers, when <Link to="/character-bios/Zap">Zap</Link> suddenly bursts in, warning him the men are actually Cobra agents. The workers draw their pistols, but Wild Bill is faster, drawing his trusted Colt .45 single-action revolver and shooting from the hip to take down all three Cobra agents (Issue #11).
           </p>
         </section>
 
@@ -40,7 +40,7 @@ const WildBill: React.FC = () => {
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <img src={wildBill3} alt="Notes on Wild Bill" className="profile-block-img" />
           <p>
-            During the Marvel run (1982–1994), two unique sculpts and three versions of Wild Bill were produced: the 1983 figure, the 1992 figure, and a 1993 repaint. Mr. Hama based many of the Joes' personalities and backstories on real people he knew. Wild Bill is based on his friend from the Vietnam War, Bart Wulf, who served as a helicopter pilot in the 1st Cavalry. The look of one of Wulf's helicopter gunners, Sgt. Bob Light, went on to become the basis for the appearance of the unmasked <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
+            During the Marvel run (1982–1994), two unique sculpts and three versions of Wild Bill were produced: the <a href="https://www.yojoe.com/action/83/wildbill.shtml" target="_blank" rel="noopener noreferrer">1983 version</a>, the <a href="https://www.yojoe.com/action/92/wildbill2.shtml" target="_blank" rel="noopener noreferrer">1992 version</a>, and a <a href="https://www.yojoe.com/action/93/wildbill3.shtml" target="_blank" rel="noopener noreferrer">1993 repaint</a>. Mr. Hama based many of the Joes' personalities and backstories on real people he knew. Wild Bill is based on his friend from the Vietnam War, Bart Wulf, who served as a helicopter pilot in the 1st Cavalry. The look of one of Wulf's helicopter gunners, Sgt. Bob Light, went on to become the basis for the appearance of the unmasked <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
           </p>
         </section>
 
