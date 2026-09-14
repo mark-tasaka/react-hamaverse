@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import wildBill1 from './img/wildBill/wildBill_1.png';
 import wildBill2 from './img/wildBill/wildBill_2.png';
 import wildBill3 from './img/wildBill/wildBill_3.png';
+import wildBill4 from './img/wildBill/wildBill_4.png';
 
 const WildBill: React.FC = () => {
   return (
@@ -35,10 +36,21 @@ const WildBill: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">A Traditional Send-Off</h2>
+          <h2 className="profile-block-title">Narrating Kwinn's Farewell</h2>
           <img src={wildBill2} alt="Wild Bill's traditional send-off for Kwinn" className="profile-block-img" />
           <p>
             Wild Bill transports <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, along with <Link to="/character-bios/Kwinn">Kwinn</Link>'s body and his kayak, aboard the Dragonfly to the lighthouse at Montauk Point, for a proper send-off for the fallen warrior. The powerful currents there will carry the kayak north toward the Arctic. As <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> places <Link to="/character-bios/Kwinn">Kwinn</Link>'s body aboard the kayak and prepares the ceremony, Wild Bill narrates the proceedings, giving voice to what the silent <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> cannot say himself. Wild Bill helps push the kayak out into the water and says, "Goodbye, Kwinn. There'll never be another like you" (Issue #22).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Knack for Surviving Crashes</h2>
+          <img src={wildBill4} alt="Wild Bill's uncanny knack for surviving crashes" className="profile-block-img" />
+          <p>
+            Wild Bill has an uncanny knack for walking away from helicopter crashes — the aircraft totaled, while he emerges with little more than a few bruises and not a single broken bone. This ability is put on full display during the Cobra Civil War, when the Tomahawk he is piloting is hit and crashes on the east end of the Cobra Island runway. Doc and Lifeline pull Wild Bill from the wreckage. "Doesn't look like there's anything broken, Doc!" Lifeline remarks. "Wild Bill's had a lot of practice at crashing and burning, Lifeline!" Doc replies (Issue #75).
+          </p>
+          <p>
+            Wild Bill demonstrates this same uncanny ability again in Sierra Gordo, when his helicopter goes down. <Link to="/character-bios/Flint">Flint</Link> pulls him from the wreckage, noting that the helicopter is a total loss, but that Wild Bill himself has come through relatively unscathed. "Right, pard. It pays to buckle up!" Wild Bill replies (Issue #105).
           </p>
         </section>
 
