@@ -77,10 +77,10 @@ const Kwinn: React.FC = () => {
           <h2 className="profile-block-title">A Traditional Send-Off</h2>
           <img src={kwinn4} alt="Snake Eyes' traditional Inuit send-off for Kwinn" className="profile-block-img" />
           <p>
-            In honor of his friend, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arranges a traditional Inuit send-off for Kwinn. Wild Bill loads Kwinn's body and a kayak aboard his Dragonfly helicopter, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> riding along beside him.
+            In honor of his friend, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arranges a traditional Inuit send-off for Kwinn. <Link to="/character-bios/WildBill">Wild Bill</Link> loads Kwinn's body and a kayak aboard his Dragonfly helicopter, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> riding along beside him.
           </p>
           <p>
-            Wild Bill flies them to the lighthouse at Montauk Point, where the current sweeps north toward the Arctic. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> lays Kwinn's body in the kayak, along with his weasel skull necklace and weapons. Wild Bill narrates the ceremony, giving voice to what the silent <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> cannot say. Together, the two push the kayak out into the water, where the current carries it away toward the setting sun (Issue #22).
+            <Link to="/character-bios/WildBill">Wild Bill</Link> flies them to the lighthouse at Montauk Point, where the current sweeps north toward the Arctic. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> lays Kwinn's body in the kayak, along with his weasel skull necklace and weapons. <Link to="/character-bios/WildBill">Wild Bill</Link> narrates the ceremony, giving voice to what the silent <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> cannot say. Together, the two push the kayak out into the water, where the current carries it away toward the setting sun (Issue #22).
           </p>
         </section>
 

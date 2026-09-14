@@ -13,6 +13,12 @@ const WildBill: React.FC = () => {
       <div className="container">
         <h1 className="character-profile-title">Wild Bill (William Hardy)</h1>
 
+        
+        <blockquote className="profile-quote">
+          <p>"Amiable and slow talking. Fancies himself a country-western singer. Totally honest in personal dealings, but not beyond spinning a tall tale for the amusement of comrades."*</p>
+        </blockquote>
+
+
         <p className="profile-intro">
           Chief Warrant Officer 4 William S. Hardy (Wild Bill) is a helicopter and fixed-wing pilot, operating the Tomahawk, C-130, and Dragonfly. CWO-4 Hardy is the quintessential Texan cowboy — friendly, slow-talking, and honest in his personal dealings, with dreams of being a country-western singer on the side. He is both a skilled pilot and a skilled marksman, favoring a single-action .45 Colt revolver over more modern sidearms.
         </p>
@@ -41,6 +47,10 @@ const WildBill: React.FC = () => {
           <img src={wildBill3} alt="Notes on Wild Bill" className="profile-block-img" />
           <p>
             During the Marvel run (1982–1994), two unique sculpts and three versions of Wild Bill were produced: the <a href="https://www.yojoe.com/action/83/wildbill.shtml" target="_blank" rel="noopener noreferrer">1983 version</a>, the <a href="https://www.yojoe.com/action/92/wildbill2.shtml" target="_blank" rel="noopener noreferrer">1992 version</a>, and a <a href="https://www.yojoe.com/action/93/wildbill3.shtml" target="_blank" rel="noopener noreferrer">1993 repaint</a>. Mr. Hama based many of the Joes' personalities and backstories on real people he knew. Wild Bill is based on his friend from the Vietnam War, Bart Wulf, who served as a helicopter pilot in the 1st Cavalry. The look of one of Wulf's helicopter gunners, Sgt. Bob Light, went on to become the basis for the appearance of the unmasked <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
+          </p>
+          
+          <p className="profile-notes-footnote">
+            *The quote is from Wild Bill's 1983 file card.
           </p>
         </section>
 
