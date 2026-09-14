@@ -63,6 +63,7 @@ import Metz from './pages/characters/Metz'
 import Steeler from './pages/characters/Steeler'
 import Flash from './pages/characters/Flash'
 import CoverGirl from './pages/characters/CoverGirl'
+import WildBill from './pages/characters/WildBill'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -146,6 +147,7 @@ function App() {
           <Route path="/character-bios/Steeler" element={<Steeler />} />
           <Route path="/character-bios/Flash" element={<Flash />} />
           <Route path="/character-bios/CoverGirl" element={<CoverGirl />} />
+          <Route path="/character-bios/WildBill" element={<WildBill />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

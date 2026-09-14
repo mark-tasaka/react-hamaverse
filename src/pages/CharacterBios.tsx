@@ -61,7 +61,7 @@ import MetzImg from './img/portraits/metz.jpg';
 import SteelerImg from './img/portraits/steeler.jpg';
 import FlashImg from './img/portraits/flash.jpg';
 import CoverGirlImg from './img/portraits/coverGirl.jpg';
-
+import WildBillImg from './img/portraits/wildBill.jpg';
 
 
 interface Introduced {
@@ -1010,6 +1010,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 16',
       year: '1983',
       month: 'October',
+    },
+  },
+  {
+    name: 'Wild Bill',
+    img: WildBillImg,
+    link: '/character-bios/WildBill',
+    rank: 69,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 11,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 11',
+      year: '1983',
+      month: 'May',
     },
   },
 ];
