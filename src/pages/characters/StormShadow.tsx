@@ -13,6 +13,7 @@ import stormShadow7 from './img/stormShadow/stormShadow_7.png';
 import stormShadow8 from './img/stormShadow/stormShadow_8.png';
 import stormShadow9 from './img/stormShadow/stormShadow_9.png';
 import stormShadow10 from './img/stormShadow/stormShadow_10.png';
+import stormShadow11 from './img/stormShadow/stormShadow_11.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -163,7 +164,21 @@ const StormShadow: React.FC = () => {
             After the ritual, the six raid Gulag 23, which holds <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick. They infiltrate the gulag, kill the guards, and free the prisoners, including the three Joes. They commandeer an army truck and drive to the border, where they find a barbed-wire fence and guard towers lining the river that separates Borovia from its neighbor. Fortunately, the <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the group over the fence and into the river, allowing their escape from Borovia (Issue #66).
           </p>
           <p>
-            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/Billy">Billy</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link> travel to San Francisco, where Storm Shadow establishes his dojo and continues training <Link to="/character-bios/Billy">Billy</Link>.
+            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/Billy">Billy</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link> travel to San Francisco, where Storm Shadow establishes his dojo and continues training <Link to="/character-bios/Billy">Billy</Link> (Issue #67).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Hospital Raid, Rural Virginia</h2>
+          <img src={stormShadow11} alt="Storm Shadow's involvement in the hospital raid in rural Virginia" className="profile-block-img" />
+          <p>
+            In the aftermath of the Joes' part in the Cobra Civil War on Cobra Island, the team is relieved from active duty and placed under arrest pending an investigation (Issue #77). <Link to="/character-bios/Hawk">Hawk</Link> and General Hollingsworth are being held in a hospital in rural Virginia. In San Francisco, <Link to="/character-bios/Jinx">Jinx</Link> accesses the central payroll computer and traces them to the hospital. Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> catch a flight to Washington, D.C.
+          </p>
+          <p>
+            When the three land at Dulles Airport, agents of the Domestic Operations Agency (DOA) arrest them and put them in cuffs. As they are escorted outside, they spot <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> in a car, calling out to them. Storm Shadow and the others slip out of their cuffs, knock out the DOA agents, and climb into the car.
+          </p>
+          <p>
+            They drive to Dr. Adele Burkhart's home, where they meet Roadblock, <Link to="/character-bios/Grunt">Grunt</Link> (now a civilian), and his girlfriend, <Link to="/character-bios/Lola">Lola</Link> (a former service member). <Link to="/character-bios/CoverGirl">Cover Girl</Link>, Dusty, Bazooka, Barbecue, <Link to="/character-bios/Flash">Flash</Link>, Wet-Suit, Snow Job, <Link to="/character-bios/Steeler">Steeler</Link>, and <Link to="/character-bios/Zap">Zap</Link> arrive soon after. Together, the Joes mount a raid on the hospital, with Dr. Burkhart insisting on joining them. Film crews are on the scene as the raid unfolds, and Destro arrives to present receipts from M.A.R.S. on camera, clearing <Link to="/character-bios/Hawk">Hawk</Link>, General Hollingsworth, and the rest of the Joes of any wrongdoing (Issue #78).
           </p>
         </section>
 
