@@ -12,6 +12,7 @@ import stormShadow6 from './img/stormShadow/stormShadow_6.png';
 import stormShadow7 from './img/stormShadow/stormShadow_7.png';
 import stormShadow8 from './img/stormShadow/stormShadow_8.png';
 import stormShadow9 from './img/stormShadow/stormShadow_9.png';
+import stormShadow10 from './img/stormShadow/stormShadow_10.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -149,6 +150,20 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             Storm Shadow continues training <Link to="/character-bios/Billy">Billy</Link> in the secret base beneath the Defense Language Institute. His second cousin, <Link to="/character-bios/Jinx">Jinx</Link>, works upstairs as an NCO for the school. One day she interrupts their training with important news. She brings Storm Shadow and <Link to="/character-bios/Billy">Billy</Link> upstairs and shows them satellite images of the gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick have been taken, along with a Borovian newspaper article featuring a circus troupe. In the background of the photo is <Link to="/character-bios/Scarlett">Scarlett</Link>, who is part of the troupe. Storm Shadow knows that if <Link to="/character-bios/Scarlett">Scarlett</Link> is there, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and the <Link to="/character-bios/BlindMaster">Blind Master</Link> must be as well. The three depart for Borovia (Issue #66).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Raid on Gulag 23</h2>
+          <img src={stormShadow10} alt="Storm Shadow and the raid on Gulag 23" className="profile-block-img" />
+          <p>
+            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> meet <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link> at the <Link to="/character-bios/WhiteClown">White Clown</Link>'s circus troupe. Storm Shadow initiates the Arashikage hexagram chanting ritual, in which all six join the chant, representing the unbroken and broken lines of the hexagram.
+          </p>
+          <p>
+            After the ritual, the six raid Gulag 23, which holds <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick. They infiltrate the gulag, kill the guards, and free the prisoners, including the three Joes. They commandeer an army truck and drive to the border, where they find a barbed-wire fence and guard towers lining the river that separates Borovia from its neighbor. Fortunately, the <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the group over the fence and into the river, allowing their escape from Borovia (Issue #66).
+          </p>
+          <p>
+            Storm Shadow, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/Billy">Billy</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link> travel to San Francisco, where Storm Shadow establishes his dojo and continues training <Link to="/character-bios/Billy">Billy</Link>.
           </p>
         </section>
 
