@@ -240,8 +240,8 @@ const StormShadow: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Rescue at the Cobra Consulate</h2>
-          <img src={stormShadow15} alt="Storm Shadow's rescue at the Cobra Consulate" className="profile-block-img" />
+          <h2 className="profile-block-title">Assault on the Cobra Consulate</h2>
+          <img src={stormShadow15} alt="Storm Shadow's Assault on the Cobra Consulate" className="profile-block-img" />
           <p>
             While undergoing plastic surgery at the Bern Institute in Switzerland, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is captured by the <Link to="/character-bios/Baroness">Baroness</Link> and taken to the sublevels of the Cobra Consulate in New York City. Storm Shadow rejoins his old LRRP teammates, <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/Wade">Wade Collins</Link>, in New York to help rescue him.
           </p>

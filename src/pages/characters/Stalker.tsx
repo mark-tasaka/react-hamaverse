@@ -115,8 +115,8 @@ const Stalker: React.FC = () => {
         </section>
                 
         <section className="profile-block">
-          <h2 className="profile-block-title">Rescue at the Cobra Consulate</h2>
-          <img src={stalker6} alt="Stalker and the rescue at the Cobra Consulate" className="profile-block-img" />
+          <h2 className="profile-block-title">The LRRP Team at the Cobra Consulate</h2>
+          <img src={stalker6} alt="The LRRP Team at the Cobra Consulate" className="profile-block-img" />
           <p>
             While undergoing plastic surgery at the Bern Institute in Switzerland, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is captured by the <Link to="/character-bios/Baroness">Baroness</Link> and taken to the sublevels of the Cobra Consulate in New York City. Stalker rejoins his old LRRP teammates, <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Wade">Wade Collins</Link>, in New York to help rescue him.
           </p>
