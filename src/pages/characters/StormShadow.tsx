@@ -16,6 +16,7 @@ import stormShadow10 from './img/stormShadow/stormShadow_10.png';
 import stormShadow11 from './img/stormShadow/stormShadow_11.png';
 import stormShadow12 from './img/stormShadow/stormShadow_12.png';
 import stormShadow13 from './img/stormShadow/stormShadow_13.png';
+import stormShadow14 from './img/stormShadow/stormShadow_14.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -215,6 +216,23 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Jinx">Jinx</Link> reaches the alley on her motorcycle. Storm Shadow spots her and leaps from the fire escape onto the back of the bike, and together they pursue the van carrying <Link to="/character-bios/Zartan">Zartan</Link> and a Red Ninja driver. Storm Shadow catches an arrow that <Link to="/character-bios/Zartan">Zartan</Link> fires at him and sends it back into the Red Ninja driver, and the van crashes off a bridge into the water (Issue #85).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Duel at the Waterfall</h2>
+          <img src={stormShadow14} alt="Storm Shadow's duel with the Red Ninja at the waterfall" className="profile-block-img" />
+          <p>
+            In the aftermath of <Link to="/character-bios/Zartan">Zartan</Link>'s attack in San Francisco, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Jinx">Jinx</Link> believe he will launch further attacks on Storm Shadow. They join him at the cabin in the High Sierras to keep watch over him. One night, as they sit around a campfire, an arrow is fired into a nearby log. They douse the fire, and a wounded Timber returns with a torn scrap of a Red Ninja's outfit in his mouth. Storm Shadow believes <Link to="/character-bios/Zartan">Zartan</Link> is ready to meet him and tells <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> to wait behind. He departs for the waterfall, but it is not <Link to="/character-bios/Zartan">Zartan</Link> waiting for him there. It is the Red Ninja driver he struck with the arrow (Issue #90).
+          </p>
+          <p>
+            The Red Ninja reveals his Arashikage tattoo and claims that he and the other Red Ninja belong to the Arashikage clan. He tells Storm Shadow that he, not <Link to="/character-bios/Zartan">Zartan</Link>, is to blame for the fall of the clan: <Link to="/character-bios/Zartan">Zartan</Link> was merely the effect, and bringing the outsider <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> into the clan was the cause. For this, the Red Ninja says, Storm Shadow must die.
+          </p>
+          <p>
+            The two fight at the waterfall, and Storm Shadow's sword is broken. As the Red Ninja goes for the killing blow, Storm Shadow jumps back behind the waterfall, where he finds the skeleton of <Link to="/character-bios/FredBroca">Fred Broca</Link> with a Kalashnikov in its arms. He grabs the rifle and uses it to block the Red Ninja's blade, and both the gun and the sword break. Storm Shadow lunges forward, and he and the Red Ninja are thrown down the waterfall.
+          </p>
+          <p>
+            The injured Storm Shadow is carried downstream, where his companions have just defeated a group of Red Ninja. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber jump into the water to retrieve him, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Jinx">Jinx</Link> drag him ashore (Issue #91).
           </p>
         </section>
 
