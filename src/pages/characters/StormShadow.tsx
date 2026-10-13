@@ -17,6 +17,7 @@ import stormShadow11 from './img/stormShadow/stormShadow_11.png';
 import stormShadow12 from './img/stormShadow/stormShadow_12.png';
 import stormShadow13 from './img/stormShadow/stormShadow_13.png';
 import stormShadow14 from './img/stormShadow/stormShadow_14.png';
+import stormShadow15 from './img/stormShadow/stormShadow_15.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -233,6 +234,35 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             The injured Storm Shadow is carried downstream, where his companions have just defeated a group of Red Ninja. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber jump into the water to retrieve him, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Jinx">Jinx</Link> drag him ashore (Issue #91).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Rescue at the Cobra Consulate</h2>
+          <img src={stormShadow15} alt="Storm Shadow's rescue at the Cobra Consulate" className="profile-block-img" />
+          <p>
+            While undergoing plastic surgery at the Bern Institute in Switzerland, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is captured by the <Link to="/character-bios/Baroness">Baroness</Link> and taken to the sublevels of the Cobra Consulate in New York City. Storm Shadow rejoins his old LRRP teammates, <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/Wade">Wade Collins</Link>, in New York to help rescue him.
+          </p>
+          <p>
+            Dressed in his old Crimson Guard uniform, <Link to="/character-bios/Wade">Wade</Link> enters the Consulate seeking a meeting with the <Link to="/character-bios/Baroness">Baroness</Link> and walks into a scene of panic, asks <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> has escaped. A Tele-Viper at the front desk tells him the <Link to="/character-bios/Baroness">Baroness</Link> cannot see him because an emergency is underway. <Link to="/character-bios/Wade">Wade</Link> returns to the newsstand across the street, where Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> are waiting. As he changes into his military fatigues, a powerful explosion tears through the Consulate's lobby.
+          </p>
+          <p>
+            Storm Shadow, <Link to="/character-bios/Stalker">Stalker</Link>, and <Link to="/character-bios/Wade">Wade</Link> rush inside to find the lobby filled with dead and dying Vipers, including an injured Techno-Viper relaying the situation over a microphone. Just then, the elevator doors open, and a crowd of panicked Cobra civilian employees pours out, sweeping the three of them along in the rush to the street. More explosions rip through the floors above. <Link to="/character-bios/Stalker">Stalker</Link> realizes this is <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' plan: empty the Consulate, seal off the lower levels, and fight his way up (Issue #95).
+          </p>
+                    <p>
+            With the lower levels sealed off, the only way up is to scale the outside walls, a feat only a ninja can perform. Storm Shadow begins to climb, while <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/Wade">Wade</Link> search for another way in. Storm Shadow reaches an open window on an upper level and defeats three Vipers attempting to flee through it. Meanwhile, the two reach the helipad of a nearby rooftop, but the pilot refuses to fly anywhere near the burning Consulate. Just then, the Tomahawk helicopter passes by, carrying the comatose <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/Wade">Wade</Link> climb aboard.
+          </p>
+          <p>
+            The <Link to="/character-bios/Baroness">Baroness</Link> and the surviving Vipers barricade themselves in the penthouse. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, disguised as one of the Vipers, waits inside as Storm Shadow approaches from the other side of the door. A Heat Viper fires a missile that blows the barricade open. Storm Shadow dodges the blast and enters, searching for his friend, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> reveals himself. The sword brothers square off as the penthouse begins to collapse around them.
+          </p>
+          <p>
+            The Vipers are thrown to their deaths as the floor gives way. The <Link to="/character-bios/Baroness">Baroness</Link> is about to fall as well when <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> catches her hand. Shocked that he would save her, she draws her pistol with her free hand and points it at him, vowing she will still have her revenge. At that moment, Destro arrives in the crew compartment of a Cobra helicopter. He tells the <Link to="/character-bios/Baroness">Baroness</Link> that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugene DeCobray was wearing a bulletproof vest, so it was the AK-47 rounds themselves that killed him.
+          </p>
+          <p>
+            Overcome with guilt, the <Link to="/character-bios/Baroness">Baroness</Link> strikes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' hand, breaking his grip on her. Storm Shadow catches her before she can fall to her death, and together he and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> help her toward Destro's helicopter. But as Destro reaches out for the two of them, the ledge beneath them gives way, sending them both falling. Fortunately, the Tomahawk is nearby. Lift Ticket executes a barrel roll and catches them in midair. Aboard the Tomahawk, they find Doc tending to the comatose <Link to="/character-bios/Scarlett">Scarlett</Link>. The bullet did not kill her after all, though she remains in a coma with an uncertain prognosis.
+            </p>
+                      <p>
+            As the Tomahawk pulls away, Destro and the <Link to="/character-bios/Baroness">Baroness</Link> wave farewell from the Cobra helicopter. Storm Shadow turns to his sword brother, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and asks, "Do you think it's really possible for people to change? Can the cycle of revenge be broken, or are we chained to our mistakes forever?" (Issue #96).
           </p>
         </section>
 
