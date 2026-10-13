@@ -9,6 +9,8 @@ import stalker3 from './img/stalker/Stalker_3.png';
 import stalker4 from './img/stalker/Stalker_4.png';
 import stalker5 from './img/stalker/Stalker_5.png';
 import stalker6 from './img/stalker/Stalker_6.png';
+import stalker7 from './img/stalker/Stalker_7.png';
+import stalker8 from './img/stalker/Stalker_8.png';
 
 const Stalker: React.FC = () => {
   return (
@@ -131,6 +133,55 @@ const Stalker: React.FC = () => {
           </p>
           <p>
             The Tomahawk picks up Stalker and <Link to="/character-bios/Wade">Wade</Link>. From its cabin, they see the penthouse collapsing, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> clinging to a falling slab of the floor. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> pass the <Link to="/character-bios/Baroness">Baroness</Link> into the arms of Destro in a nearby Cobra helicopter. Destro reaches out for the two of them as the slab gives way. The Tomahawk flies in underneath, and Lift Ticket executes a barrel roll, catching them in midair. Stalker and <Link to="/character-bios/Wade">Wade</Link> are reunited with <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/comic-issues/Issue96">Issue #96</Link>).
+          </p>
+        </section>
+
+         <section className="profile-block">
+          <h2 className="profile-block-title">Prisoners of the Jugglers</h2>
+          <img src={stalker7} alt="Stalker taken prisoner after the Borovia mission" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma, or whether she will be able to live a normal life again if she does (Issue #97).
+          </p>
+          <p>
+            Time passes. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> stays by her side, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> remains at the hospital to support his friend. One day, <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, <Link to="/character-bios/Sioban">Sioban O'Hara</Link>, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101).
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> wants to give his friend a mission to take his mind off the upcoming termination of <Link to="/character-bios/Scarlett">Scarlett</Link>'s life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' late twin sister and is being held prisoner in a Borovian gulag. <Link to="/character-bios/StormShadow">Storm Shadow</Link> believes that a mission to rescue someone so dear to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission.
+          </p>
+          <p>
+            Stalker boards the B-2 stealth bomber bound for Borovian airspace with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. Just before <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes his HALO jump, <Link to="/character-bios/StormShadow">Storm Shadow</Link> uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> descends toward the ground, <Link to="/character-bios/Scarlett">Scarlett</Link> awakes from her coma, asking for him (Issue #103).
+          </p>
+          <p>
+            When the B-2 lands at an Air Force base in Frankfurt, Germany, the military police, led by General Crowther, the head of the Jugglers, take <Link to="/character-bios/StormShadow">Storm Shadow</Link> and Stalker prisoner (Issue #104). They are handed over to goons from the Domestic Operations Agency (DOA) and taken, blindfolded and bound, to the Statue of Liberty (Issue #105).
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> breaks free of his bindings and undoes Stalker's, then resets Stalker's shoulder, which the DOA goons had dislocated. The two defeat the DOA thugs inside the statue and commandeer their boat, overpowering the thugs aboard. Stalker fires a flare gun at a DOA helicopter, and the damaged helicopter veers toward the boat. <Link to="/character-bios/StormShadow">Storm Shadow</Link> and Stalker dive into the water just before it crashes into the boat, and they swim to safety on a nearby ferry (Issue #106).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Fugitives in New York</h2>
+          <img src={stalker8} alt="Stalker and Storm Shadow as fugitives in New York" className="profile-block-img" />
+          <p>
+            When the ferry docks, Stalker and <Link to="/character-bios/StormShadow">Storm Shadow</Link> make their way to Storm Shadow's secret lair, an empty water tower on the rooftop of a Manhattan hotel. Unbeknownst to them, <Link to="/character-bios/CobraCommander">Cobra Commander</Link> has hired the Night Creepers to assassinate <Link to="/character-bios/StormShadow">Storm Shadow</Link>.
+          </p>
+          <p>
+            The Night Creepers attack at the water tower. After killing several of them, <Link to="/character-bios/StormShadow">Storm Shadow</Link> overhears the others saying that Stalker is of no consequence and that their target is <Link to="/character-bios/StormShadow">Storm Shadow</Link>. To protect Stalker, who remains on the rooftop, <Link to="/character-bios/StormShadow">Storm Shadow</Link> leads the Night Creepers away and down into the subway. Stalker grabs a torn piece of cloth from one of the Night Creepers, then makes his way to the hospital where <Link to="/character-bios/Scarlett">Scarlett</Link> was staying.
+          </p>
+          <p>
+            Meanwhile, <Link to="/character-bios/Scarlett">Scarlett</Link> is furious with <Link to="/character-bios/StormShadow">Storm Shadow</Link> for sending <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> on a suicide mission. She travels to the subway to find him. Getting off at one stop, she is confronted by a would-be mugger with a knife. She disarms him, breaks his elbow, and walks off with his knife. Later, she runs into <Link to="/character-bios/StormShadow">Storm Shadow</Link> as he flees from the Night Creepers. She confronts him just as the Night Creepers open fire with arrows, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> pushes the two of them onto the tracks in front of an oncoming subway train to escape. He pulls them both to safety between the train cars, but in the chaos, <Link to="/character-bios/Scarlett">Scarlett</Link> accidentally stabs him in the back. Shocked, she cries out, "What have I done?" (Issue #107).
+          </p>
+          <p>
+            Stalker arrives at the hospital and finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> with a young Borovian girl named <Link to="/character-bios/Marina">Marina</Link>. <Link to="/character-bios/Hawk">Hawk</Link> and Law, with his dog, Order, are also there. A homeless man arrives and describes a man and woman who match <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> in the subway. He tells them the two fell under the train and disappeared.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> takes Stalker to his secret lair, accessible through the isolation chamber room at Columbia University. There, they find a bandaged and wounded <Link to="/character-bios/StormShadow">Storm Shadow</Link>, with <Link to="/character-bios/Scarlett">Scarlett</Link> tending to him. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> uses the mystic Arashikage trance on <Link to="/character-bios/StormShadow">Storm Shadow</Link>. It is the same technique <Link to="/character-bios/StormShadow">Storm Shadow</Link> used to turn him into a killing machine in Borovia, and to stabilize his condition in Vietnam. <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s wounds stabilize. <Link to="/character-bios/Scarlett">Scarlett</Link> calls an ambulance, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> is taken to the hospital.
+          </p>
+          <p>
+            On the ambulance ride, Stalker examines the torn piece of cloth he collected. He notices concrete dust on it and a burning smell. Just then, the ambulance drives past the Cobra Consulate. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> jumps out of the ambulance and heads for the Consulate, and Stalker soon follows.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Stalker travel to the roof of the Consulate, where they find <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and his Vipers. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> pins <Link to="/character-bios/CobraCommander">Cobra Commander</Link> with a blade to his throat, and Stalker speaks for his silent friend. He tells <Link to="/character-bios/CobraCommander">Cobra Commander</Link> that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> wants him and his forces out of town and back on Cobra Island. It is personal for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> that <Link to="/character-bios/CobraCommander">Cobra Commander</Link> went after his friend (Issue #108).
           </p>
         </section>
 
