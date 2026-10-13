@@ -14,6 +14,8 @@ import stormShadow8 from './img/stormShadow/stormShadow_8.png';
 import stormShadow9 from './img/stormShadow/stormShadow_9.png';
 import stormShadow10 from './img/stormShadow/stormShadow_10.png';
 import stormShadow11 from './img/stormShadow/stormShadow_11.png';
+import stormShadow12 from './img/stormShadow/stormShadow_12.png';
+import stormShadow13 from './img/stormShadow/stormShadow_13.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -179,6 +181,40 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             They drive to Dr. Adele Burkhart's home, where they meet Roadblock, <Link to="/character-bios/Grunt">Grunt</Link> (now a civilian), and his girlfriend, <Link to="/character-bios/Lola">Lola</Link> (a former service member). <Link to="/character-bios/CoverGirl">Cover Girl</Link>, Dusty, Bazooka, Barbecue, <Link to="/character-bios/Flash">Flash</Link>, Wet-Suit, Snow Job, <Link to="/character-bios/Steeler">Steeler</Link>, and <Link to="/character-bios/Zap">Zap</Link> arrive soon after. Together, the Joes mount a raid on the hospital, with Dr. Burkhart insisting on joining them. Film crews are on the scene as the raid unfolds, and Destro arrives to present receipts from M.A.R.S. on camera, clearing <Link to="/character-bios/Hawk">Hawk</Link>, General Hollingsworth, and the rest of the Joes of any wrongdoing (Issue #78).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Meeting Billy's Mother</h2>
+          <img src={stormShadow12} alt="Storm Shadow meeting Billy's mother at the dojo" className="profile-block-img" />
+          <p>
+            Under the guidance of Storm Shadow and <Link to="/character-bios/Jinx">Jinx</Link>, Billy continues to develop his skills at the San Francisco dojo. A few years pass. One day, <Link to="/character-bios/Jinx">Jinx</Link> enters the dojo held at gunpoint by a woman demanding to know where <Link to="/character-bios/Billy">Billy</Link> is. Storm Shadow moves to attack, but <Link to="/character-bios/Billy">Billy</Link> recognizes his mother's voice and stops him. He tells her he believed she had died in a car accident years earlier, and she replies that she never stopped searching for him.
+          </p>
+          <p>
+            Storm Shadow and <Link to="/character-bios/Jinx">Jinx</Link> invite <Link to="/character-bios/Billy">Billy</Link>'s mother to stay for dinner. She recounts the past, revealing that her ex-husband had an older brother, Dan, a Vietnam War veteran who extended his tours so that his younger brother (the man who would become <Link to="/character-bios/CobraCommander">Cobra Commander</Link>) would not be drafted. When Dan returned home, he began driving erratically at high speeds on the interstate, as if searching for death. One day, he crashed into a family on their way to the airport to meet their son, a returning soldier, and everyone in the car was killed. Storm Shadow tells them that the family was <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' own. <Link to="/character-bios/Billy">Billy</Link>'s mother explains that her ex-husband twisted the tragedy in his mind, blaming the returning soldier for his brother's death.
+          </p>
+          <p>
+            After dinner, she tells <Link to="/character-bios/Billy">Billy</Link> she has an apartment in Berkeley and has kept a room ready for him. <Link to="/character-bios/Billy">Billy</Link> leaves with his mother.  Storm Shadow says to Jinx, "It's pretty amazing how events seem to come full circle, isn't it?" (Issue #84).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Zartan's Preemptive Strike</h2>
+          <img src={stormShadow13} alt="Storm Shadow facing Zartan's attack in San Francisco" className="profile-block-img" />
+          <p>
+            Storm Shadow has long since put down his quest for revenge against <Link to="/character-bios/Zartan">Zartan</Link>, but <Link to="/character-bios/Zartan">Zartan</Link> does not believe it and decides to strike first. Suspecting that Storm Shadow or <Link to="/character-bios/Jinx">Jinx</Link> will visit a feudal Japanese museum exhibit in San Francisco, he travels to the city with a group of Red Ninja (Issue #84).
+          </p>
+          <p>
+            In the museum, <Link to="/character-bios/Zartan">Zartan</Link>, disguised as a bearded middle-aged man, waits in a telephone booth, monitoring the numbers dialed from the adjacent booths. <Link to="/character-bios/Jinx">Jinx</Link> enters the museum and spots a sword bearing the Arashikage symbol, then steps into one of the booths and calls Storm Shadow at the dojo. <Link to="/character-bios/Zartan">Zartan</Link> intercepts the number, uses it to learn where Storm Shadow is staying, and signals the three Red Ninja disguised as samurai museum exhibits.
+          </p>
+          <p>
+            The Red Ninja attack. <Link to="/character-bios/Jinx">Jinx</Link> drops the phone, alerting Storm Shadow to the danger, and flees with the Arashikage sword from the exhibit. She kills all three Red Ninja, escapes the museum as guards give chase, and takes off on a motorcycle for the dojo.
+          </p>
+          <p>
+            Meanwhile, <Link to="/character-bios/Zartan">Zartan</Link> and his remaining Red Ninja fly to the dojo by helicopter. The Red Ninja drop in through the rooftop, where Storm Shadow is waiting. He defeats them one by one, then fires an arrow through a window and kills the helicopter pilot, forcing the helicopter to crash-land in the alley. <Link to="/character-bios/Zartan">Zartan</Link> and the surviving Red Ninja drive out of the wreckage in a Volkswagen van hidden inside the helicopter. Storm Shadow has just removed a Red Ninja's homing device, so <Link to="/character-bios/Zartan">Zartan</Link> believes the figure he sees inside the building is Storm Shadow and fires an arrow at its outline, killing the ninja. The van then speeds off.
+          </p>
+          <p>
+            <Link to="/character-bios/Jinx">Jinx</Link> reaches the alley on her motorcycle. Storm Shadow spots her and leaps from the fire escape onto the back of the bike, and together they pursue the van carrying <Link to="/character-bios/Zartan">Zartan</Link> and a Red Ninja driver. Storm Shadow catches an arrow that <Link to="/character-bios/Zartan">Zartan</Link> fires at him and sends it back into the Red Ninja driver, and the van crashes off a bridge into the water (Issue #85).
           </p>
         </section>
 
