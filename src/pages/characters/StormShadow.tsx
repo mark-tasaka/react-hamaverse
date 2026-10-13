@@ -19,6 +19,7 @@ import stormShadow13 from './img/stormShadow/stormShadow_13.png';
 import stormShadow14 from './img/stormShadow/stormShadow_14.png';
 import stormShadow15 from './img/stormShadow/stormShadow_15.png';
 import stormShadow16 from './img/stormShadow/stormShadow_16.png';
+import stormShadow17 from './img/stormShadow/stormShadow_17.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -287,6 +288,26 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             Storm Shadow breaks free of his bindings and undoes <Link to="/character-bios/Stalker">Stalker</Link>'s, then resets <Link to="/character-bios/Stalker">Stalker</Link>'s shoulder, which the DOA goons had dislocated. The two defeat the DOA thugs inside the statue and commandeer their boat, overpowering the thugs aboard. <Link to="/character-bios/Stalker">Stalker</Link> fires a flare gun at a DOA helicopter, and the damaged helicopter veers toward the boat. Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> dive into the water just before it crashes into the boat, and they swim to safety on a nearby ferry (Issue #106).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Wounded on the Subway Tracks</h2>
+          <img src={stormShadow17} alt="Storm Shadow wounded on the subway tracks" className="profile-block-img" />
+          <p>
+            Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> are now fugitives and must evade the Domestic Operations Agency (DOA). When the ferry docks, they make their way to Storm Shadow's secret lair, an empty water tower on the rooftop of a Manhattan hotel. Unbeknownst to them, <Link to="/character-bios/CobraCommander">Cobra Commander</Link> has hired the Night Creepers to assassinate Storm Shadow.
+          </p>
+          <p>
+            The Night Creepers attack at the water tower. After killing several of them, Storm Shadow overhears the others saying that <Link to="/character-bios/Stalker">Stalker</Link> is of no consequence and that their target is Storm Shadow. To protect <Link to="/character-bios/Stalker">Stalker</Link>, who remains on the rooftop, Storm Shadow leads the Night Creepers away and down into the subway.
+          </p>
+          <p>
+            Meanwhile, <Link to="/character-bios/Scarlett">Scarlett</Link> is furious with Storm Shadow for sending <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> on a suicide mission. She travels to the subway to find him. Getting off at one stop, she is confronted by a would-be mugger with a knife. She disarms him, breaks his elbow, and walks off with his knife. Later, she runs into Storm Shadow as he flees from the Night Creepers. She confronts him just as the Night Creepers open fire with arrows, and Storm Shadow pushes the two of them onto the tracks in front of an oncoming subway train to escape. He pulls them both to safety between the train cars, but in the chaos, <Link to="/character-bios/Scarlett">Scarlett</Link> accidentally stabs him in the back. Shocked, she cries out, "What have I done?" (Issue #107).
+          </p>
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> takes the wounded Storm Shadow to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' secret lair, a hidden room connected to the isolation tank room at Columbia University. <Link to="/character-bios/Stalker">Stalker</Link> meets up with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at the hospital where <Link to="/character-bios/Scarlett">Scarlett</Link> had been staying, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> brings him to the lair. There, they find <Link to="/character-bios/Scarlett">Scarlett</Link> and a wounded, bandaged Storm Shadow.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> uses the mystic Arashikage trance on Storm Shadow. It is the same technique Storm Shadow used to turn him into a killing machine in Borovia, and to stabilize his condition in Vietnam. Storm Shadow's wounds stabilize. <Link to="/character-bios/Scarlett">Scarlett</Link> calls an ambulance, and Storm Shadow is taken to the hospital, where he recovers (Issue #108).
           </p>
         </section>
 
