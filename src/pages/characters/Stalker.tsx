@@ -8,6 +8,7 @@ import stalker2 from './img/stalker/Stalker_2.png';
 import stalker3 from './img/stalker/Stalker_3.png';
 import stalker4 from './img/stalker/Stalker_4.png';
 import stalker5 from './img/stalker/Stalker_5.png';
+import stalker6 from './img/stalker/Stalker_6.png';
 
 const Stalker: React.FC = () => {
   return (
@@ -110,6 +111,26 @@ const Stalker: React.FC = () => {
           </p>
           <p>
             The Joes reach the border and find a barbed-wire fence and guard towers lining the river bordering Borovia. The <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes into the water, bypassing the fences and guard towers. Stalker is the last to be fired, and as he waits, he spots <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link>. Both raise their rifles; Stalker fires first, killing him. Stalker discards the rifle, enters the cannon, and is fired to the safety of the river (Issue #66).
+          </p>
+        </section>
+                
+        <section className="profile-block">
+          <h2 className="profile-block-title">Rescue at the Cobra Consulate</h2>
+          <img src={stalker6} alt="Stalker and the rescue at the Cobra Consulate" className="profile-block-img" />
+          <p>
+            While undergoing plastic surgery at the Bern Institute in Switzerland, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is captured by the <Link to="/character-bios/Baroness">Baroness</Link> and taken to the sublevels of the Cobra Consulate in New York City. Stalker rejoins his old LRRP teammates, <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Wade">Wade Collins</Link>, in New York to help rescue him.
+          </p>
+          <p>
+            Dressed in his old Crimson Guard uniform, <Link to="/character-bios/Wade">Wade</Link> enters the Consulate seeking a meeting with the <Link to="/character-bios/Baroness">Baroness</Link> and walks into a scene of panic, since <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> has already escaped. A Tele-Viper at the front desk tells him the <Link to="/character-bios/Baroness">Baroness</Link> cannot see him because an emergency is underway. <Link to="/character-bios/Wade">Wade</Link> returns to the newsstand across the street, where Stalker and <Link to="/character-bios/StormShadow">Storm Shadow</Link> are waiting. As he changes into his military fatigues, a powerful explosion tears through the Consulate's lobby.
+          </p>
+          <p>
+            Stalker, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Wade">Wade</Link> rush inside to find the lobby filled with dead and dying Vipers, including an injured Techno-Viper relaying the situation over a microphone. Just then, the elevator doors open, and a crowd of panicked Cobra civilian employees pours out, sweeping the three of them along in the rush to the street. More explosions rip through the floors above. Stalker realizes this is <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' plan: empty the Consulate, seal off the lower levels, and fight his way up (<Link to="/comic-issues/Issue95">Issue #95</Link>).
+          </p>
+          <p>
+            With the lower levels sealed off, the only way up is to scale the outside walls, a feat only a ninja can perform. <Link to="/character-bios/StormShadow">Storm Shadow</Link> begins to climb, while Stalker and <Link to="/character-bios/Wade">Wade</Link> search for another way in. They catch a bus to a nearby building with a helipad and take the elevator to the rooftop.  The helicopter pilot refuses to fly near the burning Cobra Consulate in the heavy rain. Stalker radios the Tomahawk, which is carrying the comatose <Link to="/character-bios/Scarlett">Scarlett</Link> to the hospital in New York.
+          </p>
+          <p>
+            The Tomahawk picks up Stalker and <Link to="/character-bios/Wade">Wade</Link>. From its cabin, they see the penthouse collapsing, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and the <Link to="/character-bios/Baroness">Baroness</Link> clinging to a falling slab of the floor. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> pass the <Link to="/character-bios/Baroness">Baroness</Link> into the arms of Destro in a nearby Cobra helicopter. Destro reaches out for the two of them as the slab gives way. The Tomahawk flies in underneath, and Lift Ticket executes a barrel roll, catching them in midair. Stalker and <Link to="/character-bios/Wade">Wade</Link> are reunited with <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> (<Link to="/comic-issues/Issue96">Issue #96</Link>).
           </p>
         </section>
 
