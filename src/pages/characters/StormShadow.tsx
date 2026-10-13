@@ -18,6 +18,7 @@ import stormShadow12 from './img/stormShadow/stormShadow_12.png';
 import stormShadow13 from './img/stormShadow/stormShadow_13.png';
 import stormShadow14 from './img/stormShadow/stormShadow_14.png';
 import stormShadow15 from './img/stormShadow/stormShadow_15.png';
+import stormShadow16 from './img/stormShadow/stormShadow_16.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -263,6 +264,29 @@ const StormShadow: React.FC = () => {
             </p>
                       <p>
             As the Tomahawk pulls away, Destro and the <Link to="/character-bios/Baroness">Baroness</Link> wave farewell from the Cobra helicopter. Storm Shadow turns to his sword brother, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and asks, "Do you think it's really possible for people to change? Can the cycle of revenge be broken, or are we chained to our mistakes forever?" (Issue #96).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Mission for Snake Eyes</h2>
+          <img src={stormShadow16} alt="Storm Shadow's mission to rescue George Strawhacker" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma, or whether she will be able to live a normal life again if she does (Issue #97).
+          </p>
+          <p>
+            Time passes. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> stays by her side, and Storm Shadow remains at the hospital to support his friend. One day, <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, <Link to="/character-bios/Sioban">Sioban O'Hara</Link>, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101).
+          </p>
+          <p>
+            Storm Shadow wants to give his friend a mission to take his mind off the upcoming termination of <Link to="/character-bios/Scarlett">Scarlett</Link>'s life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' late twin sister and is being held prisoner in a Borovian gulag. Storm Shadow believes that a mission to rescue someone so dear to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, Storm Shadow, and <Link to="/character-bios/Stalker">Stalker</Link> board a B-2 stealth bomber bound for Borovian airspace. Just before <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes his HALO jump, Storm Shadow uses the Arashikage Mindset to turn him into an uncaring killing machine, capable of completing the mission without distraction. As <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> descends toward the ground, <Link to="/character-bios/Scarlett">Scarlett</Link> awakes from her coma, asking for him (Issue #103).
+          </p>
+          <p>
+            When the B-2 lands at an Air Force base in Frankfurt, Germany, the military police, led by General Crowther, the head of the Jugglers, take Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> prisoner (Issue #104). They are handed over to goons from the Domestic Operations Agency (DOA) and taken, blindfolded and bound, to the Statue of Liberty (Issue #105).
+          </p>
+          <p>
+            Storm Shadow breaks free of his bindings and undoes <Link to="/character-bios/Stalker">Stalker</Link>'s, then resets <Link to="/character-bios/Stalker">Stalker</Link>'s shoulder, which the DOA goons had dislocated. The two defeat the DOA thugs inside the statue and commandeer their boat, overpowering the thugs aboard. <Link to="/character-bios/Stalker">Stalker</Link> fires a flare gun at a DOA helicopter, and the damaged helicopter veers toward the boat. Storm Shadow and <Link to="/character-bios/Stalker">Stalker</Link> dive into the water just before it crashes into the boat, and they swim to safety on a nearby ferry (Issue #106).
           </p>
         </section>
 
