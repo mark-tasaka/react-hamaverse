@@ -12,6 +12,7 @@ import stalker6 from './img/stalker/Stalker_6.png';
 import stalker7 from './img/stalker/Stalker_7.png';
 import stalker8 from './img/stalker/Stalker_8.png';
 import stalker9 from './img/stalker/Stalker_9.png';
+import stalker10 from './img/stalker/Stalker_10.png';
 
 const Stalker: React.FC = () => {
   return (
@@ -187,13 +188,24 @@ const Stalker: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Separate Ways</h2>
+          <h2 className="profile-block-title">Going Separate Ways</h2>
           <img src={stalker9} alt="Stalker after the disbanding of G.I. Joe" className="profile-block-img" />
           <p>
             A month after G.I. Joe is disbanded, Stalker, <Link to="/character-bios/Hawk">Hawk</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and Gung-Ho (Frontline Issue #1). After it, the Joes go their separate ways. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to their cabin in the High Sierras, Duke is transferred to Fort Benning, Gung-Ho is stationed at Guantanamo Bay, and Stalker is assigned as a recruiting sergeant in Detroit.
           </p>
           <p>
             A month later, a letter from <Link to="/character-bios/Scarlett">Scarlett</Link> arrives for Stalker at his recruiting post in Detroit. She tells him they are expanding the cabin to make room for guests, hinting that she hopes to have children soon. <Link to="/character-bios/Scarlett">Scarlett</Link> closes with the sad news that Timber has passed, but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Anabasis is Green-Lit</h2>
+          <img src={stalker10} alt="Stalker's sniper duel in the Hindu Kush" className="profile-block-img" />
+          <p>
+            Stalker is in the Hindu Kush as part of a two-man sniper team operating against a Cobra sniper team. Stalker's spotter is shot dead just before Mainframe radios to tell him that Anabasis is green-lit, the signal that G.I. Joe is being reactivated. Stalker replies, "Roger that," and says he needs to get some payback first. He shoots the Cobra spotter, evening the odds (Issue #156).
+          </p>
+          <p>
+            Stalker sets a trap for the Cobra sniper, captures him, and gets the information he needs from his prisoner (Issue #157). He then meets up with the Joes in the midst of their battle at the Silent Castle (Issue #159).
           </p>
         </section>
 
