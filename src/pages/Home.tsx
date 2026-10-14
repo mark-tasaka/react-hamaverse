@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">September 23, 2026</p>
+          <p className="update-log-date">October 13, 2026</p>
           <p className="update-log-entry">
-            The character bio for <Link to="/character-bios/WildBill">Wild Bill</Link> has been added.  
+            The new sections have been added to <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker's</Link> character bios.
           </p>
 
           <div className="btn-row">
