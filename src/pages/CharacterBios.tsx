@@ -62,6 +62,7 @@ import SteelerImg from './img/portraits/steeler.jpg';
 import FlashImg from './img/portraits/flash.jpg';
 import CoverGirlImg from './img/portraits/coverGirl.jpg';
 import WildBillImg from './img/portraits/wildBill.jpg';
+import BurkhartImg from './img/portraits/burkhart.jpg';
 
 
 interface Introduced {
@@ -1026,6 +1027,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 11',
       year: '1983',
       month: 'May',
+    },
+  },
+  {
+    name: 'Dr. Burkhart',
+    img: BurkhartImg,
+    link: '/character-bios/Burkhart',
+    rank: 11,
+    faction: 'Civilian',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 1,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 1',
+      year: '1982',
+      month: 'March',
     },
   },
 ];
