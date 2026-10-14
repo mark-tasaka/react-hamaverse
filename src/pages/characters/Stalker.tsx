@@ -11,6 +11,7 @@ import stalker5 from './img/stalker/Stalker_5.png';
 import stalker6 from './img/stalker/Stalker_6.png';
 import stalker7 from './img/stalker/Stalker_7.png';
 import stalker8 from './img/stalker/Stalker_8.png';
+import stalker9 from './img/stalker/Stalker_9.png';
 
 const Stalker: React.FC = () => {
   return (
@@ -182,6 +183,17 @@ const Stalker: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Stalker travel to the roof of the Consulate, where they find <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and his Vipers. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> pins <Link to="/character-bios/CobraCommander">Cobra Commander</Link> with a blade to his throat, and Stalker speaks for his silent friend. He tells <Link to="/character-bios/CobraCommander">Cobra Commander</Link> that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> wants him and his forces out of town and back on Cobra Island. That <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> takes it personally that <Link to="/character-bios/CobraCommander">Cobra Commander</Link> went after his friend (Issue #108).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Separate Ways</h2>
+          <img src={stalker9} alt="Stalker after the disbanding of G.I. Joe" className="profile-block-img" />
+          <p>
+            A month after G.I. Joe is disbanded, Stalker, <Link to="/character-bios/Hawk">Hawk</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and Gung-Ho (Frontline Issue #1). After it, the Joes go their separate ways. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to their cabin in the High Sierras, Duke is transferred to Fort Benning, Gung-Ho is stationed at Guantanamo Bay, and Stalker is assigned as a recruiting sergeant in Detroit.
+          </p>
+          <p>
+            A month later, a letter from <Link to="/character-bios/Scarlett">Scarlett</Link> arrives for Stalker at his recruiting post in Detroit. She tells him they are expanding the cabin to make room for guests, hinting that she hopes to have children soon. <Link to="/character-bios/Scarlett">Scarlett</Link> closes with the sad news that Timber has passed, but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
           </p>
         </section>
 
