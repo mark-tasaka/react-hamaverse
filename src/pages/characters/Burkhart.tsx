@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import burkhart1 from './img/burkhart/burkhart_1.png';
 import burkhart2 from './img/burkhart/burkhart_2.png';
+import burkhart3 from './img/burkhart/burkhart_3.png';
 
 const Burkhart: React.FC = () => {
   return (
@@ -47,6 +48,29 @@ const Burkhart: React.FC = () => {
           </p>
           <p>
             Disgusted with her attitude, <Link to="/character-bios/RipCord">Rip Cord</Link> says, "Thanks a heap, Miss Goodie Two-Shoes! Nobody asked you to come down here and stir up trouble!" <Link to="/character-bios/Stalker">Stalker</Link> interrupts and tells him, "We are not fighting to have everyone think the way we do. We're fighting so that people have the right to think what they want!" His words echo <Link to="/character-bios/Hawk">Hawk</Link>'s speech during Operation Lady Doomsday, when he reminded the Joes that the Constitution guarantees every citizen the right to disagree with the government (Issue #39).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Standing Firm Under Fire in Rural Virginia</h2>
+          <img src={burkhart3} alt="Dr. Burkhart at the hospital raid in rural Virginia" className="profile-block-img" />
+          <p>
+            In the aftermath of the Joes' part in the Cobra Civil War on Cobra Island, Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are summoned to the Pentagon to meet the Jugglers, with Roadblock accompanying them. The Joes are relieved from active duty and placed under arrest pending an investigation. <Link to="/character-bios/Hawk">Hawk</Link>, Hollingsworth, and Roadblock are escorted from the Pentagon under armed guard by Military Police. During the drive, Roadblock breaks free, commandeers an MP motorcycle, and escapes.
+          </p>
+          <p>
+            Roadblock makes his way to Dr. Burkhart's home in the Georgetown section of Washington, D.C., where she gives him shelter (Issue #77). Other Joes and their allies soon follow: <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, <Link to="/character-bios/Grunt">Grunt</Link>, <Link to="/character-bios/Lola">Lola</Link> (Grunt's girlfriend), <Link to="/character-bios/CoverGirl">Cover Girl</Link>, Dusty, Bazooka, Barbecue, <Link to="/character-bios/Flash">Flash</Link>, Wet-Suit, Snow Job, <Link to="/character-bios/Steeler">Steeler</Link>, and <Link to="/character-bios/Zap">Zap</Link>. <Link to="/character-bios/RockRoll">Rock 'n Roll</Link> then picks up <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> from the airport.
+          </p>
+          <p>
+            <Link to="/character-bios/Jinx">Jinx</Link> had accessed the central payroll computer at the Defense Language Institute in San Francisco and discovered that <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held in a hospital in rural Virginia. The Joes mount a rescue mission, and Dr. Burkhart joins them.
+          </p>
+          <p>
+            The hospital is filled with personnel from the Domestic Operations Agency (DOA) dressed as hospital staff, and film crews are on the scene. The Joes enter disguised as hospital staff. Dr. Burkhart enters with them and is confronted by DOA thugs, who declare in front of the film crew that the Joes have taken her hostage. Dr. Burkhart looks directly into the camera and says she is there to get facts, and to learn why Generals <Link to="/character-bios/Hawk">Hawk</Link> and Hollingsworth are being held at the hospital.
+          </p>
+          <p>
+            One of the DOA goons opens fire, and a firefight erupts. <Link to="/character-bios/CoverGirl">Cover Girl</Link> and Bazooka are hit. Dr. Burkhart stands firm in the hail of gunfire while the camera films her, and shouts, "I am a non-combatant! Stop this senseless shooting immediately!"
+          </p>
+          <p>
+            Roadblock tackles Dr. Burkhart, pushing the two of them into a side room to shield her from the gunfire, while the Joes return fire. After a sustained exchange of fire, Destro arrives and presents receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
           </p>
         </section>
 
