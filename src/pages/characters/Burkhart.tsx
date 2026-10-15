@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import burkhart1 from './img/burkhart/burkhart_1.png';
 import burkhart2 from './img/burkhart/burkhart_2.png';
 import burkhart3 from './img/burkhart/burkhart_3.png';
+import burkhart4 from './img/burkhart/burkhart_4.png';
 
 const Burkhart: React.FC = () => {
   return (
@@ -71,6 +72,32 @@ const Burkhart: React.FC = () => {
           </p>
           <p>
             Roadblock tackles Dr. Burkhart, pushing the two of them into a side room to shield her from the gunfire, while the Joes return fire. After a sustained exchange of fire, Destro arrives and presents receipts from M.A.R.S. on camera, clearing the Joes of any wrongdoing (Issue #78).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Aboard the Aiden Explorer</h2>
+          <img src={burkhart4} alt="Dr. Burkhart aboard the Aiden Explorer" className="profile-block-img" />
+          <p>
+            Dr. Burkhart is part of an environmental protest group demonstrating against the oil survey ship Aiden Explorer off the East African coast of Kalingaland. The protesters' ship is sunk, and the protesters are taken aboard the Aiden Explorer as captives. Soon after, pirates raid the ship and capture the crew. The pirates are supported by the Black Major and his Red Shadows, and both the crew and the protesters are held prisoner.
+          </p>
+          <p>
+            Since the Aiden Explorer is an American-registered ship with an American crew, the Joes are dispatched to rescue the prisoners. The W.H.A.L.E., the Tomahawk, and a smaller fast boat carrying <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, Gung-Ho, and Torpedo are sent on the mission. Aboard the W.H.A.L.E. is Prince Ngoto, the president of Kalingaland, who says the pirates are led by Abdi Ali, once the Prince's political rival before he turned to piracy.
+          </p>
+          <p>
+            Dr. Burkhart is held on the Aiden Explorer's bridge, separate from the other prisoners. Abdi Ali tries to convince her that they are on the same side. He tells her he captured the oil survey ship to stop predatory oil oligarchs from exploiting the natural resources, a goal similar to her own protest against oil extraction. Dr. Burkhart refutes him, saying she achieves her goals without the use of force.
+          </p>
+          <p>
+            The Joes board the ship and kill several Red Shadows and pirates. The Black Major tells Ali he is taking over. He points his pistol at Dr. Burkhart and tells her that Special Ops teams do not negotiate or take prisoners, so she has no value to him (Issue #188). The Black Major fires, but Ali uses his body as a shield and takes the shot meant for Dr. Burkhart. Ali is wounded but alive, and Dr. Burkhart provides medical aid.
+          </p>
+          <p>
+            The battle between the Joes and the Red Shadows continues onboard, and soon the W.H.A.L.E. and the Tomahawk join in. As the Joes reach the bridge, the Black Major holds Dr. Burkhart with his gun to her head, using her as leverage. <Link to="/character-bios/Stalker">Stalker</Link> demands that the Black Major let him talk with Abdi Ali. Dr. Burkhart warns <Link to="/character-bios/Stalker">Stalker</Link> not to trust the Black Major, since he shot Ali. The Black Major pistol-whips her and takes her deeper into the bridge at gunpoint.
+          </p>
+          <p>
+            Inside the bridge, Ali opens fire with a submachine gun, killing several Red Shadows until his clip runs dry. The Black Major points his gun at Ali, but Dr. Burkhart bites his arm, keeping him from shooting. As the Black Major is about to strike her, Prince Ngoto arrives and strikes him first.
+          </p>
+          <p>
+            The Robo Skull, damaged in a firefight with the W.H.A.L.E., heads toward the bridge. Dr. Burkhart, Ali, and Prince Ngoto hurry down the stairs toward the Joes, and the bridge explodes. Shortly afterward, the Robo Skull pilot comes down the stairs, calling out not to shoot. The Black Major has taken the Robo Skull and escaped. Prince Ngoto and Ali agree to negotiate based on their mutual humanity (Issue #189).
           </p>
         </section>
 
