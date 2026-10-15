@@ -63,10 +63,10 @@ const Flagg: React.FC = () => {
           <h2 className="profile-block-title">The Dossier</h2>
           <img src={flagg6} alt="The activation of G.I. Joe for Operation Lady Doomsday" className="profile-block-img" />
           <p>
-            Dr. Adele Burkhart, the nation's top nuclear physicist and an outspoken critic of the military and government, is captured by Cobra. Dr. Burkhart holds knowledge of the nation's nuclear secrets, and Cobra now has the means to weaponize them.
+            Dr. Adele Burkhart, the nation's top nuclear physicist and an outspoken critic of the military and government, is captured by Cobra. <Link to="/character-bios/Burkhart">Dr. Burkhart</Link> holds knowledge of the nation's nuclear secrets, and Cobra now has the means to weaponize them.
           </p>
           <p>
-            In the Pentagon, <Link to="/character-bios/Austin">Major General Austin</Link> and General Flagg discuss the situation. Both know a direct frontal assault using regular forces could turn into a bloodbath for their side. General Flagg suggests that a botched rescue mission, forcing Cobra's hand into killing Dr. Burkhart, might be the best course of action. <Link to="/character-bios/Austin">General Austin</Link> counters, "Dr. Burkhart's death would be a political embarrassment for the U.S. A rescue mission is needed."
+            In the Pentagon, <Link to="/character-bios/Austin">Major General Austin</Link> and General Flagg discuss the situation. Both know a direct frontal assault using regular forces could turn into a bloodbath for their side. General Flagg suggests that a botched rescue mission, forcing Cobra's hand into killing <Link to="/character-bios/Burkhart">Dr. Burkhart</Link>, might be the best course of action. <Link to="/character-bios/Austin">General Austin</Link> counters, "<Link to="/character-bios/Burkhart">Dr. Burkhart</Link>'s death would be a political embarrassment for the U.S. A rescue mission is needed."
           </p>
           <p>
             General Flagg then points out that the Special Counter-Terrorist Group Delta, code named G.I. Joe, could be used for the mission. General Austin orders the sergeant to pull up the G.I. Joe dossier, which lists the names of fourteen members, including <Link to="/character-bios/Shooter">Shooter</Link> (Issue #1).

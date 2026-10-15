@@ -36,7 +36,7 @@ const Burkhart: React.FC = () => {
           </p>
         </section>
 
-                <section className="profile-block">
+        <section className="profile-block">
           <h2 className="profile-block-title">Rescue in Sierra Gordo</h2>
           <img src={burkhart2} alt="Dr. Burkhart rescued in Sierra Gordo" className="profile-block-img" />
           <p>
