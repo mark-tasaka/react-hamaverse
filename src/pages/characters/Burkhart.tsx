@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import burkhart1 from './img/burkhart/burkhart_1.png';
+import burkhart2 from './img/burkhart/burkhart_2.png';
 
 const Burkhart: React.FC = () => {
   return (
@@ -32,6 +33,20 @@ const Burkhart: React.FC = () => {
           </p>
           <p>
             The Joes have less than five minutes to get out, as a timer has been set to destroy the fortress. They commandeer a Cobra helicopter and escape as the fortress explodes behind them. As the helicopter departs, Dr. Burkhart tells <Link to="/character-bios/Scarlett">Scarlett</Link>, "I still feel that all of my political actions were justified — but at least I know that somewhere in the Pentagon... There are people who care!" (Issue #1).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Rescue in Sierra Gordo</h2>
+          <img src={burkhart2} alt="Dr. Burkhart rescued in Sierra Gordo" className="profile-block-img" />
+          <p>
+            Dr. Burkhart travels to Sierra Gordo on a mission to investigate alleged human rights violations. She is captured, and the Sierra Gordo military believes she is a CIA spy. She is taken to a mountainside stronghold and is about to be interrogated with the truth serum Sodium Amytal when the Joes arrive. <Link to="/character-bios/Stalker">Stalker</Link> leads the team, which includes <Link to="/character-bios/RipCord">Rip Cord</Link>, Roadblock, Gung-Ho, and Recondo. Tucaro natives provide fire support while the Joes infiltrate the stronghold.
+          </p>
+          <p>
+            The Joes escape with Dr. Burkhart, but the Tucaros are killed. Recondo, who has lived with the Tucaros and knows the terrain, leads the way to the border. Near the border, the Joes catch a ride on a bus filled with livestock and locals. Dr. Burkhart is in tears. She says all she wanted was to help people, and that people died in the process. She would rather have died herself than have others die to save her.
+          </p>
+          <p>
+            Disgusted with her attitude, <Link to="/character-bios/RipCord">Rip Cord</Link> says, "Thanks a heap, Miss Goodie Two-Shoes! Nobody asked you to come down here and stir up trouble!" <Link to="/character-bios/Stalker">Stalker</Link> interrupts and tells him, "We are not fighting to have everyone think the way we do. We're fighting so that people have the right to think what they want!" His words echo <Link to="/character-bios/Hawk">Hawk</Link>'s speech during Operation Lady Doomsday, when he reminded the Joes that the Constitution guarantees every citizen the right to disagree with the government (Issue #39).
           </p>
         </section>
 
