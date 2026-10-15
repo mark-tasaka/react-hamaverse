@@ -7,6 +7,7 @@ import burkhart1 from './img/burkhart/burkhart_1.png';
 import burkhart2 from './img/burkhart/burkhart_2.png';
 import burkhart3 from './img/burkhart/burkhart_3.png';
 import burkhart4 from './img/burkhart/burkhart_4.png';
+import burkhart5 from './img/burkhart/burkhart_5.png';
 
 const Burkhart: React.FC = () => {
   return (
@@ -15,7 +16,7 @@ const Burkhart: React.FC = () => {
         <h1 className="character-profile-title">Dr. Adele Burkhart</h1>
 
         <p className="profile-intro">
-          Dr. Adele Burkhart (1949–2014) is an outspoken human rights advocate and a woman of principle and courage, whose values often put her at odds with the Joes because of her opposition to the military. Her convictions take her to hotspots around the world, where she works for the oppressed and protests injustice, and more than once the Joes discover that she is the very person they have been sent to rescue. Even in the worst circumstances, she shows exceptional courage and selflessness. In the end, she sacrifices herself in Ollistan, taking a round meant for Alpine.
+          Dr. Adele Burkhart (1949–2014) is an outspoken human rights advocate and a woman of principle and courage, whose values often put her at odds with the Joes because of her opposition to the military. Her convictions take her to hotspots around the world, where she works for the oppressed and protests injustice, and more than once the Joes discover that she is the very person they have been sent to rescue. Even in the worst circumstances, she shows exceptional courage and selflessness. In the end, she sacrifices herself in Ollestan, taking a round meant for Alpine.
         </p>
 
         <section className="profile-block">
@@ -98,6 +99,26 @@ const Burkhart: React.FC = () => {
           </p>
           <p>
             The Robo Skull, damaged in a firefight with the W.H.A.L.E., heads toward the bridge. Dr. Burkhart, Ali, and Prince Ngoto hurry down the stairs toward the Joes, and the bridge explodes. Shortly afterward, the Robo Skull pilot comes down the stairs, calling out not to shoot. The Black Major has taken the Robo Skull and escaped. Prince Ngoto and Ali agree to negotiate based on their mutual humanity (Issue #189).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Final Act of Courage</h2>
+          <img src={burkhart5} alt="Dr. Burkhart's final stand in Ollestan" className="profile-block-img" />
+          <p>
+            Dr. Burkhart travels to Ollestan to protest the denial of education to women in a male-dominated society. There, she is captured by insurgents. A Joe team made up of Torpedo, Long Range, Alpine, and Muskrat is sent to Ollestan to rescue the American captive, not knowing the captive is Dr. Burkhart.
+          </p>
+          <p>
+            The Joes infiltrate the insurgents' compound and find Dr. Burkhart hooded and bound to a chair. She recognizes Torpedo's voice and Hawaiian accent and says, "You're Torpedo, aren't you?" Torpedo is surprised, since he rescued her from the Aiden Explorer a year earlier (Issue #203).
+          </p>
+          <p>
+            The Joes take Dr. Burkhart on foot toward their extraction site in the mountains, tracked by a large force of insurgents. They are supported by an MQ-9 Reaper drone operated by <Link to="/character-bios/Clutch">Clutch</Link> back at the Pit at Fort Wadsworth, while the Tomahawk, flown by Lift Ticket and <Link to="/character-bios/WildBill">Wild Bill</Link>, is sent to extract the team.
+          </p>
+          <p>
+            In an exchange of fire, Dr. Burkhart is shot in the calf. Alpine carries her on his back as the team flees from their pursuers toward the extraction site (Issue #204). After another exchange of fire, with support from the MQ-9 Reaper, the team reaches the site. An insurgent sniper shoots the Joes' radio, forcing Alpine to stand and wave his jacket to signal the Tomahawk. Dr. Burkhart knows the sniper is still out there and rushes toward Alpine to push him out of the way. She takes the shot meant for him.
+          </p>
+          <p>
+            Dr. Burkhart dies in Alpine's arms. He carries her body to the Tomahawk, where Lifeline offers to put her in a body bag. Alpine tells Lifeline not to zip her up like lost luggage and cradles her body for the flight back (Issue #205).
           </p>
         </section>
 
