@@ -8,6 +8,7 @@ import burkhart2 from './img/burkhart/burkhart_2.png';
 import burkhart3 from './img/burkhart/burkhart_3.png';
 import burkhart4 from './img/burkhart/burkhart_4.png';
 import burkhart5 from './img/burkhart/burkhart_5.png';
+import burkhart6 from './img/burkhart/burkhart_6.png';
 
 const Burkhart: React.FC = () => {
   return (
@@ -80,7 +81,7 @@ const Burkhart: React.FC = () => {
           <h2 className="profile-block-title">Aboard the Aiden Explorer</h2>
           <img src={burkhart4} alt="Dr. Burkhart aboard the Aiden Explorer" className="profile-block-img" />
           <p>
-            Dr. Burkhart is part of an environmental protest group demonstrating against the oil survey ship Aiden Explorer off the East African coast of Kalingaland. The protesters' ship is sunk, and the protesters are taken aboard the Aiden Explorer as captives. Soon after, pirates raid the ship and capture the crew. The pirates are supported by the Black Major and his Red Shadows, and both the crew and the protesters are held prisoner.
+            Dr. Burkhart is part of an environmental protest group protesting against the Aiden Explorer, an oil survey ship, off the East African coast of Kalingaland. The protesters' ship is sunk, and the protesters are taken aboard the Aiden Explorer as captives. Soon after, pirates raid the ship and capture the crew. The pirates are supported by the Black Major and his Red Shadows, and both the crew and the protesters are held prisoner.
           </p>
           <p>
             Since the Aiden Explorer is an American-registered ship with an American crew, the Joes are dispatched to rescue the prisoners. The W.H.A.L.E., the Tomahawk, and a smaller fast boat carrying <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, Gung-Ho, and Torpedo are sent on the mission. Aboard the W.H.A.L.E. is Prince Ngoto, the president of Kalingaland, who says the pirates are led by Abdi Ali, once the Prince's political rival before he turned to piracy.
@@ -119,6 +120,14 @@ const Burkhart: React.FC = () => {
           </p>
           <p>
             Dr. Burkhart dies in Alpine's arms. He carries her body to the Tomahawk, where Lifeline offers to put her in a body bag. Alpine tells Lifeline not to zip her up like lost luggage and cradles her body for the flight back (Issue #205).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Laid to Rest in Ohio</h2>
+          <img src={burkhart6} alt="Dr. Burkhart's funeral in Ohio" className="profile-block-img" />
+          <p>
+            Dr. Burkhart is laid to rest in Ohio. Alpine, Muskrat, and Torpedo attend the funeral. Torpedo shakes the hand of Uncle Mike, a former service member, and slips a G.I. Joe challenge coin into it. As the Joes depart, Mary Lou asks Uncle Mike who those service members were. He gives her their names and shows her the challenge coin that was placed in his hand. Mary Lou asks her uncle what the coin means. Uncle Mike tells her he knows, and places the challenge coin on top of Dr. Burkhart's headstone (Issue #206).
           </p>
         </section>
 
