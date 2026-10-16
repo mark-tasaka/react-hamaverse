@@ -15,6 +15,7 @@ import jinx9 from './img/jinx/jinx_9.png';
 import jinx10 from './img/jinx/jinx_10.png';
 import jinx11 from './img/jinx/jinx_11.png';
 import jinx12 from './img/jinx/jinx_12.png';
+import jinx13 from './img/jinx/jinx_13.png';
 
 const Jinx: React.FC = () => {
   return (
@@ -122,6 +123,18 @@ const Jinx: React.FC = () => {
             Jinx, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and Timber are surrounded by Red Ninja while <Link to="/character-bios/StormShadow">Storm Shadow</Link> confronts their leader. The Red Ninja reveal the Arashikage tattoo on their right forearms and say they've come to set things right. A battle ensues. With only three Red Ninja remaining, Jinx and <Link to="/character-bios/Scarlett">Scarlett</Link> have suffered injuries preventing them from continuing to fight. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber kill the remaining three. Jinx spots <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s body drifting down the river; <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber jump in and retrieve the injured <Link to="/character-bios/StormShadow">Storm Shadow</Link> (Issue #91).
           </p>
         </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Solo Mission in Bern, Switzerland</h2>
+          <img src={jinx13} alt="Jinx's solo mission to the Revanche factory in Bern" className="profile-block-img" />
+          <p>
+            Jinx is summoned to the Pit, where she meets <Link to="/character-bios/Hawk">Hawk</Link> and Duke. They tell her she will be sent on a solo mission, without any support, that will test her abilities to the max (Issue #185).
+          </p>
+          <p>
+            The mission takes Jinx to the Revanche factory in Bern, Switzerland, which she infiltrates at night. While she is downloading data to a flash drive, Blue Ninja cyborgs attack her. She defeats them, then plugs the flash drive into her cell phone and contacts Mainframe at the Pit. Mainframe acknowledges that the transfer is complete (Issue #187).
+          </p>
+        </section>
+
         <section className="profile-block">
           <h2 className="profile-block-title">Tokyo Amusement Park</h2>
           <img src={jinx9} alt="Jinx at the Tokyo amusement park" className="profile-block-img" />
