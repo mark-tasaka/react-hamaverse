@@ -48,7 +48,7 @@ const Candy: React.FC = () => {
             Candy comes home one evening to find her house has become the site of a battle, badly damaged, with Joes surrounding it. Barbecue asks Candy what she is doing there. "This is my father's house," she replies. "I live here!" (Issue #38).
           </p>
           <p>
-            Candy is brought inside the Pit for questioning. Duke asks her about the Cobra radios, cipher machines, bugging devices, surveillance gear, and manuals recovered from the house. Candy insists she had no idea any of it was there (Issue #40).
+            Candy is brought inside the Pit for questioning. <Link to="/character-bios/Duke">Duke</Link> asks her about the Cobra radios, cipher machines, bugging devices, surveillance gear, and manuals recovered from the house. Candy insists she had no idea any of it was there (Issue #40).
           </p>
           <p>
             <Link to="/character-bios/Hawk">Hawk</Link> receives a call from <Link to="/character-bios/Austin">General Austin</Link>, informing him that Candy and the Dreadnok Buzzer, captured in a separate incident, must be released for constitutional reasons. The two are transported out of Fort Wadsworth aboard a military police bus. Buzzer overpowers the MPs and commandeers the bus, driving off with Candy as his prisoner (Issue #40).

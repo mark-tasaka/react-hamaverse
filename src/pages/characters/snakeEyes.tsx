@@ -306,13 +306,13 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">G.I. Joe Reactivate: Attack in the High Sierras</h2>
           <img src={snakeEyes18} alt="Attack in the High Sierras" className="profile-block-img" />
           <p>
-            Following the disbandment of G.I. Joe, Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes. Duke travels to the High Sierras to find them.
+            Following the disbandment of G.I. Joe, Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes. <Link to="/character-bios/Duke">Duke</Link> travels to the High Sierras to find them.
           </p>
           <p>
-            While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and Duke arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
+            While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Duke">Duke</Link> arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
           </p>
           <p>
-            On their way to the cabin, Duke tells <Link to="/character-bios/Scarlett">Scarlett</Link>, "Anabasis is a go" — indicating that G.I. Joe is reactivated (Issue #156).
+            On their way to the cabin, <Link to="/character-bios/Duke">Duke</Link> tells <Link to="/character-bios/Scarlett">Scarlett</Link>, "Anabasis is a go" — indicating that G.I. Joe is reactivated (Issue #156).
           </p>
         </section>
 
@@ -320,7 +320,7 @@ const SnakeEyes: React.FC = () => {
           <h2 className="profile-block-title">Snake Eyes' Sacrifice</h2>
           <img src={snakeEyes19} alt="Snake Eyes' sacrifice at the Pit" className="profile-block-img" />
           <p>
-            In the secret sublevels below the Pit, Joseph and Jane Colton create a clone of Serpentor. Serpentor breaks free and battles the G.I. Joes, who prove no match for him. Duke throws a grenade at Serpentor, but Serpentor catches it and hurls it back at Duke. Snake Eyes catches the grenade and rushes toward Serpentor, using his body to push Serpentor and the grenade over the ledge. The two fall off the ledge as the grenade explodes, killing them both. Snake Eyes' sacrifice saves the G.I. Joe team (Issue #213).
+            In the secret sublevels below the Pit, Joseph and Jane Colton create a clone of Serpentor. Serpentor breaks free and battles the G.I. Joes, who prove no match for him. <Link to="/character-bios/Duke">Duke</Link> throws a grenade at Serpentor, but Serpentor catches it and hurls it back at <Link to="/character-bios/Duke">Duke</Link>. Snake Eyes catches the grenade and rushes toward Serpentor, using his body to push Serpentor and the grenade over the ledge. The two fall off the ledge as the grenade explodes, killing them both. Snake Eyes' sacrifice saves the G.I. Joe team (Issue #213).
           </p>
         </section>
 

@@ -128,7 +128,7 @@ const Jinx: React.FC = () => {
           <h2 className="profile-block-title">Solo Mission in Bern, Switzerland</h2>
           <img src={jinx13} alt="Jinx's solo mission to the Revanche factory in Bern" className="profile-block-img" />
           <p>
-            Jinx is summoned to the Pit, where she meets <Link to="/character-bios/Hawk">Hawk</Link> and Duke. They tell her she will be sent on a solo mission, without any support, that will test her abilities to the max (Issue #185).
+            Jinx is summoned to the Pit, where she meets <Link to="/character-bios/Hawk">Hawk</Link> and <Link to="/character-bios/Duke">Duke</Link>. They tell her she will be sent on a solo mission, without any support, that will test her abilities to the max (Issue #185).
           </p>
           <p>
             The mission takes Jinx to the Revanche factory in Bern, Switzerland, which she infiltrates at night. While she is downloading data to a flash drive, Blue Ninja cyborgs attack her. She defeats them, then plugs the flash drive into her cell phone and contacts Mainframe at the Pit. Mainframe acknowledges that the transfer is complete (Issue #187).

@@ -43,7 +43,7 @@ const Breaker: React.FC = () => {
           <h2 className="profile-block-title">A Costly Mission</h2>
           <img src={breaker3} alt="Breaker's death in Trucial Abysmia" className="profile-block-img" />
           <p>
-            Breaker is killed on an ill-fated mission to Trucial Abysmia, a mission that claims the lives of several of his teammates. Lt. Falcon leads a team of Joes into the country, where they are captured by Cobra and thrown into a pit. A S.A.W. Viper opens fire on the captive Joes, killing Doc, Thunder, Crankcase, and Heavy Metal. The surviving Joes manage to escape and steal a Cobra R.A.G.E. tank, but it is later struck, killing Breaker, Quick Kick, and Crazy Legs. Only Falcon, Duke, and Cross Country survive the mission (Issue #109).
+            Breaker is killed on an ill-fated mission to Trucial Abysmia, a mission that claims the lives of several of his teammates. Lt. Falcon leads a team of Joes into the country, where they are captured by Cobra and thrown into a pit. A S.A.W. Viper opens fire on the captive Joes, killing Doc, Thunder, Crankcase, and Heavy Metal. The surviving Joes manage to escape and steal a Cobra R.A.G.E. tank, but it is later struck, killing Breaker, Quick Kick, and Crazy Legs. Only Falcon, <Link to="/character-bios/Duke">Duke</Link>, and Cross Country survive the mission (Issue #109).
           </p>
         </section>
 
