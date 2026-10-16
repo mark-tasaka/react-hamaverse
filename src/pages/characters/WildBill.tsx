@@ -7,6 +7,7 @@ import wildBill1 from './img/wildBill/wildBill_1.png';
 import wildBill2 from './img/wildBill/wildBill_2.png';
 import wildBill3 from './img/wildBill/wildBill_3.png';
 import wildBill4 from './img/wildBill/wildBill_4.png';
+import wildBill5 from './img/wildBill/wildBill_5.png';
 
 const WildBill: React.FC = () => {
   return (
@@ -51,6 +52,20 @@ const WildBill: React.FC = () => {
           </p>
           <p>
             Wild Bill demonstrates this same uncanny ability again in Sierra Gordo, when his helicopter goes down. <Link to="/character-bios/Flint">Flint</Link> pulls him from the wreckage, noting that the helicopter is a total loss, but that Wild Bill himself has come through relatively unscathed. "Right, pard. It pays to buckle up!" Wild Bill replies (Issue #105).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Walk and Shoot: That Answers One of Your Questions</h2>
+          <img src={wildBill5} alt="Wild Bill and his six-shooter aboard the Aiden Explorer" className="profile-block-img" />
+          <p>
+            Off the East African coast of Kalingaland, the oil survey ship Aiden Explorer and its crew are captured by pirates supported by the Red Shadows. Before the capture, the ship had taken a group of environmental protesters aboard. Since the Aiden Explorer is an American-owned ship with an American crew, the Joes are sent to rescue the prisoners. The W.H.A.L.E., the Tomahawk, and a smaller fast boat carrying <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, Gung-Ho, and Torpedo are sent on the mission. Wild Bill and Lift Ticket fly the Tomahawk, with Roadblock and Lifeline aboard as crew.
+          </p>
+          <p>
+            A firefight erupts on the Aiden Explorer as the Joes engage the Red Shadows and the pirates. The Tomahawk moves in to land on the ship's landing pad and retrieve the captives, but the Red Shadows fire an SA-7 Grail missile at it. Wild Bill and Lift Ticket go into evasive maneuvers, and the missile's proximity fuze detonates near the Tomahawk, spraying shrapnel everywhere. Wild Bill is wounded (Issue #188).
+          </p>
+          <p>
+            Roadblock opens up with the Tomahawk's .50-cal, securing the landing pad, and the helicopter lands and the crew disembarks. Lifeline treats Wild Bill's wounds, and Lift Ticket asks whether he can walk and shoot. Just then, a Red Shadow armed with a submachine gun sneaks forward and takes aim. Wild Bill draws his six-shooter and shoots him. He blows the smoke from the muzzle and says, "That answers one of your questions. We'll have to see about the other one" (Issue #189).
           </p>
         </section>
 
