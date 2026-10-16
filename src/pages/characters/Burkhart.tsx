@@ -17,7 +17,7 @@ const Burkhart: React.FC = () => {
         <h1 className="character-profile-title">Dr. Adele Burkhart</h1>
 
         <p className="profile-intro">
-          Dr. Adele Burkhart (1949–2014) is an outspoken human rights advocate and a woman of principle and courage, whose values often put her at odds with the Joes because of her opposition to the military. Her convictions take her to hotspots around the world, where she works for the oppressed and protests injustice, and more than once the Joes discover that she is the very person they have been sent to rescue. Even in the worst circumstances, she shows exceptional courage and selflessness. In the end, she sacrifices herself in Ollestan, taking a round meant for Alpine.
+          Dr. Adele Burkhart (1949–2014) is an outspoken human rights advocate and a woman of principle and courage, whose values often put her at odds with the Joes because of her opposition to the military. Her convictions take her to hotspots around the world, where she works for the oppressed and protests injustice, and more than once the Joes discover that she is the very person they have been sent to rescue. Even in the worst circumstances, she shows exceptional courage and selflessness. In the end, she sacrifices herself in Olliestan, taking a round meant for Alpine.
         </p>
 
         <section className="profile-block">
@@ -105,9 +105,9 @@ const Burkhart: React.FC = () => {
 
                 <section className="profile-block">
           <h2 className="profile-block-title">A Final Act of Courage</h2>
-          <img src={burkhart5} alt="Dr. Burkhart's final stand in Ollestan" className="profile-block-img" />
+          <img src={burkhart5} alt="Dr. Burkhart's final stand in Olliestan" className="profile-block-img" />
           <p>
-            Dr. Burkhart travels to Ollestan to protest the denial of education to women in a male-dominated society. There, she is captured by insurgents. A Joe team made up of Torpedo, Long Range, Alpine, and Muskrat is sent to Ollestan to rescue the American captive, not knowing the captive is Dr. Burkhart.
+            Dr. Burkhart travels to Olliestan to protest the denial of education to women in a male-dominated society. There, she is captured by insurgents. A Joe team made up of Torpedo, Long Range, Alpine, and Muskrat is sent to Olliestan to rescue the American captive, not knowing the captive is Dr. Burkhart.
           </p>
           <p>
             The Joes infiltrate the insurgents' compound and find Dr. Burkhart hooded and bound to a chair. She recognizes Torpedo's voice and Hawaiian accent and says, "You're Torpedo, aren't you?" Torpedo is surprised, since he rescued her from the Aiden Explorer a year earlier (Issue #203).
