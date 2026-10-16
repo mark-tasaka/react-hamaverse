@@ -63,6 +63,7 @@ import FlashImg from './img/portraits/flash.jpg';
 import CoverGirlImg from './img/portraits/coverGirl.jpg';
 import WildBillImg from './img/portraits/wildBill.jpg';
 import BurkhartImg from './img/portraits/burkhart.jpg';
+import DukeImg from './img/portraits/duke.jpg';
 
 
 interface Introduced {
@@ -1045,6 +1046,24 @@ const CHARACTERS: Character[] = [
       month: 'March',
     },
   },
+  {
+    name: 'Duke',
+    img: DukeImg,
+    link: '/character-bios/Duke',
+    rank: 94,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 22,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 22',
+      year: '1984',
+      month: 'April',
+    },
+  },
+
+
 ];
 
 type SortField = 'rank' | 'issueNumber' | 'name';

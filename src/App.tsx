@@ -65,6 +65,7 @@ import Flash from './pages/characters/Flash'
 import CoverGirl from './pages/characters/CoverGirl'
 import WildBill from './pages/characters/WildBill'
 import Burkhart from './pages/characters/Burkhart'
+import Duke from './pages/characters/Duke'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -150,6 +151,7 @@ function App() {
           <Route path="/character-bios/CoverGirl" element={<CoverGirl />} />
           <Route path="/character-bios/WildBill" element={<WildBill />} />
           <Route path="/character-bios/Burkhart" element={<Burkhart />} />
+          <Route path="/character-bios/Duke" element={<Duke />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
