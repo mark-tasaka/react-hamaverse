@@ -64,6 +64,7 @@ import CoverGirlImg from './img/portraits/coverGirl.jpg';
 import WildBillImg from './img/portraits/wildBill.jpg';
 import BurkhartImg from './img/portraits/burkhart.jpg';
 import DukeImg from './img/portraits/duke.jpg';
+import OlgaImg from './img/portraits/olga.jpg';
 
 
 interface Introduced {
@@ -1060,6 +1061,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 22',
       year: '1984',
       month: 'April',
+    },
+  },
+  {
+    name: 'Cpl. Olga',
+    img: OlgaImg,
+    link: '/character-bios/Olga',
+    rank: 1,
+    faction: 'Borovian Army',
+    secondaryFaction: 'Enemy',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 63,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 63',
+      year: '1987',
+      month: 'September',
     },
   },
 
