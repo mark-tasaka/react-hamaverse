@@ -13,11 +13,11 @@ const Duke: React.FC = () => {
         <h1 className="character-profile-title">Duke (Conrad S. Hauser)</h1>
 
         <p className="profile-intro">
-          First Sergeant Conrad S. Hauser (Duke) is the field commander of the team. He is the team's "First Shirt" and "Top Sergeant," the backbone of the unit and the vital link between its officers and the soldiers who carry out their orders. Duke is a natural leader who leads from the front, earning the respect of the men and women who serve under him.
+          First Sergeant Conrad S. Hauser (Duke) is the field commander of the team. He is the team’s “First Shirt” and “Top Sergeant,” the backbone of the unit, whose leadership and discipline keep the Joes alive in the field. A natural leader who leads from the front, Duke earns the respect of the men and women who serve under him. He is also the all-American kid, steady, principled, and always ready to do the right thing.
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Meeting Claire</h2>
+          <h2 className="profile-block-title">The Woman He Lost</h2>
           <img src={duke1} alt="Duke and Claire" className="profile-block-img" />
           <p>
             Years before joining G.I. Joe, Duke meets his future wife, Claire, in Washington, D.C. Duke is there as a sightseer, and Claire is taking part in a foreign policy protest. When Claire is harassed, Duke steps in to intervene. At first, Claire assumes he is just another male chauvinist asserting himself, but she later realizes he acted because he believed it was the right thing to do. The two spend that evening in a French café in Georgetown (Issue #224).
@@ -56,10 +56,13 @@ const Duke: React.FC = () => {
           </p>
         </section>
 
-        <section className="profile-notes">
+                <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
-            During the Marvel run (1982–1994), six versions of Duke were produced: the 1983 version, the 1988 Tiger Force repaint, the 1992 version, the 1993 version, the 1994 Star Brigade Armor Tech version, and the 1994 Star Brigade version.
+            During the Marvel run (1982–1994), six versions of Duke were produced: the <a href="https://www.yojoe.com/action/83/duke1.shtml" target="_blank" rel="noopener noreferrer">1983 version</a>, the <a href="https://www.yojoe.com/action/88/duke2.shtml" target="_blank" rel="noopener noreferrer">1988 Tiger Force repaint</a>, the <a href="https://www.yojoe.com/action/92/duke3.shtml" target="_blank" rel="noopener noreferrer">1992 version</a>, the <a href="https://www.yojoe.com/action/93/duke4.shtml" target="_blank" rel="noopener noreferrer">1993 version</a>, the <a href="https://www.yojoe.com/action/93/duke5.shtml" target="_blank" rel="noopener noreferrer">1993 Star Brigade Armor Tech version</a>, and the <a href="https://www.yojoe.com/action/94/duke6.shtml" target="_blank" rel="noopener noreferrer">1994 Star Brigade version</a>.
+          </p>
+          <p>
+            In a letters page, Mr. Hama writes that he loosely based Duke on an E-7 (Sergeant First Class) he knew in the Army, who was married to a woman of a different ethnicity.
           </p>
         </section>
 
