@@ -58,7 +58,7 @@ const Duke: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Header</h2>
+          <h2 className="profile-block-title">A Funeral Interrupted</h2>
           <img src={duke3} alt="Duke and Roadblock arrive at General Flagg's funeral" className="profile-block-img" />
           <p>
             Duke and Roadblock's introduction to the G.I. Joe team comes at <Link to="/character-bios/Flagg">General Flagg</Link>'s funeral. The two have just returned from a mission and have not had the chance to change out of their dress greens. They still have their weapons with them, which proves fortunate, as a new Cobra Rattler aircraft is targeting the Joes at Arlington National Cemetery.
@@ -72,9 +72,9 @@ const Duke: React.FC = () => {
           <h2 className="profile-notes-title">Notes from the Field</h2>
           <p>
             During the Marvel run (1982–1994), six versions of Duke were produced: the <a href="https://www.yojoe.com/action/83/duke1.shtml" target="_blank" rel="noopener noreferrer">1983 version</a>, the <a href="https://www.yojoe.com/action/88/duke2.shtml" target="_blank" rel="noopener noreferrer">1988 Tiger Force repaint</a>, the <a href="https://www.yojoe.com/action/92/duke3.shtml" target="_blank" rel="noopener noreferrer">1992 version</a>, the <a href="https://www.yojoe.com/action/93/duke4.shtml" target="_blank" rel="noopener noreferrer">1993 version</a>, the <a href="https://www.yojoe.com/action/93/duke5.shtml" target="_blank" rel="noopener noreferrer">1993 Star Brigade Armor Tech version</a>, and the <a href="https://www.yojoe.com/action/94/duke6.shtml" target="_blank" rel="noopener noreferrer">1994 Star Brigade version</a>.
-          </p>
+          </p>          
           <p>
-            In a letters page, Mr. Hama writes that he loosely based Duke on an E-7 (Sergeant First Class) he knew in the Army, who was married to a woman of a different ethnicity.
+            In a letters page (Issue #236), Mr. Hama writes that he loosely based Duke on an E-7 (Sergeant First Class) he knew in the Army. The man's real surname was the basis for Duke's, shortened to "Hauser" for the character. Mr. Hama describes the real-life individual as tall and blond, and married to a woman of a different ethnic and cultural background.
           </p>
         </section>
 
