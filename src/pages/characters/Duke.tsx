@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import duke1 from './img/duke/duke_1.png';
 import duke2 from './img/duke/duke_2.png';
+import duke3 from './img/duke/duke_3.png';
 
 const Duke: React.FC = () => {
   return (
@@ -53,6 +54,17 @@ const Duke: React.FC = () => {
           </p>
           <p>
             When Duke and Roadblock return to the States, they visit Hennessey's brother's pub in Brooklyn to return her lucky charm to him. Her brother is touched that they came all the way to Brooklyn to share his sister's final moments. He asks Duke whether they are heading back to the Middle East. Duke replies that the authorities want him to take a new assignment in Staten Island, and he is seriously considering it, as long as he can take Roadblock with him (Issue #253).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Header</h2>
+          <img src={duke3} alt="Duke and Roadblock arrive at General Flagg's funeral" className="profile-block-img" />
+          <p>
+            Duke and Roadblock's introduction to the G.I. Joe team comes at <Link to="/character-bios/Flagg">General Flagg</Link>'s funeral. The two have just returned from a mission and have not had the chance to change out of their dress greens. They still have their weapons with them, which proves fortunate, as a new Cobra Rattler aircraft is targeting the Joes at Arlington National Cemetery.
+          </p>
+          <p>
+            Duke and Roadblock drive up in their Jeep, dismount, and open fire (Issue #263). Roadblock uses his .50 Cal, "Ma Douce," which tears through the Rattler's armor and sends it crashing in a fiery explosion. Duke and Roadblock then introduce themselves, and Duke tells the Joes that he is their new Top Sergeant, that things are going to be different from now on, and that he intends to turn the sorry lot of them into soldiers (Issues #22 and #263).
           </p>
         </section>
 
