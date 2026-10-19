@@ -7,6 +7,7 @@ import duke0 from './img/duke/duke_0.png';
 import duke1 from './img/duke/duke_1.png';
 import duke2 from './img/duke/duke_2.png';
 import duke3 from './img/duke/duke_3.png';
+import duke4 from './img/duke/duke_4.png';
 
 const Duke: React.FC = () => {
   return (
@@ -66,6 +67,17 @@ const Duke: React.FC = () => {
           </p>
           <p>
             Duke and Roadblock drive up in their Jeep, dismount, and open fire (Issue #263). Roadblock uses his .50 Cal, "Ma Douce," which tears through the Rattler's armor and sends it crashing in a fiery explosion. Duke and Roadblock then introduce themselves, and Duke tells the Joes that he is their new Top Sergeant, that things are going to be different from now on, and that he intends to turn the sorry lot of them into soldiers (Issues #22 and #263).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Becoming the Field Commander</h2>
+          <img src={duke4} alt="Duke is given field command of G.I. Joe at the opening of Pit II" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Austin">General Austin</Link> arrives for the opening ceremony of the rebuilt Pit (Pit II), located beneath the Motor Pool at Fort Wadsworth, on the same site as the original Pit. At the ceremony, he announces a restructuring of G.I. Joe. Among the changes, <Link to="/character-bios/Austin">General Austin</Link> wants <Link to="/character-bios/Hawk">Hawk</Link> to take overall command of the team from behind a desk, relegating field command to Duke.
+          </p>
+          <p>
+            Duke shakes <Link to="/character-bios/Hawk">Hawk</Link>'s hand, telling him he does not know whether he should congratulate <Link to="/character-bios/Hawk">Hawk</Link> or offer his condolences. <Link to="/character-bios/Hawk">Hawk</Link> replies that he can do more for the Joes from behind a desk, and that he cannot think of a better person than Duke to lead the outfit (Issue #33).
           </p>
         </section>
 
