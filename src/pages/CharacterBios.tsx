@@ -65,6 +65,7 @@ import WildBillImg from './img/portraits/wildBill.jpg';
 import BurkhartImg from './img/portraits/burkhart.jpg';
 import DukeImg from './img/portraits/duke.jpg';
 import OlgaImg from './img/portraits/olga.jpg';
+import RaymondImg from './img/portraits/raymond.jpg';
 
 
 interface Introduced {
@@ -1077,6 +1078,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 63',
       year: '1987',
       month: 'September',
+    },
+  },
+  {
+    name: 'Raymond',
+    img: RaymondImg,
+    link: '/character-bios/Raymond',
+    rank: 3,
+    faction: 'Arashikage',
+    secondaryFaction: 'Civilian',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 203,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 203',
+      year: '2014',
+      month: 'June',
     },
   },
 

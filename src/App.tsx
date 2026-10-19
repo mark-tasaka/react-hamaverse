@@ -67,6 +67,7 @@ import WildBill from './pages/characters/WildBill'
 import Burkhart from './pages/characters/Burkhart'
 import Duke from './pages/characters/Duke'
 import Olga from './pages/characters/Olga'
+import Raymond from './pages/characters/Raymond'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -154,6 +155,7 @@ function App() {
           <Route path="/character-bios/Burkhart" element={<Burkhart />} />
           <Route path="/character-bios/Duke" element={<Duke />} />
           <Route path="/character-bios/Olga" element={<Olga />} />
+          <Route path="/character-bios/Raymond" element={<Raymond />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />
