@@ -7,6 +7,7 @@ import wishList1 from './img/wishList/wishList_1.png';
 import wishList2 from './img/wishList/wishList_2.png';
 import wishList3 from './img/wishList/wishList_3.png';
 import wishList4 from './img/wishList/wishList_4.png';
+import wishList5 from './img/wishList/wishList_5.png';
 
 const WishList: React.FC = () => {
   return (
@@ -47,6 +48,39 @@ const WishList: React.FC = () => {
             I loved the introduction of <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, <Link to="/character-bios/Sioban">Sioban O'Hara</Link>, an attorney-at-law, during the storyline where <Link to="/character-bios/Scarlett">Scarlett</Link> lay in a coma and <Link to="/character-bios/Sioban">Sioban</Link> sought to terminate her life support. I would love to know whether <Link to="/character-bios/Sioban">Sioban</Link> still holds any resentment toward <Link to="/character-bios/Scarlett">Scarlett</Link>, and whether it was resolved after <Link to="/character-bios/Scarlett">Scarlett</Link> signed over the family house in Atlanta.
           </p>
 
+        </section>
+
+        <section className="wishlist-block">
+          <div className="wishlist-block-media">
+            <img src={wishList5} alt="Snake Eyes and Scarlett Series/Miniseries" />
+          </div>
+          <h2 className="wishlist-block-title">Snake Eyes and Scarlett Series/Miniseries</h2>
+          <p>
+            The relationship between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> is the cornerstone of ARAH, and it has meant a great deal to me as a reader. It is a love unlike any other love story: a scarred, emotionally wounded soldier who is unable to speak (until Issue #300), and a woman whose love sees past the physical to the person within, a love that endures through separation, loss, and even death. <Link to="/character-bios/Scarlett">Scarlett</Link> herself goes beyond the typical love interest in an action story. She is strong, independent, and a skilled warrior in her own right, yet she is also his caring and steadfast partner.
+          </p>
+          <p>
+            I would love to see a <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> series or miniseries that builds on their relationship. Below are my humble thoughts on possible directions.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Current Continuity</h3>
+          <p>
+            The series would take place within the current ARAH continuity, with the main series and the spinoff sharing the same timeline. A story arc could begin in ARAH and be resolved in the <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> series.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Independent Operators</h3>
+          <p>
+            I loved your seven-part <Link to="/character-bios/StormShadow">Storm Shadow</Link> series, which was placed within the ARAH timeline, with <Link to="/character-bios/StormShadow">Storm Shadow</Link> working independently and only occasional references to the wider ARAH universe. It would be interesting to see <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> operating independently, outside of military service, and dealing with new allies and adversaries.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Scarlett's Story, Told Through Both Perspectives</h3>
+          <p>
+            I would love to see the series explore <Link to="/character-bios/Scarlett">Scarlett</Link>'s backstory, including her relationships with her father, brothers, and sister, <Link to="/character-bios/Sioban">Sioban</Link>, as well as her connections to Ireland. It would be especially compelling to see this story told through both <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. How does <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> connect with <Link to="/character-bios/Scarlett">Scarlett</Link>'s family, and how do they receive him?
+          </p>
+
+          <h3 className="wishlist-subblock-title">A Wedding for Snake Eyes and Scarlett</h3>
+          <p>
+            The love story between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> is at the heart of ARAH, and I would love to see their relationship taken to the next level, with the two wed. If there is a miniseries, perhaps the wedding could take place in the final issue, with the earlier issues leading up to it.
+          </p>
         </section>
 
                 <section className="wishlist-block">
