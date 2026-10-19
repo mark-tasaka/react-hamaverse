@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">October 13, 2026</p>
+          <p className="update-log-date">October 18, 2026</p>
           <p className="update-log-entry">
-            The characters bios for <Link to="/character-bios/Duke">Duke</Link> and <Link to="/character-bios/Burkhart">Dr. Burkhart</Link> has been added.  Duke's bio is a work-in-progress and more material will be added in the future.  New sections have also been added to <Link to="/character-bios/Jinx">Jinx</Link> and <Link to="/character-bios/WildBill">Wild Bill</Link> character bios.
+            The character bios for <Link to="/character-bios/Olga">Cpl. Olga</Link> has been added.  As well, a new section has been added to <Link to="/WishList">ARAH Wish List</Link> and <Link to="/character-bios/Duke">Duke</Link>'s character bio.  
           </p>
 
           <div className="btn-row">

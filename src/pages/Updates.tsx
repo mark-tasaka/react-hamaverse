@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
       
+      <p className="update-log-date">October 16, 2026</p>
+      <p className="update-log-entry">
+        The characters bios for <Link to="/character-bios/Duke">Duke</Link> and <Link to="/character-bios/Burkhart">Dr. Burkhart</Link> has been added.  Duke's bio is a work-in-progress and more material will be added in the future.  New sections have also been added to <Link to="/character-bios/Jinx">Jinx</Link> and <Link to="/character-bios/WildBill">Wild Bill</Link> character bios.
+      </p>
+
       <p className="update-log-date">October 13, 2026</p>
       <p className="update-log-entry">
         The new sections have been added to <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker's</Link> character bios.
