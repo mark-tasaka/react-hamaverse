@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import '../css/Common.css';
 import './css/CharacterProfile.css';
 
+import duke0 from './img/duke/duke_0.png';
 import duke1 from './img/duke/duke_1.png';
 import duke2 from './img/duke/duke_2.png';
 import duke3 from './img/duke/duke_3.png';
@@ -70,6 +71,7 @@ const Duke: React.FC = () => {
 
                 <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
+          <img src={duke0} alt="Duke and Claire" className="profile-block-img" />
           <p>
             During the Marvel run (1982–1994), six versions of Duke were produced: the <a href="https://www.yojoe.com/action/83/duke1.shtml" target="_blank" rel="noopener noreferrer">1983 version</a>, the <a href="https://www.yojoe.com/action/88/duke2.shtml" target="_blank" rel="noopener noreferrer">1988 Tiger Force repaint</a>, the <a href="https://www.yojoe.com/action/92/duke3.shtml" target="_blank" rel="noopener noreferrer">1992 version</a>, the <a href="https://www.yojoe.com/action/93/duke4.shtml" target="_blank" rel="noopener noreferrer">1993 version</a>, the <a href="https://www.yojoe.com/action/93/duke5.shtml" target="_blank" rel="noopener noreferrer">1993 Star Brigade Armor Tech version</a>, and the <a href="https://www.yojoe.com/action/94/duke6.shtml" target="_blank" rel="noopener noreferrer">1994 Star Brigade version</a>.
           </p>          
