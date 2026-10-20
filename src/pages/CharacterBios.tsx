@@ -66,6 +66,7 @@ import BurkhartImg from './img/portraits/burkhart.jpg';
 import DukeImg from './img/portraits/duke.jpg';
 import OlgaImg from './img/portraits/olga.jpg';
 import RaymondImg from './img/portraits/raymond.jpg';
+import RoadblockImg from './img/portraits/roadblock.jpg';
 
 
 interface Introduced {
@@ -1094,6 +1095,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 203',
       year: '2014',
       month: 'June',
+    },
+  },
+  {
+    name: 'Roadblock',
+    img: RoadblockImg,
+    link: '/character-bios/Roadblock',
+    rank: 80,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 22,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 22',
+      year: '1984',
+      month: 'April',
     },
   },
 
