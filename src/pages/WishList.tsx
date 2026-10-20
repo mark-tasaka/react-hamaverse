@@ -52,6 +52,29 @@ const WishList: React.FC = () => {
 
         <section className="wishlist-block">
           <div className="wishlist-block-media">
+            <img src={wishList2} alt="Exploring the Original Snake Eyes' Return" />
+          </div>
+          <h2 className="wishlist-block-title">Exploring the Original Snake Eyes' Return</h2>
+          <p>
+            I loved how you portrayed the trauma the Joes experienced following <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death, from <Link to="/character-bios/Hawk">Hawk</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> helping hold up a grieving <Link to="/character-bios/Stalker">Stalker</Link> at the funeral, to <Link to="/character-bios/Scarlett">Scarlett</Link>'s ferry ride with <Link to="/character-bios/SeanCollins">Sean Collins</Link>, which stirs memories of the rides she once took with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> years before. The grief felt by those closest to him captures the true tragedy of his loss.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Snake Eyes' Voice</h3>
+          <p>
+            When the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returned, his vocal cords were restored along with him. I love how you conveyed the love between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> largely through body language rather than words. For instance, outside the Bern Institute of Reconstructive Surgery, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> touches <Link to="/character-bios/Scarlett">Scarlett</Link>'s hand, looks up at the sun, then glances toward a nearby couple holding hands (<Link to="/comic-issues/Issue93">Issue #93</Link>) — wordlessly conveying to her exactly why he wants to go through with the surgery. Now that his voice has returned, I would love to see more dialogue between the two, where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> can finally express, in his own words, what <Link to="/character-bios/Scarlett">Scarlett</Link> means to him and how much he loves her.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Lost Memories</h3>
+          <p>
+            There is much more to explore here than the return of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' voice. The clone was created from memories and DNA stored in the Brainwave Scanner during <Link to="/character-bios/Venom">Dr. Venom</Link>'s very first encounter with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, all the way back in Issue #10. That leaves a substantial gap in the clone's memories — including, for instance, his encounter at the Silent Castle with <Link to="/character-bios/StormShadow">Storm Shadow</Link> as a Cobra agent.
+          </p>
+          <p>
+            It would be interesting to explore how this memory gap affects his relationships going forward. For instance, while <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> may know, secondhand, that he once crossed blades with <Link to="/character-bios/StormShadow">Storm Shadow</Link> during his time as a Cobra agent, he will have no actual memory of the event itself, since it took place after the Brainwave Scan.
+          </p>
+        </section>
+
+        <section className="wishlist-block">
+          <div className="wishlist-block-media">
             <img src={wishList5} alt="Snake Eyes and Scarlett Series/Miniseries" />
           </div>
           <h2 className="wishlist-block-title">Snake Eyes and Scarlett Series/Miniseries</h2>
@@ -83,30 +106,7 @@ const WishList: React.FC = () => {
           </p>
         </section>
 
-                <section className="wishlist-block">
-          <div className="wishlist-block-media">
-            <img src={wishList2} alt="Exploring the Original Snake Eyes' Return" />
-          </div>
-          <h2 className="wishlist-block-title">Exploring the Original Snake Eyes' Return</h2>
-          <p>
-            I loved how you portrayed the trauma the Joes experienced following <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death, from <Link to="/character-bios/Hawk">Hawk</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> helping hold up a grieving <Link to="/character-bios/Stalker">Stalker</Link> at the funeral, to <Link to="/character-bios/Scarlett">Scarlett</Link>'s ferry ride with <Link to="/character-bios/SeanCollins">Sean Collins</Link>, which stirs memories of the rides she once took with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> years before. The grief felt by those closest to him captures the true tragedy of his loss.
-          </p>
-
-          <h3 className="wishlist-subblock-title">Snake Eyes' Voice</h3>
-          <p>
-            When the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returned, his vocal cords were restored along with him. I love how you conveyed the love between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> largely through body language rather than words. For instance, outside the Bern Institute of Reconstructive Surgery, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> touches <Link to="/character-bios/Scarlett">Scarlett</Link>'s hand, looks up at the sun, then glances toward a nearby couple holding hands (<Link to="/comic-issues/Issue93">Issue #93</Link>) — wordlessly conveying to her exactly why he wants to go through with the surgery. Now that his voice has returned, I would love to see more dialogue between the two, where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> can finally express, in his own words, what <Link to="/character-bios/Scarlett">Scarlett</Link> means to him and how much he loves her.
-          </p>
-
-          <h3 className="wishlist-subblock-title">Lost Memories</h3>
-          <p>
-            There is much more to explore here than the return of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' voice. The clone was created from memories and DNA stored in the Brainwave Scanner during <Link to="/character-bios/Venom">Dr. Venom</Link>'s very first encounter with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, all the way back in Issue #10. That leaves a substantial gap in the clone's memories — including, for instance, his encounter at the Silent Castle with <Link to="/character-bios/StormShadow">Storm Shadow</Link> as a Cobra agent.
-          </p>
-          <p>
-            It would be interesting to explore how this memory gap affects his relationships going forward. For instance, while <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> may know, secondhand, that he once crossed blades with <Link to="/character-bios/StormShadow">Storm Shadow</Link> during his time as a Cobra agent, he will have no actual memory of the event itself, since it took place after the Brainwave Scan.
-          </p>
-        </section>
-
-                <section className="wishlist-block">
+        <section className="wishlist-block">
           <div className="wishlist-block-media">
             <img src={wishList3} alt="Joes Everyone Loves to Hate" />
           </div>
