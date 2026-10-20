@@ -37,25 +37,25 @@ const Duke: React.FC = () => {
             A civil war breaks out in the Emirate of Trucial Abysmia, where the Emir battles the secessionist forces of Colonel Sharif. U.S. forces are brought in on the side of the Emir. Duke is part of a resupply convoy traveling to Outpost Juliet, which, in addition to supplies, is transporting a fuel tanker.
           </p>
           <p>
-            Duke rides in a Humvee driven by Specialist Maureen "Martoonies" Hennessey, with Roadblock operating the turret-mounted .50-cal. Hennessey is a short-timer, due to rotate back to the States in less than a month and return to civilian life. She plans to work in her brother's Irish bar in Brooklyn.
+            Duke rides in a Humvee driven by Specialist Maureen "Martoonies" Hennessey, with <Link to="/character-bios/Roadblock">Roadblock</Link> operating the turret-mounted .50-cal. Hennessey is a short-timer, due to rotate back to the States in less than a month and return to civilian life. She plans to work in her brother's Irish bar in Brooklyn.
           </p>
           <p>
-            The V-150 takes the lead, with Duke's Humvee right behind it. An IED takes out the V-150, and the convoy comes to a halt as Roadblock lays down suppressing fire. Insurgents open fire from the ridge, and Duke's Humvee is hit by armor-piercing rounds. Hennessey is shot through the cheek, and another round penetrates the driver's door, nicking an artery in her thigh. With so much bleeding from her cheek wound, neither of them notices the thigh wound. Duke is hit in the shoulder.
+            The V-150 takes the lead, with Duke's Humvee right behind it. An IED takes out the V-150, and the convoy comes to a halt as <Link to="/character-bios/Roadblock">Roadblock</Link> lays down suppressing fire. Insurgents open fire from the ridge, and Duke's Humvee is hit by armor-piercing rounds. Hennessey is shot through the cheek, and another round penetrates the driver's door, nicking an artery in her thigh. With so much bleeding from her cheek wound, neither of them notices the thigh wound. Duke is hit in the shoulder.
           </p>
           <p>
-            Hennessey and Duke patch their wounds and Charlie Mike, continuing the mission. Hennessey drives toward the insurgents while Roadblock takes several of them out with the .50-cal. The rest of the convoy's soldiers dismount and lay down suppressing fire on foot, allowing the medics to reach the crew of the wounded V-150.
+            Hennessey and Duke patch their wounds and Charlie Mike, continuing the mission. Hennessey drives toward the insurgents while <Link to="/character-bios/Roadblock">Roadblock</Link> takes several of them out with the .50-cal. The rest of the convoy's soldiers dismount and lay down suppressing fire on foot, allowing the medics to reach the crew of the wounded V-150.
           </p>
           <p>
             Air support arrives in the form of the Emir's legacy Su-7 Frogfoots, giving the convoy a chance to pause and tend to the wounded. Duke discovers that the fuel tanker's cab has been riddled with rounds and its occupants killed, so he takes over as the tanker's driver. The convoy presses on toward Outpost Juliet.
           </p>
           <p>
-            A short time later, insurgents in technicals attack the convoy, intending to capture the fuel tanker. Duke realizes this and has Hennessey drive up alongside the tanker. He pulls the pins on his grenades, drops them in the passenger seat, and jumps toward the Humvee, where Roadblock catches him. The Humvee speeds off while the technicals swarm around the tanker. A massive explosion follows, sending the insurgents to a fiery death.
+            A short time later, insurgents in technicals attack the convoy, intending to capture the fuel tanker. Duke realizes this and has Hennessey drive up alongside the tanker. He pulls the pins on his grenades, drops them in the passenger seat, and jumps toward the Humvee, where <Link to="/character-bios/Roadblock">Roadblock</Link> catches him. The Humvee speeds off while the technicals swarm around the tanker. A massive explosion follows, sending the insurgents to a fiery death.
           </p>
           <p>
             The Humvee keeps driving. Duke tells Hennessey she can slow down, checks on her, and finds her dead at the wheel. She has bled out from the wound to her thigh artery.
           </p>
           <p>
-            When Duke and Roadblock return to the States, they visit Hennessey's brother's pub in Brooklyn to return her lucky charm to him. Her brother is touched that they came all the way to Brooklyn to share his sister's final moments. He asks Duke whether they are heading back to the Middle East. Duke replies that the authorities want him to take a new assignment in Staten Island, and he is seriously considering it, as long as he can take Roadblock with him (Issue #253).
+            When Duke and <Link to="/character-bios/Roadblock">Roadblock</Link> return to the States, they visit Hennessey's brother's pub in Brooklyn to return her lucky charm to him. Her brother is touched that they came all the way to Brooklyn to share his sister's final moments. He asks Duke whether they are heading back to the Middle East. Duke replies that the authorities want him to take a new assignment in Staten Island, and he is seriously considering it, as long as he can take <Link to="/character-bios/Roadblock">Roadblock</Link> with him (Issue #253).
           </p>
         </section>
 
@@ -63,10 +63,10 @@ const Duke: React.FC = () => {
           <h2 className="profile-block-title">A Funeral Interrupted</h2>
           <img src={duke3} alt="Duke and Roadblock arrive at General Flagg's funeral" className="profile-block-img" />
           <p>
-            Duke and Roadblock's introduction to the G.I. Joe team comes at <Link to="/character-bios/Flagg">General Flagg</Link>'s funeral. The two have just returned from a mission and have not had the chance to change out of their dress greens. They still have their weapons with them, which proves fortunate, as a new Cobra Rattler aircraft is targeting the Joes at Arlington National Cemetery.
+            Duke and <Link to="/character-bios/Roadblock">Roadblock's</Link> introduction to the G.I. Joe team comes at <Link to="/character-bios/Flagg">General Flagg</Link>'s funeral. The two have just returned from a mission and have not had the chance to change out of their dress greens. They still have their weapons with them, which proves fortunate, as a new Cobra Rattler aircraft is targeting the Joes at Arlington National Cemetery.
           </p>
           <p>
-            Duke and Roadblock drive up in their Jeep, dismount, and open fire (Issue #263). Roadblock uses his .50 Cal, "Ma Douce," which tears through the Rattler's armor and sends it crashing in a fiery explosion. Duke and Roadblock then introduce themselves, and Duke tells the Joes that he is their new Top Sergeant, that things are going to be different from now on, and that he intends to turn the sorry lot of them into soldiers (Issues #22 and #263).
+            Duke and <Link to="/character-bios/Roadblock">Roadblock</Link> drive up in their Jeep, dismount, and open fire (Issue #263). <Link to="/character-bios/Roadblock">Roadblock</Link> uses his .50 Cal, "Ma Douce," which tears through the Rattler's armor and sends it crashing in a fiery explosion. Duke and <Link to="/character-bios/Roadblock">Roadblock</Link> then introduce themselves, and Duke tells the Joes that he is their new Top Sergeant, that things are going to be different from now on, and that he intends to turn the sorry lot of them into soldiers (Issues #22 and #263).
           </p>
         </section>
 
