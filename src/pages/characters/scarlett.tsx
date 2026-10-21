@@ -14,6 +14,7 @@ import scarlett8 from './img/scarlett/scarlett-8.png';
 import scarlett9 from './img/scarlett/scarlett-9.png';
 import scarlett10 from './img/scarlett/scarlett-10.png';
 import scarlett11 from './img/scarlett/scarlett-11.png';
+import scarlett12 from './img/scarlett/scarlett-12.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -69,6 +70,23 @@ const Scarlett: React.FC = () => {
           </p>
           <p>
             Scarlett lands the C.L.A.W. in front of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. <Link to="/character-bios/StormShadow">Storm Shadow</Link> hurls his sword toward her, but <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, appearing from behind, catches the blade in midair. The two then fly off together, escaping the Silent Castle (<Link to="/comic-issues/Issue21">Issue #21</Link>).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Header</h2>
+          <img src={scarlett12} alt="Scarlett and Snake Eyes under attack aboard the Staten Island ferry" className="profile-block-img" />
+          <p>
+            Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> ride the Staten Island ferry in civilian attire, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> disguised by a rubber mask. A group of four undercover Siegies (Crimson Guards), en route to a training mission, recognize Scarlett. They do not recognize <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> beneath the mask. Their leader, Fred II (<Link to="/character-bios/Wade">Wade Collins</Link>), radios the discovery to his superiors. When <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> steps away to buy food, three of the Siegies surround Scarlett, discreetly draw their guns, and order her to walk slowly back to their car.
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returns and throws hot coffee in one Siegie's face. <Link to="/character-bios/Wade">Fred II</Link> gets out of the car and fires his silenced pistol at <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, who dodges the shot. The rounds instead hit the coffee-burned Siegie, killing him. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> grabs the fallen Siegie's gun and opens fire on <Link to="/character-bios/Wade">Fred II</Link>, hitting the car but missing him.
+          </p>
+          <p>
+            The other two Siegies drag Scarlett through a door deeper into the ferry. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> attacks the first, giving Scarlett the chance to turn on the one holding her, and both Siegies are thrown down the stairs. <Link to="/character-bios/Wade">Fred II</Link> follows through the doorway, closes it behind him, and cuts the lights, using his weapon's image intensifier to track Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> in the dark.
+          </p>
+          <p>
+            <Link to="/character-bios/Wade">Fred II</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> exchange fire, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> using the guns of the unconscious Siegies, until both run out of ammunition. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> lunges at <Link to="/character-bios/Wade">Fred II</Link>, driving him through a hatch on the side of the ship, then catches his jacket to keep him from falling overboard. In the struggle, <Link to="/character-bios/Wade">Fred II</Link> notices something off about <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' face and tears away the mask, screaming in horror at what lies beneath. He loses his grip and falls backward into the water (Issues #36 and #255).
           </p>
         </section>
 
