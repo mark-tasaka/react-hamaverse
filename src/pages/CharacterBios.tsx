@@ -67,6 +67,8 @@ import DukeImg from './img/portraits/duke.jpg';
 import OlgaImg from './img/portraits/olga.jpg';
 import RaymondImg from './img/portraits/raymond.jpg';
 import RoadblockImg from './img/portraits/roadblock.jpg';
+import CrowtherImg from './img/portraits/crowther.jpg';
+
 
 
 interface Introduced {
@@ -1111,6 +1113,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 22',
       year: '1984',
       month: 'April',
+    },
+  },
+  {
+    name: 'General Crowther',
+    img: CrowtherImg,
+    link: '/character-bios/Crowther',
+    rank: 3,
+    faction: 'Jugglers',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 104,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 104',
+      year: '1990',
+      month: 'September',
     },
   },
 
