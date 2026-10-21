@@ -49,10 +49,10 @@ const Flagg: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Confronting General Crowther</h2>
+          <h2 className="profile-block-title">Confronting <Link to="/character-bios/Crowther">General Crowther</Link></h2>
           <img src={flagg4} alt="General Flagg confronting General Crowther" className="profile-block-img" />
           <p>
-            Major General Crowther* is a member of the Jugglers, a secret cabal of generals within the Pentagon. General Crowther had initiated the court-martial against Lt. Col. <Link to="/character-bios/Hawk">Abernathy</Link> to prevent him from leading the upcoming Special Counter-Terrorist Group Delta, code named G.I. Joe. When <Link to="/character-bios/Hawk">Abernathy</Link> is acquitted, Crowther hires three mercenaries to kill him en route to Fort Holabird. The assassination attempt fails, thanks to the skillful driving of E-4 Lance J. Steinberg (<Link to="/character-bios/Clutch">Clutch</Link>).
+            <Link to="/character-bios/Crowther">Major General Crowther</Link>* is a member of the Jugglers, a secret cabal of generals within the Pentagon. <Link to="/character-bios/Crowther">General Crowther</Link> had initiated the court-martial against Lt. Col. <Link to="/character-bios/Hawk">Abernathy</Link> to prevent him from leading the upcoming Special Counter-Terrorist Group Delta, code named G.I. Joe. When <Link to="/character-bios/Hawk">Abernathy</Link> is acquitted, Crowther hires three mercenaries to kill him en route to Fort Holabird. The assassination attempt fails, thanks to the skillful driving of E-4 Lance J. Steinberg (<Link to="/character-bios/Clutch">Clutch</Link>).
           </p>
           <p>
             General Flagg and Sparks confront Crowther in his office, telling him they know he is part of the secret cabal known as the Jugglers, that he has gone rogue, and that he hired the three mercenaries to kill Lt. Col. <Link to="/character-bios/Hawk">Abernathy</Link>. Flagg presents audio and video evidence of Crowther's dealings with the mercenary Major Bludd, using the leverage to have <Link to="/character-bios/Hawk">Abernathy</Link> assigned to command the newly forming G.I. Joe team (G.I. Joe Declassified #1).
@@ -104,7 +104,7 @@ const Flagg: React.FC = () => {
             Brigadier General Lawrence J. Flagg is a creation of Mr. Hama. In 1992, a figure for <a href="https://www.yojoe.com/action/92/generalflagg.shtml" target="_blank" rel="noopener noreferrer">General Flagg</a> was released, identifying this version of Flagg as the son of the original — James Longstreet Flagg III. To my knowledge, there is no reference to General Flagg's son anywhere in Mr. Hama's ARAH comic.
           </p>
           <p className="profile-notes-footnote">
-            *The Major General featured in G.I. Joe Declassified is never named. I have assumed this officer is General Crowther, based on his connection to both the Jugglers and Major Bludd. In Issue #103, General Crowther hires Major Bludd to travel to Borovia to assassinate <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, in order to prevent him from returning with George Strawhacker.
+            *The Major General featured in G.I. Joe Declassified is never named. I have assumed this officer is <Link to="/character-bios/Crowther">General Crowther</Link>, based on his connection to both the Jugglers and Major Bludd. In Issue #103, <Link to="/character-bios/Crowther">General Crowther</Link> hires Major Bludd to travel to Borovia to assassinate <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, in order to prevent him from returning with George Strawhacker.
           </p>
         </section>
 
