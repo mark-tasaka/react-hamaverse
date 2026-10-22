@@ -68,6 +68,7 @@ import OlgaImg from './img/portraits/olga.jpg';
 import RaymondImg from './img/portraits/raymond.jpg';
 import RoadblockImg from './img/portraits/roadblock.jpg';
 import CrowtherImg from './img/portraits/crowther.jpg';
+import LauraImg from './img/portraits/laura.jpg';
 
 
 
@@ -1093,7 +1094,7 @@ const CHARACTERS: Character[] = [
     status: 'Alive',
     introduced: {
       issueNumber: 203,
-      publisher: 'Marvel',
+      publisher: 'IDW',
       issueLabel: 'Issue 203',
       year: '2014',
       month: 'June',
@@ -1131,6 +1132,22 @@ const CHARACTERS: Character[] = [
       month: 'September',
     },
   },
+  {
+    name: 'Laura',
+    img: LauraImg,
+    link: '/character-bios/Laura',
+    rank: 4,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 266,
+      publisher: 'IDW',
+      issueLabel: 'Issue 266',
+      year: '2019',
+      month: 'August',
+    },
+  }
 
 
 ];
