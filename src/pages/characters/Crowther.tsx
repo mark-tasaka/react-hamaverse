@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import crowther1 from './img/crowther/crowther_1.png';
+import crowther2 from './img/crowther/crowther_2.png';
 
 const Crowther: React.FC = () => {
   return (
@@ -29,6 +30,23 @@ const Crowther: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Flagg">General Flagg</Link> and Sparks confront Crowther in his office, telling him they know he is part of the secret cabal known as the Jugglers, that he has gone rogue, and that he hired the three mercenaries to kill <Link to="/character-bios/Hawk">Lt. Col. Abernathy</Link>. <Link to="/character-bios/Flagg">Flagg</Link> presents audio and video evidence of Crowther's dealings with the mercenary Major Bludd, and uses the leverage to have <Link to="/character-bios/Hawk">Abernathy</Link> assigned to command the newly forming G.I. Joe team (G.I. Joe Declassified #3).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Ambush at Rhein Main AFB</h2>
+          <img src={crowther2} alt="General Crowther and the Jugglers oppose the Strawhacker rescue" className="profile-block-img" />
+          <p className="italics">
+            The <Link to="/character-bios/Baroness">Baroness</Link> shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the head at the Bern Institute in Switzerland (<Link to="/comic-issues/Issue93">Issue #93</Link>), leaving her in a coma with her fate unknown (<Link to="/comic-issues/Issue94">Issue #94</Link>). <Link to="/character-bios/Scarlett">Scarlett</Link> is taken to Midtown Hospital in New York. The doctors do not know when, if ever, she will come out of her coma, or whether she will be able to live a normal life again if she does (Issue #97). Time passes. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> stays by her side, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> remains at the hospital to support his friend. One day, <Link to="/character-bios/Scarlett">Scarlett</Link>'s sister, <Link to="/character-bios/Sioban">Sioban O'Hara</Link>, an attorney-at-law, arrives with a court order to terminate her life-support systems (Issue #101).
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> wants to give his friend a mission to take his mind off the upcoming termination of <Link to="/character-bios/Scarlett">Scarlett</Link>'s life support. He steals the George Strawhacker file from the vault at Fort Leonard. Strawhacker, an agent of an unnamed American intelligence agency, is the fiancé of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' late twin sister and is being held prisoner in a Borovian gulag. <Link to="/character-bios/StormShadow">Storm Shadow</Link> believes that a mission to rescue someone so dear to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> will help him heal, so he infiltrates the Jugglers' chamber inside the Pentagon and threatens them into authorizing the mission. Crowther is the head of the Jugglers.
+          </p>
+          <p>
+            A B-2 stealth bomber flies over Borovia, carrying <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Stalker">Stalker</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes a HALO jump into Borovia (Issue #103). When the B-2 returns to Rhein Main Air Force Base in Frankfurt, Germany, Crowther is waiting with Military Police. The MPs shoot <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> with tranquilizer darts. Just before <Link to="/character-bios/StormShadow">Storm Shadow</Link> loses consciousness, Crowther informs him that he has sent a freelance hit man, Major Bludd, to deal with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> before he can complete his mission. He also lets <Link to="/character-bios/StormShadow">Storm Shadow</Link> know that <Link to="/character-bios/Scarlett">Scarlett</Link> is out of her coma (Issue #104).
+          </p>
+          <p>
+            Crowther has the Domestic Operations Agency take <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> to the Statue of Liberty in New York (Issue #106). The two manage to escape, defeat the DOA thugs, and become fugitives. They are eventually reunited with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> and are cleared of any wrongdoing.
           </p>
         </section>
 
