@@ -13,7 +13,7 @@ const ObakeObaasan: React.FC = () => {
         <h1 className="character-profile-title">Obake Obaasan</h1>
 
         <p className="profile-intro">
-          The <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s aunt, Obake Obaasan (Demon Granny) is the head of the Arashikage clan. A skilled fighter in her own right, she favors a purse filled with bricks as her weapon of choice. At the request of her favorite nephew, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Obake Obaasan takes on <Link to="/character-bios/PalePeony">Pale Peony</Link> as a student, training her in the ways of the Arashikage. She later takes on Dawn Moreno as well, teaching her the ways of the Arashikage.
+          The <Link to="/character-bios/HardMaster">Hard Master</Link>'s widow and <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s aunt, Obake Obaasan (Demon Granny) is the head of the Arashikage clan. A skilled fighter in her own right, she favors a purse filled with bricks as her weapon of choice. At the request of her favorite nephew, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, Obake Obaasan takes on <Link to="/character-bios/PalePeony">Pale Peony</Link> as a student, training her in the ways of the Arashikage. She later takes on <Link to="/character-bios/Dawn">Dawn Moreno</Link> as well, teaching her the ways of the Arashikage.
         </p>
 
         <section className="profile-block">
