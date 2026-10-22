@@ -17,7 +17,7 @@ const Laura: React.FC = () => {
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Header</h2>
+          <h2 className="profile-block-title">Raid on Fort Wadsworth</h2>
           <img src={laura1} alt="Laura 343 leads the raid on Fort Wadsworth" className="profile-block-img" />
           <p>
             Unbeknownst to Cobra, the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> has died, and <Link to="/character-bios/SeanCollins">Sean Collins</Link> has taken his place. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> devises a plan to capture <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and transport him to Springfield, where he will be hooked up to the improved Brainwave Scanner. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> discovers that the Joes have reconstructed the original Fort Wadsworth Pit and that a select team of Joes, including <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, is stationed there. He cares nothing for the casualties on his side and activates his sleeper agents stationed in the houses outside Fort Wadsworth (Issue #266).
@@ -28,7 +28,7 @@ const Laura: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Header</h2>
+          <h2 className="profile-block-title">Guarding the Prisoner</h2>
           <img src={laura2} alt="Laura 343 during the battle for Springfield" className="profile-block-img" />
           <p>
             When Laura 343 arrives in Springfield with the captured <Link to="/character-bios/SeanCollins">Sean</Link>, <Link to="/character-bios/CobraCommander">Cobra Commander</Link> assigns her to guard him. <Link to="/character-bios/SeanCollins">Sean</Link> is moved to a secret underground area, placed in a prison cell, and restrained in a straitjacket. Laura is stationed outside the cell, heavily armed (Issue #269).
