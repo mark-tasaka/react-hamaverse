@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import laura1 from './img/laura/laura_1.png';
 import laura2 from './img/laura/laura_2.png';
 import laura3 from './img/laura/laura_3.png';
+import laura4 from './img/laura/laura_4.png';
 
 const Laura: React.FC = () => {
   return (
@@ -68,6 +69,17 @@ const Laura: React.FC = () => {
           </p>
           <p>
             In the woods outside the lab, Laura and <Link to="/character-bios/SeanCollins">Sean</Link> encounter <Link to="/character-bios/Wade">Wade Collins</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. <Link to="/character-bios/Wade">Wade</Link> embraces his son. Soon afterward, the group is attacked by Vipers. They defeat the Vipers, but <Link to="/character-bios/Wade">Wade</Link> is wounded. <Link to="/character-bios/Wade">Wade</Link> tells <Link to="/character-bios/SeanCollins">Sean</Link> that he needs to leave with Laura for the W.H.A.L.E. <Link to="/character-bios/SeanCollins">Sean</Link> does not want to leave his father, but <Link to="/character-bios/Wade">Wade</Link> tells him that Laura has sacrificed everything for him and that he needs to get her off the island. <Link to="/character-bios/StormShadow">Storm Shadow</Link> stays with <Link to="/character-bios/Wade">Wade</Link>, while Laura and <Link to="/character-bios/SeanCollins">Sean</Link> depart (Issue #299).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Loss Below Deck</h2>
+          <img src={laura4} alt="Laura 343 aboard the W.H.A.L.E. after Wade's death" className="profile-block-img" />
+          <p className="italics">
+            A series of events unfolds on Cobra Island: the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is revived, the Joes capture <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, and Serpentor Khan sets the timer on Dr. Mindbender's Mutant Virus Bomb. Laura 343, Dawn, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/SeanCollins">Sean</Link>, <Link to="/character-bios/Wade">Wade</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and the captured <Link to="/character-bios/CobraCommander">Cobra Commander</Link> board the W.H.A.L.E. hovercraft. The W.H.A.L.E. races away from Cobra Island as the Mutant Virus Bomb's countdown ticks toward detonation.
+          </p>
+          <p>
+            Laura and <Link to="/character-bios/Wade">Wade</Link> take <Link to="/character-bios/CobraCommander">Cobra Commander</Link> below deck, and Laura covers him with her pistol. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> strikes her, knocks her down, and takes her pistol. <Link to="/character-bios/Wade">Wade</Link> checks on Laura, then rushes toward <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and is shot. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> then flees on a jet sled. When <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/SeanCollins">Sean</Link> reach the lower deck, they find Laura cradling the lifeless body of <Link to="/character-bios/Wade">Wade</Link> (Issue #301).
           </p>
         </section>
 
