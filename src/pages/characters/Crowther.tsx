@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import crowther1 from './img/crowther/crowther_1.png';
 import crowther2 from './img/crowther/crowther_2.png';
+import crowther3 from './img/crowther/crowther_3.png';
 
 const Crowther: React.FC = () => {
   return (
@@ -44,9 +45,21 @@ const Crowther: React.FC = () => {
           </p>
           <p>
             A B-2 stealth bomber flies over Borovia, carrying <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Stalker">Stalker</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> makes a HALO jump into Borovia (Issue #103). When the B-2 returns to Rhein Main Air Force Base in Frankfurt, Germany, Crowther is waiting with Military Police. The MPs shoot <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> with tranquilizer darts. Just before <Link to="/character-bios/StormShadow">Storm Shadow</Link> loses consciousness, Crowther informs him that he has sent a freelance hit man, Major Bludd, to deal with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> before he can complete his mission. He also lets <Link to="/character-bios/StormShadow">Storm Shadow</Link> know that <Link to="/character-bios/Scarlett">Scarlett</Link> is out of her coma (Issue #104).
+            Crowther has the Domestic Operations Agency take <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> to the Statue of Liberty in New York (Issue #106). 
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">A Visit to Scarlett’s Hospital Room</h2>
+          <img src={crowther3} alt="General Crowther confronts Scarlett in her hospital room" className="profile-block-img" />
+          <p>
+            Crowther travels to New York and visits the hospital where <Link to="/character-bios/Scarlett">Scarlett</Link> is staying. <Link to="/character-bios/Hawk">Hawk</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> are talking in her hospital room about <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> parachuting into Borovia when Crowther interrupts. He tells <Link to="/character-bios/Scarlett">Scarlett</Link> that he sent <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> on the mission because <Link to="/character-bios/StormShadow">Storm Shadow</Link> blackmailed him into doing so, and that <Link to="/character-bios/StormShadow">Storm Shadow</Link> insisted on giving <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> a dangerous mission. This upsets <Link to="/character-bios/Scarlett">Scarlett</Link>, who demands to know where <Link to="/character-bios/StormShadow">Storm Shadow</Link> is. Crowther assures her that they have <Link to="/character-bios/StormShadow">Storm Shadow</Link> in captivity in New York (Issue #105).
           </p>
           <p>
-            Crowther has the Domestic Operations Agency take <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> to the Statue of Liberty in New York (Issue #106). The two manage to escape, defeat the DOA thugs, and become fugitives. They are eventually reunited with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> and are cleared of any wrongdoing.
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> escape, defeat the DOA thugs watching them, and become fugitives on the run. Crowther returns to <Link to="/character-bios/Scarlett">Scarlett</Link>'s room and tells her that <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/Stalker">Stalker</Link> have escaped. He believes they are in <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s secret New York base, and he wants to know where it is. <Link to="/character-bios/Scarlett">Scarlett</Link> tells the general that she will take care of this herself.
+          </p>
+          <p>
+            <Link to="/character-bios/Hawk">Hawk</Link> enters the room and asks Crowther to step outside for a private talk, just as <Link to="/character-bios/Sioban">Sioban O'Hara</Link> arrives to visit <Link to="/character-bios/Scarlett">Scarlett</Link>. Outside, <Link to="/character-bios/Hawk">Hawk</Link> slams the general against the wall and demands to know why he is badgering <Link to="/character-bios/Scarlett">Scarlett</Link>. In the meantime, <Link to="/character-bios/Scarlett">Scarlett</Link> ties <Link to="/character-bios/Sioban">Sioban</Link> up, takes her clothes, and escapes the hospital disguised as her (Issue #107).
           </p>
         </section>
 
