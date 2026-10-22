@@ -69,6 +69,7 @@ import RaymondImg from './img/portraits/raymond.jpg';
 import RoadblockImg from './img/portraits/roadblock.jpg';
 import CrowtherImg from './img/portraits/crowther.jpg';
 import LauraImg from './img/portraits/laura.jpg';
+import DawnImg from './img/portraits/dawn.jpg';
 
 
 
@@ -1147,7 +1148,23 @@ const CHARACTERS: Character[] = [
       year: '2019',
       month: 'August',
     },
-  }
+  },
+  {
+    name: 'Dawn Moreno',
+    img: DawnImg,
+    link: '/character-bios/Dawn',
+    rank: 68,
+    faction: 'G.I. Joe',
+    secondaryFaction: 'Arashikage',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 226,
+      publisher: 'IDW',
+      issueLabel: 'Issue 226',
+      year: '2016',
+      month: 'March',
+    },
+  },
 
 
 ];
