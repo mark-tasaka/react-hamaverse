@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import crowther1 from './img/crowther/crowther_1.png';
 import crowther2 from './img/crowther/crowther_2.png';
 import crowther3 from './img/crowther/crowther_3.png';
+import crowther4 from './img/crowther/crowther_4.png';
 
 const Crowther: React.FC = () => {
   return (
@@ -60,6 +61,17 @@ const Crowther: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Hawk">Hawk</Link> enters the room and asks Crowther to step outside for a private talk, just as <Link to="/character-bios/Sioban">Sioban O'Hara</Link> arrives to visit <Link to="/character-bios/Scarlett">Scarlett</Link>. Outside, <Link to="/character-bios/Hawk">Hawk</Link> slams the general against the wall and demands to know why he is badgering <Link to="/character-bios/Scarlett">Scarlett</Link>. In the meantime, <Link to="/character-bios/Scarlett">Scarlett</Link> ties <Link to="/character-bios/Sioban">Sioban</Link> up, takes her clothes, and escapes the hospital disguised as her (Issue #107).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">An Oath to the Constitution</h2>
+          <img src={crowther4} alt="Hawk confronts General Crowther at the National Archives" className="profile-block-img" />
+          <p className="italics">
+            In Borovia, George Strawhacker is killed, and with Strawhacker dead, Major Bludd claims his mission is complete.  The matter of <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> is resolved, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> returns to the States. 
+          </p>
+          <p>
+            <Link to="/character-bios/Hawk">Hawk</Link> meets Crowther at the National Archives in Washington, DC, in front of the U.S. Constitution. <Link to="/character-bios/Hawk">Hawk</Link> shows Crowther a copy of the morning paper, which reports that <Link to="/character-bios/Magda">Magda</Link> is the new Head of State of Borovia. <Link to="/character-bios/Hawk">Hawk</Link> tells Crowther that <Link to="/character-bios/Magda">Magda</Link> knows Strawhacker was sent to the gulag to feed disinformation to the Soviets. She also knows that Crowther sent Major Bludd to kill <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to protect the disinformation plot. <Link to="/character-bios/Hawk">Hawk</Link> reminds Crowther that he swore an oath before God and country to defend the Constitution (Issue #108). Crowther is dismissed from the military for his actions.
           </p>
         </section>
 
