@@ -4,6 +4,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 
 import dawn1 from './img/dawn/dawn_1.png';
+import dawn2 from './img/dawn/dawn_2.png';
 
 const Dawn: React.FC = () => {
   return (
@@ -32,6 +33,17 @@ const Dawn: React.FC = () => {
           </p>
           <p>
             Dr. Mindbender and <Link to="/character-bios/CobraCommander">Cobra Commander</Link> return to the lab, and <Link to="/character-bios/CobraCommander">Cobra Commander</Link> notices that Dawn has escaped. Dr. Mindbender looks at the monitor and discovers that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' memories were implanted in Dawn (Issue #229).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Returning to the Arashikage</h2>
+          <img src={dawn2} alt="Dawn Moreno presents Morning Light to Obake Obaasan" className="profile-block-img" />
+          <p>
+            Dawn travels to New York and steals the legendary Arashikage sword, Morning Light, from the museum (Issue #231). She wanders New York with the stolen sword until <Link to="/character-bios/StormShadow">Storm Shadow</Link> finds her on a rooftop. He tells her that the sword is rightfully his and that it has been kept at the museum for safekeeping. Dawn recognizes <Link to="/character-bios/StormShadow">Storm Shadow</Link> as Tommy and tells him that he saved her life in Vietnam. She also says that she feels she is missing something on her arm. <Link to="/character-bios/StormShadow">Storm Shadow</Link> rolls up his sleeve, shows her the Arashikage tattoo, and tells her, "You are missing this" (Issue #232).
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> takes Dawn to <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>'s toy store in New York's East Village and introduces her to his aunt. Dawn remembers <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> and tells her that she remembers how she received the scar on her Arashikage tattoo during the Obon ceremony. Dawn is then taken to Ellen Bogen's store, where Ellen takes her measurements to make her ninja togs. Dawn gives a formal presentation of Morning Light to <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> and Ellen. She begins training under the three of them, and in addition to learning the Ways of the Arashikage, she will earn her G.E.D. (Issue #233).
           </p>
         </section>
 
