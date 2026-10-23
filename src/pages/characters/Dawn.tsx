@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import dawn1 from './img/dawn/dawn_1.png';
 import dawn2 from './img/dawn/dawn_2.png';
+import dawn3 from './img/dawn/dawn_3.png';
 
 const Dawn: React.FC = () => {
   return (
@@ -44,6 +45,20 @@ const Dawn: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/StormShadow">Storm Shadow</Link> takes Dawn to <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>'s toy store in New York's East Village and introduces her to his aunt. Dawn remembers <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> and tells her that she remembers how she received the scar on her Arashikage tattoo during the Obon ceremony. Dawn is then taken to Ellen Bogen's store, where Ellen takes her measurements to make her ninja togs. Dawn gives a formal presentation of Morning Light to <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> and Ellen. She begins training under the three of them, and in addition to learning the Ways of the Arashikage, she will earn her G.E.D. (Issue #233).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Final Training in Tokyo</h2>
+          <img src={dawn3} alt="Dawn Moreno in Tokyo for the final part of her training" className="profile-block-img" />
+          <p>
+            Dawn travels with <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> to Tokyo for the final part of her training. The two enter an amusement park ride. When the ride car stops, they get out, and <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> leads Dawn through a secret door to a locker room. There, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> opens a locker and gives Dawn her new ninja togs. Dawn dresses and wears them for the first time.
+          </p>
+          <p>
+            <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> then leads Dawn up a hidden stairway to a room of disorienting staircases that run in every direction. She explains that the room is meant to disorient intruders, and that a true Arashikage ninja can see past the illusions.
+          </p>
+          <p>
+            Next, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> takes Dawn to a stage, where the Arashikage ninja perform in front of an audience to earn extra wages. One of the ninja onstage tells Dawn that it is corny, but it pays the bills (Issue #244).
           </p>
         </section>
 
