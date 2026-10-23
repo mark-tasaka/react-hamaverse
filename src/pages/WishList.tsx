@@ -8,6 +8,7 @@ import wishList2 from './img/wishList/wishList_2.png';
 import wishList3 from './img/wishList/wishList_3.png';
 import wishList4 from './img/wishList/wishList_4.png';
 import wishList5 from './img/wishList/wishList_5.png';
+import wishList6 from './img/wishList/wishList_6.png';
 
 const WishList: React.FC = () => {
   return (
@@ -136,6 +137,29 @@ const WishList: React.FC = () => {
           <h3 className="wishlist-subblock-title">Russ the Veteran</h3>
           <p>
             <Link to="/character-bios/Russ">Russ</Link> is the veteran who helped Mutt and Spirit form the armed youth resistance in Millville (Issue #100-102). I would love to know what Russ is up to these days. Is he still in touch with Mutt and Spirit? Is he still mentoring troubled youth? Does he still call Millville home? It would also be wonderful to see what some of those very youth are up to now.
+          </p>
+        </section>
+
+        <section className="wishlist-block">
+          <div className="wishlist-block-media">
+            <img src={wishList6} alt="Sean Collins and Laura 343" />
+          </div>
+          <h2 className="wishlist-block-title">Sean Collins and Laura 343</h2>
+          <p>
+            One of the things that makes ARAH so memorable is the relationship between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>: a love story between a scarred soldier who cannot speak and a strong, independent heroine. Much of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' story is told through the voices of those around him.
+          </p>
+          <p>
+            After the death of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/SeanCollins">Sean Collins</Link> becomes the new <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, suffering similar injuries that scarred his face and damaged his vocal cords. Unlike the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/SeanCollins">Sean</Link> has not had someone like <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, or <Link to="/character-bios/Stalker">Stalker</Link> to tell his story and give voice to the voiceless hero. I felt that the introduction of <Link to="/character-bios/Laura">Laura 343</Link> in the Snake Hunt arc (Issues #266–275) could change that. I loved her return in Issue #287 and how, in the end, she switched sides and freed <Link to="/character-bios/SeanCollins">Sean</Link> from the Brainwave Scanner.
+          </p>
+
+          <h3 className="wishlist-subblock-title">A Voice for Sean</h3>
+          <p>
+            I would love to see <Link to="/character-bios/Laura">Laura</Link> appear in more future issues, perhaps as a love interest for <Link to="/character-bios/SeanCollins">Sean</Link>, much as <Link to="/character-bios/Scarlett">Scarlett</Link> is for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. In my humble opinion, having <Link to="/character-bios/Laura">Laura</Link> give voice to the silent <Link to="/character-bios/SeanCollins">Sean</Link> could help Sean step out from behind the mask and grow into a character with a distinct identity of his own, beyond being the new Snake Eyes.
+          </p>
+
+          <h3 className="wishlist-subblock-title">Laura's Own Story</h3>
+          <p>
+            Like <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Laura">Laura</Link> has room to grow as a character. Her journey as a former Crimson Guard who switches sides mirrors <Link to="/character-bios/Wade">Wade Collins</Link>' journey in many ways. It would be interesting to learn about her life before Cobra and what motivated her to join.
           </p>
         </section>
 
