@@ -74,7 +74,7 @@ const Scarlett: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Header</h2>
+          <h2 className="profile-block-title">Ambush on the Staten Island Ferry</h2>
           <img src={scarlett12} alt="Scarlett and Snake Eyes under attack aboard the Staten Island ferry" className="profile-block-img" />
           <p>
             Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> ride the Staten Island ferry in civilian attire, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> disguised by a rubber mask. A group of four undercover Siegies (Crimson Guards), en route to a training mission, recognize Scarlett. They do not recognize <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> beneath the mask. Their leader, Fred II (<Link to="/character-bios/Wade">Wade Collins</Link>), radios the discovery to his superiors. When <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> steps away to buy food, three of the Siegies surround Scarlett, discreetly draw their guns, and order her to walk slowly back to their car.
