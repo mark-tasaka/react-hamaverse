@@ -64,7 +64,7 @@ const Dawn: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Header</h2>
+          <h2 className="profile-block-title">Snake Eyes Unleashed</h2>
           <img src={dawn4} alt="Dawn Moreno confronts Firefly on top of a moving train" className="profile-block-img" />
           <p>
             While Dawn is performing onstage at the Tokyo amusement park with her fellow ninja, the Red Ninja attack, intent on killing every Arashikage ninja (Issue #245). <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is unleashed inside Dawn, and she relives his memories as she lays waste to the Red Ninja. In the aftermath of the battle, the Tokyo Police seal off the amusement park. Senior Advisor Harada from the Ministry of Defense arrives and takes over the operation from the police.
