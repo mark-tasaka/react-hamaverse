@@ -159,7 +159,7 @@ const WishList: React.FC = () => {
 
           <h3 className="wishlist-subblock-title">Laura's Own Story</h3>
           <p>
-            Like <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Laura">Laura</Link> has room to grow as a character. Her journey as a former Crimson Guard who switches sides mirrors <Link to="/character-bios/Wade">Wade Collins</Link>' journey in many ways. It would be interesting to learn about her life before Cobra and what motivated her to join.
+            I would love to see <Link to="/character-bios/Laura">Laura</Link> developed further as a character. Her journey as a former Crimson Guard who switches sides mirrors <Link to="/character-bios/Wade">Wade Collins</Link>' journey in many ways. It would be interesting to learn about her life before Cobra and what motivated her to join.
           </p>
         </section>
 
