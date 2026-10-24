@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import dawn1 from './img/dawn/dawn_1.png';
 import dawn2 from './img/dawn/dawn_2.png';
 import dawn3 from './img/dawn/dawn_3.png';
+import dawn4 from './img/dawn/dawn_4.png';
 
 const Dawn: React.FC = () => {
   return (
@@ -59,6 +60,41 @@ const Dawn: React.FC = () => {
           </p>
           <p>
             Next, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> takes Dawn to a stage, where the Arashikage ninja perform in front of an audience to earn extra wages. One of the ninja onstage tells Dawn that it is corny, but it pays the bills (Issue #244).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Header</h2>
+          <img src={dawn4} alt="Dawn Moreno confronts Firefly on top of a moving train" className="profile-block-img" />
+          <p>
+            While Dawn is performing onstage at the Tokyo amusement park with her fellow ninja, the Red Ninja attack, intent on killing every Arashikage ninja (Issue #245). <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is unleashed inside Dawn, and she relives his memories as she lays waste to the Red Ninja. In the aftermath of the battle, the Tokyo Police seal off the amusement park. Senior Advisor Harada from the Ministry of Defense arrives and takes over the operation from the police.
+          </p>
+          <p>
+            Harada leads Police Lt. Kondo and Sgt. Imai across the crime scene, where the severed bodies of Red Ninja litter the ground. Harada explains that the ninja responsible was a young woman of exceptional skill, armed with the legendary Morning Light. He then reveals himself to be a ninja.
+          </p>
+          <p>
+            While Harada investigates the amusement park, Dawn, <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>, and Genji hide up in a cell tower. Dawn is reliving <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' memories of Vietnam, the fateful mission that claimed the lives of Ramon and Dickie. Suddenly, Dawn jumps down from the cell tower. <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> realizes that Dawn is no longer herself: <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is in full control of her (Issue #246).
+          </p>
+          <p>
+            Dawn makes her way to a Yakuza hideout, where she acquires firearms. Meanwhile, Harada relays the history of the Arashikage clan to Kondo and Imai. He tells them of the schism that followed the assassination of the <Link to="/character-bios/HardMaster">Hard Master</Link>, the defection of the American-born Tomisaburo (<Link to="/character-bios/StormShadow">Storm Shadow</Link>), and the rumors of an American soldier (<Link to="/character-bios/SnakeEyes">Snake Eyes</Link>) who was accepted into the Arashikage, returned to the States, and joined an elite covert team (G.I. Joe). Harada also describes the formation of the Red Ninja from renegade Arashikage and ninja from rival clans, as well as rumors of a European assassin (<Link to="/character-bios/Firefly">Firefly</Link>) associated with them (Issue #247).
+          </p>
+          <p>
+            Dawn makes her way to the Red Ninja dojo in Tokyo and lays waste to the Red Ninja there. After she slaughters them, <Link to="/character-bios/Firefly">Firefly</Link> appears from the heart of the dojo (Issue #248). Dawn tells <Link to="/character-bios/Firefly">Firefly</Link> that she has a score to settle over the Sword Shrine incident. Shocked, <Link to="/character-bios/Firefly">Firefly</Link> tells her that only two people know of it: an Arashikage ninja and Onihashi's apprentice (<Link to="/character-bios/Zartan">Zartan</Link>). He tells her that now he must kill her, and the two battle. Dawn gains the upper hand, but <Link to="/character-bios/Firefly">Firefly</Link> escapes through a secret door in the floor, and Dawn pursues him (Issue #249).
+          </p>
+          <p>
+            Dawn chases <Link to="/character-bios/Firefly">Firefly</Link> to the top of a moving train. <Link to="/character-bios/StormShadow">Storm Shadow</Link> soon jumps onto the train, with <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Stalker">Stalker</Link> circling overhead in a helicopter. <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells Dawn to step back and let the Joes handle this. He asks her, "Do you remember the sound of the helicopter?" Memories flood Dawn of the encounter between <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> on the roof of a moving train in New York, with the Dragonfly carrying <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/WildBill">Wild Bill</Link>. <Link to="/character-bios/StormShadow">Storm Shadow</Link> explains how <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> saved his life by throwing his weapon away and jumping between the moving cars.
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells Dawn that he can never repay this debt, and that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> taught him the lessons of loyalty, duty, and the need to break the Circle of Revenge. Dawn and <Link to="/character-bios/Firefly">Firefly</Link> continue to battle. <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Zartan">Zartan</Link>, who has disguised himself as the <Link to="/character-bios/SoftMaster">Soft Master</Link>, jump onto the roof of the train. <Link to="/character-bios/Firefly">Firefly</Link> sees the <Link to="/character-bios/SoftMaster">Soft Master</Link> and says in shock, "You're dead!"
+          </p>
+          <p>
+            Dawn gains the upper hand and puts Morning Light to <Link to="/character-bios/Firefly">Firefly</Link>'s neck. She tells him that she is putting her anger behind her and breaking the Circle of Vengeance, and that he no longer needs to fear her retribution or <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>'. <Link to="/character-bios/StormShadow">Storm Shadow</Link> asks Dawn whether it is her or <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> speaking. Dawn answers, "It is both of us."
+          </p>
+          <p>
+            The <Link to="/character-bios/SoftMaster">Soft Master</Link> (<Link to="/character-bios/Zartan">Zartan</Link>) tells <Link to="/character-bios/Firefly">Firefly</Link> that he is going to finish what he started at the railway tracks. He jumps toward <Link to="/character-bios/Firefly">Firefly</Link>, and the two fall into the water. As Dawn is about to jump in to rescue the <Link to="/character-bios/SoftMaster">Soft Master</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link> tells her that it is <Link to="/character-bios/Zartan">Zartan</Link>. The group boards the helicopter.
+          </p>
+          <p>
+            On the helicopter, <Link to="/character-bios/Scarlett">Scarlett</Link> tells Dawn that in two weeks, when she turns 18, a spot on the team will be open for her if she decides to enlist and completes basic training and AIT. <Link to="/character-bios/Stalker">Stalker</Link> introduces Dawn to <Link to="/character-bios/SeanCollins">Sean Collins</Link> and says that there will be two Snake Eyes on the team (Issue #250).
           </p>
         </section>
 
