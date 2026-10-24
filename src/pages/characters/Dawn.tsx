@@ -7,6 +7,7 @@ import dawn1 from './img/dawn/dawn_1.png';
 import dawn2 from './img/dawn/dawn_2.png';
 import dawn3 from './img/dawn/dawn_3.png';
 import dawn4 from './img/dawn/dawn_4.png';
+import dawn5 from './img/dawn/dawn_5.png';
 
 const Dawn: React.FC = () => {
   return (
@@ -95,6 +96,20 @@ const Dawn: React.FC = () => {
           </p>
           <p>
             On the helicopter, <Link to="/character-bios/Scarlett">Scarlett</Link> tells Dawn that in two weeks, when she turns 18, a spot on the team will be open for her if she decides to enlist and completes basic training and AIT. <Link to="/character-bios/Stalker">Stalker</Link> introduces Dawn to <Link to="/character-bios/SeanCollins">Sean Collins</Link> and says that there will be two Snake Eyes on the team (Issue #250).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Carrying Snake Eyes’ Feelings for Scarlett</h2>
+          <img src={dawn5} alt="Dawn Moreno in action with G.I. Joe in the Transcarpathian Mountains" className="profile-block-img" />
+          <p>
+            Dawn completes basic training, AIT, and Ranger School, and becomes a member of G.I. Joe. She is part of a team consisting of <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, and Mongoose, battling the Blood Front, a fascist paramilitary group, on board a train in the Transcarpathian Mountains. <Link to="/character-bios/WildBill">Wild Bill</Link>, Lift Ticket, and <Link to="/character-bios/Roadblock">Roadblock</Link> provide support from the Tomahawk flying overhead.
+          </p>
+          <p>
+            Throughout the firefight, flashbacks of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' memories flood Dawn: being wounded and carried by <Link to="/character-bios/StormShadow">Storm Shadow</Link> to the Huey in Vietnam, the helicopter accident in which <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rescued <Link to="/character-bios/Scarlett">Scarlett</Link> at the cost of his face and voice, and the Staten Island ferry ride with <Link to="/character-bios/Scarlett">Scarlett</Link>.
+          </p>
+          <p>
+            In the aftermath of the battle, <Link to="/character-bios/Scarlett">Scarlett</Link> sees that Dawn is visibly upset. She takes Dawn aside and asks if she would like to talk in private (Issue #291). Dawn tells <Link to="/character-bios/Scarlett">Scarlett</Link> that during times of stress, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' memories assert themselves. She tells <Link to="/character-bios/Scarlett">Scarlett</Link> of her wish to capture Dr. Mindbender's Brainwave Scanner and rid herself of these memories. Dawn confesses that she is experiencing <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' feelings for <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #292).
           </p>
         </section>
 
