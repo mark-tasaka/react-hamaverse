@@ -8,6 +8,7 @@ import wildBill2 from './img/wildBill/wildBill_2.png';
 import wildBill3 from './img/wildBill/wildBill_3.png';
 import wildBill4 from './img/wildBill/wildBill_4.png';
 import wildBill5 from './img/wildBill/wildBill_5.png';
+import wildBill6 from './img/wildBill/wildBill_6.png';
 
 const WildBill: React.FC = () => {
   return (
@@ -66,6 +67,17 @@ const WildBill: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Roadblock">Roadblock</Link> opens up with the Tomahawk's .50-cal, securing the landing pad.  The helicopter lands and the crew disembarks. Lifeline treats Wild Bill's wounds, and Lift Ticket asks whether he can walk and shoot. Just then, a Red Shadow armed with a submachine gun sneaks forward and takes aim. Wild Bill draws his six-shooter and shoots him. He blows the smoke from the muzzle and says, "That answers one of your questions. We'll have to see about the other one" (Issue #189).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">A Six-Shooter Stops the Blue Ninja</h2>
+          <img src={wildBill6} alt="Wild Bill aboard the Tomahawk with the Blue Ninja" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> are attacked by Blue Ninja cyborgs at their cabin in the High Sierras. They defeat the Blue Ninja, cutting them to pieces (Issue #303). The Pit is called to retrieve the remains, and the Tomahawk arrives, carrying Mainframe, Airtight, and Black Hat. Wild Bill and Lift Ticket pilot the Tomahawk.
+          </p>
+          <p>
+            While the pieces of the Blue Ninja are being transported back to the Pit, the components activate and attack. Mainframe is grabbed by one of the Blue Ninja's cables, while Black Hat is nearly thrown out of the helicopter. Fortunately, Airtight grabs her before she goes out. Wild Bill emerges from the cockpit with his trusty six-shooter, opens fire, and disables the attacking Blue Ninja. He then tells the crew, "Get to work deactivating and securing the remaining Blue Ninja parts! We don't need any more surprises now, do we?" (Issue #304).
           </p>
         </section>
 
