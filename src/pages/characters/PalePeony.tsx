@@ -62,7 +62,7 @@ const PalePeony: React.FC = () => {
           </p>
         </section>
 
-                <section className="profile-block">
+        <section className="profile-block">
           <h2 className="profile-block-title">Former Emirate of Benzheen</h2>
           <img src={palePeony4} alt="Pale Peony in the Former Emirate of Benzheen" className="profile-block-img" />
           <p>
@@ -106,10 +106,10 @@ const PalePeony: React.FC = () => {
             Inside, they encounter a group of masked gunmen. After defeating them and removing their masks, the women discover they're actually Revanche cyborgs. Armed with this knowledge, they flee to their safe house, where they have access to secure communications. Outside, they spot more cyborgs disguised as businessmen, but manage to slip inside undetected. From within, they contact the Pit, presenting the severed head of a Revanche cyborg as proof of the factory's activities (Issue #194).
           </p>
           <p>
-            The pair make it to the airport, where they're ambushed by more Revanche cyborgs and Pale Peony is shot (Issue #195). They board their flight and land in Tristel, only for a security team to board the aircraft — forcing the two to escape through the luggage compartment. Driving a baggage tug across the tarmac, <Link to="/character-bios/Jinx">Jinx</Link> spots a man in a three-piece suit waving them down; he reveals the Arashikage tattoo on his right forearm, and together, he and <Link to="/character-bios/Jinx">Jinx</Link> help the wounded Pale Peony into the back of a car (Issue #196).
+            The pair make it to the airport, where they're ambushed by more Revanche cyborgs and Pale Peony is shot (Issue #195). They board their flight and land in Tristel, only for a security team to board the aircraft — forcing the two to escape through the luggage compartment. Driving a baggage tug across the tarmac, <Link to="/character-bios/Jinx">Jinx</Link> spots a <Link to="/character-bios/Unnamed">man</Link> in a three-piece suit waving them down; <Link to="/character-bios/Unnamed">he</Link> reveals the Arashikage tattoo on his right forearm, and together, he and <Link to="/character-bios/Jinx">Jinx</Link> help the wounded Pale Peony into the back of a car (Issue #196).
           </p>
           <p>
-            Pale Peony receives medical care, and the man escorts them to the train station, arranging a flight home from Aviano Air Base. As the train departs, he waves and calls out, "The Arashikage clan never forgets its own." The two women turn to thank each other for reaching out to him — only to realize neither of them had (Issue #198).
+            Pale Peony receives medical care, and the <Link to="/character-bios/Unnamed">man</Link> escorts them to the train station, arranging a flight home from Aviano Air Base. As the train departs, <Link to="/character-bios/Unnamed">he</Link> waves and calls out, "The Arashikage clan never forgets its own." The two women turn to thank each other for reaching out to him — only to realize neither of them had (Issue #198).
           </p>
         </section>
 
