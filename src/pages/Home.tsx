@@ -25,9 +25,9 @@ function Home() {
 
         <div className="update-log">
           <h2 className="update-log-title">Update Log</h2>
-          <p className="update-log-date">October 23, 2026</p>
+          <p className="update-log-date">October 25, 2026</p>
           <p className="update-log-entry">
-            The character bios for <Link to="/character-bios/Crowther">General Crowther</Link>,  <Link to="/character-bios/Laura">Laura 343</Link> and <Link to="/character-bios/Dawn">Dawn Moreno</Link> have been added.  As well, new sections have been added to <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/WishList">My ARAH Wish List</Link>.
+            The character bio for <Link to="/character-bios/Unnamed">Unnamed Arashikage Ninja</Link> added.  New sections added to <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Dawn">Dawn Moreno</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SeanCollins">Sean Collins</Link> and <Link to="/character-bios/WildBill">Wild Bill</Link> have been added.  As well, minor updates to <Link to="/WishList">My ARAH Wish List</Link>.
           </p>
 
           <div className="btn-row">

@@ -144,7 +144,7 @@ const WishList: React.FC = () => {
           <div className="wishlist-block-media">
             <img src={wishList6} alt="Sean Collins and Laura 343" />
           </div>
-          <h2 className="wishlist-block-title">Sean Collins and Laura 343</h2>
+          <h2 className="wishlist-block-title">Sean Collins and Laura</h2>
           <p>
             One of the things that makes ARAH so memorable is the relationship between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>: a love story between a scarred soldier who cannot speak and a strong, independent heroine. Much of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' story is told through the voices of those around him.
           </p>

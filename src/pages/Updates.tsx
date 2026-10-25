@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
 
+      <p className="update-log-date">October 23, 2026</p>
+      <p className="update-log-entry">
+        The character bios for <Link to="/character-bios/Crowther">General Crowther</Link>,  <Link to="/character-bios/Laura">Laura 343</Link> and <Link to="/character-bios/Dawn">Dawn Moreno</Link> have been added.  As well, new sections have been added to <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/WishList">My ARAH Wish List</Link>.
+      </p>
+      
       <p className="update-log-date">October 20, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/Raymond">Raymond</Link> and <Link to="/character-bios/Roadblock">Roadblock</Link> have been added.  As well, a new section has been added to <Link to="/character-bios/Duke">Duke</Link>'s character bio.  
