@@ -9,6 +9,7 @@ import dawn3 from './img/dawn/dawn_3.png';
 import dawn4 from './img/dawn/dawn_4.png';
 import dawn5 from './img/dawn/dawn_5.png';
 import dawn6 from './img/dawn/dawn_6.png';
+import dawn7 from './img/dawn/dawn_7.png';
 
 const Dawn: React.FC = () => {
   return (
@@ -134,6 +135,20 @@ const Dawn: React.FC = () => {
           </p>
           <p>
             At the Pit, Dawn learns of her parents' deaths. Heartbroken, she blames herself for visiting them. She says that she is now an orphan, because they were all the family she had. <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> assure her that she still has a family. <Link to="/character-bios/Scarlett">Scarlett</Link> embraces her, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells her that she is an Arashikage now (Issue #307).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Facing Her Parents’ Killer</h2>
+          <img src={dawn7} alt="Dawn Moreno helps the wounded police officer during the battle for Springfield" className="profile-block-img" />
+          <p>
+            Serpentor Khan's force of cyborg mutant zombie soldiers attacks Springfield. The Joes send <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and Dawn to infiltrate Springfield (Issue #308). In the midst of the battle, Dawn comes across the police officer who killed her parents. He is trapped inside a damaged police car. The officer recognizes Dawn and tells her that he did not mean to kill her parents: her mother was reaching for the glove compartment, and he thought she was reaching for a weapon.
+          </p>
+          <p>
+            Serpentor's troops attack, and the Joes defeat the enemy. The police car catches fire in the battle. Dawn heads toward the trapped officer, and he dares her to kill him so that he will die before being consumed by the flames (Issue #309). Instead, Dawn runs to an abandoned ambulance and retrieves the Jaws of Life. She uses them to free the officer. The Joes return to the burning wreckage and see Dawn supporting the wounded officer, his arm draped over her shoulders. Dawn tells <Link to="/character-bios/Scarlett">Scarlett</Link>, "I didn't have the heart to watch him burn." <Link to="/character-bios/Scarlett">Scarlett</Link> replies, "Good for you, Dawn!"
+          </p>
+          <p>
+            More of Serpentor's troops arrive and attack. While Dawn is battling the enemy, the officer raises his pistol and says, "That Moreno kid's moral superiority is stuck in my craw... I'll fix her smug behind..." Before he can fire, he is killed in an explosion caused by one of Serpentor's troops (Issue #310).
           </p>
         </section>
 
