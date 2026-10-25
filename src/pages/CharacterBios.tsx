@@ -70,6 +70,7 @@ import RoadblockImg from './img/portraits/roadblock.jpg';
 import CrowtherImg from './img/portraits/crowther.jpg';
 import LauraImg from './img/portraits/laura.jpg';
 import DawnImg from './img/portraits/dawn.jpg';
+import UnnamedImg from './img/portraits/Unnamed.jpg';
 
 
 
@@ -1165,6 +1166,22 @@ const CHARACTERS: Character[] = [
       month: 'March',
     },
   },
+  {
+    name: 'Unnamed Ninja',
+    img: UnnamedImg,
+    link: '/character-bios/Unnamed',
+    rank: 1,
+    faction: 'Arashikage',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 196,
+      publisher: 'IDW',
+      issueLabel: 'Issue 196',
+      year: '2013',
+      month: 'November',
+    },
+  }
 
 
 ];
