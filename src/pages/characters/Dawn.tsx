@@ -138,7 +138,7 @@ const Dawn: React.FC = () => {
           </p>
         </section>
 
-                <section className="profile-block">
+        <section className="profile-block">
           <h2 className="profile-block-title">Facing Her Parents’ Killer</h2>
           <img src={dawn7} alt="Dawn Moreno helps the wounded police officer during the battle for Springfield" className="profile-block-img" />
           <p>

@@ -147,10 +147,10 @@ const Jinx: React.FC = () => {
         </section>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">Revanche Electronics Factory, Ollistan</h2>
-          <img src={jinx10} alt="Jinx and Pale Peony at the Revanche Electronics factory in Ollistan" className="profile-block-img" />
+          <h2 className="profile-block-title">Revanche Electronics Factory, Olliestan</h2>
+          <img src={jinx10} alt="Jinx and Pale Peony at the Revanche Electronics factory in Olliestan" className="profile-block-img" />
           <p>
-            Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> find work at a Revanche Electronics factory in Lauhar, Ollistan. The factory's lecherous manager takes notice of the two and summons them to his office, offering promotions in exchange for certain favors. Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> beat him senseless instead, forcing him to reveal how to access the factory's secret area (Issue #193).
+            Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> find work at a Revanche Electronics factory in Lauhar, Olliestan. The factory's lecherous manager takes notice of the two and summons them to his office, offering promotions in exchange for certain favors. Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> beat him senseless instead, forcing him to reveal how to access the factory's secret area (Issue #193).
           </p>
           <p>
             Inside, they encounter a group of masked gunmen. After defeating the gunmen and removing their masks, the women discover they're actually Revanche cyborgs. Armed with this knowledge, they flee to their safe house, where they have access to secure communications. Outside, they spot more cyborgs disguised as businessmen, but manage to enter their safe house. There they contact the Pit, presenting the severed head of a Revanche cyborg as proof of the the factory's activities (Issue #194).
@@ -167,7 +167,7 @@ const Jinx: React.FC = () => {
           <h2 className="profile-block-title">Returning to the Pit in Style</h2>
           <img src={jinx11} alt="Jinx and Pale Peony returning to the Pit" className="profile-block-img" />
           <p>
-            Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> return to the Pit in style, arriving in a red convertible. Once they reach the lower levels, they brief <Link to="/character-bios/Hawk">Hawk</Link> on everything they uncovered in Ollistan (Issue #201).
+            Jinx and <Link to="/character-bios/PalePeony">Pale Peony</Link> return to the Pit in style, arriving in a red convertible. Once they reach the lower levels, they brief <Link to="/character-bios/Hawk">Hawk</Link> on everything they uncovered in Olliestan (Issue #201).
           </p>
         </section>
 

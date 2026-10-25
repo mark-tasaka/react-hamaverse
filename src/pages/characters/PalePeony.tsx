@@ -98,9 +98,9 @@ const PalePeony: React.FC = () => {
 
                 <section className="profile-block">
           <h2 className="profile-block-title">"The Arashikage clan never forgets its own"</h2>
-          <img src={palePeony6} alt="Pale Peony's mission to Ollistan" className="profile-block-img" />
+          <img src={palePeony6} alt="Pale Peony's mission to Olliestan" className="profile-block-img" />
           <p>
-            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> find work at a Revanche Electronics factory in Lauhar, Ollistan. The factory's lecherous manager takes notice of the two and summons them to his office, offering promotions in exchange for certain favors. Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> beat him senseless instead, forcing him to reveal how to access the factory's secret area (Issue #193).
+            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> find work at a Revanche Electronics factory in Lauhar, Olliestan. The factory's lecherous manager takes notice of the two and summons them to his office, offering promotions in exchange for certain favors. Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> beat him senseless instead, forcing him to reveal how to access the factory's secret area (Issue #193).
           </p>
           <p>
             Inside, they encounter a group of masked gunmen. After defeating them and removing their masks, the women discover they're actually Revanche cyborgs. Armed with this knowledge, they flee to their safe house, where they have access to secure communications. Outside, they spot more cyborgs disguised as businessmen, but manage to slip inside undetected. From within, they contact the Pit, presenting the severed head of a Revanche cyborg as proof of the factory's activities (Issue #194).
@@ -117,7 +117,7 @@ const PalePeony: React.FC = () => {
           <h2 className="profile-block-title">Returning to the Pit in Style</h2>
           <img src={palePeony7} alt="Pale Peony and Jinx returning to the Pit" className="profile-block-img" />
           <p>
-            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> return to the Pit in style, arriving in a red convertible. Once they reach the lower levels, they brief <Link to="/character-bios/Hawk">Hawk</Link> on everything they uncovered in Ollistan (Issue #201).
+            Pale Peony and <Link to="/character-bios/Jinx">Jinx</Link> return to the Pit in style, arriving in a red convertible. Once they reach the lower levels, they brief <Link to="/character-bios/Hawk">Hawk</Link> on everything they uncovered in Olliestan (Issue #201).
           </p>
         </section>
 
