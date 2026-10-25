@@ -8,6 +8,7 @@ import dawn2 from './img/dawn/dawn_2.png';
 import dawn3 from './img/dawn/dawn_3.png';
 import dawn4 from './img/dawn/dawn_4.png';
 import dawn5 from './img/dawn/dawn_5.png';
+import dawn6 from './img/dawn/dawn_6.png';
 
 const Dawn: React.FC = () => {
   return (
@@ -110,6 +111,29 @@ const Dawn: React.FC = () => {
           </p>
           <p>
             In the aftermath of the battle, <Link to="/character-bios/Scarlett">Scarlett</Link> sees that Dawn is visibly upset. She takes Dawn aside and asks if she would like to talk in private (Issue #291). Dawn tells <Link to="/character-bios/Scarlett">Scarlett</Link> that during times of stress, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' memories assert themselves. She tells <Link to="/character-bios/Scarlett">Scarlett</Link> of her wish to capture Dr. Mindbender's Brainwave Scanner and rid herself of these memories. Dawn confesses that she is experiencing <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' feelings for <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #292).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">A Visit to Her Parents</h2>
+          <img src={dawn6} alt="Dawn Moreno with her parents in Springfield" className="profile-block-img" />
+          <p>
+            Dawn is sent on a mission to infiltrate the Cobra town of Springfield and visits her parents' home in the middle of the night. Her parents, Oscar and Elena, are happy to see her, and the three embrace. Dawn stays in her old bedroom upstairs and keeps her infiltration activities secret from her parents because of their loyalty to Cobra (Issue #303).
+          </p>
+          <p>
+            One evening, from her bedroom, Dawn spots their neighbor, Fred 23, dressed in his Crimson Guard uniform and armed, heading to the front door. Dawn's parents answer. Fred 23 says he suspects Dawn is with them and that it would be best if they turned her over. To prevent Fred 23 from reporting to Cobra, Dawn's parents knock him out.
+          </p>
+          <p>
+            Dawn heads down the stairs and asks, "What have you done?" Her father says they will not turn her away. Her mother says they need to leave Springfield (Issue #305).
+          </p>
+          <p>
+            While leaving Springfield in their car, Dawn's parents are stopped by a Springfield police officer, supported by Cobra troopers. The officer notices the luggage in the car and asks where they are going. Dawn's father says they are visiting his sister, who is ill, in Phoenix. The officer presses on, asking whether this has anything to do with Dawn. Her father lies, saying they have not seen her in two years.
+          </p>
+          <p>
+            Dawn's mother reaches for the glove box and says she has a letter from her sister-in-law's doctor. The officer panics, believing she is about to grab a gun from the glove compartment. He and the Cobra troopers open fire, killing Dawn's parents (Issue #306).
+          </p>
+          <p>
+            At the Pit, Dawn learns of her parents' deaths. Heartbroken, she blames herself for visiting them. She says that she is now an orphan, because they were all the family she had. <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> assure her that she still has a family. <Link to="/character-bios/Scarlett">Scarlett</Link> embraces her, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> tells her that she is an Arashikage now (Issue #307).
           </p>
         </section>
 
