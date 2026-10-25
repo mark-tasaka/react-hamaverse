@@ -10,6 +10,7 @@ import sean4 from './img/sean/sean_4.png';
 import sean5 from './img/sean/sean_5.png';
 import sean6 from './img/sean/sean_6.png';
 import sean7 from './img/sean/sean_7.png';
+import sean8 from './img/sean/sean_8.png';
 
 const SeanCollins: React.FC = () => {
   return (
@@ -119,6 +120,17 @@ const SeanCollins: React.FC = () => {
           </p>
           <p>
             To keep up the illusion that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is still alive, <Link to="/character-bios/Scarlett">Scarlett</Link> and Sean — disguised as <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> — carry on the activities the couple once shared: visiting the cabin in the High Sierras, riding the Staten Island Ferry, and more. These moments deeply affect <Link to="/character-bios/Scarlett">Scarlett</Link>, stirring memories of the lover she lost (Issue #217).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">The Thirteen Esoteric Finger-Knots</h2>
+          <img src={sean8} alt="Sean Collins meets the Arashikage emissary" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and Sean are at a former Cobra temporary base when an unidentified Arashikage ninja arrives. Sean throws his Fairbairn-Sykes commando dagger at the man, who catches it. Sean is about to draw his sword when <Link to="/character-bios/Jinx">Jinx</Link> tells him that this is the man who saved <Link to="/character-bios/PalePeony">Pale Peony</Link> in Trieste. The stranger reveals his Arashikage tattoo and returns Sean's dagger.
+          </p>
+          <p>
+            The emissary says that he has come on behalf of "Granny" (<Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>) to impart the thirteen esoteric finger-knots inscribed on the Secret Scroll of the Arashikage, and he produces the scroll (Issue #226). A few days later, Sean and the emissary are in the woods, where he passes the techniques on to Sean (Issue #227).
           </p>
         </section>
 
