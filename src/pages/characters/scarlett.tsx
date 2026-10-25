@@ -15,6 +15,7 @@ import scarlett9 from './img/scarlett/scarlett-9.png';
 import scarlett10 from './img/scarlett/scarlett-10.png';
 import scarlett11 from './img/scarlett/scarlett-11.png';
 import scarlett12 from './img/scarlett/scarlett-12.png';
+import scarlett13 from './img/scarlett/scarlett-13.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -74,6 +75,20 @@ const Scarlett: React.FC = () => {
         </section>
 
                 <section className="profile-block">
+          <h2 className="profile-block-title">Fight on a Moving Train</h2>
+          <img src={scarlett13} alt="Scarlett and Wild Bill in the Dragonfly searching for Snake Eyes and Storm Shadow" className="profile-block-img" />
+          <p>
+            At the Pit, Scarlett intercepts a police call reporting a fight between <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. <Link to="/character-bios/Hawk">Hawk</Link> dispatches the Dragonfly and the VAMP to find the two. The Dragonfly's role is aerial reconnaissance, with <Link to="/character-bios/WildBill">Wild Bill</Link> and Scarlett aboard, while <Link to="/character-bios/Hawk">Hawk</Link>, <Link to="/character-bios/Clutch">Clutch</Link>, and <Link to="/character-bios/Stalker">Stalker</Link> crew the VAMP.
+          </p>
+          <p>
+            From the Dragonfly, Scarlett spots <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> battling on top of a moving train, and the Dragonfly circles overhead. <Link to="/character-bios/StormShadow">Storm Shadow</Link> has his back to the front of the train and does not see the tunnel ahead. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> drops his weapon and jumps back between the moving train cars, causing <Link to="/character-bios/StormShadow">Storm Shadow</Link> to do the same. This saves <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s life.
+          </p>
+          <p>
+            The Dragonfly lands, and Scarlett and <Link to="/character-bios/WildBill">Wild Bill</Link> run toward the now-stopped train. She finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> sitting between the cars and asks where <Link to="/character-bios/StormShadow">Storm Shadow</Link> is. She pauses, looks at her silent companion, and says, "Why do I bother asking... you never answer." (Issues <Link to="/comic-issues/Issue27">#27</Link> and #250).
+          </p>
+        </section>
+
+        <section className="profile-block">
           <h2 className="profile-block-title">Ambush on the Staten Island Ferry</h2>
           <img src={scarlett12} alt="Scarlett and Snake Eyes under attack aboard the Staten Island ferry" className="profile-block-img" />
           <p>
