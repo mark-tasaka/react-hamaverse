@@ -125,7 +125,7 @@ const Dawn: React.FC = () => {
             One evening, from her bedroom, Dawn spots their neighbor, <Link to="/character-bios/Fred23">Fred 23</Link>, dressed in his Crimson Guard uniform and armed, heading to the front door. Dawn's parents answer. <Link to="/character-bios/Fred23">Fred 23</Link> says he suspects Dawn is with them and that it would be best if they turned her over. To prevent <Link to="/character-bios/Fred23">Fred 23</Link> from reporting to Cobra, Dawn's parents knock him out.
           </p>
           <p>
-            Dawn heads down the stairs and asks, "What have you done?" Her father says they will not turn her away. Her mother says they need to leave Springfield (Issue #305).
+            Dawn heads down the stairs and asks, "What have you done?" Her father says they will not turn her in. Her mother says they need to leave Springfield (Issue #305).
           </p>
           <p>
             While leaving Springfield in their car, Dawn's parents are stopped by a Springfield police officer, supported by Cobra troopers. The officer notices the luggage in the car and asks where they are going. Dawn's father says they are visiting his sister, who is ill, in Phoenix. The officer presses on, asking whether this has anything to do with Dawn. Her father lies, saying they have not seen her in two years.
