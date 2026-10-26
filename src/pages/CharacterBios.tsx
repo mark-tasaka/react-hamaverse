@@ -70,7 +70,7 @@ import RoadblockImg from './img/portraits/roadblock.jpg';
 import CrowtherImg from './img/portraits/crowther.jpg';
 import LauraImg from './img/portraits/laura.jpg';
 import DawnImg from './img/portraits/dawn.jpg';
-import UnnamedImg from './img/portraits/Unnamed.jpg';
+import UnnamedImg from './img/portraits/unnamed.jpg';
 import Fred23Img from './img/portraits/fred23.jpg';
 
 

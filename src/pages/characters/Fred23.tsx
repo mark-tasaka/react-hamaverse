@@ -10,7 +10,7 @@ const Fred23: React.FC = () => {
   return (
     <main className="character-profile-page">
       <div className="container">
-        <h1 className="character-profile-title">Fred 23 (Crimson Guard)</h1>
+        <h1 className="character-profile-title">Fred XXIII (Crimson Guard)</h1>
 
         <p className="profile-intro">
           The Fred series of Crimson Guard is the most common Siegie series. Every member of the series undergoes plastic surgery to look like every other Fred in that series. Fred 23 was the plant manager of the Cobra-occupied town of Melville. Years later, he becomes the Morenos' neighbor in Springfield.

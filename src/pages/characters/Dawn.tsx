@@ -122,7 +122,7 @@ const Dawn: React.FC = () => {
             Dawn is sent on a mission to infiltrate the Cobra town of Springfield and visits her parents' home in the middle of the night. Her parents, Oscar and Elena, are happy to see her, and the three embrace. Dawn stays in her old bedroom upstairs and keeps her infiltration activities secret from her parents because of their loyalty to Cobra (Issue #303).
           </p>
           <p>
-            One evening, from her bedroom, Dawn spots their neighbor, Fred 23, dressed in his Crimson Guard uniform and armed, heading to the front door. Dawn's parents answer. Fred 23 says he suspects Dawn is with them and that it would be best if they turned her over. To prevent Fred 23 from reporting to Cobra, Dawn's parents knock him out.
+            One evening, from her bedroom, Dawn spots their neighbor, <Link to="/character-bios/Fred23">Fred 23</Link>, dressed in his Crimson Guard uniform and armed, heading to the front door. Dawn's parents answer. <Link to="/character-bios/Fred23">Fred 23</Link> says he suspects Dawn is with them and that it would be best if they turned her over. To prevent <Link to="/character-bios/Fred23">Fred 23</Link> from reporting to Cobra, Dawn's parents knock him out.
           </p>
           <p>
             Dawn heads down the stairs and asks, "What have you done?" Her father says they will not turn her away. Her mother says they need to leave Springfield (Issue #305).
