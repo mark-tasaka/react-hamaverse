@@ -71,6 +71,7 @@ import CrowtherImg from './img/portraits/crowther.jpg';
 import LauraImg from './img/portraits/laura.jpg';
 import DawnImg from './img/portraits/dawn.jpg';
 import UnnamedImg from './img/portraits/Unnamed.jpg';
+import Fred23Img from './img/portraits/fred23.jpg';
 
 
 
@@ -1181,8 +1182,23 @@ const CHARACTERS: Character[] = [
       year: '2013',
       month: 'November',
     },
+  },
+  {
+    name: 'Fred XXIII',
+    img: Fred23Img,
+    link: '/character-bios/Fred23',
+    rank: 1,
+    faction: 'Cobra',
+    secondaryFaction: 'Enemy',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 101,
+      publisher: 'Marvel',
+      issueLabel: 'Issue 101',
+      year: '1990',
+      month: 'June',
+    },
   }
-
 
 ];
 
