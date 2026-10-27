@@ -74,6 +74,7 @@ import Laura from './pages/characters/Laura'
 import Dawn from './pages/characters/Dawn'
 import Unnamed from './pages/characters/Unnamed'
 import Fred23 from './pages/characters/Fred23'
+import Timber from './pages/characters/Timber'
 
 import ComicIssues from './pages/ComicIssues'
 import Issue21 from './pages/issues/Issue21'
@@ -168,6 +169,7 @@ function App() {
           <Route path="/character-bios/Dawn" element={<Dawn />} />
           <Route path="/character-bios/Unnamed" element={<Unnamed />} />
           <Route path="/character-bios/Fred23" element={<Fred23 />} />
+          <Route path="/character-bios/Timber" element={<Timber />} />
           <Route path="/comic-issues" element={<ComicIssues />} />
           <Route path="/comic-issues/Issue21" element={<Issue21 />} />
           <Route path="/comic-issues/Issue26" element={<Issue26 />} />

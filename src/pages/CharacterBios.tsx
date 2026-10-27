@@ -72,6 +72,7 @@ import LauraImg from './img/portraits/laura.jpg';
 import DawnImg from './img/portraits/dawn.jpg';
 import UnnamedImg from './img/portraits/unnamed.jpg';
 import Fred23Img from './img/portraits/fred23.jpg';
+import TimberImg from './img/portraits/timber.jpg';
 
 
 
@@ -1197,6 +1198,22 @@ const CHARACTERS: Character[] = [
       issueLabel: 'Issue 101',
       year: '1990',
       month: 'June',
+    },
+  },
+  {
+    name: 'Timber',
+    img: TimberImg,
+    link: '/character-bios/Timber',
+    rank: 5,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Alive',
+    introduced: {
+      issueNumber: 27,
+      publisher: 'IDW',
+      issueLabel: 'Issue 27',
+      year: '1984',
+      month: 'September',
     },
   }
 
