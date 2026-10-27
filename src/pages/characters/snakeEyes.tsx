@@ -23,6 +23,7 @@ import snakeEyes17 from './img/snakeEyes/snakeEyes_17.png';
 import snakeEyes18 from './img/snakeEyes/snakeEyes_18.png';
 import snakeEyes19 from './img/snakeEyes/snakeEyes_19.png';
 import snakeEyes20 from './img/snakeEyes/snakeEyes_20.png';
+import snakeEyes21 from './img/snakeEyes/snakeEyes_21.png';
 
 const SnakeEyes: React.FC = () => {
   return (
@@ -338,6 +339,17 @@ const SnakeEyes: React.FC = () => {
           </p>
           <p>
             In the lab's back loading bay, they find Snake Eyes battling a force of Vipers and join the fight. After the battle, Snake Eyes approaches <Link to="/character-bios/Scarlett">Scarlett</Link> on the W.H.A.L.E. and removes his mask. <Link to="/character-bios/Scarlett">Scarlett</Link> sees that his wounds to his face and vocal cords have been reversed. Snake Eyes says "Scarlett," with undamaged voice cords. The two embrace, and the original Snake Eyes rejoins the G.I. Joe team, resuming his relationship with <Link to="/character-bios/Scarlett">Scarlett</Link> (Issue #300).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Wade Collin's Funeral: Farewell to a Brother-in-Arms</h2>
+          <img src={snakeEyes21} alt="Snake Eyes aboard the W.H.A.L.E. and at Wade Collins' funeral" className="profile-block-img" />
+          <p>
+            Snake Eyes boards the W.H.A.L.E., and the hovercraft speeds away from Cobra Island as the countdown ticks toward detonation of the Mutant Zombie Virus Bomb. Aboard the W.H.A.L.E. are a wounded <Link to="/character-bios/Wade">Wade Collins</Link>, <Link to="/character-bios/Laura">Laura 343</Link>, and a captured <Link to="/character-bios/CobraCommander">Cobra Commander</Link> (Issue #300). <Link to="/character-bios/Laura">Laura</Link> and <Link to="/character-bios/Wade">Wade</Link> take <Link to="/character-bios/CobraCommander">Cobra Commander</Link> below deck, and <Link to="/character-bios/Laura">Laura</Link> covers him with her pistol. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> strikes her, knocks her down, and takes her pistol. <Link to="/character-bios/Wade">Wade</Link> checks on <Link to="/character-bios/Laura">Laura</Link>, then rushes toward <Link to="/character-bios/CobraCommander">Cobra Commander</Link> and is shot. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> then flees on a jet sled. When <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/SeanCollins">Sean</Link> reach the lower deck, they find <Link to="/character-bios/Laura">Laura</Link> cradling the lifeless body of <Link to="/character-bios/Wade">Wade</Link> (Issue #301).
+          </p>
+          <p>
+            <Link to="/character-bios/Wade">Wade Collins</Link> is given a funeral with full military honors at Arlington National Cemetery, and Snake Eyes is one of the pallbearers. <Link to="/character-bios/Wade">Wade</Link> was one of the Vietnam comrades of Snake Eyes, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Stalker">Stalker</Link>, and his death leaves the three of them as the unit's only survivors (Issue #302).
           </p>
         </section>
 
