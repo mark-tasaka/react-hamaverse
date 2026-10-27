@@ -6,6 +6,8 @@ import './css/CharacterProfile.css';
 import raymond1 from './img/raymond/raymond_1.png';
 import raymond2 from './img/raymond/raymond_2.png';
 import raymond3 from './img/raymond/raymond_3.png';
+import raymond4 from './img/raymond/raymond_4.png';
+import raymond5 from './img/raymond/raymond_5.png';
 
 const Raymond: React.FC = () => {
   return (
@@ -41,6 +43,25 @@ const Raymond: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/StormShadow">Storm Shadow</Link> reflects on the day he shot and killed a squirrel on the other side of the compound wall. When he went to retrieve the arrow, both the arrow and the squirrel were gone. He then shows them the building where the <Link to="/character-bios/HardMaster">Hard Master</Link> was killed with that same arrow, taken from the dead squirrel. <Link to="/character-bios/StormShadow">Storm Shadow</Link> explains that the intended target was <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and that the assassin was <Link to="/character-bios/Zartan">Zartan</Link>, sent by <Link to="/character-bios/CobraCommander">Cobra Commander</Link> (Issue #215).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Older Brother in the Dojo</h2>
+          <img src={raymond4} alt="Raymond welcomes Milo to the Arashikage dojo" className="profile-block-img" />
+          <p>
+            Raymond returns to San Francisco to continue his studies at the Arashikage Martial Arts Studio under Budo. An undisclosed amount of time passes.  The dojo takes on a new student, Milo. Budo gives Milo a tour of the dojo and introduces him to Raymond, saying, "This is Raymond. Raymond was the youngest brother until now. He is now your older brother in the dojo." Raymond smiles, presents Milo with cleaning supplies, and says, "You can start by scrubbing the floor." (Issue #260).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Joining the Arashikage Rescue Mission to Springfield</h2>
+          <img src={raymond5} alt="Raymond joins the Arashikage force in the rescue of Sean Collins" className="profile-block-img" />
+          <p>
+            Unbeknownst to Cobra, the original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> has died, and <Link to="/character-bios/SeanCollins">Sean Collins</Link> has taken his place. <Link to="/character-bios/CobraCommander">Cobra Commander</Link> wants to capture <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, transport him to Springfield, and hook him up to the improved Brainwave Scanner. In the houses outside Fort Wadsworth are Cobra sleeper cells led by Crimson Guardswoman <Link to="/character-bios/Laura">Laura 343</Link>. Cobra infiltrates the Pit using fuel trucks that hide H.I.S.S. tanks and Vipers. <Link to="/character-bios/SeanCollins">Sean Collins</Link> is captured and transported to Springfield (Issue #267).
+          </p>
+          <p>
+            The Joes are not authorized to carry out a rescue mission, so they use civilian vehicles. They make unlikely alliances, forming a combined force of Joes, Oktober Guard, Dreadnoks, and Arashikage. Raymond is part of the Arashikage force, which includes <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, Helix, Milo, and Budo (Issue #269). An epic battle takes place in Springfield, and <Link to="/character-bios/SeanCollins">Sean</Link> is retrieved (Issue #275).
           </p>
         </section>
 
