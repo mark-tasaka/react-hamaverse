@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import raymond1 from './img/raymond/raymond_1.png';
 import raymond2 from './img/raymond/raymond_2.png';
+import raymond3 from './img/raymond/raymond_3.png';
 
 const Raymond: React.FC = () => {
   return (
@@ -29,6 +30,17 @@ const Raymond: React.FC = () => {
           <img src={raymond2} alt="Raymond sparring with Budo at the Arashikage dojo" className="profile-block-img" />
           <p>
             Alpine, Torpedo, and Long Range arrive in San Francisco following a lengthy debriefing at the Pit after their mission to Olliestan. The three Joes enter the Arashikage Martial Arts Studio, where they witness Raymond sparring with Budo. Budo goes to strike Raymond, only to find that he is no longer there. Raymond drops down from the rafters and touches Budo's forehead with a finger, scoring a hit. Impressed, Budo tells Raymond he is ready for finishing school in Japan (Issue #209). Raymond travels to Japan, where he trains under <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> (Issue #210).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Tour of the Old Arashikage Compound</h2>
+          <img src={raymond3} alt="Raymond tours the abandoned Arashikage compound with Storm Shadow and Jinx" className="profile-block-img" />
+          <p>
+            Raymond continues his training in Japan with <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link>. One day, <Link to="/character-bios/StormShadow">Storm Shadow</Link> takes Raymond and <Link to="/character-bios/Jinx">Jinx</Link> to the old Arashikage compound, within walking distance of <Link to="/character-bios/ObakeObaasan">Obake Obaasan</Link>'s house. The compound has long since been abandoned and is derelict. As <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives Raymond and <Link to="/character-bios/Jinx">Jinx</Link> the tour, Raymond recognizes the gate where <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> first entered upon his arrival.
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> reflects on the day he shot and killed a squirrel on the other side of the compound wall. When he went to retrieve the arrow, both the arrow and the squirrel were gone. He then shows them the building where the <Link to="/character-bios/HardMaster">Hard Master</Link> was killed with that same arrow, taken from the dead squirrel. <Link to="/character-bios/StormShadow">Storm Shadow</Link> explains that the intended target was <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and that the assassin was <Link to="/character-bios/Zartan">Zartan</Link>, sent by <Link to="/character-bios/CobraCommander">Cobra Commander</Link> (Issue #215).
           </p>
         </section>
 
