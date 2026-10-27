@@ -310,7 +310,7 @@ const SnakeEyes: React.FC = () => {
             Following the disbandment of G.I. Joe, Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes. <Link to="/character-bios/Duke">Duke</Link> travels to the High Sierras to find them.
           </p>
           <p>
-            While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Duke">Duke</Link> arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
+            While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. Snake Eyes sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Duke">Duke</Link> arrive. <Link to="/character-bios/Timber">Timber</Link> shows up shortly afterward, carrying a sniper rifle in his teeth, claiming the life of the last Red Ninja.
           </p>
           <p>
             On their way to the cabin, <Link to="/character-bios/Duke">Duke</Link> tells <Link to="/character-bios/Scarlett">Scarlett</Link>, "Anabasis is a go" — indicating that G.I. Joe is reactivated (Issue #156).

@@ -194,7 +194,7 @@ const Stalker: React.FC = () => {
             A month after G.I. Joe is disbanded, Stalker, <Link to="/character-bios/Hawk">Hawk</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Duke">Duke</Link>, and Gung-Ho are sent on a final mission (Frontline Issue #1). When the mission is complete, the Joes go their separate ways. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to their cabin in the High Sierras, <Link to="/character-bios/Duke">Duke</Link> is transferred to Fort Benning, Gung-Ho is stationed at Guantanamo Bay, and Stalker is assigned as a recruiting sergeant in Detroit.
           </p>
           <p>
-            A month later, a letter from <Link to="/character-bios/Scarlett">Scarlett</Link> arrives for Stalker at his recruiting post in Detroit. She tells him they are expanding the cabin to make room for guests, hinting that she hopes to have children soon. <Link to="/character-bios/Scarlett">Scarlett</Link> closes with the sad news that Timber has passed, but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
+            A month later, a letter from <Link to="/character-bios/Scarlett">Scarlett</Link> arrives for Stalker at his recruiting post in Detroit. She tells him they are expanding the cabin to make room for guests, hinting that she hopes to have children soon. <Link to="/character-bios/Scarlett">Scarlett</Link> closes with the sad news that <Link to="/character-bios/Timber">Timber</Link> has passed, but not before leaving them one last surprise: he sired a litter of pups (Frontline Issue #4).
           </p>
         </section>
 

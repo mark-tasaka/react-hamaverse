@@ -68,7 +68,7 @@ const Hawk: React.FC = () => {
             <Link to="/character-bios/Stalker">Stalker</Link> is the first member Hawk recruits to G.I. Joe. He in turn recommends <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, whom he'd served alongside in an LRRP unit in Vietnam. Hawk and <Link to="/character-bios/Stalker">Stalker</Link> track <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to the High Sierras, where locals say he lives alone in an isolated cabin, coming down only once a month to collect his disability checks — some believe he's some kind of werewolf.
           </p>
           <p>
-            Hawk and <Link to="/character-bios/Stalker">Stalker</Link> drive up to the cabin and find a giant wolf, Timber, waiting inside. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrives shortly after, carrying rabbits he'd caught and killed with his bare hands. <Link to="/character-bios/Stalker">Stalker</Link> convinces him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
+            Hawk and <Link to="/character-bios/Stalker">Stalker</Link> drive up to the cabin and find a giant wolf, <Link to="/character-bios/Timber">Timber</Link>, waiting inside. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> arrives shortly after, carrying rabbits he'd caught and killed with his bare hands. <Link to="/character-bios/Stalker">Stalker</Link> convinces him to join the team (<Link to="/comic-issues/Issue27">Issue #27</Link>).
           </p>
         </section>
 

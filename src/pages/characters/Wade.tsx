@@ -195,7 +195,7 @@ const Wade: React.FC = () => {
           <h2 className="profile-block-title">Letter from Sean</h2>
           <img src={wade12} alt="Wade receiving a letter from Sean" className="profile-block-img" />
           <p>
-            Wade is living in <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the High Sierras when he receives a delivery of groceries from the store owner in town.  Included with the delivery is a handwritten letter from <Link to="/character-bios/SeanCollins">Sean</Link>. The letter is upbeat, with <Link to="/character-bios/SeanCollins">Sean</Link> talking about his friends at the Motor Pool: <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Dawn">Dawn</Link>, and Moongoose. But Wade reads past the cheerful front his son puts on in the letter, and tells Timber that he needs to go see him (Issue #292).
+            Wade is living in <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' cabin in the High Sierras when he receives a delivery of groceries from the store owner in town.  Included with the delivery is a handwritten letter from <Link to="/character-bios/SeanCollins">Sean</Link>. The letter is upbeat, with <Link to="/character-bios/SeanCollins">Sean</Link> talking about his friends at the Motor Pool: <Link to="/character-bios/Scarlett">Scarlett</Link>, <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Dawn">Dawn</Link>, and Moongoose. But Wade reads past the cheerful front his son puts on in the letter, and tells <Link to="/character-bios/Timber">Timber</Link> that he needs to go see him (Issue #292).
           </p>
         </section>
 
