@@ -7,6 +7,7 @@ import cobraCommander1 from './img/cobraCommander/cobraCommander_1.png';
 import cobraCommander2 from './img/cobraCommander/cobraCommander_2.png';
 import cobraCommander3 from './img/cobraCommander/cobraCommander_3.png';
 import cobraCommander4 from './img/cobraCommander/cobraCommander_4.png';
+import cobraCommander5 from './img/cobraCommander/cobraCommander_5.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -48,6 +49,23 @@ const CobraCommander: React.FC = () => {
           </p>
           <p>
             Cobra Commander's own son, <Link to="/character-bios/Billy">Billy</Link>, becomes part of this underground resistance. He is captured while scrounging for supplies and held in a prison cell. One day, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Zap">Zap</Link> are captured and thrown into the same cell. With their help, the three make their escape. <Link to="/character-bios/Billy">Billy</Link> never reveals who his father truly is — telling the Joes only that his whole family is hiding underground in Springfield as part of the resistance. He stays behind when the Joes depart (Issue #10).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">The Would-Be Assassin: Face to Face with His Son</h2>
+          <img src={cobraCommander5} alt="Cobra Commander faces his son Billy at a Cobra rally in Springfield" className="profile-block-img" />
+          <p>
+            At a Cobra rally in Springfield, Cobra Commander comes face-to-face with a would-be assassin: his own son, <Link to="/character-bios/Billy">Billy</Link>. At the rally, the Cobra youth march, and one of them approaches the Commander with a bouquet of flowers. Meanwhile, Destro recognizes the youth from the stands and rushes toward the Commander.
+          </p>
+          <p>
+            After reading a poorly written poem, the youth draws a gun from the bouquet. <Link to="/character-bios/StormShadow">Storm Shadow</Link>, guarding Cobra Commander, draws his blade at the sight of the gun. Just then, Destro steps between <Link to="/character-bios/StormShadow">Storm Shadow</Link> and the youth.
+          </p>
+          <p>
+            With the youth apprehended, Cobra Commander says he wants to make an example of the assassin. Destro replies, "Is that so... you should take a good look at him first." Cobra Commander looks at the youth and says, "Billy?", recognizing his own son. <Link to="/character-bios/Billy">Billy</Link> says, "Dad?" (Issue #33).
+          </p>
+          <p>
+            To identify <Link to="/character-bios/Billy">Billy</Link>'s accomplices, Cobra Commander hooks him up to the Brainwave Scanner. <Link to="/character-bios/Billy">Billy</Link> resists, concealing their identities by projecting images of Cobra's formation onto the monitor instead. Not wanting the others to learn of his past, Cobra Commander halts the session. <Link to="/character-bios/StormShadow">Storm Shadow</Link> is impressed by <Link to="/character-bios/Billy">Billy</Link>'s fortitude and integrity, and rescues him. The two flee to <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s secret New York water tower base (Issue #39).
           </p>
         </section>
 
