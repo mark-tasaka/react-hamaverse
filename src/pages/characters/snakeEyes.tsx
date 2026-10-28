@@ -24,6 +24,7 @@ import snakeEyes18 from './img/snakeEyes/snakeEyes_18.png';
 import snakeEyes19 from './img/snakeEyes/snakeEyes_19.png';
 import snakeEyes20 from './img/snakeEyes/snakeEyes_20.png';
 import snakeEyes21 from './img/snakeEyes/snakeEyes_21.png';
+import snakeEyes22 from './img/snakeEyes/snakeEyes_22.png';
 
 const SnakeEyes: React.FC = () => {
   return (
@@ -350,6 +351,20 @@ const SnakeEyes: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Wade">Wade Collins</Link> is given a funeral with full military honors at Arlington National Cemetery, and Snake Eyes is one of the pallbearers. <Link to="/character-bios/Wade">Wade</Link> was one of the Vietnam comrades of Snake Eyes, <Link to="/character-bios/StormShadow">Storm Shadow</Link>, and <Link to="/character-bios/Stalker">Stalker</Link>, and his death leaves the three of them as the unit's only survivors (Issue #302).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">A Night Attack at the Cabin</h2>
+          <img src={snakeEyes22} alt="Snake Eyes and Scarlett fight the Blue Ninja at their cabin" className="profile-block-img" />
+          <p>
+            Following <Link to="/character-bios/Wade">Wade Collins</Link>' funeral, Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> return to their cabin in the High Sierras to rekindle their relationship. While they are cooking dinner, the couple receives a visitor: a mother wolf and her pup. The mother wolf drops the pup off. <Link to="/character-bios/Scarlett">Scarlett</Link> says, "It's one of Timber's progeny, bearing a gift or maintaining a pact created years ago... Take him, Snake Eyes." Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> adopt the pup, who becomes the newest <Link to="/character-bios/Timber">Timber</Link> (Issue #302).
+          </p>
+          <p>
+            In the middle of the night, <Link to="/character-bios/Timber">Timber</Link> barks, alerting Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> to a threat outside. Both of them are already aware of it. Six Blue Ninja cyborgs enter the cabin and cut apart the bed, finding it empty. Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> are hiding in the rafters. They catch the Blue Ninja off guard and attack, cutting them down. One of the cyborgs activates kamikaze mode and explodes (Issue #303).
+          </p>
+          <p>
+            Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> use the tomato sauce from an MRE as blood, faking their deaths on the cyborgs' video feed (on the other side, Serpentor Khan and Dr. Mindbender believe they are dead). They call the Pit, and the Tomahawk, piloted by <Link to="/character-bios/WildBill">Wild Bill</Link> and Lift Ticket, soon arrives. The tech team aboard to collect the Blue Ninja parts is Mainframe, Airtight, and Black Hat (Issue #304).
           </p>
         </section>
 
