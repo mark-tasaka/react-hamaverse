@@ -8,6 +8,7 @@ import cobraCommander2 from './img/cobraCommander/cobraCommander_2.png';
 import cobraCommander3 from './img/cobraCommander/cobraCommander_3.png';
 import cobraCommander4 from './img/cobraCommander/cobraCommander_4.png';
 import cobraCommander5 from './img/cobraCommander/cobraCommander_5.png';
+import cobraCommander6 from './img/cobraCommander/cobraCommander_6.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -66,6 +67,29 @@ const CobraCommander: React.FC = () => {
           </p>
           <p>
             To identify <Link to="/character-bios/Billy">Billy</Link>'s accomplices, Cobra Commander hooks him up to the Brainwave Scanner. <Link to="/character-bios/Billy">Billy</Link> resists, concealing their identities by projecting images of Cobra's formation onto the monitor instead. Not wanting the others to learn of his past, Cobra Commander halts the session. <Link to="/character-bios/StormShadow">Storm Shadow</Link> is impressed by <Link to="/character-bios/Billy">Billy</Link>'s fortitude and integrity, and rescues him. The two flee to <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s secret New York water tower base (Issue #39).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Learning of Billy’s Fate: A Father's Regret</h2>
+          <img src={cobraCommander6} alt="Cobra Commander learns what happened to Billy" className="profile-block-img" />
+          <p>
+            In the aftermath of the Battle of Springfield, the G.I. Joe team is suspended, and the Pit is closed and sealed. The Joes are quartered in the Chaplain's Assistant barracks in the meantime (Issue #52). General Ryan, General Hollingsworth, and Admiral Dyson are sent to Fort Wadsworth to investigate the Pit, and <Link to="/character-bios/Hawk">Hawk</Link> gives the flag officers a tour of the underground facilities.
+          </p>
+          <p>
+            While this is happening, Cobra launches a surprise attack on Fort Wadsworth. Cobra Commander, Destro, a small group of Cobra troopers, and a larger unit of B.A.T.s infiltrate the Pit, while the bulk of the Cobra forces battle the Joes on the surface. A firefight takes place both within the Pit and above ground. Admiral Dyson is the first to sacrifice himself, detonating the explosives on an explosive-laden B.A.T. and allowing <Link to="/character-bios/Hawk">Hawk</Link> and the generals to escape. Next, General Ryan sacrifices himself, triggering a massive explosion that allows <Link to="/character-bios/Hawk">Hawk</Link> and General Hollingsworth to escape to the surface before the Pit collapses. Cobra Commander and Destro are believed to have died, buried beneath the Pit (Issue #53).
+          </p>
+          <p>
+            Cobra Commander and Destro survive, trapped deep underground (Issue #54). They find a tunneling vehicle and use it to tunnel to the surface, coming up in a local mall after hours. They steal clothing, wigs, and fake mustaches and beards from one of the stores and make their escape incognito. Cobra Commander uses his skills as a former used-car salesman to create the paperwork to fraudulently obtain a car from a used-car dealership, and the two drive off.
+          </p>
+          <p>
+            Outside the city, the two are stopped by a state trooper because of the temporary license plates on the car. Cobra Commander shows his ID, which contains his real surname. The trooper looks at it and says he has seen his face before. Cobra Commander assures him that this is impossible, as their social circles would never overlap. Then the trooper says, "I've got it... Billy!" Cobra Commander is shocked.
+          </p>
+          <p>
+            The trooper recounts events that took place a year ago: a flaming car wreck outside a railroad crossing with only one survivor, a kid who crawled out of the wreckage. The kid lost his eyes and a leg and suffered third-degree burns, and has been in a coma ever since. In the kid's wallet was a photo of his father, who looks like Cobra Commander minus the mustache and sunglasses.
+          </p>
+          <p>
+            Cobra Commander and Destro travel to the hospital where the comatose <Link to="/character-bios/Billy">Billy</Link> lies. Cobra Commander looks over <Link to="/character-bios/Billy">Billy</Link>'s body and says, "I should have loved him better... How can he ever forgive me?" Destro tells him, "You can't change the past... Let it go. Do something about the future." Destro departs, going his separate way (Issue #55).
           </p>
         </section>
 
