@@ -5,6 +5,7 @@ import './css/CharacterProfile.css';
 
 import timber1 from './img/timber/timber_1.png';
 import timber2 from './img/timber/timber_2.png';
+import timber3 from './img/timber/timber_3.png';
 
 const Timber: React.FC = () => {
   return (
@@ -38,6 +39,17 @@ const Timber: React.FC = () => {
           </p>
           <p>
             Spirit and Airborne, observing from a short distance away, join the battle. Everyone, including Timber, is wounded in the firefight and lies on the ground (Issue #31). The <Link to="/character-bios/SoftMaster">Soft Master</Link> soon arrives and treats the injuries, making no distinction between Joe and Cobra, then sends the three Cobra agents on their way. While making his way back, <Link to="/character-bios/FredBroca">Fred Broca</Link> slips away and returns to the cabin. The <Link to="/character-bios/SoftMaster">Soft Master</Link> shows him the futility of his obsession with revenge. Realizing this, <Link to="/character-bios/FredBroca">Fred</Link> dies, his thirst for vengeance having been the only thing keeping him alive (Issue #32).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Storm Shadow Bonds with Timber</h2>
+          <img src={timber3} alt="Timber bonds with Storm Shadow at the High Sierras cabin" className="profile-block-img" />
+          <p>
+            Following the Battle of Springfield and his break with Cobra, <Link to="/character-bios/StormShadow">Storm Shadow</Link> infiltrates the Pit and finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. He tells his sword brother that while his body has healed, his spirit has not, and asks for a safe place to restore his health and his soul, scarred as it is by revenge. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> gives <Link to="/character-bios/StormShadow">Storm Shadow</Link> the keys to his cabin in the High Sierras, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> departs.
+          </p>
+          <p>
+            A week later, <Link to="/character-bios/StormShadow">Storm Shadow</Link> reaches the cabin, much of it destroyed in an earlier conflict involving <Link to="/character-bios/FredBroca">Fred Broca</Link>, Destro, and <Link to="/character-bios/Firefly">Firefly</Link>. He finds the trapdoor leading to the underground bunker just as Timber appears. The two bond, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> begins his process of healing (Issue #52).
           </p>
         </section>
 
