@@ -6,6 +6,7 @@ import './css/CharacterProfile.css';
 import timber1 from './img/timber/timber_1.png';
 import timber2 from './img/timber/timber_2.png';
 import timber3 from './img/timber/timber_3.png';
+import timber4 from './img/timber/timber_4.png';
 
 const Timber: React.FC = () => {
   return (
@@ -50,6 +51,17 @@ const Timber: React.FC = () => {
           </p>
           <p>
             A week later, <Link to="/character-bios/StormShadow">Storm Shadow</Link> reaches the cabin, much of it destroyed in an earlier conflict involving <Link to="/character-bios/FredBroca">Fred Broca</Link>, Destro, and <Link to="/character-bios/Firefly">Firefly</Link>. He finds the trapdoor leading to the underground bunker just as Timber appears. The two bond, and <Link to="/character-bios/StormShadow">Storm Shadow</Link> begins his process of healing (Issue #52).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Timber Battles the Red Ninja</h2>
+          <img src={timber4} alt="Timber and the Joes battle the Red Ninja in the High Sierras" className="profile-block-img" />
+          <p>
+            In the aftermath of <Link to="/character-bios/Zartan">Zartan</Link>'s attack in San Francisco (Issue #85), <Link to="/character-bios/Jinx">Jinx</Link> believes he will launch further attacks on <Link to="/character-bios/StormShadow">Storm Shadow</Link>. <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> stay in the High Sierras, keeping watch over <Link to="/character-bios/StormShadow">Storm Shadow</Link>. One night, sitting around a campfire, an arrow is fired into a nearby log. They douse the fire, and a wounded Timber returns with a torn scrap of a Red Ninja's outfit in his mouth. <Link to="/character-bios/StormShadow">Storm Shadow</Link> believes <Link to="/character-bios/Zartan">Zartan</Link> is ready to meet him and tells <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> to wait behind. <Link to="/character-bios/StormShadow">Storm Shadow</Link> departs for the waterfall, though it is not <Link to="/character-bios/Zartan">Zartan</Link> waiting for him there, but the Red Ninja driver he had struck with the arrow (Issue #90).
+          </p>
+          <p>
+            <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and Timber are surrounded by Red Ninja while <Link to="/character-bios/StormShadow">Storm Shadow</Link> confronts their leader. The Red Ninja reveal the Arashikage tattoo on their right forearms and say they have come to set things right. A battle ensues. With only three Red Ninja remaining, <Link to="/character-bios/Jinx">Jinx</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> have suffered injuries that prevent them from continuing to fight. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber kill the remaining three. <Link to="/character-bios/Jinx">Jinx</Link> spots <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s body drifting down the river, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber jump in and retrieve the injured <Link to="/character-bios/StormShadow">Storm Shadow</Link> (Issue #91).
           </p>
         </section>
 
