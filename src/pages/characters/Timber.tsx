@@ -10,6 +10,7 @@ import timber4 from './img/timber/timber_4.png';
 import timber5 from './img/timber/timber_5.png';
 import timber6 from './img/timber/timber_6.png';
 import timber7 from './img/timber/timber_7.png';
+import timber8 from './img/timber/timber_8.png';
 
 const Timber: React.FC = () => {
   return (
@@ -95,6 +96,17 @@ const Timber: React.FC = () => {
           </p>
           <p>
             While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Duke">Duke</Link> arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, and the last Red Ninja is killed (Issue #156).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Timber's Grandson: Bonds That Span Generations</h2>
+          <img src={timber8} alt="A wolf greets Snake Eyes and Scarlett in the High Sierras" className="profile-block-img" />
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> take a vacation and return to the High Sierras. The Joes surprise <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> with a new cabin, built in secret during off-hours in the vehicle garage at the Pit. <Link to="/character-bios/Scarlett">Scarlett</Link> is aware of the surprise and says that everyone chipped in for the materials.
+          </p>
+          <p>
+            While hiking up a mountain, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> run into a pack of wolves. A solitary alpha wolf arrives and scares the others away. He then runs toward <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> and licks them. <Link to="/character-bios/Scarlett">Scarlett</Link> says, "He must be one of the grandsons of the original Timber... Amazing how some bonds can span generations" (Issue #192).
           </p>
         </section>
 
