@@ -10,6 +10,7 @@ import cobraCommander4 from './img/cobraCommander/cobraCommander_4.png';
 import cobraCommander5 from './img/cobraCommander/cobraCommander_5.png';
 import cobraCommander6 from './img/cobraCommander/cobraCommander_6.png';
 import cobraCommander7 from './img/cobraCommander/cobraCommander_7.png';
+import cobraCommander8 from './img/cobraCommander/cobraCommander_8.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -105,6 +106,17 @@ const CobraCommander: React.FC = () => {
           </p>
           <p>
             In time, Billy regains his lost memories. He realizes who his father is. He remembers Springfield and his role in the anti-Cobra underground. Billy confronts his father and tells him he despises everything he stands for. Billy tells Cobra Commander he is going his own way and assures his father that he will not betray him. Billy walks out (Issue #61).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Betrayed: Shot in the Back</h2>
+          <img src={cobraCommander8} alt="Fred VII shoots Cobra Commander" className="profile-block-img" />
+          <p>
+            After witnessing <Link to="/character-bios/Billy">Billy</Link> walk out of his life, Cobra Commander decides to turn over a new leaf and try to win his son back. He removes his battle armor and begins to walk out of the lab. <Link to="/character-bios/Fred7">Fred VII</Link> is disgusted with Cobra Commander's decision, as he has given up everything for Cobra. He draws a pistol and shoots Cobra Commander in the back (Issue #61).
+          </p>
+          <p>
+            <Link to="/character-bios/Fred7">Fred VII</Link> and <Link to="/character-bios/Raptor">Raptor</Link> believe Cobra Commander is dead, as he is in a catatonic state and appears lifeless. They bury his body in the woods outside of Denver (Issue #62).
           </p>
         </section>
 
