@@ -11,6 +11,7 @@ import cobraCommander5 from './img/cobraCommander/cobraCommander_5.png';
 import cobraCommander6 from './img/cobraCommander/cobraCommander_6.png';
 import cobraCommander7 from './img/cobraCommander/cobraCommander_7.png';
 import cobraCommander8 from './img/cobraCommander/cobraCommander_8.png';
+import cobraCommander9 from './img/cobraCommander/cobraCommander_9.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -113,10 +114,18 @@ const CobraCommander: React.FC = () => {
           <h2 className="profile-block-title">Betrayed: Shot in the Back</h2>
           <img src={cobraCommander8} alt="Fred VII shoots Cobra Commander" className="profile-block-img" />
           <p>
-            After witnessing <Link to="/character-bios/Billy">Billy</Link> walk out of his life, Cobra Commander decides to turn over a new leaf and try to win his son back. He removes his battle armor and begins to walk out of the lab. <Link to="/character-bios/Fred7">Fred VII</Link> is disgusted with Cobra Commander's decision, as he has given up everything for Cobra. He draws a pistol and shoots Cobra Commander in the back (Issue #61).
+            After witnessing <Link to="/character-bios/Billy">Billy</Link> walk out of his life, Cobra Commander decides to turn over a new leaf and try to win his son back. He removes his battle armor and begins to walk out of the lab. <Link to="/character-bios/Fred7">Fred VII</Link> is disgusted with Cobra Commander's decision, as he has given up everything for Cobra. He draws his pistol and shoots Cobra Commander in the back (Issue #61).
           </p>
           <p>
-            <Link to="/character-bios/Fred7">Fred VII</Link> and <Link to="/character-bios/Raptor">Raptor</Link> believe Cobra Commander is dead, as he is in a catatonic state and appears lifeless. They bury his body in the woods outside of Denver (Issue #62).
+            <Link to="/character-bios/Fred7">Fred VII</Link> and <Link to="/character-bios/Raptor">Raptor</Link> believe Cobra Commander is dead.  Rather, he is in a catatonic state and appears lifeless. They bury his body in the woods outside of Denver (Issue #62).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Back from the Grave</h2>
+          <img src={cobraCommander9} alt="Fred VIII revives Cobra Commander" className="profile-block-img" />
+          <p>
+            Cobra Commander had a policy where his Siegies (Crimson Guard) would spy on each other, with each Siegie believing they were the only one doing the spying. Thus, Fred VIII monitored <Link to="/character-bios/Fred7">Fred VII</Link>. Fred VIII followed <Link to="/character-bios/Fred7">Fred VII</Link> and <Link to="/character-bios/Raptor">Raptor</Link> to the burial site and uncovered Cobra Commander's body when they left. Fred VIII performed CPR on the body, reviving Cobra Commander. He then called the secret Fred hotline and located a Fred series doctor in the Denver area. The doctor removed the bullet from Cobra Commander's back and saw to his full recovery (Issue #98).
           </p>
         </section>
 
