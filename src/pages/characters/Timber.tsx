@@ -8,6 +8,7 @@ import timber2 from './img/timber/timber_2.png';
 import timber3 from './img/timber/timber_3.png';
 import timber4 from './img/timber/timber_4.png';
 import timber5 from './img/timber/timber_5.png';
+import timber6 from './img/timber/timber_6.png';
 
 const Timber: React.FC = () => {
   return (
@@ -74,6 +75,14 @@ const Timber: React.FC = () => {
           </p>
           <p>
             A month later, <Link to="/character-bios/Stalker">Stalker</Link>, now a recruiting sergeant in Detroit, receives a heartfelt letter from <Link to="/character-bios/Scarlett">Scarlett</Link>. The letter concludes with the sad news of Timber's passing. <Link to="/character-bios/Scarlett">Scarlett</Link> writes, "He was old, even in wolf years, but it was still sad to see him go..." (G.I. Joe: Frontline #4).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Timber’s Legacy: The Next Timber</h2>
+          <img src={timber6} alt="A pup becomes the new Timber" className="profile-block-img" />
+          <p>
+            Before his passing, Timber sires a litter of pups. As <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> finish burying Timber, a mother wolf and her pups, Timber's offspring, come by. One of the pups leaves the litter and runs toward <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>. The pup becomes the new Timber, following in his father's paw prints (G.I. Joe: Frontline #4).
           </p>
         </section>
 
