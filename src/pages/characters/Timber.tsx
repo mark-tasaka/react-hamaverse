@@ -9,6 +9,7 @@ import timber3 from './img/timber/timber_3.png';
 import timber4 from './img/timber/timber_4.png';
 import timber5 from './img/timber/timber_5.png';
 import timber6 from './img/timber/timber_6.png';
+import timber7 from './img/timber/timber_7.png';
 
 const Timber: React.FC = () => {
   return (
@@ -83,6 +84,17 @@ const Timber: React.FC = () => {
           <img src={timber6} alt="A pup becomes the new Timber" className="profile-block-img" />
           <p>
             Before his passing, Timber sires a litter of pups. As <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> finish burying Timber, a mother wolf and her pups, Timber's offspring, come by. One of the pups leaves the litter and runs toward <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>. The pup becomes the new Timber, following in his father's paw prints (G.I. Joe: Frontline #4).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">A Wolf with a Sniper Rifle</h2>
+          <img src={timber7} alt="Timber arrives during the Red Ninja attack on the cabin" className="profile-block-img" />
+          <p>
+            Following the disbandment of G.I. Joe, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> retire to his cabin in the High Sierras. Cobra's nefarious activities continue. An undisclosed amount of time passes, and <Link to="/character-bios/Duke">Duke</Link> travels to the High Sierras to find them.
+          </p>
+          <p>
+            While <Link to="/character-bios/Scarlett">Scarlett</Link> is in town, Red Ninja attack the cabin. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> sets the cabin on fire, thwarting the Red Ninja's night vision and burning those still inside. As he battles the three remaining Red Ninja outside, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/Duke">Duke</Link> arrive. Timber shows up shortly afterward, carrying a sniper rifle in his teeth, and the last Red Ninja is killed (Issue #156).
           </p>
         </section>
 
