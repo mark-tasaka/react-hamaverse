@@ -16,6 +16,7 @@ import scarlett10 from './img/scarlett/scarlett-10.png';
 import scarlett11 from './img/scarlett/scarlett-11.png';
 import scarlett12 from './img/scarlett/scarlett-12.png';
 import scarlett13 from './img/scarlett/scarlett-13.png';
+import scarlett14 from './img/scarlett/scarlett-14.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -231,6 +232,20 @@ const Scarlett: React.FC = () => {
         <p>
             The W.H.A.L.E. breaches the lab, where the Joes find <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> battling Vipers. The W.H.A.L.E. opens fire with its heavy machine guns, laying waste to the Vipers. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> boards the hovercraft and removes his mask. He says "Scarlett" — his vocal cords now undamaged — and the two embrace. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rejoins G.I. Joe and resumes his relationship with Scarlett (Issue #300).
         </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">A Night Attack in the High Sierras</h2>
+          <img src={scarlett14} alt="Scarlett and Snake Eyes fight the Blue Ninja at their cabin" className="profile-block-img" />
+          <p>
+            Following <Link to="/character-bios/Wade">Wade Collins</Link>' funeral, Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> return to their cabin in the High Sierras to rekindle their relationship. While they are cooking dinner, the couple receives a visitor: a mother wolf and her pup. The mother wolf drops the pup off. Scarlett says, "It's one of Timber's progeny, bearing a gift or maintaining a pact created years ago... Take him, Snake Eyes." <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Scarlett adopt the pup, who becomes the newest <Link to="/character-bios/Timber">Timber</Link> (Issue #302).
+          </p>
+          <p>
+            In the middle of the night, <Link to="/character-bios/Timber">Timber</Link> barks, alerting Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to a threat outside. Both of them are already aware of it. Six Blue Ninja cyborgs enter the cabin and cut apart the bed, finding it empty. Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> are hiding in the rafters. They catch the Blue Ninja off guard and attack, cutting them down. One of the cyborgs activates kamikaze mode and explodes (Issue #303).
+          </p>
+          <p>
+            Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> use the tomato sauce from an MRE as blood, faking their deaths on the cyborgs' video feed (on the other side, Serpentor Khan and Dr. Mindbender believe they are dead). They call the Pit, and the Tomahawk, piloted by <Link to="/character-bios/WildBill">Wild Bill</Link> and Lift Ticket, soon arrives. The tech team aboard to collect the Blue Ninja parts is Mainframe, Airtight, and Black Hat (Issue #304).
+          </p>
         </section>
 
         <section className="profile-notes">
