@@ -11,6 +11,7 @@ import timber5 from './img/timber/timber_5.png';
 import timber6 from './img/timber/timber_6.png';
 import timber7 from './img/timber/timber_7.png';
 import timber8 from './img/timber/timber_8.png';
+import timber9 from './img/timber/timber_9.png';
 
 const Timber: React.FC = () => {
   return (
@@ -80,8 +81,8 @@ const Timber: React.FC = () => {
           </p>
         </section>
 
-                <section className="profile-block">
-          <h2 className="profile-block-title">Timber’s Legacy: The Next Timber</h2>
+        <section className="profile-block">
+          <h2 className="profile-block-title">Timber’s Legacy: The Next Timber (Timber II)</h2>
           <img src={timber6} alt="A pup becomes the new Timber" className="profile-block-img" />
           <p>
             Before his passing, Timber sires a litter of pups. As <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> finish burying Timber, a mother wolf and her pups, Timber's offspring, come by. One of the pups leaves the litter and runs toward <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>. The pup becomes the new Timber, following in his father's paw prints (G.I. Joe: Frontline #4).
@@ -100,13 +101,24 @@ const Timber: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Timber's Grandson: Bonds That Span Generations</h2>
+          <h2 className="profile-block-title">Timber's Grandson (Timber III): Bonds That Span Generations</h2>
           <img src={timber8} alt="A wolf greets Snake Eyes and Scarlett in the High Sierras" className="profile-block-img" />
           <p>
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> take a vacation and return to the High Sierras. The Joes surprise <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> with a new cabin, built in secret during off-hours in the vehicle garage at the Pit. <Link to="/character-bios/Scarlett">Scarlett</Link> is aware of the surprise and says that everyone chipped in for the materials.
           </p>
           <p>
             While hiking up a mountain, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> run into a pack of wolves. A solitary alpha wolf arrives and scares the others away. He then runs toward <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> and licks them. <Link to="/character-bios/Scarlett">Scarlett</Link> says, "He must be one of the grandsons of the original Timber... Amazing how some bonds can span generations" (Issue #192).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Timber IV: Maintaining a Pact Created Years Ago</h2>
+          <img src={timber9} alt="Snake Eyes and Scarlett adopt a new Timber" className="profile-block-img" />
+          <p>
+            Years pass. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is killed (Issue #213), and a series of events follows, in which <Link to="/character-bios/SeanCollins">Sean Collins</Link> dons the mantle of the Silent Ninja and becomes the new <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Dawn">Dawn Moreno</Link> becomes Snake Eyes III. The original <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is eventually reborn, cloned by Dr. Mindbender from DNA and memories obtained by <Link to="/character-bios/Venom">Dr. Venom</Link> in the original Brainwave Scanner. He is reunited with <Link to="/character-bios/Scarlett">Scarlett</Link>.
+          </p>
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> return to their cabin in the High Sierras to rekindle their relationship. While they are cooking dinner, the couple receives a visitor: a mother wolf and her pup. The mother wolf drops the pup off. <Link to="/character-bios/Scarlett">Scarlett</Link> says, "It's one of Timber's progeny, bearing a gift or maintaining a pact created years ago... Take him, Snake Eyes." <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> adopt the pup, who becomes the newest Timber (Issue #302).
           </p>
         </section>
 
