@@ -7,6 +7,7 @@ import timber1 from './img/timber/timber_1.png';
 import timber2 from './img/timber/timber_2.png';
 import timber3 from './img/timber/timber_3.png';
 import timber4 from './img/timber/timber_4.png';
+import timber5 from './img/timber/timber_5.png';
 
 const Timber: React.FC = () => {
   return (
@@ -62,6 +63,17 @@ const Timber: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and Timber are surrounded by Red Ninja while <Link to="/character-bios/StormShadow">Storm Shadow</Link> confronts their leader. The Red Ninja reveal the Arashikage tattoo on their right forearms and say they have come to set things right. A battle ensues. With only three Red Ninja remaining, <Link to="/character-bios/Jinx">Jinx</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> have suffered injuries that prevent them from continuing to fight. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber kill the remaining three. <Link to="/character-bios/Jinx">Jinx</Link> spots <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s body drifting down the river, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and Timber jump in and retrieve the injured <Link to="/character-bios/StormShadow">Storm Shadow</Link> (Issue #91).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Timber’s Passing</h2>
+          <img src={timber5} alt="Scarlett writes to Stalker about Timber's passing" className="profile-block-img" />
+          <p>
+            A month after G.I. Joe is disbanded, a select team of Joes goes on one last mission, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> are part of it (G.I. Joe: Frontline #1). Afterward, <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> retire to their cabin in the High Sierras.
+          </p>
+          <p>
+            A month later, <Link to="/character-bios/Stalker">Stalker</Link>, now a recruiting sergeant in Detroit, receives a heartfelt letter from <Link to="/character-bios/Scarlett">Scarlett</Link>. The letter concludes with the sad news of Timber's passing. <Link to="/character-bios/Scarlett">Scarlett</Link> writes, "He was old, even in wolf years, but it was still sad to see him go..." (G.I. Joe: Frontline #4).
           </p>
         </section>
 
