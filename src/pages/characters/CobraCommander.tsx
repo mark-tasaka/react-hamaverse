@@ -12,6 +12,7 @@ import cobraCommander6 from './img/cobraCommander/cobraCommander_6.png';
 import cobraCommander7 from './img/cobraCommander/cobraCommander_7.png';
 import cobraCommander8 from './img/cobraCommander/cobraCommander_8.png';
 import cobraCommander9 from './img/cobraCommander/cobraCommander_9.png';
+import cobraCommander10 from './img/cobraCommander/cobraCommander_10.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -126,6 +127,17 @@ const CobraCommander: React.FC = () => {
           <img src={cobraCommander9} alt="Fred VIII revives Cobra Commander" className="profile-block-img" />
           <p>
             Cobra Commander had a policy where his Siegies (Crimson Guard) would spy on each other, with each Siegie believing they were the only one doing the spying. Thus, Fred VIII monitored <Link to="/character-bios/Fred7">Fred VII</Link>. Fred VIII followed <Link to="/character-bios/Fred7">Fred VII</Link> and <Link to="/character-bios/Raptor">Raptor</Link> to the burial site and uncovered Cobra Commander's body when they left. Fred VIII performed CPR on the body, reviving Cobra Commander. He then called the secret Fred hotline and located a Fred series doctor in the Denver area. The doctor removed the bullet from Cobra Commander's back and saw to his full recovery (Issue #98).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Rebuilding the Empire</h2>
+          <img src={cobraCommander10} alt="Cobra Commander rebuilds his organization" className="profile-block-img" />
+          <p>
+            Cobra Commander contacts his Siegies (Crimson Guard) and starts rebuilding his organization, using seed money hidden in the Cayman Islands and the motivation of the Siegies. Starting out with modest accommodations, he quadruples them within a year. In less than two years, he has offices in ten major cities, taking advantage of human corruption. Cobra Commander becomes rich for a second time.
+          </p>
+          <p>
+            Cobra Commander uses his loyal agents on Cobra Island to make "modifications" (plant explosives) for his return. He sets up remote sensors at the site of his grave, waiting for the traitors to return to the scene of the crime (Issue #98).
           </p>
         </section>
 
