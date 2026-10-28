@@ -1204,7 +1204,7 @@ const CHARACTERS: Character[] = [
     name: 'Timber',
     img: TimberImg,
     link: '/character-bios/Timber',
-    rank: 5,
+    rank: 10,
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Alive',
