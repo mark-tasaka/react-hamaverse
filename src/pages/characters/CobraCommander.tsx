@@ -9,6 +9,7 @@ import cobraCommander3 from './img/cobraCommander/cobraCommander_3.png';
 import cobraCommander4 from './img/cobraCommander/cobraCommander_4.png';
 import cobraCommander5 from './img/cobraCommander/cobraCommander_5.png';
 import cobraCommander6 from './img/cobraCommander/cobraCommander_6.png';
+import cobraCommander7 from './img/cobraCommander/cobraCommander_7.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -90,6 +91,20 @@ const CobraCommander: React.FC = () => {
           </p>
           <p>
             Cobra Commander and Destro travel to the hospital where the comatose <Link to="/character-bios/Billy">Billy</Link> lies. Cobra Commander looks over <Link to="/character-bios/Billy">Billy</Link>'s body and says, "I should have loved him better... How can he ever forgive me?" Destro tells him, "You can't change the past... Let it go. Do something about the future." Destro departs, going his separate way (Issue #55).
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Billy Awakens: Father and Son Part Ways</h2>
+          <img src={cobraCommander7} alt="Billy awakens and confronts Cobra Commander" className="profile-block-img" />
+          <p>
+            Cobra Commander travels by ambulance with the comatose <Link to="/character-bios/Billy">Billy</Link> to a garage in Denver, where a Cobra sleeper agent, <Link to="/character-bios/Fred7">Fred VII</Link>, is stationed. While Billy is in <Link to="/character-bios/Fred7">Fred VII's</Link> secret underground laboratory, he wakes up, suffering from amnesia. Cobra Commander embraces his son (Issue #58). <Link to="/character-bios/Fred7">Fred VII</Link>, a mechanical genius, builds Billy a prosthetic leg.
+          </p>
+          <p>
+            Days pass. Billy discovers a martial arts dojo next to the garage, taught by the <Link to="/character-bios/BlindMaster">Blind Master</Link> and assisted by <Link to="/character-bios/Jinx">Jinx</Link>. Watching the practice, fragments of Billy's memories of training under <Link to="/character-bios/StormShadow">Storm Shadow</Link> awaken. Billy meets the <Link to="/character-bios/BlindMaster">Blind Master</Link> and <Link to="/character-bios/Jinx">Jinx</Link> and begins training under them (Issue #59).
+          </p>
+          <p>
+            In time, Billy regains his lost memories. He realizes who his father is. He remembers Springfield and his role in the anti-Cobra underground. Billy confronts his father and tells him he despises everything he stands for. Billy tells Cobra Commander he is going his own way and assures his father that he will not betray him. Billy walks out (Issue #61).
           </p>
         </section>
 
