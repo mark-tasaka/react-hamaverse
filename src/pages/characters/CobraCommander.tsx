@@ -13,6 +13,7 @@ import cobraCommander7 from './img/cobraCommander/cobraCommander_7.png';
 import cobraCommander8 from './img/cobraCommander/cobraCommander_8.png';
 import cobraCommander9 from './img/cobraCommander/cobraCommander_9.png';
 import cobraCommander10 from './img/cobraCommander/cobraCommander_10.png';
+import cobraCommander11 from './img/cobraCommander/cobraCommander_11.png';
 
 const CobraCommander: React.FC = () => {
   return (
@@ -138,6 +139,23 @@ const CobraCommander: React.FC = () => {
           </p>
           <p>
             Cobra Commander uses his loyal agents on Cobra Island to make "modifications" (plant explosives) for his return. He sets up remote sensors at the site of his grave, waiting for the traitors to return to the scene of the crime (Issue #98).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Settling Scores on Cobra Island</h2>
+          <img src={cobraCommander11} alt="Cobra Commander returns to Cobra Island" className="profile-block-img" />
+          <p>
+            Dr. Mindbender is frustrated with the incompetence of the imposter Cobra Commander, <Link to="/character-bios/Fred7">Fred VII</Link>. <Link to="/character-bios/Raptor">Raptor</Link> approaches Dr. Mindbender and suggests cloning the original Cobra Commander, who could then serve under his control. Dr. Mindbender tells <Link to="/character-bios/Raptor">Raptor</Link> they need at least fragments of the original body. <Link to="/character-bios/Raptor">Raptor</Link> replies that he knows where the Commander is buried (Issue #97).
+          </p>
+          <p>
+            <Link to="/character-bios/Raptor">Raptor</Link>, Dr. Mindbender, and a Viper excavation team arrive at the grave outside of Denver. Their presence triggers the remote sensors. When the Viper team discovers the grave empty, except for an old shirt with a bullet hole, Cobra Commander shows up with his loyal Siegies (Crimson Guard). Cobra Commander tells Dr. Mindbender and <Link to="/character-bios/Raptor">Raptor</Link> what happened following his burial. He also says his loyal Siegies have made modifications to Cobra Island.
+          </p>
+          <p>
+            The whole group takes the transport helicopter back to Cobra Island and lands on the landlocked freighter. There, they find <Link to="/character-bios/Billy">Billy</Link>, <Link to="/character-bios/Zartan">Zartan</Link>, <Link to="/character-bios/Fred7">Fred VII</Link>, <Link to="/character-bios/Tyrone">Tyrone</Link>, <Link to="/character-bios/CrocMaster">Croc Master</Link>, <Link to="/character-bios/Minh">Captain Minh</Link>, <Link to="/character-bios/Firefly">Firefly</Link>, and Voltar arguing inside the freighter.
+          </p>
+          <p>
+            Cobra Commander announces his return and says he has all of his worst enemies in his power. He blames <Link to="/character-bios/Billy">Billy</Link> for walking out on him, driving him to his irrational choice to go straight, and disowns him as his son. He and the Siegies throw Dr. Mindbender, <Link to="/character-bios/Raptor">Raptor</Link>, and the excavation team into the freighter, then board a transport helicopter. Cobra Commander detonates a series of preplanned explosions, diverting a water channel to sink the freighter into an extinct volcano. Further explosions bury it deep within, trapping everyone above it (Issue #98).
           </p>
         </section>
 
