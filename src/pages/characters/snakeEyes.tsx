@@ -25,6 +25,7 @@ import snakeEyes19 from './img/snakeEyes/snakeEyes_19.png';
 import snakeEyes20 from './img/snakeEyes/snakeEyes_20.png';
 import snakeEyes21 from './img/snakeEyes/snakeEyes_21.png';
 import snakeEyes22 from './img/snakeEyes/snakeEyes_22.png';
+import snakeEyes23 from './img/snakeEyes/snakeEyes_23.png';
 
 const SnakeEyes: React.FC = () => {
   return (
@@ -199,10 +200,9 @@ const SnakeEyes: React.FC = () => {
             <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link>. Together, the six raid the gulag, kill the guards, and free all the prisoners, including <Link to="/character-bios/Stalker">Stalker</Link>, Quick Kick, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link>, who have the circus cannon hauled behind his car. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
           </p>
         </section>
-
         <section className="profile-block">
           <h2 className="profile-block-title">Reconstructive Surgery and the Baroness' Revenge</h2>
-          <img src={snakeEyes14} alt="Snake Eyes and theBaroness' revenge plot" className="profile-block-img" />
+          <img src={snakeEyes14} alt="Snake Eyes and the Baroness' revenge plot" className="profile-block-img" />
           <p>
             Snake Eyes and <Link to="/character-bios/Scarlett">Scarlett</Link> travel to the Bern Institute of Reconstructive Surgery in Switzerland, where Snake Eyes is to undergo surgery to restore his face. <Link to="/character-bios/Hundtkinder">Dr. Hundtkinder</Link>, who had reconstructed the <Link to="/character-bios/Baroness">Baroness</Link>' face years earlier, contacts her about the situation. The <Link to="/character-bios/Baroness">Baroness</Link>, who falsely believes Snake Eyes killed her brother in Saigon during the Tet Offensive, makes plans to capture Snake Eyes while he is under the knife (<Link to="/comic-issues/Issue93">Issue #93</Link>).
           </p>
@@ -212,11 +212,16 @@ const SnakeEyes: React.FC = () => {
           <p>
             One of the Vipers shoots <Link to="/character-bios/Scarlett">Scarlett</Link> in the arm. The <Link to="/character-bios/Baroness">Baroness</Link> then stands over the wounded <Link to="/character-bios/Scarlett">Scarlett</Link> and shoots her point-blank in the head before taking the unconscious Snake Eyes to the Cobra Consulate in New York (<Link to="/comic-issues/Issue94">Issue #94</Link>).
           </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Escape from the Cobra Consulate</h2>
+          <img src={snakeEyes23} alt="Snake Eyes escapes the Cobra Consulate" className="profile-block-img" />
           <p>
             Snake Eyes is taken to the Consulate's subbasement, where he is met by the Paine Brothers, a trio of torturers, and chained to the wall. The <Link to="/character-bios/Baroness">Baroness</Link> tells the now conscious Snake Eyes she has killed his beloved <Link to="/character-bios/Scarlett">Scarlett</Link> and will have him tortured to death for the murder of her brother. Just then, a Tele-Viper informs her that Destro will be arriving by helicopter on the Consulate's roof, and she departs to meet him.
           </p>
           <p>
-            Using his ability to slow his heartrate and breathing, Snake Eyes feigns death. One of the Paine Brothers, carrying a hot fire poker, approaches him, believing he has died. Snake Eyes kicks the Paine Brother, seizes the poker, and uses it to break his chains free from the wall. Now free, he battles and kills the Paine Brothers, taking their weapons and uniforms — which become his new outfit.
+            Using his ability to slow his heart rate and breathing, Snake Eyes feigns death. One of the Paine Brothers, carrying a hot fire poker, approaches him, believing he has died. Snake Eyes kicks the Paine Brother, seizes the poker, and uses it to break his chains free from the wall. Now free, he battles and kills the Paine Brothers, taking their weapons and uniforms, which become his new outfit.
           </p>
           <p>
             Snake Eyes then makes his way up to the second sublevel and fills a duffle bag with explosives. He strategically plants them throughout the lower levels, triggering explosions that render the level below him impassable. Most of the Consulate's occupants flee, save for a mixed platoon of Vipers and the <Link to="/character-bios/Baroness">Baroness</Link> herself. Snake Eyes then proceeds upward to confront them (<Link to="/comic-issues/Issue95">Issue #95</Link>).
@@ -228,13 +233,13 @@ const SnakeEyes: React.FC = () => {
             The Vipers are thrown to their deaths as the floor gives way. The <Link to="/character-bios/Baroness">Baroness</Link> is about to fall as well, when Snake Eyes catches her hand. Shocked that he would save her, she draws her pistol with her free hand and points it at him, vowing she will still have her revenge. At that moment, Destro arrives in the crew compartment of a Cobra helicopter.
           </p>
           <p>
-            Destro tells the <Link to="/character-bios/Baroness">Baroness</Link> that Snake Eyes did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugen DeCobray was wearing a bulletproof vest — it was the AK-47 rounds themselves that killed him.
+            Destro tells the <Link to="/character-bios/Baroness">Baroness</Link> that Snake Eyes did not kill her brother. He reveals that he was in Saigon with his father, the previous Destro, investigating the murder, and explains that Eugen DeCobray was wearing a bulletproof vest. It was the AK-47 rounds themselves that killed him.
           </p>
           <p>
             Overcome with guilt, the <Link to="/character-bios/Baroness">Baroness</Link> strikes Snake Eyes' hand, breaking his grip on her. <Link to="/character-bios/StormShadow">Storm Shadow</Link> catches her before she can fall to her death, and together, he and Snake Eyes help her toward Destro's helicopter. As Destro reaches out for Snake Eyes, the floor beneath Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> gives way.
           </p>
           <p>
-            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link> — it turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (<Link to="/comic-issues/Issue96">Issue #96</Link>).
+            Fortunately, a Tomahawk helicopter is nearby. Lift Ticket employs a barrel-roll maneuver, which catches Snake Eyes and <Link to="/character-bios/StormShadow">Storm Shadow</Link> as they fall. Aboard the Tomahawk, Snake Eyes finds Doc tending to a comatose <Link to="/character-bios/Scarlett">Scarlett</Link>. It turns out the bullet did not kill her after all, though she remains in a coma with an uncertain prognosis (<Link to="/comic-issues/Issue96">Issue #96</Link>).
           </p>
         </section>
 
