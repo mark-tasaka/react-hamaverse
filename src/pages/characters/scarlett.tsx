@@ -17,6 +17,7 @@ import scarlett11 from './img/scarlett/scarlett-11.png';
 import scarlett12 from './img/scarlett/scarlett-12.png';
 import scarlett13 from './img/scarlett/scarlett-13.png';
 import scarlett14 from './img/scarlett/scarlett-14.png';
+import scarlett15 from './img/scarlett/scarlett-15.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -103,6 +104,23 @@ const Scarlett: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Wade">Fred II</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> exchange fire, with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> using the guns of the unconscious Siegies, until both run out of ammunition. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> lunges at <Link to="/character-bios/Wade">Fred II</Link>, driving him through a hatch on the side of the ship, then catches his jacket to keep him from falling overboard. In the struggle, <Link to="/character-bios/Wade">Fred II</Link> notices something off about <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' face and tears away the mask, screaming in horror at what lies beneath. He loses his grip and falls backward into the water (Issues #36 and #255).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Comforting Snake Eyes at the PX</h2>
+          <img src={scarlett15} alt="Scarlett comforts Snake Eyes at the PX Snack Bar" className="profile-block-img" />
+          <p>
+            In Springfield, the Soft Master discovers from the computers at the Springfield Police Station who killed the Hard Master (Issue #42). He transmits the message in Morse code to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at Fort Wadsworth. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> delivers the message to <Link to="/character-bios/StormShadow">Storm Shadow</Link> at his secret New York water tower base. <Link to="/character-bios/StormShadow">Storm Shadow</Link> learns the killer is <Link to="/character-bios/Zartan">Zartan</Link>. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/StormShadow">Storm Shadow</Link> join forces, steal one of the <Link to="/character-bios/Baroness">Baroness</Link>' Rattlers, and travel to Cobra Island to exact revenge on <Link to="/character-bios/Zartan">Zartan</Link> (Issue #45).
+          </p>
+          <p>
+            <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> are unsuccessful, and <Link to="/character-bios/Zartan">Zartan</Link> flees from Cobra Island. While escaping, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> witnesses the <Link to="/character-bios/Baroness">Baroness</Link> shooting <Link to="/character-bios/StormShadow">Storm Shadow</Link> on the beach. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> believes <Link to="/character-bios/StormShadow">Storm Shadow</Link> is dead (Issue #47).
+          </p>
+          <p>
+            A few days later, Scarlett is with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at the PX Snack Bar at Fort Wadsworth. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is deep in thought over the loss of his sword brother. Scarlett comforts him. She does not hold a grudge against <Link to="/character-bios/StormShadow">Storm Shadow</Link> for kidnapping her, as she has forgiven him for his actions and knows what he means to <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.
+          </p>
+          <p>
+            Scarlett tells <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> that his sword brother made vengeance the sole purpose of his existence. She tells him he cannot base his own life on that and needs to leave room for love in it. With those words, she takes <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' hand and leads him away from the table, saying they are going to the dispensary together to cheer up <Link to="/character-bios/RipCord">Rip Cord</Link> (Issue #48).
           </p>
         </section>
 
