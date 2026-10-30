@@ -29,7 +29,7 @@ const Scarlett: React.FC = () => {
         </p>
 
         <section className="profile-block">
-          <h2 className="profile-block-title">First Meeting with Snake Eyes</h2>
+          <h2 className="profile-block-title">First Meeting Snake Eyes</h2>
           <img src={scarlett1} alt="Scarlett training the Joes in hand-to-hand combat" className="profile-block-img" />
           <p>
             When the G.I. Joe team was forming, Scarlett ran a hand-to-hand combat session to teach the Joes how to fight. She first spars with <Link to="/character-bios/Steeler">Steeler</Link>, easily throwing him to the ground, but knows she still needs to prove to the guys that this was no fluke. Her next opponent is <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, who allows Scarlett to throw him to spare her pride in front of the others. Scarlett recognizes he is a highly skilled martial artist, who allowed her to win. Scarlett is intrigued with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and wants to know more about him.

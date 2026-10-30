@@ -135,7 +135,7 @@ const CobraCommander: React.FC = () => {
           <h2 className="profile-block-title">Rebuilding the Empire</h2>
           <img src={cobraCommander10} alt="Cobra Commander rebuilds his organization" className="profile-block-img" />
           <p>
-            Cobra Commander contacts his Siegies (Crimson Guard) and starts rebuilding his organization, using seed money hidden in the Cayman Islands and the motivation of the Siegies. Starting out with modest accommodations, he quadruples them within a year. In less than two years, he has offices in ten major cities, taking advantage of human corruption. Cobra Commander becomes rich for a second time.
+            Cobra Commander contacts his Siegies (Crimson Guard) and starts rebuilding his organization, using seed money hidden in the Cayman Islands and the motivation of the Siegies. Starting out with modest accommodations, he quintuples them within a year. In less than two years, he has offices in ten major cities, taking advantage of human corruption. Cobra Commander becomes rich for a second time.
           </p>
           <p>
             Cobra Commander uses his loyal agents on Cobra Island to make "modifications" (plant explosives) for his return. He sets up remote sensors at the site of his grave, waiting for the traitors to return to the scene of the crime (Issue #98).
@@ -155,7 +155,7 @@ const CobraCommander: React.FC = () => {
             The whole group takes the transport helicopter back to Cobra Island and lands on the landlocked freighter. There, they find <Link to="/character-bios/Billy">Billy</Link>, <Link to="/character-bios/Zartan">Zartan</Link>, <Link to="/character-bios/Fred7">Fred VII</Link>, <Link to="/character-bios/Tyrone">Tyrone</Link>, <Link to="/character-bios/CrocMaster">Croc Master</Link>, <Link to="/character-bios/Minh">Captain Minh</Link>, <Link to="/character-bios/Firefly">Firefly</Link>, and Voltar arguing inside the freighter.
           </p>
           <p>
-            Cobra Commander announces his return and says he has all of his worst enemies in his power. He blames <Link to="/character-bios/Billy">Billy</Link> for walking out on him, driving him to his irrational choice to go straight, and disowns him as his son. He and the Siegies throw Dr. Mindbender, <Link to="/character-bios/Raptor">Raptor</Link>, and the excavation team into the freighter, then board a transport helicopter. Cobra Commander detonates a series of preplanned explosions, diverting a water channel to sink the freighter into an extinct volcano. Further explosions bury it deep within, trapping everyone above it (Issue #98).
+            Cobra Commander announces his return and says he has all of his worst enemies in his power. He blames <Link to="/character-bios/Billy">Billy</Link> for walking out on him, driving him to his irrational choice to go straight, and disowns him as his son. He and the Siegies throw Dr. Mindbender, <Link to="/character-bios/Raptor">Raptor</Link>, and the excavation team into the freighter, then board a transport helicopter. Cobra Commander detonates a series of preplanned explosions, diverting a water channel to sink the freighter into an extinct volcano. Further explosions bury it deep within, trapping everyone inside (Issue #98).
           </p>
         </section>
 
