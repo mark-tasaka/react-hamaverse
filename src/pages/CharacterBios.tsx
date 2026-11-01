@@ -73,6 +73,7 @@ import DawnImg from './img/portraits/dawn.jpg';
 import UnnamedImg from './img/portraits/unnamed.jpg';
 import Fred23Img from './img/portraits/fred23.jpg';
 import TimberImg from './img/portraits/timber.jpg';
+import QuickKickImg from './img/portraits/quickKick.jpg';
 
 
 
@@ -1215,7 +1216,23 @@ const CHARACTERS: Character[] = [
       year: '1984',
       month: 'September',
     },
-  }
+  },
+  {
+    name: 'Quick Kick',
+    img: QuickKickImg,
+    link: '/character-bios/QuickKick',
+    rank: 5,
+    faction: 'G.I. Joe',
+    secondaryFaction: '',
+    status: 'Dead',
+    introduced: {
+      issueNumber: 45,
+      publisher: 'IDW',
+      issueLabel: 'Issue 45',
+      year: '1986',
+      month: 'March',
+    },
+  },
 
 ];
 
