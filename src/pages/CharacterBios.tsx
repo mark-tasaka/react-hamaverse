@@ -1221,7 +1221,7 @@ const CHARACTERS: Character[] = [
     name: 'Quick Kick',
     img: QuickKickImg,
     link: '/character-bios/QuickKick',
-    rank: 5,
+    rank: 8,
     faction: 'G.I. Joe',
     secondaryFaction: '',
     status: 'Dead',
