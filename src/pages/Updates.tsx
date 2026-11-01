@@ -6,6 +6,11 @@ function Updates() {
     <section className="container">
       <h1 className="updates-title">Past Updates</h1>
 
+      <p className="update-log-date">October 28, 2026</p>
+      <p className="update-log-entry">
+        New sections added to <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> character bios. 
+      </p>
+
       <p className="update-log-date">October 27, 2026</p>
       <p className="update-log-entry">
         The character bios for <Link to="/character-bios/Timber">Timber</Link> and <Link to="/character-bios/Fred23">Fred XXIII</Link> have been added.  New sections added to <Link to="/character-bios/Raymond">Raymond</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> have been added. 
