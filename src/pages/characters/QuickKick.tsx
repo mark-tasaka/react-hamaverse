@@ -3,6 +3,7 @@ import '../css/Common.css';
 import './css/CharacterProfile.css';
 import quickKick1 from './img/quickKick/quickKick_1.png';
 import quickKick2 from './img/quickKick/quickKick_2.png';
+import quickKick3 from './img/quickKick/quickKick_3.png';
 
 function QuickKick() {
   return (
@@ -57,6 +58,17 @@ function QuickKick() {
           </p>
           <p>
             Quick Kick and the other Joes reach the border and find a barbed-wire fence and guard towers lining the river bordering Borovia. The <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> arrive from the circus, their car hauling the circus cannon. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes into the water, bypassing the fences and guard towers (Issue #66).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Quick Kick’s Last Stand in Trucial Abysmia</h2>
+          <img src={quickKick3} alt="Quick Kick's final mission to Trucial Abysmia" className="profile-block-img" />
+          <p>
+            Quick Kick is killed on an ill-fated mission to Trucial Abysmia, a mission that claims the lives of several of his teammates. Lt. Falcon leads a team of Joes into the country, where they are captured by Cobra and thrown into a pit. A S.A.W. Viper opens fire on the captive Joes, killing Doc, Thunder, Crankcase, and Heavy Metal. Lt. Falcon throws a concealed knife at the S.A.W. Viper, but it strikes his protective armor. Falcon then knocks the S.A.W. Viper to the ground and grabs his machine gun, but is wounded by the Viper guards. Quick Kick picks up the machine gun and fires at the Vipers, killing them, and keeps firing until the machine gun runs out of ammunition. Quick Kick is in an emotional state after witnessing his friends killed.
+          </p>
+          <p>
+            The surviving Joes manage to escape and steal a Cobra R.A.G.E. tank, but it is later struck, killing <Link to="/character-bios/Breaker">Breaker</Link>, Quick Kick, and Crazy Legs. Only Falcon, <Link to="/character-bios/Duke">Duke</Link>, and Cross Country survive the mission (Issue #109).
           </p>
         </section>
 
