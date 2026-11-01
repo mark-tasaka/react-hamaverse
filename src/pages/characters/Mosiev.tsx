@@ -14,17 +14,17 @@ const Mosiev: React.FC = () => {
         <h1 className="character-profile-title">Comrade Sgt. Mosiev</h1>
 
         <p className="profile-intro">
-          Comrade Sgt. Mosiev is one of the NCOs at the Borovian gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are sent. A sadistic man, Sgt. Mosiev takes pleasure in both abusing the gulag's prisoners and taunting the <Link to="/character-bios/WhiteClown">White Clown</Link> over the fate of his beloved <Link to="/character-bios/Magda">Madga</Link>.
+          Comrade Sgt. Mosiev is one of the NCOs at the Borovian gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and <Link to="/character-bios/QuickKick">Quick Kick</Link> are sent. A sadistic man, Sgt. Mosiev takes pleasure in both abusing the gulag's prisoners and taunting the <Link to="/character-bios/WhiteClown">White Clown</Link> over the fate of his beloved <Link to="/character-bios/Magda">Madga</Link>.
         </p>
 
         <section className="profile-block">
           <h2 className="profile-block-title">Borovian Gulag</h2>
           <img src={mosiev1} alt="Sgt. Mosiev at the Borovian gulag" className="profile-block-img" />
           <p>
-            When <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick arrive at the gulag, <Link to="/character-bios/Stalker">Stalker</Link> is assigned to the logging camp, while Snow Job and Quick Kick are put to work in the toy-making workshops. Sgt. Mosiev oversees the logging details and boasts to <Link to="/character-bios/Stalker">Stalker</Link> that he holds the national gold medal for long-distance rifle shooting, daring him to run — promising not to fire until <Link to="/character-bios/Stalker">Stalker</Link> reaches the 300-meter mark.
+            When <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and <Link to="/character-bios/QuickKick">Quick Kick</Link> arrive at the gulag, <Link to="/character-bios/Stalker">Stalker</Link> is assigned to the logging camp, while Snow Job and <Link to="/character-bios/QuickKick">Quick Kick</Link> are put to work in the toy-making workshops. Sgt. Mosiev oversees the logging details and boasts to <Link to="/character-bios/Stalker">Stalker</Link> that he holds the national gold medal for long-distance rifle shooting, daring him to run — promising not to fire until <Link to="/character-bios/Stalker">Stalker</Link> reaches the 300-meter mark.
           </p>
           <p>
-            When the logging detail returns for dinner, <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick sit at a table with Boris. As they talk, Boris alerts the guards that the Americans are plotting, using their secret slang against them. Snow Job is taken away. <Link to="/character-bios/Stalker">Stalker</Link> starts to rise, but Sgt. Mosiev warns him that if he moves another inch, his friend will be shot instead of beaten. <Link to="/character-bios/Stalker">Stalker</Link> sits back down (Issue #63).
+            When the logging detail returns for dinner, <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and <Link to="/character-bios/QuickKick">Quick Kick</Link> sit at a table with Boris. As they talk, Boris alerts the guards that the Americans are plotting, using their secret slang against them. Snow Job is taken away. <Link to="/character-bios/Stalker">Stalker</Link> starts to rise, but Sgt. Mosiev warns him that if he moves another inch, his friend will be shot instead of beaten. <Link to="/character-bios/Stalker">Stalker</Link> sits back down (Issue #63).
           </p>
         </section>
 

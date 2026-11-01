@@ -87,19 +87,19 @@ const Stalker: React.FC = () => {
           <h2 className="profile-block-title">Borovia</h2>
           <img src={stalker5} alt="Stalker's capture and rescue in Borovia" className="profile-block-img" />
           <p>
-            Stalker, Snow Job, Quick Kick, and Outback are sent on a mission to Borovia disguised as trade emissaries to rescue Delvin Winchell, who was arrested on trumped-up charges of espionage. In Borovia, they make contact with Spigou, who drives the getaway vehicle while the four Joes break into the prison holding Winchell. They find the cells empty, and the situation worsens as more guards arrive and sound the alarm.
+            Stalker, Snow Job, <Link to="/character-bios/QuickKick">Quick Kick</Link>, and Outback are sent on a mission to Borovia disguised as trade emissaries to rescue Delvin Winchell, who was arrested on trumped-up charges of espionage. In Borovia, they make contact with Spigou, who drives the getaway vehicle while the four Joes break into the prison holding Winchell. They find the cells empty, and the situation worsens as more guards arrive and sound the alarm.
           </p>
           <p>
-            Snow Job and Quick Kick are wounded. The Joes flee the prison, jump into their getaway vehicle, and drive off, but Spigou is hit. He has the Joes escape into an alley while he drives the vehicle toward the pursuers, hoping to buy them time. Stalker orders Outback to flee, since he needs to stay with the wounded. The vehicle is struck by a tank round, and Spigou dies in the explosion. Stalker, Snow Job, and Quick Kick are captured.
+            Snow Job and <Link to="/character-bios/QuickKick">Quick Kick</Link> are wounded. The Joes flee the prison, jump into their getaway vehicle, and drive off, but Spigou is hit. He has the Joes escape into an alley while he drives the vehicle toward the pursuers, hoping to buy them time. Stalker orders Outback to flee, since he needs to stay with the wounded. The vehicle is struck by a tank round, and Spigou dies in the explosion. Stalker, Snow Job, and <Link to="/character-bios/QuickKick">Quick Kick</Link> are captured.
           </p>
           <p>
             On U.S. TVs, the three Joes' photos are broadcast on the news, identifying them as Western mercenaries. The State Department denies any connection to them, and <Link to="/character-bios/Hawk">Hawk</Link> informs the team that they've been written off — there will be no rescue mission (Issue #61).
           </p>
           <p>
-            A quick trial is held for Stalker, Snow Job, and Quick Kick, and they're sent by train to a gulag. On the train, Stalker tends to the wounded Snow Job and Quick Kick and ensures all the prisoners in his freight car share the meager food and water provided (Issue #62).
+            A quick trial is held for Stalker, Snow Job, and <Link to="/character-bios/QuickKick">Quick Kick</Link>, and they're sent by train to a gulag. On the train, Stalker tends to the wounded Snow Job and <Link to="/character-bios/QuickKick">Quick Kick</Link> and ensures all the prisoners in his freight car share the meager food and water provided (Issue #62).
           </p>
           <p>
-            In the gulag, Snow Job and Quick Kick are assigned to the workshop, building children's toys, forced to work at the same table as Boris, a well-known snitch. Stalker is sent to work the logging camp, where <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link> tells him he holds the national gold medal for long-distance rifle shooting, daring Stalker to run — he won't fire until Stalker reaches the 300-meter mark.
+            In the gulag, Snow Job and <Link to="/character-bios/QuickKick">Quick Kick</Link> are assigned to the workshop, building children's toys, forced to work at the same table as Boris, a well-known snitch. Stalker is sent to work the logging camp, where <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link> tells him he holds the national gold medal for long-distance rifle shooting, daring Stalker to run — he won't fire until Stalker reaches the 300-meter mark.
           </p>
           <p>
             At dinner, the three Joes sit together with Boris at the table. Boris alerts the guards that the Americans are plotting, using their secret slang. Snow Job is taken away. Stalker is about to stand when <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link> tells him that if he moves another inch, his friend will be shot instead of beaten. Stalker sits down (Issue #63).

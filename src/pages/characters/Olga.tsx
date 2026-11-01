@@ -13,7 +13,7 @@ const Olga: React.FC = () => {
         <h1 className="character-profile-title">Comrade Cpl. Olga</h1>
 
         <p className="profile-intro">
-          Comrade Cpl. Olga is one of the NCOs at the Borovian gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and Quick Kick are sent. She is <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link>'s trusted subordinate and just as sadistic as he is, taking great pleasure in abusing the gulag's prisoners.
+          Comrade Cpl. Olga is one of the NCOs at the Borovian gulag where <Link to="/character-bios/Stalker">Stalker</Link>, Snow Job, and <Link to="/character-bios/QuickKick">Quick Kick</Link> are sent. She is <Link to="/character-bios/Mosiev">Sgt. Mosiev</Link>'s trusted subordinate and just as sadistic as he is, taking great pleasure in abusing the gulag's prisoners.
         </p>
 
         <section className="profile-block">
