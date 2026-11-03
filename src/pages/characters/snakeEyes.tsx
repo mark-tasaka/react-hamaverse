@@ -26,6 +26,7 @@ import snakeEyes20 from './img/snakeEyes/snakeEyes_20.png';
 import snakeEyes21 from './img/snakeEyes/snakeEyes_21.png';
 import snakeEyes22 from './img/snakeEyes/snakeEyes_22.png';
 import snakeEyes23 from './img/snakeEyes/snakeEyes_23.png';
+import snakeEyes24 from './img/snakeEyes/snakeEyes_24.png';
 
 const SnakeEyes: React.FC = () => {
   return (
@@ -200,6 +201,18 @@ const SnakeEyes: React.FC = () => {
             <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> later arrive and join up with Snake Eyes, <Link to="/character-bios/Scarlett">Scarlett</Link>, and the <Link to="/character-bios/BlindMaster">Blind Master</Link>. Together, the six raid the gulag, kill the guards, and free all the prisoners, including <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/QuickKick">Quick Kick</Link>, and Snow Job. As the Joes approach the river bordering Borovia, they encounter the <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link>, who have the circus cannon hauled behind his car. The <Link to="/character-bios/WhiteClown">White Clown</Link> fires the Joes from the cannon, launching them safely into the river, where they swim to the other side (Issue #66).
           </p>
         </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Watching Over Storm Shadow in the High Sierras</h2>
+          <img src={snakeEyes24} alt="Snake Eyes and the Joes are ambushed by the Red Ninja" className="profile-block-img" />
+          <p>
+            In the aftermath of <Link to="/character-bios/Zartan">Zartan</Link>'s attack in San Francisco (Issue #85), <Link to="/character-bios/Jinx">Jinx</Link> believes he will launch further attacks on <Link to="/character-bios/StormShadow">Storm Shadow</Link>. Snake Eyes, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> stay in the High Sierras, keeping watch over <Link to="/character-bios/StormShadow">Storm Shadow</Link>. One night, as Snake Eyes sits around a campfire with <Link to="/character-bios/Jinx">Jinx</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>, an arrow is fired into a nearby log. They douse the fire, and a wounded <Link to="/character-bios/Timber">Timber</Link> returns with a torn scrap of a Red Ninja's outfit in his mouth. <Link to="/character-bios/StormShadow">Storm Shadow</Link> believes <Link to="/character-bios/Zartan">Zartan</Link> is ready to meet him and tells Snake Eyes, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Scarlett">Scarlett</Link> to wait behind. <Link to="/character-bios/StormShadow">Storm Shadow</Link> departs for the waterfall, though it is not <Link to="/character-bios/Zartan">Zartan</Link> waiting for him there, but the Red Ninja driver he had struck with the arrow (Issue #90).
+          </p>
+          <p>
+            Snake Eyes, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/Scarlett">Scarlett</Link>, and <Link to="/character-bios/Timber">Timber</Link> are surrounded by Red Ninja while <Link to="/character-bios/StormShadow">Storm Shadow</Link> confronts their leader. The Red Ninja reveal the Arashikage tattoo on their right forearms and say they have come to set things right. A battle ensues. With only three Red Ninja remaining, <Link to="/character-bios/Jinx">Jinx</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> have suffered injuries that prevent them from continuing to fight. Snake Eyes and <Link to="/character-bios/Timber">Timber</Link> kill the remaining three. <Link to="/character-bios/Jinx">Jinx</Link> spots <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s body drifting down the river, and Snake Eyes and <Link to="/character-bios/Timber">Timber</Link> jump in and retrieve the injured <Link to="/character-bios/StormShadow">Storm Shadow</Link> (Issue #91).
+          </p>
+        </section>
+
         <section className="profile-block">
           <h2 className="profile-block-title">Reconstructive Surgery and the Baroness' Revenge</h2>
           <img src={snakeEyes14} alt="Snake Eyes and the Baroness' revenge plot" className="profile-block-img" />
