@@ -18,6 +18,7 @@ import scarlett12 from './img/scarlett/scarlett-12.png';
 import scarlett13 from './img/scarlett/scarlett-13.png';
 import scarlett14 from './img/scarlett/scarlett-14.png';
 import scarlett15 from './img/scarlett/scarlett-15.png';
+import scarlett16 from './img/scarlett/scarlett-16.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -141,6 +142,17 @@ const Scarlett: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/StormShadow">Storm Shadow</Link>, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/Billy">Billy</Link> arrive at the circus, and the six mount a rescue mission together. They kill the guards and free the prisoners, including the three Joes. As they head for the border, the <Link to="/character-bios/WhiteClown">White Clown</Link> and <Link to="/character-bios/Orlovsky">Orlovsky</Link> appear in a car hauling their circus cannon. The Joes are loaded into the cannon and fired into the river bordering Borovia, allowing them to safely bypass the barbed wire fence, and guard towers along the border (Issue #66).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Keeping Watch over Storm Shadow</h2>
+          <img src={scarlett16} alt="Scarlett and the Joes are ambushed by the Red Ninja" className="profile-block-img" />
+          <p>
+            In the aftermath of <Link to="/character-bios/Zartan">Zartan</Link>'s attack in San Francisco (Issue #85), <Link to="/character-bios/Jinx">Jinx</Link> believes he will launch further attacks on <Link to="/character-bios/StormShadow">Storm Shadow</Link>. Scarlett, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> stay in the High Sierras, keeping watch over <Link to="/character-bios/StormShadow">Storm Shadow</Link>. One night, as Scarlett sits around a campfire with the others, an arrow is fired into a nearby log. They douse the fire, and a wounded <Link to="/character-bios/Timber">Timber</Link> returns with a torn scrap of a Red Ninja's outfit in his mouth. <Link to="/character-bios/StormShadow">Storm Shadow</Link> believes <Link to="/character-bios/Zartan">Zartan</Link> is ready to meet him and tells Scarlett, <Link to="/character-bios/Jinx">Jinx</Link>, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> to wait behind. <Link to="/character-bios/StormShadow">Storm Shadow</Link> departs for the waterfall, though it is not <Link to="/character-bios/Zartan">Zartan</Link> waiting for him there, but the Red Ninja driver he had struck with the arrow (Issue #90).
+          </p>
+          <p>
+            Scarlett, <Link to="/character-bios/Jinx">Jinx</Link>, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Timber">Timber</Link> are surrounded by Red Ninja while <Link to="/character-bios/StormShadow">Storm Shadow</Link> confronts their leader. The Red Ninja reveal the Arashikage tattoo on their right forearms and say they have come to set things right. A battle ensues. With only three Red Ninja remaining, Scarlett and <Link to="/character-bios/Jinx">Jinx</Link> have suffered injuries that prevent them from continuing to fight. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Timber">Timber</Link> kill the remaining three. <Link to="/character-bios/Jinx">Jinx</Link> spots <Link to="/character-bios/StormShadow">Storm Shadow</Link>'s body drifting down the river, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Timber">Timber</Link> jump in and retrieve the injured <Link to="/character-bios/StormShadow">Storm Shadow</Link> (Issue #91).
           </p>
         </section>
 
