@@ -19,6 +19,7 @@ import scarlett13 from './img/scarlett/scarlett-13.png';
 import scarlett14 from './img/scarlett/scarlett-14.png';
 import scarlett15 from './img/scarlett/scarlett-15.png';
 import scarlett16 from './img/scarlett/scarlett-16.png';
+import scarlett17 from './img/scarlett/scarlett-17.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -236,6 +237,35 @@ const Scarlett: React.FC = () => {
           </p>
           <p>
             <Link to="/character-bios/Duke">Duke</Link> and Scarlett drive on to the cabin, where they find it burning and the bodies of Red Ninja scattered outside. They arrive in time to see <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> finishing off the last of them. Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> rejoin the reactivated G.I. Joe team (Issue #156).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Assault on the Silent Castle</h2>
+          <img src={scarlett17} alt="Scarlett and Snake Eyes infiltrate the Silent Castle" className="profile-block-img" />
+          <p>
+            With the code phrase "Anabasis is a go," Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' first mission with the reactivated G.I. Joe team is to infiltrate the Silent Castle. The mission is led by <Link to="/character-bios/Duke">Duke</Link>, and the other members of the team are Rock 'n Roll, <Link to="/character-bios/Roadblock">Roadblock</Link>, Mainframe, and <Link to="/character-bios/Stalker">Stalker</Link>.
+          </p>
+          <p>
+            Outfitted with scuba gear, Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> infiltrate the castle through the storm drain system while the others launch a main assault. Shortly after entering the castle, the pair are confronted by <Link to="/character-bios/StormShadow">Storm Shadow</Link>, who has been brainwashed by the Brainwave Scanner to be a servant of Cobra. A battle ensues. <Link to="/character-bios/StormShadow">Storm Shadow</Link> stabs <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> through the thigh with his sword, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> knocks <Link to="/character-bios/StormShadow">Storm Shadow</Link> unconscious with a non-lethal strike to the head.
+          </p>
+          <p>
+            Scarlett patches <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' wound and carries him over her shoulder so that they can complete their mission (Issue #158). Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> reach the inner chamber, where they confront Cobra's inner circle: a battle-armored <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, Destro, Dr. Mindbender, and a brainwashed <Link to="/character-bios/Billy">Billy</Link> and <Link to="/character-bios/Baroness">Baroness</Link>. A battle ensues. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> removes and destroys the helmet of <Link to="/character-bios/CobraCommander">Cobra Commander</Link>'s battle armor, disabling the armor.
+          </p>
+          <p>
+            The two disengage and head toward <Link to="/character-bios/Duke">Duke</Link>'s position. Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> run into a wave of B.A.T.s.  <Link to="/character-bios/StormShadow">Storm Shadow</Link>, now free from the effects of the Brainwave Scanner, arrives to help. The B.A.T.s come between Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. <Link to="/character-bios/StormShadow">Storm Shadow</Link> destroys several B.A.T.s and grabs Scarlett as <Link to="/character-bios/Billy">Billy</Link>, the <Link to="/character-bios/Baroness">Baroness</Link>, and Dr. Mindbender overpower the injured <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. <Link to="/character-bios/StormShadow">Storm Shadow</Link> carries Scarlett out of the castle (Issue #159).
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is subjected to the Brainwave Scanner and becomes a loyal Cobra agent. <Link to="/character-bios/StormShadow">Storm Shadow</Link> steals a vehicle and takes Scarlett to the Borovian International Airport, where he surrenders to <Link to="/character-bios/Duke">Duke</Link>. Scarlett tells <Link to="/character-bios/Duke">Duke</Link> that <Link to="/character-bios/StormShadow">Storm Shadow</Link> claims the Brainwave Scanner programming has worn off and he is no longer under the control of Cobra (Issue #160).
+          </p>
+          <p>
+            The Joes take <Link to="/character-bios/StormShadow">Storm Shadow</Link> to the Pit III, where he is held in custody as a prisoner. The Joes soon discover they cannot contain an Arashikage ninja, as <Link to="/character-bios/StormShadow">Storm Shadow</Link> displays that he has free range of the facility (Issue #161). One night, <Link to="/character-bios/StormShadow">Storm Shadow</Link> escapes the Pit through the water pipe, arriving at the water tower. He is determined to free <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from the effects of the Brainwave Scanner.
+          </p>
+          <p>
+            When <Link to="/character-bios/StormShadow">Storm Shadow</Link> passes the outer fence, he is confronted by Scarlett and Spirit. Scarlett knows <Link to="/character-bios/StormShadow">Storm Shadow</Link> is seeking to find and free <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from the effects of the Brainwave Scanner. She tells <Link to="/character-bios/StormShadow">Storm Shadow</Link>, "You find him and you need help on extraction, you call me, you understand?"
+          </p>
+          <p>
+            Spirit tosses <Link to="/character-bios/StormShadow">Storm Shadow</Link> a backpack and tells him it contains a change of clothes and cash, which the Joes pooled together (Issue #163). <Link to="/character-bios/StormShadow">Storm Shadow</Link> finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and uses the Arashikage mindset to break him free from the effects of the Brainwave Scanner (Issue #164). <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> join forces, capture <Link to="/character-bios/Billy">Billy</Link>, and take him to Dr. Mindbender's lab in Broca Beach, where they free him from the Brainwave Scanner's effects (Issue #165). <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is later reunited with Scarlett.
           </p>
         </section>
 
