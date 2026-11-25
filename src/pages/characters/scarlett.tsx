@@ -20,6 +20,7 @@ import scarlett14 from './img/scarlett/scarlett-14.png';
 import scarlett15 from './img/scarlett/scarlett-15.png';
 import scarlett16 from './img/scarlett/scarlett-16.png';
 import scarlett17 from './img/scarlett/scarlett-17.png';
+import scarlett18 from './img/scarlett/scarlett-18.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -266,6 +267,29 @@ const Scarlett: React.FC = () => {
           </p>
           <p>
             Spirit tosses <Link to="/character-bios/StormShadow">Storm Shadow</Link> a backpack and tells him it contains a change of clothes and cash, which the Joes pooled together (Issue #163). <Link to="/character-bios/StormShadow">Storm Shadow</Link> finds <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and uses the Arashikage mindset to break him free from the effects of the Brainwave Scanner (Issue #164). <Link to="/character-bios/StormShadow">Storm Shadow</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> join forces, capture <Link to="/character-bios/Billy">Billy</Link>, and take him to Dr. Mindbender's lab in Broca Beach, where they free him from the Brainwave Scanner's effects (Issue #165). <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is later reunited with Scarlett.
+          </p>
+        </section>
+
+        <section className="profile-block">
+          <h2 className="profile-block-title">Reactivation of the Motor Pool: Sean Collins Joins the Joes</h2>
+          <img src={scarlett18} alt="Scarlett and Snake Eyes reunite with Sean Collins" className="profile-block-img" />
+          <p>
+            The Motor Pool of the Chaplain's Assistant School at Fort Wadsworth, the original location of the Pit, is reactivated. Scarlett, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and a core group of Joes, which includes <Link to="/character-bios/Stalker">Stalker</Link>, <Link to="/character-bios/Clutch">Clutch</Link>, <Link to="/character-bios/RockRoll">Rock 'n Roll</Link>, <Link to="/character-bios/Steeler">Steeler</Link>, and <Link to="/character-bios/CoverGirl">Cover Girl</Link>, are reassigned there.
+          </p>
+          <p>
+            Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> are assigned to pick up groceries for an upcoming weekend barbeque at the Motor Pool. On their way back from the market, they drive by the old Collins family home. They see a young soldier in dress blues standing outside, looking at the house. The soldier is <Link to="/character-bios/SeanCollins">Sean Collins</Link>.
+          </p>
+          <p>
+            Scarlett stops the vehicle and they reconnect with <Link to="/character-bios/SeanCollins">Sean Collins</Link>. <Link to="/character-bios/SeanCollins">Sean</Link> tells <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> he kept every letter <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> wrote him. <Link to="/character-bios/SeanCollins">Sean</Link> says he stopped writing because he became busy with Ranger, Airborne, and Special Forces schools and overseas deployments. <Link to="/character-bios/SeanCollins">Sean</Link> looks at the house, reflects on the past, and says this is where they found redemption in life.
+          </p>
+          <p>
+            Scarlett convinces <Link to="/character-bios/SeanCollins">Sean</Link> to revisit the home by pretending that the three of them are inspectors checking on possible hazardous residues from an underground storage bunker for chemical and biological weapons at the fort. The three meet the family living at the house, and <Link to="/character-bios/SeanCollins">Sean</Link> sneaks away and explores the hidden Cobra area in the basement. <Link to="/character-bios/SeanCollins">Sean</Link> discovers the room is actively used and that the family members are Cobra agents.
+          </p>
+          <p>
+            After their visit to the house, <Link to="/character-bios/SeanCollins">Sean</Link> accompanies Scarlett and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> back to the Motor Pool, where they meet with <Link to="/character-bios/Stalker">Stalker</Link> and <Link to="/character-bios/Clutch">Clutch</Link>. They discuss <Link to="/character-bios/SeanCollins">Sean</Link>'s military service, and Scarlett asks <Link to="/character-bios/SeanCollins">Sean</Link> to request a transfer to the Chaplain's Assistant Motor Pool. She tells him that they will make sure <Link to="/character-bios/Duke">Duke</Link> and <Link to="/character-bios/Hawk">Hawk</Link> give <Link to="/character-bios/SeanCollins">Sean</Link> priority (Issue #206).
+          </p>
+          <p>
+            <Link to="/character-bios/SeanCollins">Sean</Link> is accepted into G.I. Joe. His orders show that he is to be assigned as part of an instructor cadre at a training facility in Texas. Unbeknownst to <Link to="/character-bios/SeanCollins">Sean</Link>, his true orders are to report to the Pit III in Utah. <Link to="/character-bios/Clutch">Clutch</Link> drives <Link to="/character-bios/SeanCollins">Sean</Link> to the C-130, and the aircraft lands at Fort Greer in Utah. There, <Link to="/character-bios/SeanCollins">Sean</Link> is greeted by <Link to="/character-bios/Duke">Duke</Link>, <Link to="/character-bios/LadyJay">Lady Jaye</Link>, and <Link to="/character-bios/Roadblock">Roadblock</Link>. He is told he has been accepted as a Joe, and <Link to="/character-bios/Roadblock">Roadblock</Link> gives him the code name Throwdown (Issue #209).
           </p>
         </section>
 
