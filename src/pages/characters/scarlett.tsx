@@ -21,6 +21,7 @@ import scarlett15 from './img/scarlett/scarlett-15.png';
 import scarlett16 from './img/scarlett/scarlett-16.png';
 import scarlett17 from './img/scarlett/scarlett-17.png';
 import scarlett18 from './img/scarlett/scarlett-18.png';
+import scarlett19 from './img/scarlett/scarlett-19.png';
 
 const Scarlett: React.FC = () => {
   return (
@@ -302,6 +303,17 @@ const Scarlett: React.FC = () => {
         <p>
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' death deeply affects Scarlett. Spending her days with Sean stirs up memories of <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>.  Riding the Staten Island Ferry with Sean brings back memories of the trips she once took with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. One day, as Sean stands by the rail, Scarlett looks up with tears in her eyes, overcome by memories of her lost love. She asks him to stay there a moment longer, so she can remember him (Issue #217).
         </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Keeping Up the Appearance of Snake Eyes</h2>
+          <img src={scarlett19} alt="Scarlett and Sean Collins keep up the appearance that Snake Eyes is alive" className="profile-block-img" />
+          <p>
+            To keep up the appearance that <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is still alive, Scarlett and <Link to="/character-bios/SeanCollins">Sean Collins</Link> spend a lot of time together, mirroring the activities Scarlett did with <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> when he was alive. Scarlett has the same mask maker she used to create <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' latex masks make similar masks for <Link to="/character-bios/SeanCollins">Sean</Link>, allowing him to appear in public while covering his scars (Issue #255).
+          </p>
+          <p>
+            Scarlett and <Link to="/character-bios/SeanCollins">Sean</Link> become close. Scarlett sees <Link to="/character-bios/SeanCollins">Sean</Link> as a friend, and at times the sight of <Link to="/character-bios/SeanCollins">Sean</Link> stirs up painful memories of her lost lover. In a letter to his <Link to="/character-bios/Wade">father</Link>, <Link to="/character-bios/SeanCollins">Sean</Link> writes that Scarlett feels like an alternative mother to him. He writes that it must be painful for Scarlett to see him wearing the suit and swords of her dead lover, but she never says a word (Issue #292).
+          </p>
         </section>
 
         <section className="profile-block">
