@@ -367,7 +367,7 @@ const StormShadow: React.FC = () => {
         </section>
 
                 <section className="profile-block">
-          <h2 className="profile-block-title">Header</h2>
+          <h2 className="profile-block-title">A Hidden Branch of the Arashikage</h2>
           <img src={stormShadow21} alt="The Russian Arashikage Dojo in Brighton Beach" className="profile-block-img" />
           <p>
             Storm Shadow, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Billy">Billy</Link> discover a dojo in the Brighton Beach neighborhood of Brooklyn, featuring the Arashikage hexagram on the window and the words "Arashikage Dojo" in Russian. The three enter the dojo. They learn the dojo is a Russian offshoot of the Arashikage Clan, developed in the Vladivostok gulag in the later part of the war (Issue #169).
