@@ -22,6 +22,7 @@ import stormShadow16 from './img/stormShadow/stormShadow_16.png';
 import stormShadow17 from './img/stormShadow/stormShadow_17.png';
 import stormShadow18 from './img/stormShadow/stormShadow_18.png';
 import stormShadow19 from './img/stormShadow/stormShadow_19.png';
+import stormShadow20 from './img/stormShadow/stormShadow_20.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -347,6 +348,20 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             When the two land safely on the ground, they are now allies. Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> walk away together. Their next mission is to break <Link to="/character-bios/Billy">Billy</Link> free from the Brainwave Scanner (Issue #164).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Freeing Billy from Dr. Venom</h2>
+          <img src={stormShadow20} alt="Storm Shadow and Snake Eyes free Billy from Dr. Venom" className="profile-block-img" />
+          <p>
+            Prior to his death, <Link to="/character-bios/Venom">Dr. Venom</Link> inserted his consciousness into the Brainwave Scanner. During the time between the disbanding and reactivation of G.I. Joe, <Link to="/character-bios/Venom">Dr. Venom</Link>'s consciousness took over the brainwashed <Link to="/character-bios/Billy">Billy</Link>.
+          </p>
+          <p>
+            Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> travel up the Manhattan high rise where Storm Shadow's water tower base is located. They find <Link to="/character-bios/Billy">Billy</Link> hanging onto the Cobra helicopter that crashed into the high rise. Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> confront <Link to="/character-bios/Billy">Billy</Link>, and a battle ensues. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> knocks <Link to="/character-bios/Billy">Billy</Link> unconscious.
+          </p>
+          <p>
+            That night, Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> take <Link to="/character-bios/Billy">Billy</Link> to Broca Beach. They infiltrate the Wax Museum and enter Dr. Mindbender's lab below. There, they hook <Link to="/character-bios/Billy">Billy</Link> up to the Brainwave Scanner. Inside the scanner, Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> take <Link to="/character-bios/Venom">Dr. Venom</Link>'s avatar to the attic, where the spirit of <Link to="/character-bios/Kwinn">Kwinn</Link> takes him away. <Link to="/character-bios/Billy">Billy</Link> is freed from <Link to="/character-bios/Venom">Dr. Venom</Link>'s control and the effects of the Brainwave Scanner (Issue #165).
           </p>
         </section>
         
