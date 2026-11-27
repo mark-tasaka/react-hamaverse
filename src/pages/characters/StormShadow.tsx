@@ -20,6 +20,8 @@ import stormShadow14 from './img/stormShadow/stormShadow_14.png';
 import stormShadow15 from './img/stormShadow/stormShadow_15.png';
 import stormShadow16 from './img/stormShadow/stormShadow_16.png';
 import stormShadow17 from './img/stormShadow/stormShadow_17.png';
+import stormShadow18 from './img/stormShadow/stormShadow_18.png';
+import stormShadow19 from './img/stormShadow/stormShadow_19.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -310,6 +312,44 @@ const StormShadow: React.FC = () => {
             <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> uses the mystic Arashikage trance on Storm Shadow. It is the same technique Storm Shadow used to turn him into a killing machine in Borovia, and to stabilize his condition in Vietnam. Storm Shadow's wounds stabilize. <Link to="/character-bios/Scarlett">Scarlett</Link> calls an ambulance, and Storm Shadow is taken to the hospital, where he recovers (Issue #108).
           </p>
         </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Captured at the Silent Castle</h2>
+          <img src={stormShadow18} alt="Storm Shadow is brainwashed and freed" className="profile-block-img" />
+          <p>
+            Storm Shadow travels to the Silent Castle in Trans-Carpathia to rescue <Link to="/character-bios/Billy">Billy</Link> and the <Link to="/character-bios/Baroness">Baroness</Link>, who have been subjected to the Brainwave Scanner. Storm Shadow infiltrates the castle through the underwater drainage system. There he confronts an armored <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, who uses Dr. Mindbender's Cyber Space Matrix to confuse the heightened senses of an Arashikage ninja through holograms, cyber-illusions, and special effects.
+          </p>
+          <p>
+            Through the combination of the matrix and the advanced battle armor, <Link to="/character-bios/CobraCommander">Cobra Commander</Link> defeats Storm Shadow. The captured Storm Shadow is strapped into the Brainwave Scanner, along with <Link to="/character-bios/Billy">Billy</Link> and the <Link to="/character-bios/Baroness">Baroness</Link>. Storm Shadow is brainwashed and becomes an unwilling servant of Cobra (Issue #150).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Storm Shadow Breaks Free</h2>
+          <img src={stormShadow19} alt="Storm Shadow is brainwashed and freed" className="profile-block-img" />
+          <p>
+            An undisclosed amount of time passes, as G.I. Joe is disbanded and reactivated. Storm Shadow remains a loyal servant of Cobra. The reactivated G.I. Joes launch an attack on the Silent Castle. The main force, led by <Link to="/character-bios/Duke">Duke</Link>, launches the assault, while <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> infiltrate the castle through the underwater drainage system. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link> enter the castle and are confronted by Storm Shadow. A battle ensues. Storm Shadow stabs <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> through the thigh with his sword, and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> knocks Storm Shadow unconscious with a non-lethal strike to the head.
+          </p>
+          <p>
+            <Link to="/character-bios/Scarlett">Scarlett</Link> patches <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' wound and carries him over her shoulder so that they can complete their mission (Issue #158). <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>' strike breaks Storm Shadow free from the brainwashing. Once he regains consciousness, Storm Shadow seeks to find <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Scarlett">Scarlett</Link>. He finds them being pursued by <Link to="/character-bios/CobraCommander">Cobra Commander</Link>, Destro, Dr. Mindbender, the <Link to="/character-bios/Baroness">Baroness</Link>, and <Link to="/character-bios/Billy">Billy</Link>. A wave of B.A.T.s arrives, coming between <Link to="/character-bios/Scarlett">Scarlett</Link> and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. Storm Shadow destroys several B.A.T.s and grabs <Link to="/character-bios/Scarlett">Scarlett</Link> as <Link to="/character-bios/Billy">Billy</Link>, the <Link to="/character-bios/Baroness">Baroness</Link>, and Dr. Mindbender overpower the injured <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>. Storm Shadow carries <Link to="/character-bios/Scarlett">Scarlett</Link> as he jumps out of the castle's window with her (Issue #159).
+          </p>
+          <p>
+            <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> is subjected to the Brainwave Scanner and becomes a loyal Cobra agent. Out of the Silent Castle, Storm Shadow steals a car (and later a scooter from a disguised <Link to="/character-bios/Zartan">Zartan</Link>) and takes <Link to="/character-bios/Scarlett">Scarlett</Link> to the Borovian International Airport, where he surrenders to <Link to="/character-bios/Duke">Duke</Link>. <Link to="/character-bios/Scarlett">Scarlett</Link> tells <Link to="/character-bios/Duke">Duke</Link> that Storm Shadow claims the Brainwave Scanner programming has worn off and he is no longer under the control of Cobra (Issue #160).
+          </p>
+          <p>
+            The Joes take Storm Shadow to the Pit III, where he is held in custody as a prisoner. The Joes soon discover they cannot contain an Arashikage ninja, as Storm Shadow displays that he has free range of the facility (Issue #161). One night, Storm Shadow escapes the Pit through the water pipe, arriving at the water tower. He is determined to free <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from the effects of the Brainwave Scanner.
+          </p>
+          <p>
+            When Storm Shadow passes the outer fence, he is confronted by <Link to="/character-bios/Scarlett">Scarlett</Link> and Spirit. <Link to="/character-bios/Scarlett">Scarlett</Link> knows Storm Shadow is seeking to find and free <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> from the effects of the Brainwave Scanner. She tells him, "You find him and you need help on extraction, you call me, you understand?" Spirit tosses Storm Shadow a backpack and tells him it contains a change of clothes and cash, which the Joes pooled together (Issue #163).
+          </p>
+          <p>
+            Storm Shadow waits for <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> at his secret Manhattan water tower lair. A Cobra helicopter carrying the brainwashed <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Billy">Billy</Link> arrives. Storm Shadow throws his sword into the rotor blades, causing the helicopter to crash. <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> and <Link to="/character-bios/Billy">Billy</Link> jump free. Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> battle. As the two fall from the rooftop as a result of the helicopter crashing into it, Storm Shadow uses the Arashikage mindset on <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, breaking him free from the effects of the Brainwave Scanner.
+          </p>
+          <p>
+            When the two land safely on the ground, they are now allies. Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> walk away together. Their next mission is to break <Link to="/character-bios/Billy">Billy</Link> free from the Brainwave Scanner (Issue #164).
+          </p>
+        </section>
+        
 
         <section className="profile-notes">
           <h2 className="profile-notes-title">Notes from the Field</h2>
