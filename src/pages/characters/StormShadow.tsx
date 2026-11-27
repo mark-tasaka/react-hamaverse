@@ -23,6 +23,7 @@ import stormShadow17 from './img/stormShadow/stormShadow_17.png';
 import stormShadow18 from './img/stormShadow/stormShadow_18.png';
 import stormShadow19 from './img/stormShadow/stormShadow_19.png';
 import stormShadow20 from './img/stormShadow/stormShadow_20.png';
+import stormShadow21 from './img/stormShadow/stormShadow_21.png';
 
 const StormShadow: React.FC = () => {
   return (
@@ -362,6 +363,26 @@ const StormShadow: React.FC = () => {
           </p>
           <p>
             That night, Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> take <Link to="/character-bios/Billy">Billy</Link> to Broca Beach. They infiltrate the Wax Museum and enter Dr. Mindbender's lab below. There, they hook <Link to="/character-bios/Billy">Billy</Link> up to the Brainwave Scanner. Inside the scanner, Storm Shadow and <Link to="/character-bios/SnakeEyes">Snake Eyes</Link> take <Link to="/character-bios/Venom">Dr. Venom</Link>'s avatar to the attic, where the spirit of <Link to="/character-bios/Kwinn">Kwinn</Link> takes him away. <Link to="/character-bios/Billy">Billy</Link> is freed from <Link to="/character-bios/Venom">Dr. Venom</Link>'s control and the effects of the Brainwave Scanner (Issue #165).
+          </p>
+        </section>
+
+                <section className="profile-block">
+          <h2 className="profile-block-title">Header</h2>
+          <img src={stormShadow21} alt="The Russian Arashikage Dojo in Brighton Beach" className="profile-block-img" />
+          <p>
+            Storm Shadow, <Link to="/character-bios/SnakeEyes">Snake Eyes</Link>, and <Link to="/character-bios/Billy">Billy</Link> discover a dojo in the Brighton Beach neighborhood of Brooklyn, featuring the Arashikage hexagram on the window and the words "Arashikage Dojo" in Russian. The three enter the dojo. They learn the dojo is a Russian offshoot of the Arashikage Clan, developed in the Vladivostok gulag in the later part of the war (Issue #169).
+          </p>
+          <p>
+            Storm Shadow learns from the Master of the Russian Dojo that the <Link to="/character-bios/HardMaster">Hard Master</Link>'s oldest brother, the Middle Master, was on a secret mission during the war, masquerading as a Siberian Hunter. He was wounded and captured, and imprisoned in the Vladivostok gulag. Storm Shadow tells the Master he was told his uncle died in the war. The exact word used was "Nakunatta," which means "becoming nothing."
+          </p>
+          <p>
+            The Master describes how, in the gulag, a fellow prisoner, a massive tattooed man, confronts the Middle Master when he sees him eating bread in the barracks. The man asks, "Why do you have bread, and the rest of us don't?" The Middle Master responds that he has self-control and saved it. The man tries to take the bread and is defeated. The fellow prisoners are impressed.
+          </p>
+          <p>
+            The Middle Master starts training the prisoners in Arashikage ninjitsu. The tattooed giant becomes his first acolyte, and the Russian Arashikage Clan was born. For the next twenty years, until his death, the Middle Master trains the prisoners in Arashikage ninjitsu. The Middle Master is buried in the gulag.
+          </p>
+          <p>
+            When the gulag closes, the tattooed giant returns to Moscow, where he establishes the Russian Arashikage Clan. The Master explains that the tattooed giant was his father, and that he brought the Russian Arashikage Clan to Brooklyn twenty years ago (Issue #170).
           </p>
         </section>
         
